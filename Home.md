@@ -43,6 +43,7 @@ Your ETF and stock research vault. Open **Graph view** (left sidebar, or Ctrl/Cm
 - **ETFs/** — one note per fund: what it tracks, fees, returns, top 10 holdings, sector mix, news log.
 - **Stocks/** — one note per company: what it does, which of your ETFs hold it, recent news, upcoming dates.
 - **Sectors/** — hubs linking stocks by sector.
-- To add a fund, ask Claude: *"add SOXX to my vault"*.
+- To add a fund, type its ticker in [[Requests]] (or ask Claude in chat). The next daily update adds it.
+- Updates arrive every weekday after the market closes.
 
 *For information only — not investment advice.*
