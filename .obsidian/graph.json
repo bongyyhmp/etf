@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:ETFs",
+      "color": {
+        "a": 1,
+        "rgb": 15246141
+      }
+    },
+    {
+      "query": "path:Stocks",
+      "color": {
+        "a": 1,
+        "rgb": 5217758
+      }
+    },
+    {
+      "query": "path:Sectors",
+      "color": {
+        "a": 1,
+        "rgb": 10186710
+      }
+    },
+    {
+      "query": "path:\"Market Scans\"",
+      "color": {
+        "a": 1,
+        "rgb": 5027714
+      }
+    }
+  ],
+  "search": "-path:Templates",
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 180,
+  "scale": 1,
+  "close": false
+}
