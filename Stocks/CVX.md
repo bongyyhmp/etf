@@ -4,7 +4,7 @@ ticker: CVX
 company: Chevron
 sector: Energy
 held_by: [SCHD, VTV]
-updated: 2026-10-23
+updated: 2026-10-26
 tags: [stock]
 ---
 
@@ -23,13 +23,14 @@ Integrated oil and gas company with production, refining and chemicals.
 
 ## Recent news
 
-- *No news collected yet. The first daily update fills this in.*
+- **2026-10-24** — Chevron was among the oil majors at record highs as Brent reached about $117, and Benzinga data put Q3 revenue expectations near $61.65B, up about 24%. ([source](https://www.benzinga.com/markets/equities/26/10/62577840/chevron-exxon-shell-and-conocophillips-hit-record-highs-as-crude-rally-powers-on-into-earnings))
+- **2026-10-23** — Shares hit a 52-week high of $233.74 and closed up nearly 3% as crude rallied to a six-month high. ([source](https://stocktwits.com/news-articles/markets/equity/why-did-xom-cop-cvx-jump-to-52-week-highs-last-week/cZUdVAARBUz))
 
 ## Coming up
 
-- *Next earnings date added on the first daily update.*
+- **2026-10-30** — Q3 earnings call at 11 a.m. ET (confirmed)
 
 ## Bull case / bear case
 
-- **Bull:** *(filled in by updates from what analysts and news say)*
-- **Bear:** 
+- **Bull:** Commentators cite record US output near 2.1M boe/d, $3B of cost savings delivered early, a new Angola discovery, a Microsoft power deal, and a roughly 3.5% dividend yield.
+- **Bear:** Commentators flag that the rally depends on oil prices tied to Strait of Hormuz tensions, the stock's sharp drawdowns, and limited modeled upside if crude normalizes.

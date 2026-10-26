@@ -4,7 +4,7 @@ ticker: JPM
 company: JPMorgan Chase
 sector: Financials
 held_by: [VTV]
-updated: 2026-10-23
+updated: 2026-10-26
 tags: [stock]
 ---
 
@@ -26,9 +26,10 @@ The largest US bank: consumer banking, credit cards, investment banking and asse
 
 ## Coming up
 
-- *Next earnings date added on the first daily update.*
+- **2026-11-05** — Presentation at the BancAnalysts Association of Boston conference (scheduled)
+- **2027-01-14** — Q4 2026 earnings (scheduled)
 
 ## Bull case / bear case
 
-- **Bull:** *(filled in by updates from what analysts and news say)*
-- **Bear:** 
+- **Bull:** Analysts cite a raised 2026 net interest income outlook of about $106B, 10% loan growth, improving card charge-offs, a higher dividend, and Barclays' Overweight rating with a $425 target.
+- **Bear:** Commentators flag the Q3 EPS miss, expenses growing faster than revenue, an 84% cut in buybacks, a lower CET1 ratio, and an uncertain 2027 outlook.

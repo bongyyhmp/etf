@@ -4,7 +4,7 @@ ticker: AVGO
 company: Broadcom
 sector: Technology
 held_by: [SOXX, SMH, XLK, VUG, VGT, VOO, IVV, SPY, VTI]
-updated: 2026-10-23
+updated: 2026-10-26
 tags: [stock]
 ---
 
@@ -30,13 +30,15 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 
 ## Recent news
 
-- *No news collected yet. The first daily update fills this in.*
+- **2026-10-26** — Broadcom was reported, with Nvidia and AMD, to be weighing purchases of up to $5B of Meta's new shares. ([source](https://www.tipranks.com/news/meta-launches-95-billion-stock-offering-plan-to-fund-ai-expansion-nvidia-amd-and-broadcom-weigh-5-billion-purchase))
+- **2026-10-23** — Broadcom slipped about 0.5% to $321.68 Friday on light volume, after falling over 4% in Thursday's chip selloff. ([source](https://www.heygotrade.com/en/news/broadcom-avgo-stock-news-october-26-2026/))
 
 ## Coming up
 
-- *Next earnings date added on the first daily update.*
+- **2026-10-27/28** — FOMC rate decision
+- **December 2026** — Fiscal Q4 earnings (expected; no date announced)
 
 ## Bull case / bear case
 
-- **Bull:** *(filled in by updates from what analysts and news say)*
-- **Bear:** 
+- **Bull:** Analysts and reports cite surging AI semiconductor revenue (management targets ~$115B in FY2027 and ~$230B in FY2028) and record free cash flow.
+- **Bear:** Reports cite heavy customer concentration and credit exposure from reported financing for Anthropic and OpenAI, plus gross-margin dilution from AI chips.

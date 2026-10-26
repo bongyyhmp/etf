@@ -36,6 +36,7 @@ Your ETF and stock research vault. Open **Graph view** (left sidebar, or Ctrl/Cm
 
 ## Market scans
 
+- [[2026-10-26 Market Scan]]
 - [[2026-10-23 Market Scan]]
 
 ## How this vault works

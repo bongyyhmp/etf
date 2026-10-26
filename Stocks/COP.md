@@ -4,7 +4,7 @@ ticker: COP
 company: ConocoPhillips
 sector: Energy
 held_by: [SCHD]
-updated: 2026-10-23
+updated: 2026-10-26
 tags: [stock]
 ---
 
@@ -22,13 +22,13 @@ The largest US oil and gas producer focused purely on exploration and production
 
 ## Recent news
 
-- *No news collected yet. The first daily update fills this in.*
+- **2026-10-23** — Shares hit a 52-week high of $152.77 and closed 3.5% higher on the oil rally, leaving the stock up nearly 56% for the year. ([source](https://stocktwits.com/news-articles/markets/equity/why-did-xom-cop-cvx-jump-to-52-week-highs-last-week/cZUdVAARBUz))
 
 ## Coming up
 
-- *Next earnings date added on the first daily update.*
+- **2026-11-05** — Q3 results before the open, call at 12 p.m. ET (confirmed)
 
 ## Bull case / bear case
 
-- **Bull:** *(filled in by updates from what analysts and news say)*
-- **Bear:** 
+- **Bull:** Analysts cite the scale gained from the Marathon Oil deal and its synergies, future free cash flow from Willow in Alaska, LNG contracts, and a target of returning 45% of operating cash flow.
+- **Bear:** Analysts flag high sensitivity to commodity prices (2027 EPS modeled about 7% below 2026), execution risk on Willow and LNG, and a P/E well above its 10-year median.

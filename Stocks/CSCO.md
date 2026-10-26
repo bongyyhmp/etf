@@ -4,7 +4,7 @@ ticker: CSCO
 company: Cisco Systems
 sector: Technology
 held_by: [XLK, VGT, VTV]
-updated: 2026-10-23
+updated: 2026-10-26
 tags: [stock]
 ---
 
@@ -24,13 +24,14 @@ Sells networking equipment, security and collaboration software to businesses.
 
 ## Recent news
 
-- *No news collected yet. The first daily update fills this in.*
+- **2026-10-26** — Cisco rose about 3.7% Monday, with TradingKey attributing the move to AI data-center networking demand, NVIDIA optics work and analyst support. ([source](https://www.tradingkey.com/news/market-movers/262239938-market-movers-csco-20261026))
+- **2026-10-26** — At its Partner Summit, Cisco rolled out Cisco 360 partner program changes, including bigger growth incentives and general availability of Cisco IQ for partners. ([source](https://investor.cisco.com/news/news-details/2026/Cisco-Expands-Partner-Opportunity-with-New-Cisco-360-Program-Updates-High-Yield-Customer-Experience-Offerings-and-AI-Ready-Innovations/default.aspx))
 
 ## Coming up
 
-- *Next earnings date added on the first daily update.*
+- **2026-11-11** — Q1 FY2027 earnings after the close (expected; sources differ between Nov 11 and Nov 12, not yet confirmed by Cisco)
 
 ## Bull case / bear case
 
-- **Bull:** *(filled in by updates from what analysts and news say)*
-- **Bear:** 
+- **Bull:** Analysts cite hyperscaler AI networking orders, growing Splunk-driven recurring software revenue and an average target near $136 (Morgan Stanley Buy, $135).
+- **Bear:** Coverage flags gross-margin pressure from mix and memory costs, a trailing P/E above 30, and questions about slower services growth.

@@ -4,7 +4,7 @@ ticker: META
 company: Meta Platforms
 sector: Communication Services
 held_by: [VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-10-23
+updated: 2026-10-26
 tags: [stock]
 ---
 
@@ -27,13 +27,17 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 
 ## Recent news
 
+- **2026-10-26** — Meta launched a plan to raise up to $95B in equity for AI infrastructure: about $35B now via forward-sale common stock and mandatory convertible preferred, plus a $60B at-the-market program planned for Q1 2027. ([source](https://finance.yahoo.com/markets/stocks/articles/meta-stocks-fall-1-8-171432474.html))
+- **2026-10-26** — Nvidia, AMD and Broadcom were reported to be weighing purchases of up to $5B of Meta's Class A shares in the offering. ([source](https://www.tipranks.com/news/meta-launches-95-billion-stock-offering-plan-to-fund-ai-expansion-nvidia-amd-and-broadcom-weigh-5-billion-purchase))
+- **2026-10-26** — Meta shares fell about 1.9% to roughly $630.56 Monday, extending losses that followed its Oct 21 Q3 report. ([source](https://www.fool.com/coverage/stock-market-today/2026/10/26/stock-market-midday-oct-26-tech-sector-rallies-on-anthropic-ipo-filing-and-cooling-oil-prices/))
 - **2026-10-21** — Q3 revenue $64.6B (+26%), ahead of estimates. Reported EPS of $3.83 was cut by a $9.89B teen-safety settlement; about $7.40 excluding it. Q4 revenue guidance $73–76B. Shares rose about 5% after hours. ([source](https://coinpedia.org/news/meta-stock-spikes-4-after-q3-revenue-surges-26/))
 
 ## Coming up
 
-- *Next earnings date added on the first daily update.*
+- **Q1 2027** — Planned launch of $60B at-the-market stock program once new Class C shares begin trading (company plan)
+- Next earnings date: not found in sources (Q3 was reported Oct 21)
 
 ## Bull case / bear case
 
-- **Bull:** *(filled in by updates from what analysts and news say)*
-- **Bear:** 
+- **Bull:** Analysts (KeyBanc, Cantor, Guggenheim) cite core ad strength, Q4 revenue guidance above consensus, and early Muse AI traction.
+- **Bear:** Analysts (Needham, Scotiabank) cite dilution from large equity raises, negative free cash flow from heavy capex, and unproven Muse profitability.
