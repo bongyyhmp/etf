@@ -4,7 +4,7 @@ ticker: ADI
 company: Analog Devices
 sector: Technology
 held_by: [SMH, SOXX]
-updated: 2026-10-26
+updated: 2026-10-27
 tags: [stock]
 ---
 

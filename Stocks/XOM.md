@@ -4,7 +4,7 @@ ticker: XOM
 company: Exxon Mobil
 sector: Energy
 held_by: [VTV]
-updated: 2026-10-26
+updated: 2026-10-27
 tags: [stock]
 ---
 

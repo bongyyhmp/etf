@@ -4,7 +4,7 @@ ticker: MU
 company: Micron Technology
 sector: Technology
 held_by: [SOXX, SMH, QQQ, XLK, VGT, VTV]
-updated: 2026-10-26
+updated: 2026-10-27
 tags: [stock]
 ---
 

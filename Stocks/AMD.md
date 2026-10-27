@@ -4,7 +4,7 @@ ticker: AMD
 company: Advanced Micro Devices
 sector: Technology
 held_by: [SOXX, SMH, XLK, QQQ, VGT, VUG]
-updated: 2026-10-26
+updated: 2026-10-27
 tags: [stock]
 ---
 

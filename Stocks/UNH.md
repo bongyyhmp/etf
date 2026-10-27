@@ -4,7 +4,7 @@ ticker: UNH
 company: UnitedHealth Group
 sector: Healthcare
 held_by: [SCHD, VTV]
-updated: 2026-10-26
+updated: 2026-10-27
 tags: [stock]
 ---
 

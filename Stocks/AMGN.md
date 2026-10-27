@@ -4,7 +4,7 @@ ticker: AMGN
 company: Amgen
 sector: Healthcare
 held_by: [SCHD]
-updated: 2026-10-26
+updated: 2026-10-27
 tags: [stock]
 ---
 

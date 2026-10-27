@@ -4,7 +4,7 @@ ticker: TXN
 company: Texas Instruments
 sector: Technology
 held_by: [SCHD, SMH, SOXX]
-updated: 2026-10-26
+updated: 2026-10-27
 tags: [stock]
 ---
 

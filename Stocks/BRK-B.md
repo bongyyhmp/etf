@@ -4,7 +4,7 @@ ticker: BRK-B
 company: Berkshire Hathaway
 sector: Financials
 held_by: [VTV, VOO, IVV, SPY, VTI]
-updated: 2026-10-26
+updated: 2026-10-27
 tags: [stock]
 ---
 

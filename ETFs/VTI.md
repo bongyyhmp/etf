@@ -2,20 +2,20 @@
 type: etf
 ticker: VTI
 issuer: Vanguard
-aum: $669B
+aum: $673B
 expense_ratio: 0.03%
-return_ytd: 12.2
-return_1y: 14.0
-data_as_of: 2026-10-23
+return_ytd: 13.0
+return_1y: 13.9
+data_as_of: 2026-10-26
 tags: [etf]
 ---
 
 # VTI — Vanguard Total Stock Market ETF
 
-> [!info] Snapshot (as of Oct 23, 2026)
+> [!info] Snapshot (as of Oct 26, 2026)
 > **Tracks:** CRSP US Total Market (nearly every US-listed stock)  
-> **Issuer:** Vanguard · **Assets:** $669B · **Expense ratio:** 0.03%  
-> **Return:** +12.2% this year · +14.0% over 1 year (dividends reinvested)  
+> **Issuer:** Vanguard · **Assets:** $673B · **Expense ratio:** 0.03%  
+> **Return:** +13.0% this year · +13.9% over 1 year (dividends reinvested)  
 > **Holdings:** 3,477 stocks · top 10 ≈ 35% of the fund
 
 ## Top 10 holdings

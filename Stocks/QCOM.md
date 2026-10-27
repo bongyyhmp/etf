@@ -4,7 +4,7 @@ ticker: QCOM
 company: Qualcomm
 sector: Technology
 held_by: [SCHD, SMH]
-updated: 2026-10-26
+updated: 2026-10-27
 tags: [stock]
 ---
 

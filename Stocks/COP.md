@@ -4,7 +4,7 @@ ticker: COP
 company: ConocoPhillips
 sector: Energy
 held_by: [SCHD]
-updated: 2026-10-26
+updated: 2026-10-27
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ The largest US oil and gas producer focused purely on exploration and production
 
 ## Recent news
 
+- **2026-10-27** — Piper Sandler started coverage at Neutral with a $157 target; shares slipped to about $148.69 midday as Brent eased. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/piper-sandler-sets-usd-157-target-for-conocophillips-stock/70421658))
+- **2026-10-26** — ConocoPhillips confirmed layoffs in Alberta set for Oct 27 to align its workforce with long-term strategy; it did not say how many jobs. ([source](https://ctvnews.ca/calgary/article/conocophillips-confirms-layoffs-coming-tuesday-in-alberta))
 - **2026-10-23** — Shares hit a 52-week high of $152.77 and closed 3.5% higher on the oil rally, leaving the stock up nearly 56% for the year. ([source](https://stocktwits.com/news-articles/markets/equity/why-did-xom-cop-cvx-jump-to-52-week-highs-last-week/cZUdVAARBUz))
 
 ## Coming up

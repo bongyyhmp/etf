@@ -4,7 +4,7 @@ ticker: META
 company: Meta Platforms
 sector: Communication Services
 held_by: [VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-10-26
+updated: 2026-10-27
 tags: [stock]
 ---
 
@@ -27,6 +27,8 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 
 ## Recent news
 
+- **2026-10-27** — Nvidia committed $3B to Meta's share offering and expanded their AI work together, including planned Meta use of Nvidia Vera Rubin systems and networking gear. ([source](https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-rise-3-billion-151848169.html))
+- **2026-10-26** — After Monday's close, Meta priced the offerings: an upsized $25B of Class A stock (40M shares at $625, sold on a forward basis) and about $12.5B of depositary shares in 6.50% mandatory convertible preferred at $50 each, to trade as METAM; both settle Oct 29. ([source](https://www.sec.gov/Archives/edgar/data/0001326801/000119312526432549/d382225dfwp.htm))
 - **2026-10-26** — Meta launched a plan to raise up to $95B in equity for AI infrastructure: about $35B now via forward-sale common stock and mandatory convertible preferred, plus a $60B at-the-market program planned for Q1 2027. ([source](https://finance.yahoo.com/markets/stocks/articles/meta-stocks-fall-1-8-171432474.html))
 - **2026-10-26** — Nvidia, AMD and Broadcom were reported to be weighing purchases of up to $5B of Meta's Class A shares in the offering. ([source](https://www.tipranks.com/news/meta-launches-95-billion-stock-offering-plan-to-fund-ai-expansion-nvidia-amd-and-broadcom-weigh-5-billion-purchase))
 - **2026-10-26** — Meta shares fell about 1.9% to roughly $630.56 Monday, extending losses that followed its Oct 21 Q3 report. ([source](https://www.fool.com/coverage/stock-market-today/2026/10/26/stock-market-midday-oct-26-tech-sector-rallies-on-anthropic-ipo-filing-and-cooling-oil-prices/))
@@ -34,6 +36,7 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 
 ## Coming up
 
+- **2026-10-29** — Settlement of the $25B common stock and ~$12.5B mandatory convertible preferred offerings (per term sheet)
 - **Q1 2027** — Planned launch of $60B at-the-market stock program once new Class C shares begin trading (company plan)
 - Next earnings date: not found in sources (Q3 was reported Oct 21)
 

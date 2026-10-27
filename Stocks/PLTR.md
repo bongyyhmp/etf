@@ -4,7 +4,7 @@ ticker: PLTR
 company: Palantir Technologies
 sector: Technology
 held_by: [XLK, VGT]
-updated: 2026-10-26
+updated: 2026-10-27
 tags: [stock]
 ---
 

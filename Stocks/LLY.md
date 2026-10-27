@@ -4,7 +4,7 @@ ticker: LLY
 company: Eli Lilly
 sector: Healthcare
 held_by: [VUG, VOO, IVV, SPY, VTI]
-updated: 2026-10-26
+updated: 2026-10-27
 tags: [stock]
 ---
 

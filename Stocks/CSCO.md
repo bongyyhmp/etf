@@ -4,7 +4,7 @@ ticker: CSCO
 company: Cisco Systems
 sector: Technology
 held_by: [XLK, VGT, VTV]
-updated: 2026-10-26
+updated: 2026-10-27
 tags: [stock]
 ---
 

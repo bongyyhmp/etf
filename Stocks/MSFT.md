@@ -4,7 +4,7 @@ ticker: MSFT
 company: Microsoft
 sector: Technology
 held_by: [XLK, VGT, VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-10-26
+updated: 2026-10-27
 tags: [stock]
 ---
 

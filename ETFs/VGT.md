@@ -4,18 +4,18 @@ ticker: VGT
 issuer: Vanguard
 aum: $172B
 expense_ratio: 0.09%
-return_ytd: 26.9
-return_1y: 25.6
-data_as_of: 2026-10-23
+return_ytd: 28.8
+return_1y: 25.5
+data_as_of: 2026-10-26
 tags: [etf]
 ---
 
 # VGT — Vanguard Information Technology ETF
 
-> [!info] Snapshot (as of Oct 23, 2026)
+> [!info] Snapshot (as of Oct 26, 2026)
 > **Tracks:** MSCI US IMI Information Technology 25/50  
 > **Issuer:** Vanguard · **Assets:** $172B · **Expense ratio:** 0.09%  
-> **Return:** +26.9% this year · +25.6% over 1 year (dividends reinvested)  
+> **Return:** +28.8% this year · +25.5% over 1 year (dividends reinvested)  
 > **Holdings:** 317 stocks · top 10 ≈ 61% of the fund
 
 ## Top 10 holdings
