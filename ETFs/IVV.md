@@ -4,18 +4,18 @@ ticker: IVV
 issuer: BlackRock iShares
 aum: $888B
 expense_ratio: 0.03%
-return_ytd: 13.1
-return_1y: 14.3
-data_as_of: 2026-10-26
+return_ytd: 13.8
+return_1y: 13.6
+data_as_of: 2026-10-27
 tags: [etf]
 ---
 
 # IVV — iShares Core S&P 500 ETF
 
-> [!info] Snapshot (as of Oct 26, 2026)
+> [!info] Snapshot (as of Oct 27, 2026)
 > **Tracks:** S&P 500  
 > **Issuer:** BlackRock iShares · **Assets:** $888B · **Expense ratio:** 0.03%  
-> **Return:** +13.1% this year · +14.3% over 1 year (dividends reinvested)  
+> **Return:** +13.8% this year · +13.6% over 1 year (dividends reinvested)  
 
 
 This fund tracks the same index as [[VOO]], so its holdings are the same; the weights below are VOO's.

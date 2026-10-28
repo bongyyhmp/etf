@@ -4,7 +4,7 @@ ticker: TSLA
 company: Tesla
 sector: Consumer Discretionary
 held_by: [QQQ, VUG, VOO, IVV, SPY, VTI]
-updated: 2026-10-27
+updated: 2026-10-28
 tags: [stock]
 ---
 
@@ -27,6 +27,8 @@ Makes electric vehicles and energy storage systems, and is developing self-drivi
 
 ## Recent news
 
+- **2026-10-28** — Shares slipped about 1.4% to near $402 in late-morning trading, giving back part of the prior day's gain. ([source](https://www.ibtimes.com.au/tesla-shares-spacex-merger-speculation-1877533))
+- **2026-10-27** — Tesla closed up about 4% at $407.46 on SpaceX merger speculation (both companies have special committees weighing a deal, with no terms agreed) and ARK Invest reiterating its $4,400 long-term target. ([source](https://247wallst.com/investing/2026/10/28/tesla-closed-up-4-at-407-heres-what-a-spacex-merger-could-mean-for-your-shares/))
 - **2026-10-26** — Barclays' Dan Levy upgraded Tesla to Overweight and raised his target to $450 from $370, citing a possible SpaceX combination; shares jumped about 5-6%. ([source](https://www.fool.com/coverage/stock-market-today/2026/10/26/stock-market-midday-oct-26-tech-sector-rallies-on-anthropic-ipo-filing-and-cooling-oil-prices/))
 - **2026-10-25** — Yahoo Finance reported Wall Street was increasingly betting on a SpaceX-Tesla merger after SpaceX posted better-than-expected quarterly results; SpaceX said no decision has been made. ([source](https://www.heygotrade.com/en/news/tesla-tsla-stock-news-october-26-2026/))
 - **2026-10-23** — Tesla closed down about 0.6% at $372.22 Friday amid a weak market, with no company-specific trigger cited. ([source](https://www.heygotrade.com/en/news/tesla-tsla-stock-news-october-26-2026/))
@@ -39,5 +41,5 @@ Makes electric vehicles and energy storage systems, and is developing self-drivi
 
 ## Bull case / bear case
 
-- **Bull:** Barclays cites SpaceX-combination optionality; reports also note a Q3 delivery beat, higher auto margins and the largest vehicle backlog in four years.
-- **Bear:** Reports cite a 56% year-over-year drop in Q3 operating income, rising R&D spending, battery supply limits and unsettled merger terms.
+- **Bull:** Barclays and ARK Invest cite SpaceX-combination optionality and robotaxi potential; reports also note a Q3 delivery beat, higher auto margins and the largest vehicle backlog in four years.
+- **Bear:** Reports cite a 56% year-over-year drop in Q3 operating income, rising R&D spending, battery supply limits, a high valuation and unsettled merger terms.

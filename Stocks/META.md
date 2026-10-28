@@ -4,7 +4,7 @@ ticker: META
 company: Meta Platforms
 sector: Communication Services
 held_by: [VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-10-27
+updated: 2026-10-28
 tags: [stock]
 ---
 
@@ -27,6 +27,7 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 
 ## Recent news
 
+- **2026-10-27** — Shares closed down about 1.7% at $620.19 on heavy volume after banks reported the Class A offering was roughly five times oversubscribed, lifting Meta's total equity plan to about $97.5B. ([source](https://www.fool.com/coverage/stock-market-today/2026/10/27/stock-market-today-oct-27-meta-raises-largest-ever-equity-offering-to-nearly-usd98-billion-to-fund-ai-infrastructure-bet/))
 - **2026-10-27** — Nvidia committed $3B to Meta's share offering and expanded their AI work together, including planned Meta use of Nvidia Vera Rubin systems and networking gear. ([source](https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-rise-3-billion-151848169.html))
 - **2026-10-26** — After Monday's close, Meta priced the offerings: an upsized $25B of Class A stock (40M shares at $625, sold on a forward basis) and about $12.5B of depositary shares in 6.50% mandatory convertible preferred at $50 each, to trade as METAM; both settle Oct 29. ([source](https://www.sec.gov/Archives/edgar/data/0001326801/000119312526432549/d382225dfwp.htm))
 - **2026-10-26** — Meta launched a plan to raise up to $95B in equity for AI infrastructure: about $35B now via forward-sale common stock and mandatory convertible preferred, plus a $60B at-the-market program planned for Q1 2027. ([source](https://finance.yahoo.com/markets/stocks/articles/meta-stocks-fall-1-8-171432474.html))

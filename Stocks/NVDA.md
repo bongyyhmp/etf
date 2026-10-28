@@ -4,7 +4,7 @@ ticker: NVDA
 company: NVIDIA
 sector: Technology
 held_by: [SMH, VGT, XLK, VUG, SOXX, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-10-27
+updated: 2026-10-28
 tags: [stock]
 ---
 
@@ -31,6 +31,8 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 
 ## Recent news
 
+- **2026-10-28** — Nvidia rose nearly 1% as chip stocks gained for a third session after SK Hynix reported roughly sevenfold profit growth and forecast memory shortages into 2030. ([source](https://www.aol.com/articles/nvidia-amd-micron-stocks-lead-124044000.html))
+- **2026-10-28** — The Fed held its benchmark rate at 3.75%-4.00% in a 10-2 vote, with two officials dissenting in favor of a quarter-point hike; the statement described growth as strong and inflation as still elevated. ([source](https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026))
 - **2026-10-27** — Nvidia said it will put $3B into Meta's equity offering as part of a wider AI partnership covering planned Meta deployments of Vera Rubin systems, Vera CPUs, Spectrum-X networking and BlueField-4; quantities and timing were not disclosed. ([source](https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-rise-3-billion-151848169.html))
 - **2026-10-27** — Oracle was reported to be adding AI chips from Google, Cerebras and SambaNova to lessen its dependence on Nvidia. ([source](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html))
 - **2026-10-26** — SpaceX said it secured $40B in debt financing to buy AI chips, reportedly from Nvidia, and Nvidia was reported among chipmakers weighing up to $5B of Meta's share sale. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026))
@@ -41,8 +43,8 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 
 ## Coming up
 
-- **2026-10-28** — FOMC rate decision (two-day meeting began Oct 27)
 - **2026-11-18** — Q3 FY2027 earnings after the close (estimated by MarketBeat; not confirmed)
+- **2026-12-01** — GTC Washington, D.C. keynote by Jensen Huang (conference runs Nov 30-Dec 3)
 
 ## Bull case / bear case
 

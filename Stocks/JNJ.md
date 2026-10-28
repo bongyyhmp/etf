@@ -4,7 +4,7 @@ ticker: JNJ
 company: Johnson & Johnson
 sector: Healthcare
 held_by: [VTV]
-updated: 2026-10-27
+updated: 2026-10-28
 tags: [stock]
 ---
 
@@ -34,5 +34,5 @@ Makes prescription drugs and medical devices.
 
 ## Bull case / bear case
 
-- **Bull:** Bernstein, RBC and Citi cite 6.1% Q3 organic growth, a 3% EPS beat and Innovative Medicine strength, including Icotyde.
-- **Bear:** Wells Fargo, BofA and Leerink flag 2027 pressure from deal dilution, MedTech constraints and loss-of-exclusivity headwinds; Erste sees a full valuation.
+- **Bull:** Bernstein, RBC and Citi cite 6.1% Q3 organic growth, a 3% EPS beat and Innovative Medicine strength, including Icotyde, while early ESMO data for its Halda prostate cancer drug added to pipeline interest.
+- **Bear:** Wells Fargo, BofA and Leerink flag 2027 pressure from deal dilution, MedTech constraints and loss-of-exclusivity headwinds; Erste sees a full valuation, and the Smith & Nephew orthopaedics talks reportedly collapsed.

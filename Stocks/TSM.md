@@ -4,7 +4,7 @@ ticker: TSM
 company: Taiwan Semiconductor (TSMC)
 sector: Technology
 held_by: [SMH, SOXX]
-updated: 2026-10-27
+updated: 2026-10-28
 tags: [stock]
 ---
 
@@ -23,6 +23,7 @@ The world's largest contract chipmaker; manufactures chips for Apple, Nvidia, AM
 
 ## Recent news
 
+- **2026-10-27** — ADRs rose about 3% amid reports TSMC is weighing price increases for its CoWoS advanced packaging, read by investors as a sign of pricing power with capacity tight. ([source](https://www.tradingkey.com/news/market-movers/262242907-market-movers-tsm-20261027))
 - **2026-10-23** — TSMC ADRs rose about 1% to roughly $417, outperforming a weak market after Moody's upgraded its credit rating to Aa2 earlier in the week. ([source](https://www.benzinga.com/markets/tech/26/10/62570114/whats-going-on-with-taiwan-semiconductor-stock-friday-5))
 
 ## Coming up
@@ -32,5 +33,5 @@ The world's largest contract chipmaker; manufactures chips for Apple, Nvidia, AM
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (Barclays, Needham) and Moody's cite manufacturing leadership and AI demand, with Moody's seeing 30-45% annual revenue growth near term.
-- **Bear:** Benzinga flags weakening short-term momentum, a ~31x P/E, heavy capex, Taiwan concentration and a fatal Kaohsiung construction accident.
+- **Bull:** Analysts (Barclays, Needham) and Moody's cite manufacturing leadership and AI demand; reports of possible CoWoS packaging price hikes point to pricing power.
+- **Bear:** Commentators flag a ~31x P/E, heavy capex, Taiwan concentration, a fatal Kaohsiung construction accident and volatility around macro events.

@@ -4,7 +4,7 @@ ticker: JPM
 company: JPMorgan Chase
 sector: Financials
 held_by: [VTV]
-updated: 2026-10-27
+updated: 2026-10-28
 tags: [stock]
 ---
 
