@@ -11,6 +11,7 @@ tags: [sector]
 - [[ACN]] — Accenture
 - [[ADI]] — Analog Devices
 - [[AMD]] — Advanced Micro Devices
+- [[AMAT]] — Applied Materials
 - [[ASML]] — ASML Holding
 - [[AVGO]] — Broadcom
 - [[CSCO]] — Cisco Systems

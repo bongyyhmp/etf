@@ -4,7 +4,7 @@ ticker: NVDA
 company: NVIDIA
 sector: Technology
 held_by: [SMH, VGT, XLK, VUG, SOXX, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-10-28
+updated: 2026-10-29
 tags: [stock]
 ---
 
@@ -31,6 +31,7 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 
 ## Recent news
 
+- **2026-10-28** — Nvidia closed down 1.2% at $215.38 after reports that the Justice Department is asking how its planned $12.9B Hugging Face acquisition (expected to close in 1H 2027) could affect AI competition, as part of a wider review that reportedly also covers its Groq licensing deal; Jensen Huang said Hugging Face will stay open. ([source](https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-october-29-2026/))
 - **2026-10-28** — Nvidia rose nearly 1% as chip stocks gained for a third session after SK Hynix reported roughly sevenfold profit growth and forecast memory shortages into 2030. ([source](https://www.aol.com/articles/nvidia-amd-micron-stocks-lead-124044000.html))
 - **2026-10-28** — The Fed held its benchmark rate at 3.75%-4.00% in a 10-2 vote, with two officials dissenting in favor of a quarter-point hike; the statement described growth as strong and inflation as still elevated. ([source](https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026))
 - **2026-10-27** — Nvidia said it will put $3B into Meta's equity offering as part of a wider AI partnership covering planned Meta deployments of Vera Rubin systems, Vera CPUs, Spectrum-X networking and BlueField-4; quantities and timing were not disclosed. ([source](https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-rise-3-billion-151848169.html))
@@ -49,4 +50,4 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 ## Bull case / bear case
 
 - **Bull:** Goldman (Buy, $300) cites a positive medium-term AI deployment outlook after GTC; new DSX POD AI-factory designs and Rubin projects add demand signals.
-- **Bear:** Reports cite AI-spending and financing worries, supply bottlenecks through fiscal 2028 per the CFO, and power constraints delaying data-center buildouts.
+- **Bear:** Reports cite AI-spending and financing worries, DOJ antitrust scrutiny of its Hugging Face and Groq deals, customers diversifying to other AI chips, and power and supply constraints.

@@ -4,7 +4,7 @@ ticker: LLY
 company: Eli Lilly
 sector: Healthcare
 held_by: [VUG, VOO, IVV, SPY, VTI]
-updated: 2026-10-28
+updated: 2026-10-29
 tags: [stock]
 ---
 
@@ -26,6 +26,8 @@ Drugmaker best known for diabetes and obesity drugs (Mounjaro, Zepbound) plus Al
 
 ## Recent news
 
+- **2026-10-29** — Q3 revenue rose 39% to $24.4B (vs. about $22.6B expected) and non-GAAP EPS was $7.48 (vs. about $6.61); Mounjaro sales were $10.7B (+65%) and Zepbound $5.4B (+49%), while volume rose 53% and realized prices fell 15%. Lilly lifted 2026 revenue guidance to $91-92B from $85-87B but set EPS guidance at $35-36 after about $4.57/share of acquired-R&D charges. ([source](https://www.tikr.com/blog/eli-lilly-soars-5-as-mounjaro-and-zepbound-demand-drives-5-5-billion-guidance-raise))
+- **2026-10-29** — Shares climbed nearly 7% to around $1,374 intraday from a $1,288.30 prior close, near the 52-week high of $1,408.38. ([source](https://finance.yahoo.com/healthcare/articles/eli-lilly-shares-jump-7-154837065.html))
 - **2026-10-28** — Lilly said international-markets head Patrik Jonsson will retire at the end of 2026, after which its U.S. and international units will combine into one "Lilly Global Markets" division led by Ilya Yuffa. ([source](https://www.biopharmadive.com/news/lilly-global-markets-novartis-avidity-astellas-talzenna-prana/872857/))
 - **2026-10-28** — Earnings previews put Q3 consensus near $6.67 EPS (cut from about $9.93 over 30 days, reflecting deal charges) on about $22.6B revenue, with international Mounjaro, the Foundayo launch and U.S. pricing as the focus. ([source](https://247wallst.com/investing/2026/10/28/3-big-pharma-earnings-reports-to-watch-eli-lilly-merck-and-gilead/))
 - **2026-10-26** — Lilly declared a $1.73 quarterly dividend, payable Dec 10 to holders of record Nov 13. ([source](https://www.gurufocus.com/news/9142967/eli-lilly-lly-declares-173-quarterly-dividend-payable-december-10))
@@ -34,11 +36,12 @@ Drugmaker best known for diabetes and obesity drugs (Mounjaro, Zepbound) plus Al
 
 ## Coming up
 
-- **2026-10-29** — Q3 2026 earnings, call 10:00 a.m. ET (confirmed)
 - **2026-11-13** — dividend record/ex-date
+- **2026-12-07** — investor update with long-term targets (per TIKR)
 - **2026-12-10** — dividend payable
+- Next earnings (Q4 2026): date not yet announced
 
 ## Bull case / bear case
 
-- **Bull:** Goldman and Bernstein raised targets ahead of Q3, citing strong volume growth (Q2 revenue up about 48%) and international Mounjaro uptake, with Bernstein modeling 2027 revenue near $111B.
-- **Bear:** Previews flag falling U.S. prices (down about 13% realized in Q2), acquired-R&D charges that have cut Q3 EPS estimates, and a premium valuation near the 52-week high.
+- **Bull:** Q3 beat on revenue and EPS with Mounjaro up 65% and volume up 53%, and the raised $91-92B 2026 sales outlook topped consensus; Goldman and Bernstein had lifted targets on volume growth.
+- **Bear:** Realized prices fell 15% (29% outside the U.S.), deal-related R&D charges pushed 2026 EPS guidance lower, and the stock trades at a premium near its 52-week high.

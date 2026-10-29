@@ -4,36 +4,36 @@ ticker: VOO
 issuer: Vanguard
 aum: $1.01T
 expense_ratio: 0.03%
-return_ytd: 13.8
-return_1y: 13.6
-data_as_of: 2026-10-27
+return_ytd: 14.2
+return_1y: 13.7
+data_as_of: 2026-10-28
 tags: [etf]
 ---
 
 # VOO — Vanguard S&P 500 ETF
 
-> [!info] Snapshot (as of Oct 27, 2026)
+> [!info] Snapshot (as of Oct 28, 2026)
 > **Tracks:** S&P 500 (about 500 of the largest US companies)  
 > **Issuer:** Vanguard · **Assets:** $1.01T · **Expense ratio:** 0.03%  
-> **Return:** +13.8% this year · +13.6% over 1 year (dividends reinvested)  
+> **Return:** +14.2% this year · +13.7% over 1 year (dividends reinvested)  
 > **Holdings:** 504 stocks · top 10 ≈ 40% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[NVDA]] — NVIDIA | 7.8% |
-| 2 | [[AAPL]] — Apple | 7.8% |
+| 1 | [[NVDA]] — NVIDIA | 7.9% |
+| 2 | [[AAPL]] — Apple | 7.6% |
 | 3 | [[MSFT]] — Microsoft | 6.0% |
 | 4 | [[GOOGL]] — Alphabet (Google) | 5.1% |
 | 5 | [[AMZN]] — Amazon | 3.7% |
-| 6 | [[AVGO]] — Broadcom | 2.3% |
-| 7 | [[META]] — Meta Platforms | 2.2% |
-| 8 | [[TSLA]] — Tesla | 1.6% |
-| 9 | [[BRK-B]] — Berkshire Hathaway | 1.5% |
+| 6 | [[AVGO]] — Broadcom | 2.5% |
+| 7 | [[META]] — Meta Platforms | 2.0% |
+| 8 | [[TSLA]] — Tesla | 1.7% |
+| 9 | [[MU]] — Micron Technology | 1.7% |
 | 10 | [[LLY]] — Eli Lilly | 1.5% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Oct 23, 2026 prices.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Oct 28, 2026 prices.*
 
 ## Sector mix
 

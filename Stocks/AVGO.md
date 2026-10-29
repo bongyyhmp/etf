@@ -3,8 +3,8 @@ type: stock
 ticker: AVGO
 company: Broadcom
 sector: Technology
-held_by: [SOXX, SMH, XLK, VUG, VGT, VOO, IVV, SPY, VTI]
-updated: 2026-10-28
+held_by: [SOXX, SMH, XLK, VUG, VGT, VOO, IVV, SPY, VTI, QQQ]
+updated: 2026-10-29
 tags: [stock]
 ---
 
@@ -23,6 +23,7 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 | [[XLK]] | 4.7% |
 | [[VUG]] | 3.6% |
 | [[VGT]] | 3.1% |
+| [[QQQ]] | 2.7% |
 | [[VOO]] | 2.3% |
 | [[IVV]] | 2.3% |
 | [[SPY]] | 2.3% |
@@ -30,6 +31,7 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 
 ## Recent news
 
+- **2026-10-29** — Broadcom fell about 2.8% in overnight trading as chip stocks slid after Samsung's profit miss and lighter-than-expected capex from Microsoft and Alphabet. ([source](https://stocktwits.com/news-articles/markets/equity/intc-amd-avgo-mu-decline-on-samsung-s-profit-miss-lighter-capex-from-microsoft-alphabet/cZUQgW3R9ba))
 - **2026-10-28** — Broadcom gained more than 1% as the chip rally extended to a third day on SK Hynix's strong results and AI-driven memory demand outlook. ([source](https://www.aol.com/articles/nvidia-amd-micron-stocks-lead-124044000.html))
 - **2026-10-28** — The Fed held its benchmark rate at 3.75%-4.00% in a 10-2 vote, with two officials dissenting in favor of a quarter-point hike; the statement described growth as strong and inflation as still elevated. ([source](https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026))
 - **2026-10-27** — D.A. Davidson upgraded Broadcom to Buy from Neutral, and the stock rose about 3.5% early as chip stocks led the market. ([source](https://www.schwab.com/learn/story/stock-market-update-open))
@@ -43,4 +45,4 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 ## Bull case / bear case
 
 - **Bull:** D.A. Davidson's upgrade and other analysts cite surging AI semiconductor revenue (management targets ~$115B in FY2027 and ~$230B in FY2028) and record free cash flow.
-- **Bear:** Reports cite heavy customer concentration and credit exposure from reported financing for Anthropic and OpenAI, plus gross-margin dilution from AI chips.
+- **Bear:** Reports cite heavy customer concentration, roughly $43B of AI-rack lease guarantees and other financing exposure tied to Anthropic and OpenAI, sensitivity to hyperscaler capex, and gross-margin dilution from AI chips.

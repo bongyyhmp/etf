@@ -4,7 +4,7 @@ ticker: GOOGL
 company: Alphabet (Google)
 sector: Communication Services
 held_by: [VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-10-28
+updated: 2026-10-29
 tags: [stock]
 ---
 
@@ -27,6 +27,9 @@ Owns Google Search, YouTube, Android and Google Cloud; most revenue comes from a
 
 ## Recent news
 
+- **2026-10-29** — Class A shares closed down about 12.6% at $283.82 after the Q3 miss. ([source](https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-alphabet-slides-on-soft-earnings-microsoft-firms-4981271))
+- **2026-10-29** — The slide was on pace to be Alphabet's worst post-earnings session since its 2004 IPO, erasing close to $500B of market value; Pivotal Research said bears will see AI starting to hurt search, while CFRA called the pullback a likely buying opportunity. ([source](https://finance.yahoo.com/markets/article/alphabet-heads-for-a-500-billion-drop-in-market-value-the-biggest-in-its-history-134824763.html))
+- **2026-10-29** — Analysts trimmed targets but mostly kept positive ratings: TD Cowen to $460 from $485 (Buy), Scotiabank to $375 from $450, Raymond James to $350 from $400, and Susquehanna to $400 from $460 on margin pressure; Guggenheim held Buy at $450. ([source](https://www.investing.com/news/analyst-ratings/td-cowen-cuts-alphabet-stock-price-target-on-search-miss-93CH-4984387))
 - **2026-10-28** — Q3 revenue rose 25% to $127.6B, and Google Cloud revenue more than doubled (+103%) to $30.7B with $11.1B of operating income; but EPS of $2.12 missed the ~$3.02 consensus, hit by an $8.7B loss on equity securities, and free cash flow was about -$9.1B as capex reached $51.4B. ([source](https://in.investing.com/news/stock-market-news/alphabet-shares-tumble-65-as-earnings-miss-overshadows-cloud-boom-5661583))
 - **2026-10-28** — Shares fell roughly 7-8% after hours as advertising revenue ($82.0B) and operating income ($40.6B) came in below forecasts, which reports called Alphabet's first quarterly profit miss in over three years. ([source](https://huggingnews.com/earnings/alphabet-shares-sink-as-google-records-first-quarterly-profit-miss-in-ov-c20c3705))
 - **2026-10-28** — The Fed held its benchmark rate at 3.75%-4.00% in a 10-2 vote, with two officials dissenting in favor of a quarter-point hike; the statement described growth as strong and inflation as still elevated. ([source](https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026))
@@ -42,5 +45,5 @@ Owns Google Search, YouTube, Android and Google Cloud; most revenue comes from a
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (BofA, BNP Paribas) cite fast Google Cloud growth, now confirmed by Q3 Cloud revenue more than doubling with sharply higher Cloud profit, and a potential $80B-$100B external TPU opportunity through 2028.
-- **Bear:** Q3 brought a sizable EPS miss, ad revenue below forecasts, negative free cash flow and investment losses, on top of heavy capex ($195B-$205B projected for 2026) and compute limits.
+- **Bull:** Bulls (Yorkville's Dan Ives, CFRA, TD Cowen and Guggenheim at Buy) point to Google Cloud revenue more than doubling with rising margins, an external TPU business (Oracle as first buyer) and a selloff they see as overdone.
+- **Bear:** Bears cite a large EPS miss, ad revenue below forecasts, signs AI may be eroding search (Pivotal), negative free cash flow on capex of $195B-$205B for 2026, and a wave of target cuts (Scotiabank, Raymond James, Susquehanna).

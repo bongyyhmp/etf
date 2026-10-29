@@ -4,18 +4,18 @@ ticker: SOXX
 issuer: BlackRock iShares
 aum: $48B
 expense_ratio: 0.33%
-return_ytd: 70.0
-return_1y: 68.6
-data_as_of: 2026-10-27
+return_ytd: 73.6
+return_1y: 72.0
+data_as_of: 2026-10-28
 tags: [etf]
 ---
 
 # SOXX — iShares Semiconductor ETF
 
-> [!info] Snapshot (as of Oct 27, 2026)
+> [!info] Snapshot (as of Oct 28, 2026)
 > **Tracks:** NYSE Semiconductor Index (30 US-listed chip companies)  
 > **Issuer:** BlackRock iShares · **Assets:** $48B · **Expense ratio:** 0.33%  
-> **Return:** +70.0% this year · +68.6% over 1 year (dividends reinvested)  
+> **Return:** +73.6% this year · +72.0% over 1 year (dividends reinvested)  
 > **Holdings:** 30 stocks · top 10 ≈ 62% of the fund
 
 ## Top 10 holdings

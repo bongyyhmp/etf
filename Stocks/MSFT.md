@@ -4,7 +4,7 @@ ticker: MSFT
 company: Microsoft
 sector: Technology
 held_by: [XLK, VGT, VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-10-28
+updated: 2026-10-29
 tags: [stock]
 ---
 
@@ -29,6 +29,9 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 
 ## Recent news
 
+- **2026-10-29** — Shares gave up a premarket gain of about 2.6% and were down roughly 1-2% near $523 by midday, as capex and finance leases of $45.2B came in under the ~$50.7B consensus because of delayed third-party capacity; CFO Amy Hood guided to more than $50B next quarter and about $170B for the calendar year. ([source](https://247wallst.com/investing/2026/10/29/amazon-slides-3-as-alphabets-12-plunge-raises-stakes-for-aws-report-meta-rises-3-microsoft-pulls-back/))
+- **2026-10-29** — Bloomberg reported Microsoft plans to raise at least $25B in a U.S. bond sale to help fund AI infrastructure; management also guided Azure growth near 49% for fiscal Q2. ([source](https://finwire.io/news/stock-markets-news/microsoft-stock-falls-as-25b-bond-plan-draws-focus-despite-azure-growth))
+- **2026-10-29** — Analysts raised targets after the report: UBS to $700 (Buy), TD Cowen and Scotiabank to $650, BNP Paribas to $632 and Bank of America to $630 from $600. ([source](https://www.investing.com/news/analyst-ratings/ubs-raises-microsoft-stock-price-target-to-700-on-azure-beat-93CH-4984452))
 - **2026-10-28** — Fiscal Q1 results after the close: revenue $92.3B (+19%), net income $36.6B (+32%), adjusted EPS $4.89 vs. roughly $4.72 expected; Azure grew 48% and Microsoft Cloud revenue reached $63.9B (+30%); capex on property and equipment was $39.4B. ([source](https://phemex.com/news/article/microsoft-q1-fy2027-revenue-hits-923b-as-azure-grows-48-yoy-101615))
 - **2026-10-28** — Shares rose about 6% after hours, though commercial bookings fell 12% year over year and commercial backlog (RPO) was flat from June at $677B, still up 73% from a year earlier. ([source](https://zerohedge.com/markets/msft-rises-azure-beat-bookings-shrink-and-backlog-stalls))
 - **2026-10-28** — The Fed held its benchmark rate at 3.75%-4.00% in a 10-2 vote, with two officials dissenting in favor of a quarter-point hike; the statement described growth as strong and inflation as still elevated. ([source](https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026))
@@ -41,5 +44,5 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (Oppenheimer, Truist) cited Azure demand outrunning capacity; Q1 delivered 48% Azure growth, a beat on revenue and EPS, and a $677B commercial backlog.
-- **Bear:** Critics point to shrinking commercial bookings and a backlog that stalled versus June, heavy AI capex, a ~26x forward multiple and Redburn's $440 bear target.
+- **Bull:** Analysts (UBS, BofA, TD Cowen, BNP Paribas) raised targets after 48% Azure growth, ~49% Azure guidance and a free-cash-flow beat, with management saying demand still exceeds supply.
+- **Bear:** Skeptics cite shrinking commercial bookings, a stalled backlog, capex heading toward ~$170B a year with a $25B bond plan, and BNP's warning that free cash flow could turn negative later in fiscal 2027.

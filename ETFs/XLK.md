@@ -4,18 +4,18 @@ ticker: XLK
 issuer: State Street SPDR
 aum: $124B
 expense_ratio: 0.08%
-return_ytd: 32.1
-return_1y: 27.4
-data_as_of: 2026-10-27
+return_ytd: 33.1
+return_1y: 27.2
+data_as_of: 2026-10-28
 tags: [etf]
 ---
 
 # XLK — Technology Select Sector SPDR Fund
 
-> [!info] Snapshot (as of Oct 27, 2026)
+> [!info] Snapshot (as of Oct 28, 2026)
 > **Tracks:** Technology Select Sector Index (S&P 500 tech stocks)  
 > **Issuer:** State Street SPDR · **Assets:** $124B · **Expense ratio:** 0.08%  
-> **Return:** +32.1% this year · +27.4% over 1 year (dividends reinvested)  
+> **Return:** +33.1% this year · +27.2% over 1 year (dividends reinvested)  
 > **Holdings:** 74 stocks · top 10 ≈ 67% of the fund
 
 ## Top 10 holdings
@@ -31,9 +31,9 @@ tags: [etf]
 | 7 | [[PLTR]] — Palantir Technologies | 2.6% |
 | 8 | [[CSCO]] — Cisco Systems | 2.4% |
 | 9 | [[INTC]] — Intel | 2.3% |
-| 10 | [[PANW]] — Palo Alto Networks | 1.8% |
+| 10 | [[AMAT]] — Applied Materials | 1.8% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Oct 23, 2026 prices.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Oct 23, 2026 prices; #10 updated from Oct 28 estimates.*
 
 ## Sector mix
 

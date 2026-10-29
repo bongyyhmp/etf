@@ -4,7 +4,7 @@ ticker: ASML
 company: ASML Holding
 sector: Technology
 held_by: [SMH]
-updated: 2026-10-28
+updated: 2026-10-29
 tags: [stock]
 ---
 
@@ -32,5 +32,5 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (JPMorgan, Citi) cite AI-driven EUV demand and planned ~30% capacity increases in 2026-2028.
-- **Bear:** Valuation models (GuruFocus) suggest the stock is modestly overvalued, and the shares fell after Q3 results despite strong demand.
+- **Bull:** Analysts (JPMorgan, Citi) cite AI-driven EUV demand and planned ~30% capacity increases; ASML says planned supply won't fully cover 2027-2028 demand and customers are already asking about 2029-2030 systems (per ad-hoc-news).
+- **Bear:** Valuation models (GuruFocus) suggest the stock is modestly overvalued and the shares fell after Q3 results despite strong demand.

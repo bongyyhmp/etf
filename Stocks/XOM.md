@@ -4,7 +4,7 @@ ticker: XOM
 company: Exxon Mobil
 sector: Energy
 held_by: [VTV]
-updated: 2026-10-28
+updated: 2026-10-29
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Integrated oil and gas company: drilling, refining and chemicals.
 
 ## Recent news
 
+- **2026-10-28** — Shares rose about 1.1% to near $181.92 (intraday high $183.65) ahead of Friday's Q3 report, with analysts expecting higher crude, stronger refining margins and production growth to help; MarketBeat's average target is $167.70. ([source](https://www.marketbeat.com/instant-alerts/price-exxonmobil-nyse-xom-shares-climb-11-heres-what-happened-2026-10-28/))
 - **2026-10-28** — Brent climbed about 1% to roughly $115 after Yemen's Houthis claimed a missile strike on Saudi Arabia's largest refinery (unconfirmed by Saudi authorities). ([source](https://www.5paisa.com/blog/crude-oil-price-today-28-oct-2026))
 - **2026-10-27** — Shares slid about 2.5% intraday to near $180 as Brent eased on recovering Gulf exports and hopes of calmer Iran tensions. ([source](https://www.marketbeat.com/instant-alerts/price-exxonmobil-nyse-xom-stock-price-down-25-should-you-sell-2026-10-27/))
 - **2026-10-27** — Coverage highlighted an arbitration tribunal's dismissal of Kazakhstan's roughly $12B Kashagan claim against Exxon and its partners, easing a legal overhang. ([source](https://finance.yahoo.com/energy/articles/exxonmobil-xom-wins-dismissal-kazakhstan-151643124.html))
@@ -30,7 +31,7 @@ Integrated oil and gas company: drilling, refining and chemicals.
 
 ## Coming up
 
-- **2026-10-30** — Q3 earnings (scheduled)
+- **2026-10-30** — Q3 earnings (scheduled; consensus EPS about $3.98-4.03)
 - **Late 2026** — Errea Wittu start-up in Guyana, plus Mozambique and Papua New Guinea investment decisions (expected)
 - **~2027-01-28** — Q4 earnings (expected)
 

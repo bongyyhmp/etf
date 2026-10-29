@@ -4,7 +4,7 @@ ticker: AAPL
 company: Apple
 sector: Technology
 held_by: [VGT, XLK, VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-10-28
+updated: 2026-10-29
 tags: [stock]
 ---
 
@@ -29,6 +29,8 @@ Makes the iPhone, Mac, iPad and wearables, and earns a growing share from servic
 
 ## Recent news
 
+- **2026-10-28** — HSBC kept a Buy rating and $366 target, saying iPhone Duo sales look promising even after weekend social-media reports of some foldable screens cracking along the crease when unfolded. ([source](https://www.tipranks.com/news/apples-iphone-duo-sales-look-promising-despite-cracked-screen-problem-analyst-says-ahead-of-q4-earnings))
+- **2026-10-27** — Goldman Sachs reiterated Buy and lifted its target to $390 from $360 on a higher multiple, forecasting fiscal Q4 revenue of about $113.6B and EPS of $2.01, slightly above consensus, but a below-consensus December quarter. ([source](https://www.kucoin.com/news/flash/goldman-sachs-forecasts-apple-q4-earnings-iphone-18-series-drives-growth-target-price-raised-to-390))
 - **2026-10-28** — At its "Pro and Tell" event Apple unveiled its first touchscreen MacBook Pro, with an OLED "PROLED XDR" display, starting at $2,899 for 14-inch and $3,399 for 16-inch; preorders opened the same day with deliveries from Nov 6. ([source](https://www.techradar.com/news/live/oled-touchscreen-macbook-pro-apple-pro-and-tell-live-october-2026))
 - **2026-10-27** — Apple shares edged higher after the company introduced a new iMac and 14-inch MacBook Pro. ([source](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html))
 - **2026-10-26** — Jefferies' Edison Lee kept an Underperform rating with a $270.62 target, arguing the stock is overvalued and that December-quarter revenue and EPS could come in below Street forecasts due to softer iPhone 18 Pro demand and memory-cost pressure; shares slipped about 1.5% early. ([source](https://www.tipranks.com/news/apple-stock-falls-today-as-bearish-analyst-comments-raise-concerns-ahead-of-next-weeks-earnings))
@@ -39,11 +41,11 @@ Makes the iPhone, Mac, iPad and wearables, and earns a growing share from servic
 
 ## Coming up
 
-- **2026-11-02** — Fiscal Q4 earnings after the close (expected, per TIKR; not confirmed by Apple)
+- **2026-11-02** — Fiscal Q4 earnings after the close (announced by Apple, per MacRumors)
 - **2026-11-06** — Touchscreen MacBook Pro, M6 MacBook Pro, M6 iMac and OLED iPad mini begin shipping (per Apple announcements)
 - **2027-03-01** — Australian court deadline to allow rival app stores; Apple plans to appeal
 
 ## Bull case / bear case
 
-- **Bull:** BofA cites a multiyear iPhone upgrade cycle, services growth, in-house chip margin gains and strong Duo demand evidenced by long lead times; the new touchscreen Mac lineup adds a higher-priced product.
-- **Bear:** Jefferies cites a stretched valuation, a weak December-quarter outlook, softer iPhone 18 Pro demand and rising memory costs squeezing fiscal 2027 margins.
+- **Bull:** BofA, Goldman Sachs and HSBC cite strong iPhone Duo demand driving fiscal 2027 growth, services gains, in-house chip margins and a new higher-priced touchscreen Mac lineup.
+- **Bear:** Jefferies cites a stretched valuation, a soft December-quarter outlook, weaker iPhone 18 Pro demand and memory-cost pressure; early Duo screen-cracking reports add a product risk.

@@ -4,7 +4,7 @@ ticker: COP
 company: ConocoPhillips
 sector: Energy
 held_by: [SCHD]
-updated: 2026-10-28
+updated: 2026-10-29
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ The largest US oil and gas producer focused purely on exploration and production
 
 ## Recent news
 
+- **2026-10-29** — Shares traded near $149.96, up about 0.6%; a 24/7 Wall St. comparison noted ConocoPhillips' 2015-16 dividend cut and its plan for $7B of added free cash flow by 2029, with Willow first oil targeted for early 2029. ([source](https://247wallst.com/investing/2026/10/29/chevron-is-up-nearly-57-in-2026-is-its-dividend-safer-than-conocophillips/))
+- **2026-10-29** — Brent eased about 0.7% to roughly $115.40 by mid-morning, still up about 78% from a year earlier. ([source](https://finance.yahoo.com/energy/articles/current-price-oil-october-29-130000851.html))
 - **2026-10-28** — Brent climbed about 1% to roughly $115 after Yemen's Houthis claimed a missile strike on Saudi Arabia's largest refinery (unconfirmed by Saudi authorities). ([source](https://www.5paisa.com/blog/crude-oil-price-today-28-oct-2026))
 - **2026-10-27** — The stock closed down 2.25% at $147.96 while the S&P 500 rose 0.6%; Zacks consensus for the Nov 5 report is $2.95 EPS on about $18.1B revenue. ([source](https://finance.yahoo.com/markets/stocks/articles/conocophillips-cop-stock-declines-while-210002853.html))
 - **2026-10-27** — Piper Sandler started coverage at Neutral with a $157 target; shares slipped to about $148.69 midday as Brent eased. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/piper-sandler-sets-usd-157-target-for-conocophillips-stock/70421658))
@@ -34,5 +36,5 @@ The largest US oil and gas producer focused purely on exploration and production
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite Marathon Oil synergies, Willow and LNG growth, a 45% cash-return target, and Q3 EPS expected up about 83% year over year (Zacks); Susquehanna raised its target to $175.
+- **Bull:** Analysts cite Marathon Oil synergies, Willow and LNG growth (a plan for $7B of added free cash flow by 2029), a 45% cash-return target, and Q3 EPS expected up about 83% year over year (Zacks); Susquehanna raised its target to $175.
 - **Bear:** Analysts flag high commodity sensitivity (2027 EPS modeled below 2026), Willow and LNG execution risk, a rich P/E, and Piper Sandler's Neutral start.

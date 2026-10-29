@@ -4,7 +4,7 @@ ticker: MRVL
 company: Marvell Technology
 sector: Technology
 held_by: [SOXX, SMH]
-updated: 2026-10-28
+updated: 2026-10-29
 tags: [stock]
 ---
 
@@ -23,15 +23,18 @@ Designs data-infrastructure chips: custom AI chips, networking and storage contr
 
 ## Recent news
 
+- **2026-10-29** — Marvell fell about 12-13% (to around $218) after Bloomberg reported late Oct 28 that it is in advanced talks to buy optical-component maker Lumentum, valued near $83B, with a deal possibly as soon as next week; nothing is signed, and a deal would likely be funded largely with new Marvell shares. ([source](https://finance.yahoo.com/markets/stocks/articles/marvell-sinks-12-investors-balk-140241515.html))
+- **2026-10-29** — Piper Sandler kept its Overweight rating and $400 target, calling Lumentum's lasers key AI technology but noting Marvell would need a large equity and debt package to fund a deal. ([source](https://www.investing.com/news/analyst-ratings/marvell-stock-falls-on-lumentum-acquisition-talks-piper-holds-rating-93CH-4984265))
 - **2026-10-28** — SPDB International started coverage at Buy with a $303 target; shares were up about 2% near $248.60 late morning. ([source](https://www.gurufocus.com/news/9147747/marvell-stocks-rise-21-with-new-buy-coverage-of-ai-infrastructure))
 - **2026-10-27** — Marvell rose about 3.3% as buyers returned to AI-infrastructure chip names, with demand for custom ASICs and optical interconnects cited. ([source](https://www.tradingkey.com/news/market-movers/262242628-market-movers-mrvl-20261027))
 - **2026-10-26** — Marvell rose nearly 3% to about $235 as tech stocks led a broad Monday rally. ([source](https://www.benzinga.com/markets/tech/26/10/62595425/whats-going-on-with-marvell-technology-stock-monday-6))
 
 ## Coming up
 
+- **Early November 2026** — possible Lumentum deal announcement (per Bloomberg report; unconfirmed)
 - **Early December 2026** — fiscal Q3 earnings (expected; date not yet announced)
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (UBS, Jefferies, JPMorgan, BNP Paribas, SPDB) cite raised long-term AI/data-center targets, a $400B addressable market and higher margin goals from its Oct 6 investor day.
-- **Bear:** Commentators note a premium ~76x P/E, customer concentration, margin pressure from custom-chip mix and shares still below the June high of ~$330.
+- **Bull:** Analysts (Piper Sandler, UBS, Jefferies, SPDB) cite AI custom-chip and optical demand, investor-day targets, and see Lumentum lasers as strategically valuable against Broadcom.
+- **Bear:** Investors worry a reported Lumentum deal would mean heavy share dilution at a rich price, on top of a premium valuation, customer concentration and custom-chip margin pressure.
