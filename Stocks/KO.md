@@ -4,7 +4,7 @@ ticker: KO
 company: Coca-Cola
 sector: Consumer Staples
 held_by: [SCHD]
-updated: 2026-10-29
+updated: 2026-10-30
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Sells soft drinks, water, sports drinks and coffee brands worldwide.
 
 ## Recent news
 
+- **2026-10-29** — Shares rose about 1.2% to near $92.85 (intraday high $93.16) as Freedom Broker lifted its target to $89 from $85 while keeping Hold; MarketBeat's consensus target is about $97.26 ("Moderate Buy"). ([source](https://www.marketbeat.com/instant-alerts/price-coca-cola-nyse-ko-stock-price-up-12-on-analyst-upgrade-2026-10-29/))
 - **2026-10-28** — Citigroup kept Buy and nudged its target to $103 from $102; shares rose $0.57 to $91.75. ([source](https://www.marketbeat.com/instant-alerts/analyst-citigroup-forecasts-strong-price-appreciation-for-coca-cola-nyse-ko-stock-2026-10-28/))
 - **2026-10-28** — Wells Fargo lifted its target to $100 from $90 (Overweight), citing broad strength in volume and margins while noting the forward P/E has expanded to about 27.5x; TD Cowen raised to $104 from $100 (Buy). ([source](https://www.investing.com/news/analyst-ratings/wells-fargo-raises-cocacola-stock-price-target-to-100-on-strong-2026-93CH-4978124))
 - **2026-10-28** — UBS raised its target to $106 from $104 (Buy), calling the valuation expensive but justified by visibility, while flagging tougher 2027 volume comparisons, currency and inflation. ([source](https://www.investing.com/news/analyst-ratings/ubs-raises-cocacola-stock-price-target-to-106-on-solid-results-93CH-4979947))
@@ -40,4 +41,4 @@ Sells soft drinks, water, sports drinks and coffee brands worldwide.
 ## Bull case / bear case
 
 - **Bull:** Coverage cites a seventh straight EPS beat, 5% unit-case volume growth, a third guidance raise, and post-results target raises from JPMorgan, UBS, Wells Fargo, Citi, Piper Sandler and TD Cowen.
-- **Bear:** Commentators flag flat North America volume amid a pressured U.S. consumer, a forward P/E near 27.5x after a roughly 30% rally, and (per UBS) tougher 2027 volume comparisons, currency and inflation headwinds.
+- **Bear:** Commentators flag flat North America volume amid a pressured U.S. consumer, a forward P/E near 27.5x after a roughly 30% rally, Hold-rated targets (e.g., Freedom Broker at $89) below the share price, and (per UBS) tougher 2027 volume comparisons, currency and inflation headwinds.

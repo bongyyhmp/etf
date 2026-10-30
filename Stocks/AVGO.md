@@ -4,7 +4,7 @@ ticker: AVGO
 company: Broadcom
 sector: Technology
 held_by: [SOXX, SMH, XLK, VUG, VGT, VOO, IVV, SPY, VTI, QQQ]
-updated: 2026-10-29
+updated: 2026-10-30
 tags: [stock]
 ---
 
@@ -31,6 +31,8 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 
 ## Recent news
 
+- **2026-10-30** — Broadcom dropped about 5% (to roughly $328 in morning trade) as Intel's weak Q4 outlook and Amazon's heavy AI spending sparked a broad chip rout; William Blair cut the stock to Market Perform from Outperform, citing valuation above 40 times earnings. ([source](https://www.investing.com/news/stock-market-news/why-is-broadcom-stock-sliding-today-93CH-4988165))
+- **2026-10-30** — Reuters reported U.S. chip stocks fell between 4% and 12% after Intel's warning, with Broadcom down about 5.5% alongside steeper drops in Qualcomm and AMD. ([source](https://www.investing.com/news/stock-market-news/intel-warning-sparks-chip-rout-as-pc-weakness-clouds-turnaround-4987123))
 - **2026-10-29** — Broadcom fell about 2.8% in overnight trading as chip stocks slid after Samsung's profit miss and lighter-than-expected capex from Microsoft and Alphabet. ([source](https://stocktwits.com/news-articles/markets/equity/intc-amd-avgo-mu-decline-on-samsung-s-profit-miss-lighter-capex-from-microsoft-alphabet/cZUQgW3R9ba))
 - **2026-10-28** — Broadcom gained more than 1% as the chip rally extended to a third day on SK Hynix's strong results and AI-driven memory demand outlook. ([source](https://www.aol.com/articles/nvidia-amd-micron-stocks-lead-124044000.html))
 - **2026-10-28** — The Fed held its benchmark rate at 3.75%-4.00% in a 10-2 vote, with two officials dissenting in favor of a quarter-point hike; the statement described growth as strong and inflation as still elevated. ([source](https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026))
@@ -45,4 +47,4 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 ## Bull case / bear case
 
 - **Bull:** D.A. Davidson's upgrade and other analysts cite surging AI semiconductor revenue (management targets ~$115B in FY2027 and ~$230B in FY2028) and record free cash flow.
-- **Bear:** Reports cite heavy customer concentration, roughly $43B of AI-rack lease guarantees and other financing exposure tied to Anthropic and OpenAI, sensitivity to hyperscaler capex, and gross-margin dilution from AI chips.
+- **Bear:** William Blair's downgrade flags a valuation above 40x earnings, and reports cite heavy customer concentration, up to ~$43B of financing backstop exposure tied to Anthropic (plus OpenAI-related exposure), sensitivity to hyperscaler capex shown in the Oct 30 chip rout, and gross-margin dilution from AI chips.

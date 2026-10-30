@@ -4,18 +4,18 @@ ticker: QQQ
 issuer: Invesco
 aum: $490B
 expense_ratio: 0.18%
-return_ytd: 18.5
-return_1y: 15.2
-data_as_of: 2026-10-28
+return_ytd: 16.8
+return_1y: 13.0
+data_as_of: 2026-10-29
 tags: [etf]
 ---
 
 # QQQ — Invesco QQQ Trust
 
-> [!info] Snapshot (as of Oct 28, 2026)
+> [!info] Snapshot (as of Oct 29, 2026)
 > **Tracks:** Nasdaq-100 (100 largest non-financial Nasdaq companies)  
 > **Issuer:** Invesco · **Assets:** $490B · **Expense ratio:** 0.18%  
-> **Return:** +18.5% this year · +15.2% over 1 year (dividends reinvested)  
+> **Return:** +16.8% this year · +13.0% over 1 year (dividends reinvested)  
 > **Holdings:** 101 stocks · top 10 ≈ 51% of the fund
 
 ## Top 10 holdings

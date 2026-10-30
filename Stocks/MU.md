@@ -4,7 +4,7 @@ ticker: MU
 company: Micron Technology
 sector: Technology
 held_by: [SOXX, SMH, QQQ, XLK, VGT, VTV, VOO, IVV, SPY, VTI]
-updated: 2026-10-29
+updated: 2026-10-30
 tags: [stock]
 ---
 
@@ -31,6 +31,7 @@ Makes memory chips (DRAM, NAND), including high-bandwidth memory used in AI serv
 
 ## Recent news
 
+- **2026-10-30** — Micron fell about 5-6% to roughly $874-885 as memory stocks extended their slide: Sandisk dropped about 9% despite beating estimates, raising guidance and announcing an 8-for-1 split, as profit-taking spread across global memory names (Micron was up ~206% year to date). ([source](https://247wallst.com/investing/2026/10/30/sandisk-sinks-9-despite-earnings-beat-raised-guidance-and-8-for-1-split-western-digital-tumbles-8-seagate-slides-7-micron-falls-6/))
 - **2026-10-29** — Micron fell about 5% to near $930 after Samsung's quarterly net profit (75.1T won) missed the ~86.1T won consensus despite record revenue, cooling a memory rally that followed SK Hynix's record results. Samsung still expects memory supply to stay tight for years. ([source](https://247wallst.com/investing/2026/10/29/sandisk-and-micron-slide-5-as-samsung-miss-cools-memory-rally-ahead-of-sandisk-earnings-sk-hynix-falls-3-western-digital-dips/))
 - **2026-10-28** — Micron rose about 4% before the open as memory names rallied after SK Hynix posted a record quarter and a large shareholder-return plan. ([source](https://coinpaper.com/38013/stock-market-today-nasdaq-rises-as-ai-chip-stocks-rally-dow-slips-before-fed-decision))
 - **2026-10-28** — Management and workers reached a labor agreement at Micron's Taichung, Taiwan site after reports of a possible strike; RBC (Outperform, $1,500) and Fubon (new Buy, $1,260) were among bullish analysts cited. ([source](https://stockstotrade.com/news/micron-technology-inc-mu-news-2026_10_28/))
@@ -46,4 +47,4 @@ Makes memory chips (DRAM, NAND), including high-bandwidth memory used in AI serv
 ## Bull case / bear case
 
 - **Bull:** Analysts (Wedbush, RBC, Fubon, Rosenblatt) cite AI-driven memory demand, FQ1 revenue guidance of about $61.5B, multi-year pricing deals and peer SK Hynix's signals of tight supply.
-- **Bear:** Coverage flags risk that added capacity, including from China's CXMT, pressures memory prices, plus volatile sentiment (e.g., the Oct 29 drop on Samsung's profit miss) and AI-spending worries.
+- **Bear:** Coverage flags risk that added capacity, including from China's CXMT, pressures memory prices, plus volatile sentiment after a ~200% year-to-date run (back-to-back drops on Oct 29-30 after Samsung's profit miss and Sandisk's sell-the-news reaction) and AI-spending worries.

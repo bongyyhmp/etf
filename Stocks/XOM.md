@@ -4,7 +4,7 @@ ticker: XOM
 company: Exxon Mobil
 sector: Energy
 held_by: [VTV]
-updated: 2026-10-29
+updated: 2026-10-30
 tags: [stock]
 ---
 
@@ -22,6 +22,9 @@ Integrated oil and gas company: drilling, refining and chemicals.
 
 ## Recent news
 
+- **2026-10-30** — Shares climbed about 2% to near $187 midday, close to a 52-week high of $188.50, as energy stocks were a bright spot in a falling market. ([source](https://www.marketbeat.com/instant-alerts/earnings-exxonmobil-nyse-xom-posts-earnings-results-beats-estimates-by-011-eps-2026-10-30/))
+- **2026-10-30** — Q3 adjusted EPS came in at $4.23 (GAAP $3.72), about $0.11 above consensus, on stronger refining margins and full Gulf Coast refinery runs; upstream earnings dipped on lower prices. It returned $9.4B to shareholders, declared a $1.07 Q4 dividend and plans about $20B of buybacks in 2027. ([source](https://boereport.com/2026/10/30/exxonmobil-announces-third-quarter-2026-results/))
+- **2026-10-30** — The company said it will take over as operator of Papua LNG and raise its stakes in Papua LNG (to 34%) and Mozambique's Rovuma project (to 50%); Guyana and Kearl each passed 1 billion barrels of cumulative output. ([source](https://boereport.com/2026/10/30/exxonmobil-announces-third-quarter-2026-results/))
 - **2026-10-28** — Shares rose about 1.1% to near $181.92 (intraday high $183.65) ahead of Friday's Q3 report, with analysts expecting higher crude, stronger refining margins and production growth to help; MarketBeat's average target is $167.70. ([source](https://www.marketbeat.com/instant-alerts/price-exxonmobil-nyse-xom-shares-climb-11-heres-what-happened-2026-10-28/))
 - **2026-10-28** — Brent climbed about 1% to roughly $115 after Yemen's Houthis claimed a missile strike on Saudi Arabia's largest refinery (unconfirmed by Saudi authorities). ([source](https://www.5paisa.com/blog/crude-oil-price-today-28-oct-2026))
 - **2026-10-27** — Shares slid about 2.5% intraday to near $180 as Brent eased on recovering Gulf exports and hopes of calmer Iran tensions. ([source](https://www.marketbeat.com/instant-alerts/price-exxonmobil-nyse-xom-stock-price-down-25-should-you-sell-2026-10-27/))
@@ -31,11 +34,11 @@ Integrated oil and gas company: drilling, refining and chemicals.
 
 ## Coming up
 
-- **2026-10-30** — Q3 earnings (scheduled; consensus EPS about $3.98-4.03)
+- **2026-12-10** — Q4 dividend of $1.07 per share paid
 - **Late 2026** — Errea Wittu start-up in Guyana, plus Mozambique and Papua New Guinea investment decisions (expected)
 - **~2027-01-28** — Q4 earnings (expected)
 
 ## Bull case / bear case
 
-- **Bull:** Commentators cite about $4.5B of expected refining upside in Q3, large buybacks, cost savings, Guyana and Permian growth, and the dismissal of Kazakhstan's $12B Kashagan claim.
-- **Bear:** Commentators flag reliance on volatile oil prices tied to Middle East news, lower average Brent hurting upstream, possible refining windfall taxes, and a price above the average analyst target.
+- **Bull:** After the Q3 beat, coverage cites refining strength, $9.4B of quarterly shareholder returns and a planned $20B buyback for 2027, Guyana and Kearl milestones and lower net debt; Barclays and Jefferies carry $200 targets (MarketBeat).
+- **Bear:** Commentators note earnings remain tied to volatile, conflict-driven oil prices, upstream profits slipped on lower realizations, Wells Fargo moved to Equal Weight, and the shares trade above MarketBeat's average target of about $168.

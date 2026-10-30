@@ -4,7 +4,7 @@ ticker: META
 company: Meta Platforms
 sector: Communication Services
 held_by: [VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-10-29
+updated: 2026-10-30
 tags: [stock]
 ---
 
@@ -27,6 +27,8 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 
 ## Recent news
 
+- **2026-10-30** — Meta fell about 2% to around $613 in morning trading, pulled down with Amazon after Amazon's earnings miss and negative free cash flow; the stock was down about 17% over the past month. ([source](https://247wallst.com/investing/2026/10/30/amazon-slides-7-as-earnings-miss-and-ai-spending-turn-free-cash-flow-negative-meta-falls-2-alphabet-dips-walmart-gains-2/))
+- **2026-10-29** — An 8-K confirmed the mandatory convertible preferred offering (250M depositary shares) closed Oct 29, with 6.50% dividends payable quarterly from Feb 15, 2027 and conversion expected around Aug 15, 2029; the 40M-share forward sale has an initial price of about $622.92 and must settle by Nov 19, 2027. ([source](https://www.sec.gov/Archives/edgar/data/0001326801/000119312526438017/d183592d8k.htm))
 - **2026-10-29** — The Paris Court of Appeals rejected Meta's appeals against French interim measures over payments owed to press publishers ("neighboring rights"), saying its calculation methods could amount to abuse of a dominant position. ([source](https://www.analyticsinsight.net/news/meta-loses-french-regulator-appeals-over-press-rights))
 - **2026-10-29** — Meta rose about 3% to roughly $629 midday, moving up while Alphabet sank about 12% and Microsoft slipped after their reports. ([source](https://247wallst.com/investing/2026/10/29/amazon-slides-3-as-alphabets-12-plunge-raises-stakes-for-aws-report-meta-rises-3-microsoft-pulls-back/))
 - **2026-10-28** — Shares closed down 1.2% at $612.49, a fifth straight decline that took the stock down about 12.2% over the streak and about 21% below its 52-week high. ([source](https://www.trefis.com/stock/meta/articles/621231/a-5-day-losing-streak-has-meta-platforms-stock-down-12/2026-10-29))
@@ -40,10 +42,12 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 
 ## Coming up
 
+- **2027-01-19** — Restated preferred-stock certificate and amended charter take effect (per 8-K)
+- **2027-02-15** — First quarterly dividend on the 6.50% mandatory convertible preferred (per 8-K)
 - **Q1 2027** — Planned launch of $60B at-the-market stock program once new Class C shares begin trading (company plan)
 - Next earnings date: not found in sources (Q3 was reported Oct 21)
 
 ## Bull case / bear case
 
 - **Bull:** Analysts (KeyBanc, Cantor, Guggenheim) cite core ad strength, Q4 revenue guidance above consensus, and early Muse AI traction.
-- **Bear:** Analysts (Needham, Scotiabank) cite about 5% dilution from the equity raises, negative free cash flow from heavy capex and unproven Muse profitability; European regulatory disputes such as the French press-payments case add risk.
+- **Bear:** Analysts (Needham, Scotiabank) cite about 5% dilution from the equity raises, negative free cash flow from heavy capex and unproven Muse profitability; the stock has fallen about 17% in a month amid sector-wide AI-spending worries, and European regulatory disputes such as the French press-payments case add risk.

@@ -4,7 +4,7 @@ ticker: NXPI
 company: NXP Semiconductors
 sector: Technology
 held_by: [SOXX]
-updated: 2026-10-29
+updated: 2026-10-30
 tags: [stock]
 ---
 

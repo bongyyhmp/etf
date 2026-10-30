@@ -4,7 +4,7 @@ ticker: AMGN
 company: Amgen
 sector: Healthcare
 held_by: [SCHD]
-updated: 2026-10-29
+updated: 2026-10-30
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Biotech company making drugs for bone health, cancer, inflammation and heart dis
 
 ## Recent news
 
+- **2026-10-30** — Shares touched an all-time high of $469.02, up about 44% year to date, ahead of the Nov 3 report; Oppenheimer has a $480 target with Outperform, and eight analysts recently raised estimates. ([source](https://www.investing.com/news/company-news/amgen-stock-hits-alltime-high-at-46902-usd-93CH-4987945))
 - **2026-10-29** — Ahead of the Nov 3 report, consensus sits near $5.79 EPS on $10.08B revenue, while the outgoing CFO had warned of a meaningful sequential rise in Q3 operating expenses, including a $100M upfront deal payment. ([source](https://247wallst.com/investing/2026/10/29/amgen-braces-for-rising-expenses-ahead-of-q3-results-is-a-profit-squeeze-looming/))
 - **2026-10-28** — Amgen hit a 52-week high of about $454.66 intraday after declaring a $2.52 quarterly dividend, payable Dec 11 to holders of record Nov 20. ([source](https://www.marketbeat.com/instant-alerts/price-amgen-nasdaq-amgn-reaches-new-1-year-high-following-dividend-announcement-2026-10-28/))
 - **2026-10-26** — Jefferies raised its Amgen price target to $428 from $410, still below the roughly $447 share price on Oct 27. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/jefferies-lifts-target-for-amgen-stock-to-usd-428-00/70421312))
@@ -35,5 +36,5 @@ Biotech company making drugs for bone health, cancer, inflammation and heart dis
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite growth drivers up 26% (Repatha +37%), new Imdelltra survival data, the MariTide obesity program, and target increases from Oppenheimer, Jefferies and UBS's Buy view.
+- **Bull:** Analysts cite growth drivers up 26% (Repatha +37%), new Imdelltra survival data, the MariTide obesity program, rising estimates and target increases (Oppenheimer $480, Jefferies) with shares at record highs.
 - **Bear:** Commentators flag rising Q3 operating expenses, biosimilar erosion of Prolia and XGEVA, IRA price pressure on Enbrel, about $57B of debt, and valuation, with Guggenheim Neutral and some targets below the share price.

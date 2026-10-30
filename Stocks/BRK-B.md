@@ -4,7 +4,7 @@ ticker: BRK-B
 company: Berkshire Hathaway
 sector: Financials
 held_by: [VTV]
-updated: 2026-10-29
+updated: 2026-10-30
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Conglomerate owning insurance (GEICO), BNSF railroad, utilities and a large stoc
 
 ## Recent news
 
+- **2026-10-30** — A Motley Fool review of Berkshire's roughly $365B portfolio under Greg Abel found four stocks (Apple, American Express, Coca-Cola and Alphabet) make up about 54% of it, with Alphabet now about $33.5B, or 9.1%, after Abel added to it this year. ([source](https://www.fool.com/investing/2026/10/30/warren-buffett-successor-greg-abel-54-berkshire-hathaway-365-billion-portfolio-invested-4-proven-winners/))
 - **2026-10-29** — Alphabet, one of Berkshire's largest stock holdings, plunged after its Q3 miss; Barron's expects Berkshire to book a loss on the position, though its cost basis is not public. ([source](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/alphabet-setback-meets-record-run-berkshire-s-november-reckoning-nears/70426634))
 - **2026-10-27** — Class B shares closed down about 1% at $542.99. ([source](https://www.heygotrade.com/en/us-stock/brk.b/))
 - **2026-10-27** — A Barchart preview said analysts expect Q3 diluted EPS of $5.91, down 5.6% from a year earlier; the average price target of $556.20 sat about 1.4% above the share price, with a Moderate Buy consensus. ([source](https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-earnings-preview-expect-124559006.html))
@@ -34,5 +35,5 @@ Conglomerate owning insurance (GEICO), BNSF railroad, utilities and a large stoc
 
 ## Bull case / bear case
 
-- **Bull:** Commentators cite rising interest income on about $360B of cash, resumed buybacks, Greg Abel's capital deployment (e.g., Bending Spoons, Taylor Morrison) and UBS's target raise to $628.
-- **Bear:** Commentators note the shares trade near record highs around 1.6x book, Zacks sees Q3 EPS down 5.6% year over year, and Alphabet's slump points to an investment loss on a large holding.
+- **Bull:** Commentators cite more than $360B of cash and Treasuries earning interest, resumed buybacks, a diversified base of 90+ businesses, Greg Abel's capital deployment (e.g., Bending Spoons, the $6.8B Taylor Morrison deal) and UBS's target raise to $628.
+- **Bear:** Commentators note the shares trade near record highs around 1.6x book, Zacks sees Q3 EPS down 5.6% year over year with soft GEICO results and BNSF cost pressure, and Alphabet's slump hits a holding now worth about 9% of the portfolio.

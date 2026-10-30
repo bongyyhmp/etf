@@ -4,7 +4,7 @@ ticker: PLTR
 company: Palantir Technologies
 sector: Technology
 held_by: [XLK, VGT]
-updated: 2026-10-29
+updated: 2026-10-30
 tags: [stock]
 ---
 
@@ -23,6 +23,7 @@ Builds data-analysis and AI software for governments and large companies.
 
 ## Recent news
 
+- **2026-10-30** — Shares slid about 4.5% as software and AI-related names sold off with the Nasdaq, ahead of Palantir's Nov 2 Q3 report. ([source](https://www.tradingkey.com/news/market-movers/262260991-market-movers-pltr-20261030))
 - **2026-10-28** — Shares fell about 2% in morning trading after RBC Capital reiterated Underperform with a $90 target, calling Palantir the priciest name in its software coverage (about 61x 2026 revenue) and flagging slowing contract-value growth. ([source](https://finance.yahoo.com/markets/stocks/articles/palantir-stock-falls-rbc-delivers-174048319.html))
 - **2026-10-27** — Rosenblatt kept Buy and raised its target to $260 from $225, expecting a beat and raised guidance on Nov 2 and citing US commercial revenue up 149% to $764M in Q2. ([source](https://www.finanztrends.de/news/palantir-aktie-rosenblatt-hebt-kursziel-auf-260-dollar/))
 - **2026-10-27** — Shares closed nearly flat at $198.73 (-0.06%) as the Nasdaq rose about 1.2%, with no company-specific trigger cited. ([source](https://www.heygotrade.com/en/news/palantir-pltr-stock-news-october-28-2026/))

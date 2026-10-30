@@ -4,7 +4,7 @@ ticker: TXN
 company: Texas Instruments
 sector: Technology
 held_by: [SCHD, SMH, SOXX]
-updated: 2026-10-29
+updated: 2026-10-30
 tags: [stock]
 ---
 
@@ -33,6 +33,7 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 
 - **2026-11-09** — Expected settlement of the $2B notes offering tied to the Silicon Labs deal
 - **Late January 2027** — Q4 2026 earnings (expected; date not yet announced)
+- **First half of 2027** — expected closing of the Silicon Labs acquisition, still subject to China antitrust and other foreign clearances; outside date Feb 4, 2027, extendable ([source](https://investor.silabs.com/node/24776/html))
 
 ## Bull case / bear case
 

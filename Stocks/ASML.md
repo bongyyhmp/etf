@@ -4,7 +4,7 @@ ticker: ASML
 company: ASML Holding
 sector: Technology
 held_by: [SMH]
-updated: 2026-10-29
+updated: 2026-10-30
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 
 ## Recent news
 
+- **2026-10-30** — US-listed shares fell about 4.8%, slightly worse than a 4.2% drop in tech-equipment stocks. ([source](https://www.tradingkey.com/news/market-movers/262260990-market-movers-asml-20261030))
+- **2026-10-30** — ASML slid about 5.4% in Europe as Intel's weak Q4 outlook triggered a global chip selloff that wiped roughly $1 trillion off semiconductor stocks and hit equipment makers on AI-capex doubts. ([source](https://finance.biggo.com/news/e843ba2b-1691-487d-b819-4b3f6dc2f1b9))
 - **2026-10-27** — US-listed shares rose about 2.8% to around $1,636 on the ex-dividend date for a roughly $2.11 per-share payout; no specific catalyst was cited. ([source](https://www.thestockobserver.com/2026/10/27/asml-nasdaqasml-shares-climb-2-8-still-a-buy.html))
 - **2026-10-26** — ASML disclosed it repurchased about 343,000 shares for roughly EUR 499 million during Oct 19-23 under its current buyback program. ([source](https://www.stocktitan.net/news/ASML/asml-reports-transactions-under-its-current-share-buyback-7xbinbvrtgr8.html))
 - **2026-10-26** — The US-listed shares were near $1,572, down about 4% over the past week and about 10% over the past month following its Q3 report. ([source](https://www.gurufocus.com/news/9142084/asml-dcf-analysis-intrinsic-value-1397-vs-price-1572))
@@ -33,4 +35,4 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 ## Bull case / bear case
 
 - **Bull:** Analysts (JPMorgan, Citi) cite AI-driven EUV demand and planned ~30% capacity increases; ASML says planned supply won't fully cover 2027-2028 demand and customers are already asking about 2029-2030 systems (per ad-hoc-news).
-- **Bear:** Valuation models (GuruFocus) suggest the stock is modestly overvalued and the shares fell after Q3 results despite strong demand.
+- **Bear:** Valuation models (GuruFocus) suggest the stock is modestly overvalued, shares fell after Q3 results despite strong demand, and the Oct 30 chip rout showed sensitivity to doubts about AI capex and export controls.

@@ -4,7 +4,7 @@ ticker: COP
 company: ConocoPhillips
 sector: Energy
 held_by: [SCHD]
-updated: 2026-10-29
+updated: 2026-10-30
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ The largest US oil and gas producer focused purely on exploration and production
 
 ## Recent news
 
+- **2026-10-30** — Shares touched an all-time high of $152.85, up about 76% over the past year, as energy prices stayed elevated; InvestingPro noted 15 analysts have revised earnings estimates upward for the coming period. ([source](https://www.investing.com/news/company-news/conocophillips-stock-hits-alltime-high-at-15285-usd-93CH-4988051))
 - **2026-10-29** — Shares traded near $149.96, up about 0.6%; a 24/7 Wall St. comparison noted ConocoPhillips' 2015-16 dividend cut and its plan for $7B of added free cash flow by 2029, with Willow first oil targeted for early 2029. ([source](https://247wallst.com/investing/2026/10/29/chevron-is-up-nearly-57-in-2026-is-its-dividend-safer-than-conocophillips/))
 - **2026-10-29** — Brent eased about 0.7% to roughly $115.40 by mid-morning, still up about 78% from a year earlier. ([source](https://finance.yahoo.com/energy/articles/current-price-oil-october-29-130000851.html))
 - **2026-10-28** — Brent climbed about 1% to roughly $115 after Yemen's Houthis claimed a missile strike on Saudi Arabia's largest refinery (unconfirmed by Saudi authorities). ([source](https://www.5paisa.com/blog/crude-oil-price-today-28-oct-2026))
@@ -32,9 +33,9 @@ The largest US oil and gas producer focused purely on exploration and production
 
 ## Coming up
 
-- **2026-11-05** — Q3 results before the open, call at 12 p.m. ET (confirmed)
+- **2026-11-05** — Q3 results before the open, call at 12 p.m. ET (confirmed); StockTitan lists consensus EPS near $2.97 vs. $1.61 a year earlier
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite Marathon Oil synergies, Willow and LNG growth (a plan for $7B of added free cash flow by 2029), a 45% cash-return target, and Q3 EPS expected up about 83% year over year (Zacks); Susquehanna raised its target to $175.
+- **Bull:** Analysts cite Marathon Oil synergies, Willow and LNG growth (a plan for $7B of added free cash flow by 2029), a 45% cash-return target, rising earnings estimates and Q3 EPS expected up about 83% year over year (Zacks); Susquehanna raised its target to $175.
 - **Bear:** Analysts flag high commodity sensitivity (2027 EPS modeled below 2026), Willow and LNG execution risk, a rich P/E, and Piper Sandler's Neutral start.

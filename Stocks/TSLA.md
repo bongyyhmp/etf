@@ -4,7 +4,7 @@ ticker: TSLA
 company: Tesla
 sector: Consumer Discretionary
 held_by: [QQQ, VUG, VOO, IVV, SPY, VTI]
-updated: 2026-10-29
+updated: 2026-10-30
 tags: [stock]
 ---
 
@@ -27,6 +27,7 @@ Makes electric vehicles and energy storage systems, and is developing self-drivi
 
 ## Recent news
 
+- **2026-10-29** — Tesla closed down about 0.2% at $403.30 as megacap tech weakened after Alphabet's earnings miss. ([source](https://www.heygotrade.com/en/news/tesla-tsla-stock-news-october-30-2026/))
 - **2026-10-28** — Tesla closed down about 0.8% at $404.22 on profit-taking after a two-day SpaceX-merger rally, while the Nasdaq rose; Musk cautioned a combination should not be assumed, and Tesla said its Texas Cybercab plant can now build robotaxis faster than it can deploy them. ([source](https://www.heygotrade.com/en/news/tesla-tsla-stock-news-october-29-2026/))
 - **2026-10-27** — Tesla closed up about 4% at $407.46 on SpaceX merger speculation (both companies have special committees weighing a deal, with no terms agreed) and ARK Invest reiterating its $4,400 long-term target. ([source](https://247wallst.com/investing/2026/10/28/tesla-closed-up-4-at-407-heres-what-a-spacex-merger-could-mean-for-your-shares/))
 - **2026-10-26** — Barclays' Dan Levy upgraded Tesla to Overweight and raised his target to $450 from $370, citing a possible SpaceX combination; shares jumped about 5-6%. ([source](https://www.fool.com/coverage/stock-market-today/2026/10/26/stock-market-midday-oct-26-tech-sector-rallies-on-anthropic-ipo-filing-and-cooling-oil-prices/))

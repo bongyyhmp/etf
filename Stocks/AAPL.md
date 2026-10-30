@@ -4,7 +4,7 @@ ticker: AAPL
 company: Apple
 sector: Technology
 held_by: [VGT, XLK, VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-10-29
+updated: 2026-10-30
 tags: [stock]
 ---
 
@@ -29,6 +29,8 @@ Makes the iPhone, Mac, iPad and wearables, and earns a growing share from servic
 
 ## Recent news
 
+- **2026-10-30** — BofA's Wamsi Mohan kept Buy and a $370 target but trimmed his fiscal 2027 iPhone unit estimate by 9 million to 247 million (Street ~260 million), citing the split September/March launch schedule and higher prices from rising parts costs; he sees December-quarter revenue consensus as too high. ([source](https://www.tradingview.com/news/gurufocus:e2f8b7067094b:0-bank-of-america-delivers-stark-warning-on-apple-stock-ahead-of-earnings/))
+- **2026-10-30** — Shares eased about 0.6% to roughly $347 midday as focus turned to whether supply limits cap revenue in the Nov 2 report; the stock trades near 40x earnings. ([source](https://www.tradingview.com/news/gurufocus:0a30fbaac094b:0-apple-stocks-edge-lower-with-supply-limits-setting-the-earnings-bar/))
 - **2026-10-28** — HSBC kept a Buy rating and $366 target, saying iPhone Duo sales look promising even after weekend social-media reports of some foldable screens cracking along the crease when unfolded. ([source](https://www.tipranks.com/news/apples-iphone-duo-sales-look-promising-despite-cracked-screen-problem-analyst-says-ahead-of-q4-earnings))
 - **2026-10-27** — Goldman Sachs reiterated Buy and lifted its target to $390 from $360 on a higher multiple, forecasting fiscal Q4 revenue of about $113.6B and EPS of $2.01, slightly above consensus, but a below-consensus December quarter. ([source](https://www.kucoin.com/news/flash/goldman-sachs-forecasts-apple-q4-earnings-iphone-18-series-drives-growth-target-price-raised-to-390))
 - **2026-10-28** — At its "Pro and Tell" event Apple unveiled its first touchscreen MacBook Pro, with an OLED "PROLED XDR" display, starting at $2,899 for 14-inch and $3,399 for 16-inch; preorders opened the same day with deliveries from Nov 6. ([source](https://www.techradar.com/news/live/oled-touchscreen-macbook-pro-apple-pro-and-tell-live-october-2026))
@@ -48,4 +50,4 @@ Makes the iPhone, Mac, iPad and wearables, and earns a growing share from servic
 ## Bull case / bear case
 
 - **Bull:** BofA, Goldman Sachs and HSBC cite strong iPhone Duo demand driving fiscal 2027 growth, services gains, in-house chip margins and a new higher-priced touchscreen Mac lineup.
-- **Bear:** Jefferies cites a stretched valuation, a soft December-quarter outlook, weaker iPhone 18 Pro demand and memory-cost pressure; early Duo screen-cracking reports add a product risk.
+- **Bear:** Jefferies cites a stretched valuation, weaker iPhone 18 Pro demand and memory-cost pressure, BofA cut its FY2027 iPhone unit forecast and sees December-quarter consensus as too high, and early Duo screen-cracking reports add a product risk.
