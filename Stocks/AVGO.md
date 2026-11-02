@@ -4,7 +4,7 @@ ticker: AVGO
 company: Broadcom
 sector: Technology
 held_by: [SOXX, SMH, XLK, VUG, VGT, VOO, IVV, SPY, VTI, QQQ]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 

@@ -4,7 +4,7 @@ ticker: TSM
 company: Taiwan Semiconductor (TSMC)
 sector: Technology
 held_by: [SMH, SOXX]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 
@@ -23,16 +23,18 @@ The world's largest contract chipmaker; manufactures chips for Apple, Nvidia, AM
 
 ## Recent news
 
+- **2026-10-30** — ADRs closed down about 6% at $406.13 as Intel's weak outlook revived worries about returns on AI spending; coverage cited sector sentiment rather than any TSMC-specific problem. ([source](https://tickerspark.ai/market/taiwan-semiconductor-manufacturing-company-limited-tsm-drops-5-7-1793376412321))
+- **2026-10-29** — ADRs fell 1.75% to $431.81 in a broad chip pullback after Alphabet's revenue miss reignited AI-spending concerns. ([source](https://www.heygotrade.com/en/news/tsmc-tsm-stock-news-october-30-2026/))
 - **2026-10-28** — ADRs closed up about 0.6% at $439.51, extending gains as coverage focused on TSMC's AI pricing power, then eased about 1.9% after hours; no company announcement was cited. ([source](https://www.heygotrade.com/en/us-stock/tsm/))
 - **2026-10-27** — ADRs rose about 3% amid reports TSMC is weighing price increases for its CoWoS advanced packaging, read by investors as a sign of pricing power with capacity tight. ([source](https://www.tradingkey.com/news/market-movers/262242907-market-movers-tsm-20261027))
 - **2026-10-23** — TSMC ADRs rose about 1% to roughly $417, outperforming a weak market after Moody's upgraded its credit rating to Aa2 earlier in the week. ([source](https://www.benzinga.com/markets/tech/26/10/62570114/whats-going-on-with-taiwan-semiconductor-stock-friday-5))
 
 ## Coming up
 
-- **~2026-11-10** — October monthly revenue report (expected, typical timing)
+- **2026-11-10** — October monthly revenue report (cited as the next checkpoint in coverage; typical timing)
 - **Mid-January 2027** — Q4 2026 earnings (expected; date not yet announced)
 
 ## Bull case / bear case
 
 - **Bull:** Analysts (Barclays, Needham) and Moody's cite manufacturing leadership and AI demand; reports of possible CoWoS packaging price hikes point to pricing power.
-- **Bear:** Commentators flag a ~31x P/E, heavy capex, Taiwan concentration, a fatal Kaohsiung construction accident and volatility around macro events.
+- **Bear:** Commentators flag a ~31x P/E, heavy capex, Taiwan concentration, a fatal Kaohsiung construction accident and sensitivity to AI-spending scares, as in the ~6% Oct 30 drop.

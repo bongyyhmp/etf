@@ -4,18 +4,18 @@ ticker: SMH
 issuer: VanEck
 aum: $77B
 expense_ratio: 0.35%
-return_ytd: 56.0
-return_1y: 52.8
-data_as_of: 2026-10-29
+return_ytd: 45.1
+return_1y: 44.1
+data_as_of: 2026-10-30
 tags: [etf]
 ---
 
 # SMH — VanEck Semiconductor ETF
 
-> [!info] Snapshot (as of Oct 29, 2026)
+> [!info] Snapshot (as of Oct 30, 2026)
 > **Tracks:** MVIS US Listed Semiconductor 25  
 > **Issuer:** VanEck · **Assets:** $77B · **Expense ratio:** 0.35%  
-> **Return:** +56.0% this year · +52.8% over 1 year (dividends reinvested)  
+> **Return:** +45.1% this year · +44.1% over 1 year (dividends reinvested)  
 > **Holdings:** 25 stocks · top 10 ≈ 74% of the fund
 
 ## Top 10 holdings

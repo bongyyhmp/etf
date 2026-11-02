@@ -4,7 +4,7 @@ ticker: CSCO
 company: Cisco Systems
 sector: Technology
 held_by: [XLK, VGT, VTV]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 
@@ -24,6 +24,7 @@ Sells networking equipment, security and collaboration software to businesses.
 
 ## Recent news
 
+- **2026-10-30** — Shares fell about 4.1% (to roughly $104.50) in a broad tech selloff, with worries about margins from lower-margin AI networking gear and memory costs, plus competition from Arista and HPE, cited. ([source](https://www.tradingkey.com/news/market-movers/262260988-market-movers-csco-20261030))
 - **2026-10-30** — Shares opened at $108.59, down from $110.29 a day earlier and below the 50-day average of about $110.10; MarketBeat's consensus stayed Moderate Buy (16 Buy, 7 Hold, 3 Strong Buy) with an average target near $128.52. ([source](https://www.marketbeat.com/instant-alerts/filing-cisco-systems-inc-csco-stock-bought-by-choreo-llc-2026-10-30/))
 - **2026-10-29** — Shares opened at $110.29; MarketBeat put the consensus at Moderate Buy with an average target near $128.52 and noted about $5.0M of insider sales over the past 90 days. ([source](https://www.marketbeat.com/instant-alerts/filing-cisco-systems-inc-csco-stock-position-reduced-by-bokf-na-2026-10-29/))
 - **2026-10-27** — Shares edged up about 1% to around $111.38 on below-average volume, with no company-specific catalyst cited. ([source](https://www.marketbeat.com/instant-alerts/price-cisco-systems-nasdaq-csco-stock-jumps-1-whats-next-2026-10-27/))
@@ -37,4 +38,4 @@ Sells networking equipment, security and collaboration software to businesses.
 ## Bull case / bear case
 
 - **Bull:** Analysts cite hyperscaler AI networking orders, growing Splunk-driven recurring software revenue and a Moderate Buy consensus (MarketBeat average target about $128.52; Morgan Stanley Buy, $135).
-- **Bear:** Coverage flags gross-margin pressure from mix and memory costs, a trailing P/E above 30, questions about slower services growth, HSBC's August downgrade to Hold and recent insider selling.
+- **Bear:** Coverage flags gross-margin pressure from lower-margin AI hardware and memory costs, competition from Arista and HPE, a trailing P/E above 30, HSBC's August downgrade to Hold and recent insider selling; shares fell about 4% in the Oct 30 tech selloff.

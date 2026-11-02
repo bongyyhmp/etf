@@ -4,7 +4,7 @@ ticker: ASML
 company: ASML Holding
 sector: Technology
 held_by: [SMH]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 
 ## Recent news
 
+- **2026-10-30** — US-listed shares closed down 6.55% at $1,565.90, a steeper final loss than intraday reports showed, as the chip-equipment group sold off. ([source](https://www.heygotrade.com/en/us-stock/asml/))
 - **2026-10-30** — US-listed shares fell about 4.8%, slightly worse than a 4.2% drop in tech-equipment stocks. ([source](https://www.tradingkey.com/news/market-movers/262260990-market-movers-asml-20261030))
 - **2026-10-30** — ASML slid about 5.4% in Europe as Intel's weak Q4 outlook triggered a global chip selloff that wiped roughly $1 trillion off semiconductor stocks and hit equipment makers on AI-capex doubts. ([source](https://finance.biggo.com/news/e843ba2b-1691-487d-b819-4b3f6dc2f1b9))
 - **2026-10-27** — US-listed shares rose about 2.8% to around $1,636 on the ex-dividend date for a roughly $2.11 per-share payout; no specific catalyst was cited. ([source](https://www.thestockobserver.com/2026/10/27/asml-nasdaqasml-shares-climb-2-8-still-a-buy.html))

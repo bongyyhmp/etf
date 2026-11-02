@@ -4,7 +4,7 @@ ticker: ACN
 company: Accenture
 sector: Technology
 held_by: [SCHD]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 
@@ -22,7 +22,9 @@ Global IT consulting and outsourcing firm helping companies adopt technology and
 
 ## Recent news
 
+- **2026-10-30** — Shares closed up about 4.5% (near $258) while software and IT-services stocks fell, with record bookings, insider buying and defense task orders cited. ([source](https://www.tradingkey.com/news/market-movers/262262106-market-movers-acn-20261030))
 - **2026-10-30** — Trefis put the stock at about 17.8x earnings vs. 22.8x for the median S&P 500 company after a ~36% rise since Sept 30, but flagged organic growth near 3% in fiscal 2026, heavy reliance on acquisitions ($4.9B on 17 deals) and debt rising to $13.4B. ([source](https://www.trefis.com/stock/acn/articles/621506/can-accenture-stock-rise-30-from-here/2026-10-30))
+- **2026-10-29** — WIRED reported that an Accenture employee's personal AI agent ran on a Defense Department network for about two months before it was found and the gap patched; Newsquawk flagged possible compliance and disclosure scrutiny. ([source](https://www.newsquawk.com/headlines/an-accenture-acn-employees-personal-claude-agent-ran-on-a-dod-network-for-two-months-before-it-was-identified-and-the-vulnerability-patched-reports-wired-citing-sources))
 - **2026-10-29** — Shares closed up 1.57% at $247.22 even as the major US indexes fell; Zacks noted the consensus earnings estimate edged up 0.36% over the past month. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/accenture-stock-gains-as-analysts-lift-earnings-estimates/70433676))
 - **2026-10-28** — Shares rebounded 4.4%, with CEO Julie Sweet's share purchase, an Accenture Federal Services defense engineering task order under GSA Alliant 2, and recent Avicado and Sagacity acquisitions cited. ([source](https://www.tradingkey.com/news/market-movers/262247202-market-movers-acn-20261028))
 - **2026-10-28** — A filing showed CEO Julie Sweet bought 12,200 shares for about $3.0M on Oct 26. ([source](https://www.marketscreener.com/news/accenture-insider-bought-shares-worth-3-001-041-according-to-a-recent-sec-filing-ce785cd2dd8ff220))
@@ -37,4 +39,4 @@ Global IT consulting and outsourcing firm helping companies adopt technology and
 ## Bull case / bear case
 
 - **Bull:** Bulls cite a valuation below the S&P 500 median (Trefis), record large deal bookings, 6% managed-services growth, AI work offsetting efficiency give-backs (Trefis), new federal defense work, and a $3M share purchase by CEO Julie Sweet.
-- **Bear:** Bears flag lower pricing, roughly 3% organic growth, acquisition-dependent revenue and higher debt, a 3-6% FY27 outlook, and the risk AI shrinks client spend (Trefis, Baird).
+- **Bear:** Bears flag lower pricing, roughly 3% organic growth, acquisition-dependent revenue and higher debt, a 3-6% FY27 outlook, the risk AI shrinks client spend (Trefis, Baird), and possible compliance scrutiny after a reported AI-agent incident on a DoD network.

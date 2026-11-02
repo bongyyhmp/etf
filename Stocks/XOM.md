@@ -4,7 +4,7 @@ ticker: XOM
 company: Exxon Mobil
 sector: Energy
 held_by: [VTV]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 
@@ -22,6 +22,9 @@ Integrated oil and gas company: drilling, refining and chemicals.
 
 ## Recent news
 
+- **2026-11-02** — Shares fell about 3.9% to close near $179.92, per MarketBeat's quote, as energy stocks pulled back from record highs. ([source](https://www.marketbeat.com/stocks/nyse/xom/news))
+- **2026-11-02** — Several analysts lifted targets after the Q3 beat, including Wells Fargo and a raise to $187 reported by MarketBeat. ([source](https://www.marketbeat.com/instant-alerts/analyst-exxonmobil-nyse-xom-price-target-raised-to-18700-2026-11-02/))
+- **2026-10-31** — Coverage noted Q3 revenue came in below analyst estimates even as earnings beat. ([source](https://www.msn.com/en-us/money/other/exxonmobil-nyse-xom-reports-sales-below-analyst-estimates-in-q3-2026-earnings/ar-AA2gqzL6))
 - **2026-10-30** — Shares climbed about 2% to near $187 midday, close to a 52-week high of $188.50, as energy stocks were a bright spot in a falling market. ([source](https://www.marketbeat.com/instant-alerts/earnings-exxonmobil-nyse-xom-posts-earnings-results-beats-estimates-by-011-eps-2026-10-30/))
 - **2026-10-30** — Q3 adjusted EPS came in at $4.23 (GAAP $3.72), about $0.11 above consensus, on stronger refining margins and full Gulf Coast refinery runs; upstream earnings dipped on lower prices. It returned $9.4B to shareholders, declared a $1.07 Q4 dividend and plans about $20B of buybacks in 2027. ([source](https://boereport.com/2026/10/30/exxonmobil-announces-third-quarter-2026-results/))
 - **2026-10-30** — The company said it will take over as operator of Papua LNG and raise its stakes in Papua LNG (to 34%) and Mozambique's Rovuma project (to 50%); Guyana and Kearl each passed 1 billion barrels of cumulative output. ([source](https://boereport.com/2026/10/30/exxonmobil-announces-third-quarter-2026-results/))
@@ -40,5 +43,5 @@ Integrated oil and gas company: drilling, refining and chemicals.
 
 ## Bull case / bear case
 
-- **Bull:** After the Q3 beat, coverage cites refining strength, $9.4B of quarterly shareholder returns and a planned $20B buyback for 2027, Guyana and Kearl milestones and lower net debt; Barclays and Jefferies carry $200 targets (MarketBeat).
-- **Bear:** Commentators note earnings remain tied to volatile, conflict-driven oil prices, upstream profits slipped on lower realizations, Wells Fargo moved to Equal Weight, and the shares trade above MarketBeat's average target of about $168.
+- **Bull:** After the Q3 beat, coverage cites refining strength, $9.4B of quarterly shareholder returns, a planned $20B buyback for 2027, Guyana and Kearl milestones, lower net debt, and post-earnings target raises (including Wells Fargo); Barclays and Jefferies carry $200 targets (MarketBeat).
+- **Bear:** Commentators note earnings remain tied to volatile, conflict-driven oil prices, Q3 revenue missed estimates and upstream profits slipped, the stock fell about 4% on Nov 2 from near-record levels, and shares trade above MarketBeat's average target of about $168.

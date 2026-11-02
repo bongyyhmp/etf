@@ -2,20 +2,20 @@
 type: etf
 ticker: VOO
 issuer: Vanguard
-aum: $1.01T
+aum: $991B
 expense_ratio: 0.03%
-return_ytd: 13.8
-return_1y: 13.2
-data_as_of: 2026-10-29
+return_ytd: 11.8
+return_1y: 12.4
+data_as_of: 2026-10-30
 tags: [etf]
 ---
 
 # VOO — Vanguard S&P 500 ETF
 
-> [!info] Snapshot (as of Oct 29, 2026)
+> [!info] Snapshot (as of Oct 30, 2026)
 > **Tracks:** S&P 500 (about 500 of the largest US companies)  
-> **Issuer:** Vanguard · **Assets:** $1.01T · **Expense ratio:** 0.03%  
-> **Return:** +13.8% this year · +13.2% over 1 year (dividends reinvested)  
+> **Issuer:** Vanguard · **Assets:** $991B · **Expense ratio:** 0.03%  
+> **Return:** +11.8% this year · +12.4% over 1 year (dividends reinvested)  
 > **Holdings:** 504 stocks · top 10 ≈ 40% of the fund
 
 ## Top 10 holdings
@@ -48,6 +48,7 @@ tags: [etf]
 
 ## News log
 
+- **2026-10-30** — Reported assets slipped back under the $1 trillion mark, to about $991B, as the market fell. ([source](https://chartrow.com/lists/biggest-etfs))
 - **2026-10-26** — Reported fund assets reached about $1.00 trillion, up from about $996B three days earlier. ([source](https://chartrow.com/lists/biggest-etfs))
 
 ## Sources

@@ -4,7 +4,7 @@ ticker: KO
 company: Coca-Cola
 sector: Consumer Staples
 held_by: [SCHD]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Sells soft drinks, water, sports drinks and coffee brands worldwide.
 
 ## Recent news
 
+- **2026-11-02** — Shares set a new 52-week high and closed near $95.93, up about 2% on the day, per MarketBeat. ([source](https://www.marketbeat.com/instant-alerts/price-coca-cola-nyse-ko-hits-new-52-week-high-time-to-buy-2026-11-02/))
+- **2026-10-30** — The stock gained about 1.4% in Friday trading as post-earnings momentum continued. ([source](https://www.marketbeat.com/instant-alerts/price-coca-cola-nyse-ko-stock-jumps-14-still-a-buy-2026-10-30/))
 - **2026-10-29** — Shares rose about 1.2% to near $92.85 (intraday high $93.16) as Freedom Broker lifted its target to $89 from $85 while keeping Hold; MarketBeat's consensus target is about $97.26 ("Moderate Buy"). ([source](https://www.marketbeat.com/instant-alerts/price-coca-cola-nyse-ko-stock-price-up-12-on-analyst-upgrade-2026-10-29/))
 - **2026-10-28** — Citigroup kept Buy and nudged its target to $103 from $102; shares rose $0.57 to $91.75. ([source](https://www.marketbeat.com/instant-alerts/analyst-citigroup-forecasts-strong-price-appreciation-for-coca-cola-nyse-ko-stock-2026-10-28/))
 - **2026-10-28** — Wells Fargo lifted its target to $100 from $90 (Overweight), citing broad strength in volume and margins while noting the forward P/E has expanded to about 27.5x; TD Cowen raised to $104 from $100 (Buy). ([source](https://www.investing.com/news/analyst-ratings/wells-fargo-raises-cocacola-stock-price-target-to-100-on-strong-2026-93CH-4978124))
@@ -32,7 +34,6 @@ Sells soft drinks, water, sports drinks and coffee brands worldwide.
 - **2026-10-27** — Coke lifted its 2026 outlook for a third straight quarter, now seeing comparable EPS growth of at least 11% (from 9%-10%) and organic revenue growth of at least 5%. ([source](https://tippinsights.com/coca-cola-beats-earnings-estimates-despite-weak-north-american-demand/))
 - **2026-10-27** — Stock reaction was muted: shares were up about 1% premarket but slipped less than 1% in morning trading as the company flagged a tough consumer backdrop. ([source](https://eriinfo.com/coca-cola-ko-q3-2026-earnings/))
 - **2026-10-26** — Piper Sandler kept Buy and lifted its target to $102 from $95, citing new products shown at NACS; UBS ($104) and TD Cowen ($100) also rate it Buy. ([source](https://www.tipranks.com/news/coca-cola-faces-third-quarter-earnings-test-on-tuesday-after-30-ko-stock-rally-and-piper-sandler-upgrade))
-- **2026-10-26** — RBC also raised its Coca-Cola price target a day before Q3 results (new level not disclosed in the source). ([source](https://everhint.com/analyst-hints-ratings-october-26-2026-midday-update-last-24-hours-pacific-time))
 
 ## Coming up
 
@@ -40,5 +41,5 @@ Sells soft drinks, water, sports drinks and coffee brands worldwide.
 
 ## Bull case / bear case
 
-- **Bull:** Coverage cites a seventh straight EPS beat, 5% unit-case volume growth, a third guidance raise, and post-results target raises from JPMorgan, UBS, Wells Fargo, Citi, Piper Sandler and TD Cowen.
+- **Bull:** Coverage cites a seventh straight EPS beat, 5% unit-case volume growth, a third guidance raise, post-results target raises from JPMorgan, UBS, Wells Fargo, Citi, Piper Sandler and TD Cowen, and shares reaching a new 52-week high on Nov 2.
 - **Bear:** Commentators flag flat North America volume amid a pressured U.S. consumer, a forward P/E near 27.5x after a roughly 30% rally, Hold-rated targets (e.g., Freedom Broker at $89) below the share price, and (per UBS) tougher 2027 volume comparisons, currency and inflation headwinds.

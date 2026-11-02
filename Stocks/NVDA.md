@@ -4,7 +4,7 @@ ticker: NVDA
 company: NVIDIA
 sector: Technology
 held_by: [SMH, VGT, XLK, VUG, SOXX, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 
@@ -31,6 +31,7 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 
 ## Recent news
 
+- **2026-10-30** — Nvidia ended Friday down 4.2% at $204.64 as Intel's weak outlook dragged chip stocks lower; CNBC estimated the selloff cut about $6B from the value of Nvidia's own stake in Intel. ([source](https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-november-2-2026/))
 - **2026-10-30** — Nvidia was down about 5.2% in afternoon trading after a Bloomberg report that it may provide billions in credit guarantees for an Nscale data center expected to serve Anthropic, reviving "circular AI financing" worries; reports put its data-center commitments and guarantees near $165B. ([source](https://finance.yahoo.com/markets/stocks/articles/why-nvidia-stock-took-dive-194907899.html))
 - **2026-10-30** — Chip stocks fell after Intel's weak outlook and PC slump sent it down about 25% premarket; Nvidia was down about 3% premarket, a smaller drop than PC-exposed peers such as AMD and Dell. ([source](https://247wallst.com/investing/2026/10/30/intel-plunges-25-as-weak-outlook-and-pc-slump-overshadow-earnings-beat-dell-tumbles-13-amd-sinks-10-nvidia-falls-3/))
 - **2026-10-28** — Nvidia closed down 1.2% at $215.38 after reports that the Justice Department is asking how its planned $12.9B Hugging Face acquisition (expected to close in 1H 2027) could affect AI competition, as part of a wider review that reportedly also covers its Groq licensing deal; Jensen Huang said Hugging Face will stay open. ([source](https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-october-29-2026/))
@@ -42,11 +43,10 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 - **2026-10-26** — Nvidia rose about 2.4% to around $216 as Anthropic's IPO filing and cooler oil prices lifted tech. ([source](https://www.fool.com/coverage/stock-market-today/2026/10/26/stock-market-midday-oct-26-tech-sector-rallies-on-anthropic-ipo-filing-and-cooling-oil-prices/))
 - **2026-10-23** — Nvidia shares edged lower to about $210.96 Friday after a 4.4% chip-sector selloff the day before tied to AI-funding and cost-of-capital worries. ([source](https://www.heygotrade.com/en/us-stock/nvda/))
 - **2026-10-19** — Closed at $217.09 (+1.4%) as AI chip stocks rebounded from the prior week's sell-off; still about 11% below its 52-week high of $243.37. ([source](https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-october-20-2026/))
-- **2026-08-26** — Fiscal Q2 2027 revenue was $96.2B, up 106% year over year. ([source](https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-october-20-2026/))
 
 ## Coming up
 
-- **2026-11-18** — Q3 FY2027 earnings after the close (estimated by MarketBeat; not confirmed)
+- **2026-11-17** — Q3 FY2027 earnings, call at 2 p.m. PT / 5 p.m. ET (confirmed by Nvidia; company guided revenue of about $108B, plus or minus 2%)
 - **2026-12-01** — GTC Washington, D.C. keynote by Jensen Huang (conference runs Nov 30-Dec 3)
 
 ## Bull case / bear case

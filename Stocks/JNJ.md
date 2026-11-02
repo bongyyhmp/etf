@@ -4,7 +4,7 @@ ticker: JNJ
 company: Johnson & Johnson
 sector: Healthcare
 held_by: [VTV]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 

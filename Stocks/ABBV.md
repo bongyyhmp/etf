@@ -4,7 +4,7 @@ ticker: ABBV
 company: AbbVie
 sector: Healthcare
 held_by: [VTV]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Drugmaker known for immunology drugs (Skyrizi, Rinvoq) and Botox.
 
 ## Recent news
 
+- **2026-11-02** — Brokers raised targets after Q3: Morgan Stanley to $346 from $310 (Overweight), Wells Fargo to $340 from $300 (Overweight, citing pipeline additions and Skyrizi/Rinvoq), Canaccord to $338, RBC to $330, Cantor to $325 and Guggenheim to $322 (Buy). ([source](https://www.marketbeat.com/instant-alerts/analyst-abbvie-nyse-abbv-given-new-34600-price-target-at-morgan-stanley-2026-11-02/))
+- **2026-11-02** — Despite the upgrades, shares were down about 2.1% at roughly $288.74 in Monday trading, per MarketBeat. ([source](https://www.marketbeat.com/instant-alerts/analyst-abbvie-nyse-abbv-given-new-34600-price-target-at-morgan-stanley-2026-11-02/))
 - **2026-10-30** — Q3 revenue rose 10.3% to $17.40B, a bit above the ~$17.36B consensus, and adjusted EPS of $3.82 beat the $3.74 estimate; Skyrizi grew 22.7% to $5.78B and Rinvoq 23.9% to $2.71B while Humira fell 31.2% to $683M. AbbVie raised 2026 adjusted EPS guidance to $13.95-$13.99 from $13.76-$13.96 and lifted the quarterly dividend 5.2% to $1.82. ([source](https://finance.biggo.com/news/48db2777-ec7c-46a8-a0ff-13c6b1f6413a))
 - **2026-10-30** — Shares closed up 1.72% at $295.79 after the results. ([source](https://moneycheck.com/abbvie-abbv-shares-climb-1-72-following-strong-q3-performance-and-raised-2026-outlook))
 - **2026-10-29** — Ahead of the Oct 30 report, TIKR noted the Street expects Q3 revenue near $17.37B, above AbbVie's ~$17.2B guide, with full-year EPS consensus ($13.95) near the top of guidance and a dividend decision typically due with the results. ([source](https://www.tikr.com/blog/abbvies-pipeline-had-a-mixed-week-the-october-30-report-has-to-show-its-guidance-still-rises))
@@ -41,5 +43,5 @@ Drugmaker known for immunology drugs (Skyrizi, Rinvoq) and Botox.
 
 ## Bull case / bear case
 
-- **Bull:** Supporters point to the Q3 beat with Skyrizi and Rinvoq each growing 20%+, another 2026 EPS guidance raise, a 5.2% dividend increase and pipeline steps like the etentamig filing; Piper Sandler reaffirmed Buy.
+- **Bull:** Supporters point to the Q3 beat with Skyrizi and Rinvoq each growing 20%+, another 2026 EPS guidance raise, a 5.2% dividend increase and pipeline steps like the etentamig filing; Morgan Stanley ($346), Wells Fargo ($340) and others raised targets on Nov 2.
 - **Bear:** Commentators flag a premium ~19x forward P/E, a new guidance midpoint only in line with consensus, a 31% Humira decline, a modest lutikizumab readout and Apogee dilution.

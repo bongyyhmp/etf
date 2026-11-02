@@ -4,7 +4,7 @@ ticker: AMD
 company: Advanced Micro Devices
 sector: Technology
 held_by: [SOXX, SMH, XLK, QQQ, VGT, VUG]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 
@@ -27,6 +27,7 @@ Designs CPUs and GPUs for PCs, servers and AI data centers; Nvidia's main AI chi
 
 ## Recent news
 
+- **2026-10-30** — AMD closed down 10.9% at $504.80, one of the hardest-hit chip names after Intel's Q4 forecast and PC-slump warning, heading into its own Nov 3 report (company guidance: about $13B revenue, ~56% non-GAAP gross margin). ([source](https://www.heygotrade.com/en/news/amd-amd-stock-news-november-2-2026/))
 - **2026-10-30** — AMD sank about 10% (to near $512 premarket) after rival Intel guided Q4 revenue to $15B-$16B vs. ~$17B expected and forecast PC-market declines of 12% in 2026 and 10% in 2027, fueling worries about AMD's shared PC exposure and Xeon competition for EPYC. ([source](https://247wallst.com/investing/2026/10/30/intel-plunges-25-as-weak-outlook-and-pc-slump-overshadow-earnings-beat-dell-tumbles-13-amd-sinks-10-nvidia-falls-3/))
 - **2026-10-29** — AMD fell about 2.8% in overnight trading as chip stocks slid after Samsung's profit missed estimates and Microsoft and Alphabet reported lighter-than-expected capex. ([source](https://stocktwits.com/news-articles/markets/equity/intc-amd-avgo-mu-decline-on-samsung-s-profit-miss-lighter-capex-from-microsoft-alphabet/cZUQgW3R9ba))
 - **2026-10-28** — Susquehanna raised its target to $650 from $620 and kept a positive rating; shares rose about 3.2% to around $578, extending the Meta-deal rally. ([source](https://www.marketbeat.com/instant-alerts/price-advanced-micro-devices-nasdaq-amd-stock-price-up-32-following-analyst-upgrade-2026-10-28/))
@@ -45,4 +46,4 @@ Designs CPUs and GPUs for PCs, servers and AI data centers; Nvidia's main AI chi
 ## Bull case / bear case
 
 - **Bull:** Analysts (Susquehanna, Citi, Mizuho) cite AI data-center demand, MI450/Helios rack ramps and large OpenAI/Meta GPU deals, now extended by the Oct 27 Meta pact including a custom Instinct GPU.
-- **Bear:** Commentators note high expectations into the Nov 3 report after a huge run, plus risks from Intel's warning of a PC slump through 2027, slowing hyperscaler capex, export limits and customer concentration.
+- **Bear:** Commentators note high expectations into the Nov 3 report after a huge run (and an ~11% drop on Oct 30), plus risks from Intel's warning of a PC slump through 2027, slowing hyperscaler capex, export limits and customer concentration.

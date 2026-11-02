@@ -4,7 +4,7 @@ ticker: JPM
 company: JPMorgan Chase
 sector: Financials
 held_by: [VTV]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 
@@ -28,7 +28,6 @@ The largest US bank: consumer banking, credit cards, investment banking and asse
 
 ## Coming up
 
-- **2026-10-31** — Payment of the raised $1.65 quarterly dividend (record date Oct 6)
 - **2026-11-05** — Presentation at the BancAnalysts Association of Boston conference (scheduled)
 - **2027-01-14** — Q4 2026 earnings (scheduled)
 - **2027-04-13** — Q1 2027 earnings (confirmed in 2027 calendar)

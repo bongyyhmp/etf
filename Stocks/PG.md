@@ -4,7 +4,7 @@ ticker: PG
 company: Procter & Gamble
 sector: Consumer Staples
 held_by: [SCHD]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Makes household brands such as Tide, Pampers, Gillette and Crest.
 
 ## Recent news
 
+- **2026-11-02** — Shares rose about 1.5% to close near $163.99, per MarketBeat's quote page, as staples gained. ([source](https://www.marketbeat.com/stocks/NYSE/pg/news))
+- **2026-10-30** — P&G completed a $4 billion senior notes offering. ([source](https://www.tipranks.com/news/company-announcements/procter-gamble-completes-4-billion-senior-notes-offering))
 - **2026-10-28** — Colgate-Palmolive Pakistan signed an agreement to buy P&G Pakistan's Port Qasim (Karachi) land, factory and related assets, part of P&G's exit from Pakistani operations; terms were not disclosed and the deal needs competition-regulator clearance. ([source](https://www.investify.pk/news/100000159291/colgate-palmolive-pakistan-to-acquire-p-and-g-s-port-qasim-assets-amid-agreement))
 - **2026-10-27** — A filing showed CEO Shailesh Jejurikar sold 35,000 shares on Oct 23 at about $163.09 (roughly $5.7M) after exercising stock options. ([source](https://investing.com/news/insider-trading-news/procter--gamble-ceo-shailesh-jejurikar-sells-57m-in-shares-93CH-4974237))
 - **2026-10-28** — A Trefis review of fiscal Q1 noted core EPS of $2.00 beat while revenue of $23.3B missed, the cost hit rose to about 11% of core EPS, and management expects materially higher costs in fiscal Q2, assuming $100 Brent. ([source](https://www.trefis.com/stock/pg/articles/620996/what-did-procter-gambles-latest-quarter-change-for-its-stock/2026-10-28))

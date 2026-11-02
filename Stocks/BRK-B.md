@@ -4,7 +4,7 @@ ticker: BRK-B
 company: Berkshire Hathaway
 sector: Financials
 held_by: [VTV]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Conglomerate owning insurance (GEICO), BNSF railroad, utilities and a large stoc
 
 ## Recent news
 
+- **2026-11-02** — Class B shares rose about 2% Monday while the S&P 500 fell 0.5%, per TheStreet, which also noted Berkshire's growing Bending Spoons stake (it added $330M on Oct 20, lifting ownership to 4%). ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026))
+- **2026-10-30** — Class B shares closed at $542.49 (+0.1%) after touching a 52-week high of $550.47 intraday, about 1.5% below the record. ([source](https://www.fool.com/investing/2026/10/31/berkshire-hathaway-shares-just-rallied-to-their-hi/))
 - **2026-10-30** — A Motley Fool review of Berkshire's roughly $365B portfolio under Greg Abel found four stocks (Apple, American Express, Coca-Cola and Alphabet) make up about 54% of it, with Alphabet now about $33.5B, or 9.1%, after Abel added to it this year. ([source](https://www.fool.com/investing/2026/10/30/warren-buffett-successor-greg-abel-54-berkshire-hathaway-365-billion-portfolio-invested-4-proven-winners/))
 - **2026-10-29** — Alphabet, one of Berkshire's largest stock holdings, plunged after its Q3 miss; Barron's expects Berkshire to book a loss on the position, though its cost basis is not public. ([source](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/alphabet-setback-meets-record-run-berkshire-s-november-reckoning-nears/70426634))
 - **2026-10-27** — Class B shares closed down about 1% at $542.99. ([source](https://www.heygotrade.com/en/us-stock/brk.b/))
@@ -31,7 +33,7 @@ Conglomerate owning insurance (GEICO), BNSF railroad, utilities and a large stoc
 
 ## Coming up
 
-- **Early November 2026** — Q3 earnings (sources conflict: Nov 2, Nov 6 or Nov 7; not yet confirmed by Berkshire)
+- **2026-11-07 (Sat, estimated)** — Q3 earnings and 10-Q; not yet confirmed by Berkshire and not out as of Nov 2 (first Saturday of November; Digrin lists Nov 7, Earnings Whispers estimates Nov 9). Zacks consensus: $5.91 EPS, $97.3B revenue
 
 ## Bull case / bear case
 

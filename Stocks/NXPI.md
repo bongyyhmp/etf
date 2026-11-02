@@ -4,7 +4,7 @@ ticker: NXPI
 company: NXP Semiconductors
 sector: Technology
 held_by: [SOXX]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Dutch chipmaker focused on automotive and industrial chips.
 
 ## Recent news
 
+- **2026-10-30** — Coverage noted the new $5B buyback adds to about $1.3B left under the prior plan, with repurchases set to speed up from Q4 into 2027. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/nxp-semiconductors-stock-gets-usd-5-billion-buyback-boost/70435394))
+- **2026-10-29** — Shares climbed about 5.6% to roughly $263.50 by early afternoon, recovering post-earnings losses with no single catalyst cited. ([source](https://247wallst.com/cards/nxp-semiconductors-nxpi-price-swing-01m64d6fp2pde7p1ytnzmv4849))
 - **2026-10-28** — More post-earnings target cuts: Stifel lowered its target to $250 from $265 (Hold) and Morgan Stanley to $313 from $338 (Overweight), while Jefferies and TD Cowen reiterated Buy; MarketBeat's consensus target is about $299. ([source](https://www.marketbeat.com/instant-alerts/analyst-stifel-nicolaus-issues-pessimistic-forecast-for-nxp-semiconductors-nasdaq-nxpi-stock-price-2026-10-28/))
 - **2026-10-28** — Truist trimmed its target to $300 from $310 (Buy kept); shares were down about 2.9% near $246 at midday. ([source](https://www.marketbeat.com/instant-alerts/analyst-nxp-semiconductors-nasdaq-nxpi-price-target-cut-to-30000-by-analysts-at-truist-financial-2026-10-28/))
 - **2026-10-27** — With Q3 results NXP noted automotive revenue above $2B for the first time and a $5B buyback authorization; Volkswagen picked its S32K5 microcontrollers for a future architecture co-developed with Rivian. ([source](https://www.marketbeat.com/instant-alerts/analyst-nxp-semiconductors-nasdaq-nxpi-price-target-cut-to-30000-by-analysts-at-truist-financial-2026-10-28/))

@@ -4,7 +4,7 @@ ticker: QCOM
 company: Qualcomm
 sector: Technology
 held_by: [SCHD, SMH]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 
@@ -23,6 +23,8 @@ Designs chips and modems for smartphones, cars and PCs, and licenses wireless pa
 
 ## Recent news
 
+- **2026-11-02** — Shares traded around $162, down about 1.6% in the afternoon, extending last week's slide as PC and memory-cost worries lingered two days before earnings. ([source](https://247wallst.com/investing/2026/11/02/amd-slides-3-ahead-of-earnings-as-pc-worries-linger-intel-drops-5-nvidia-edges-higher/))
+- **2026-11-02** — Bernstein SocGen lowered its target to $155 from $165 (Market Perform), arguing memory costs are worsening the handset backdrop and that Street smartphone forecasts for next year look too high. ([source](https://uk.investing.com/news/stock-market-news/bernstein-socgen-cuts-qualcomm-stock-price-target-on-handset-concerns-93CH-4949275))
 - **2026-10-30** — Shares fell about 12% intraday, among the hardest-hit chipmakers in a sector-wide rout after Intel's weak Q4 guidance and a forecast of further PC-market declines, days ahead of Qualcomm's Nov 4 report. ([source](https://www.tomshardware.com/pc-components/cpus/intels-woes-wipe-out-usd1-trillion-of-semiconductor-market-cap-in-one-day-pc-market-bloodbath-leaves-few-chip-stocks-unscathed))
 - **2026-10-28** — Shares dipped about 1% to around $182 as NXP's soft guidance revived auto-chip demand worries across semiconductors; no Qualcomm-specific trigger was cited. ([source](https://247wallst.com/investing/2026/10/28/on-semiconductor-falls-5-nxp-semiconductors-drops-4-as-soft-guidance-revives-auto-chip-worries-skyworks-ticks-up-qualcomm-and-texas-instruments-dip/))
 - **2026-10-28** — Options pricing implied a move of about 8% after the Nov 4 report; Qualcomm has exceeded the implied move in four of its last eight reports. ([source](https://www.investing.com/news/stock-market-news/qualcomm-shares-may-move-8-on-nov-4-earnings-release-93CH-4979805))
@@ -32,8 +34,9 @@ Designs chips and modems for smartphones, cars and PCs, and licenses wireless pa
 
 - **2026-11-04** — fiscal Q4 2026 earnings after the close, call 4:45 p.m. ET (confirmed); consensus about $2.16-2.17 EPS (down ~28% y/y) on ~$10.14-10.15B revenue; options imply ~8% move
 - **November 2026** — global job cuts to begin, per a Reuters-reported CEO memo
+- **2026-12-03** — ex-dividend date for the $0.92 quarterly dividend (payable Dec 17)
 
 ## Bull case / bear case
 
 - **Bull:** Analysts (TD Cowen, Susquehanna) cite fast non-handset growth in auto, IoT and data center, with a $40B fiscal-2029 non-handset target, plus new efforts like the Anduril laptop venture.
-- **Bear:** Cautious analysts (Piper Sandler, RBC, Wells Fargo) point to weak smartphone demand, rising memory costs, Samsung Exynos competition and expected year-over-year EPS decline; MarketBeat's consensus rating is Hold, and NXP's soft outlook revived auto-chip worries.
+- **Bear:** Cautious analysts (Bernstein SocGen, Piper Sandler, RBC, Wells Fargo) point to a handset market hurt by memory costs, Street phone forecasts they see as too high, Samsung Exynos competition and expected year-over-year EPS decline; MarketBeat's consensus rating is Hold, and Intel's PC warning hit the stock hard on Oct 30.

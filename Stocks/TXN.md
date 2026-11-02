@@ -4,7 +4,7 @@ ticker: TXN
 company: Texas Instruments
 sector: Technology
 held_by: [SCHD, SMH, SOXX]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 
@@ -24,6 +24,8 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 
 ## Recent news
 
+- **2026-10-30** — Shares fell about 4.2% (to roughly $301) as the stock went ex-dividend, investors took profits after the post-earnings run, and NXP's outlook and the broad chip selloff weighed. ([source](https://www.tradingkey.com/news/market-movers/262261184-market-movers-txn-20261030))
+- **2026-10-29** — Director Ronald Kirk sold 6,065 shares at about $310 (~$1.9M); filings also showed director sales by Janet Clark and Robert Sanchez around Oct 27. ([source](https://www.marketbeat.com/instant-alerts/filing-7250-texas-instruments-incorporated-txn-shares-acquired-by-vise-technologies-inc-2026-11-02/))
 - **2026-10-28** — Shares slipped about 1% to around $305 (still up about 79% this year) as NXP's soft guidance revived auto-chip demand worries across the sector. ([source](https://247wallst.com/investing/2026/10/28/on-semiconductor-falls-5-nxp-semiconductors-drops-4-as-soft-guidance-revives-auto-chip-worries-skyworks-ticks-up-qualcomm-and-texas-instruments-dip/))
 - **2026-10-27** — TI priced $2B of senior unsecured notes in four $500M tranches maturing 2028-2036 (coupons 5.00%-5.75%) to help fund its pending Silicon Labs acquisition; settlement is set for Nov 9. ([source](https://www.gurufocus.com/news/9143967/texas-instruments-prices-2-billion-debt-to-fund-silicon-labs-acquisition-txn))
 - **2026-10-27** — Shares rose about 3.2%, beating the sector, as investors kept responding to the Q3 beat and Q4 outlook. ([source](https://www.tradingkey.com/news/market-movers/262242833-market-movers-txn-20261027))
@@ -32,10 +34,11 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 ## Coming up
 
 - **2026-11-09** — Expected settlement of the $2B notes offering tied to the Silicon Labs deal
+- **2026-11-10** — payment of the raised $1.52 quarterly dividend (up from $1.42; went ex-dividend Oct 30)
 - **Late January 2027** — Q4 2026 earnings (expected; date not yet announced)
 - **First half of 2027** — expected closing of the Silicon Labs acquisition, still subject to China antitrust and other foreign clearances; outside date Feb 4, 2027, extendable ([source](https://investor.silabs.com/node/24776/html))
 
 ## Bull case / bear case
 
 - **Bull:** Analysts cite an analog-chip recovery, AI data-center and industrial demand, improving margins and free cash flow, and the planned Silicon Labs acquisition.
-- **Bear:** Critics point to a P/E above 35x, heavy capex, new acquisition debt, flat sequential Q4 guidance leaving little room for error, and renewed auto-chip worries after NXP's soft outlook; some, such as UBS, trimmed targets.
+- **Bear:** Critics point to a P/E above 35x, heavy capex, new acquisition debt, flat sequential Q4 guidance leaving little room for error, renewed auto-chip worries after NXP's soft outlook and recent director share sales; Goldman Sachs rates it Sell ($250) and UBS and Mizuho trimmed targets.

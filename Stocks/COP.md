@@ -4,7 +4,7 @@ ticker: COP
 company: ConocoPhillips
 sector: Energy
 held_by: [SCHD]
-updated: 2026-10-30
+updated: 2026-11-02
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ The largest US oil and gas producer focused purely on exploration and production
 
 ## Recent news
 
+- **2026-10-30** — The stock closed at a record of about $154.03, up roughly 2.7% on the day, per Stocktwits' quote. ([source](https://stocktwits.com/symbol/COP))
 - **2026-10-30** — Shares touched an all-time high of $152.85, up about 76% over the past year, as energy prices stayed elevated; InvestingPro noted 15 analysts have revised earnings estimates upward for the coming period. ([source](https://www.investing.com/news/company-news/conocophillips-stock-hits-alltime-high-at-15285-usd-93CH-4988051))
 - **2026-10-29** — Shares traded near $149.96, up about 0.6%; a 24/7 Wall St. comparison noted ConocoPhillips' 2015-16 dividend cut and its plan for $7B of added free cash flow by 2029, with Willow first oil targeted for early 2029. ([source](https://247wallst.com/investing/2026/10/29/chevron-is-up-nearly-57-in-2026-is-its-dividend-safer-than-conocophillips/))
 - **2026-10-29** — Brent eased about 0.7% to roughly $115.40 by mid-morning, still up about 78% from a year earlier. ([source](https://finance.yahoo.com/energy/articles/current-price-oil-october-29-130000851.html))
