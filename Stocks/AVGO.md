@@ -4,7 +4,7 @@ ticker: AVGO
 company: Broadcom
 sector: Technology
 held_by: [SOXX, SMH, XLK, VUG, VGT, VOO, IVV, SPY, VTI, QQQ]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -31,6 +31,9 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 
 ## Recent news
 
+- **2026-11-03** — Broadcom rose about 3.1%, second only to Nvidia in lifting the S&P 500, as chip stocks rebounded. ([source](https://lancasteronline.com/business/stock_market/nvidia-and-other-big-tech-stocks-lift-the-us-market-despite-drops-for-apple-and/article_b41e7d06-70b5-50ae-8a99-7d089b3583ec.html))
+- **2026-11-03** — Coverage of the rally (about $332.81 in morning trade, from a $322.23 close) pointed to the $63B bank-funded vehicle that will buy Broadcom AI chips for lease to Anthropic, seen as turning forecasts into contracted demand, though Broadcom backstops about $43.5B of its debt. ([source](https://www.investing.com/news/stock-market-news/why-is-broadcom-stock-rallying-today-93CH-4995693))
+- **2026-11-02** — Broadcom slipped about 1.2% in a broad chip selloff, a smaller loss than peers such as Marvell, Intel and AMD. ([source](https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-november-3-2026/))
 - **2026-10-30** — Broadcom dropped about 5% (to roughly $328 in morning trade) as Intel's weak Q4 outlook and Amazon's heavy AI spending sparked a broad chip rout; William Blair cut the stock to Market Perform from Outperform, citing valuation above 40 times earnings. ([source](https://www.investing.com/news/stock-market-news/why-is-broadcom-stock-sliding-today-93CH-4988165))
 - **2026-10-30** — Reuters reported U.S. chip stocks fell between 4% and 12% after Intel's warning, with Broadcom down about 5.5% alongside steeper drops in Qualcomm and AMD. ([source](https://www.investing.com/news/stock-market-news/intel-warning-sparks-chip-rout-as-pc-weakness-clouds-turnaround-4987123))
 - **2026-10-29** — Broadcom fell about 2.8% in overnight trading as chip stocks slid after Samsung's profit miss and lighter-than-expected capex from Microsoft and Alphabet. ([source](https://stocktwits.com/news-articles/markets/equity/intc-amd-avgo-mu-decline-on-samsung-s-profit-miss-lighter-capex-from-microsoft-alphabet/cZUQgW3R9ba))

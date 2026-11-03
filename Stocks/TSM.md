@@ -4,7 +4,7 @@ ticker: TSM
 company: Taiwan Semiconductor (TSMC)
 sector: Technology
 held_by: [SMH, SOXX]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -23,6 +23,9 @@ The world's largest contract chipmaker; manufactures chips for Apple, Nvidia, AM
 
 ## Recent news
 
+- **2026-11-03** — ADRs rebounded about 1.9% to roughly $406 by midday as chip stocks recovered. ([source](https://www.marketbeat.com/instant-alerts/list-best-manufacturing-stocks-to-watch-today-november-3rd-2026-11-03/))
+- **2026-11-03** — In Taipei, TSMC fell 1.5% to NT$2,295 as the Taiex sank 3.59%, its seventh-largest point drop, on AI-spending worries, high bond yields and heavy foreign selling; TSMC alone took about 280 points off the index. ([source](https://focustaiwan.tw/business/202611030023))
+- **2026-11-02** — ADRs fell 1.85% as the Philadelphia Semiconductor Index dropped 3.37%. ([source](https://focustaiwan.tw/business/202611030023))
 - **2026-10-30** — ADRs closed down about 6% at $406.13 as Intel's weak outlook revived worries about returns on AI spending; coverage cited sector sentiment rather than any TSMC-specific problem. ([source](https://tickerspark.ai/market/taiwan-semiconductor-manufacturing-company-limited-tsm-drops-5-7-1793376412321))
 - **2026-10-29** — ADRs fell 1.75% to $431.81 in a broad chip pullback after Alphabet's revenue miss reignited AI-spending concerns. ([source](https://www.heygotrade.com/en/news/tsmc-tsm-stock-news-october-30-2026/))
 - **2026-10-28** — ADRs closed up about 0.6% at $439.51, extending gains as coverage focused on TSMC's AI pricing power, then eased about 1.9% after hours; no company announcement was cited. ([source](https://www.heygotrade.com/en/us-stock/tsm/))
@@ -37,4 +40,4 @@ The world's largest contract chipmaker; manufactures chips for Apple, Nvidia, AM
 ## Bull case / bear case
 
 - **Bull:** Analysts (Barclays, Needham) and Moody's cite manufacturing leadership and AI demand; reports of possible CoWoS packaging price hikes point to pricing power.
-- **Bear:** Commentators flag a ~31x P/E, heavy capex, Taiwan concentration, a fatal Kaohsiung construction accident and sensitivity to AI-spending scares, as in the ~6% Oct 30 drop.
+- **Bear:** Commentators flag a ~31x P/E, heavy capex, Taiwan concentration, a fatal Kaohsiung construction accident and sensitivity to AI-spending scares, as in the ~6% Oct 30 drop and the Taiex's 3.59% slide on Nov 3.

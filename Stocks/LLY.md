@@ -4,7 +4,7 @@ ticker: LLY
 company: Eli Lilly
 sector: Healthcare
 held_by: [VUG, VOO, IVV, SPY, VTI]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -26,6 +26,7 @@ Drugmaker best known for diabetes and obesity drugs (Mounjaro, Zepbound) plus Al
 
 ## Recent news
 
+- **2026-11-03** — Shares gained about $9 (roughly 0.6%) to around $1,420 in Tuesday trading, near the 52-week high of $1,449.68; MarketBeat called Lilly the standout mover among large pharma names that day. ([source](https://www.marketbeat.com/instant-alerts/list-top-pharmaceutical-stocks-to-watch-today-november-3rd-2026-11-03/))
 - **2026-11-02** — Cantor Fitzgerald lifted its target to $1,600 from $1,440 and kept Overweight; shares opened Monday near $1,416, and MarketBeat's ~$1,404 consensus target now sits below the stock. ([source](https://marketbeat.com/instant-alerts/analyst-cantor-fitzgerald-issues-positive-forecast-for-eli-lilly-and-company-nyse-lly-stock-price-2026-11-02))
 - **2026-10-30** — JPMorgan also raised its target to $1,650 from $1,500 with an Overweight rating, the highest of the post-earnings increases. ([source](https://www.dailypolitical.com/2026/11/02/eli-lilly-and-company-nyselly-price-target-raised-to-1650-00.html))
 - **2026-10-30** — Shares gained $45.72 (about 3.3%) to $1,419.42 on Friday, above the prior 52-week high, as brokers raised targets after Q3: Truist to $1,612 from $1,376 (Buy), Scotiabank to $1,605 from $1,300 (Sector Outperform), RBC to $1,600 from $1,500 (Outperform) and Argus to $1,550 from $1,300 (Buy). ([source](https://www.marketbeat.com/instant-alerts/analyst-eli-lilly-and-company-nyse-lly-stock-gets-price-target-increase-from-scotiabank-2026-10-30/))
@@ -40,6 +41,7 @@ Drugmaker best known for diabetes and obesity drugs (Mounjaro, Zepbound) plus Al
 ## Coming up
 
 - **2026-11-13** — dividend record/ex-date
+- **Q4 2026** — Merida Biosciences acquisition (up to about $2.9B) expected to close
 - **2026-12-07** — investor update with long-term targets (per TIKR)
 - **2026-12-10** — dividend payable
 - Next earnings (Q4 2026): date not yet announced
@@ -47,4 +49,4 @@ Drugmaker best known for diabetes and obesity drugs (Mounjaro, Zepbound) plus Al
 ## Bull case / bear case
 
 - **Bull:** Q3 beat on revenue and EPS with Mounjaro up 65% and volume up 53%, and the raised $91-92B 2026 sales outlook topped consensus; brokers including JPMorgan ($1,650), Truist, Cantor, Scotiabank and RBC lifted targets to about $1,600-1,650 on Oct 30-Nov 2.
-- **Bear:** Realized prices fell 15% (29% outside the U.S.), deal-related R&D charges pushed 2026 EPS guidance lower, and the stock trades at a premium valuation after rising to a new high above $1,400, now above MarketBeat's ~$1,404 consensus target.
+- **Bear:** Realized prices fell 15% (29% outside the U.S.), deal-related R&D charges pushed 2026 EPS guidance lower, and the stock trades at a premium valuation after rising to a new high above $1,400, still trading above MarketBeat's ~$1,404 consensus target as of Nov 3.

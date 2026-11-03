@@ -4,7 +4,7 @@ ticker: TSLA
 company: Tesla
 sector: Consumer Discretionary
 held_by: [QQQ, VUG, VOO, IVV, SPY, VTI]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -27,6 +27,9 @@ Makes electric vehicles and energy storage systems, and is developing self-drivi
 
 ## Recent news
 
+- **2026-11-03** — Tesla and SpaceX objected to having their shares offered on the planned OKX-ICE tokenized-stock venue, joining Amazon, Netflix and others in a list that grew to 56 issuers. ([source](https://finance.yahoo.com/markets/crypto/articles/elon-musk-tesla-spacex-block-174615605.html))
+- **2026-11-02** — Tesla closed up about 1.0% at $403.82 on above-average volume as its Robotaxi service opened in Fort Worth, its seventh city across Texas and Florida; Tesla did not disclose fleet size or pricing. ([source](https://www.heygotrade.com/en/news/tesla-tsla-stock-news-november-3-2026/))
+- **2026-11-02** — FreightWaves reported the Z-Scale shipper alliance picked Tesla as primary supplier for an order of 2,500 battery-electric Class 8 trucks, though Kenworth, BYD and Volvo were also prequalified. ([source](https://www.heygotrade.com/en/news/tesla-tsla-stock-news-november-3-2026/))
 - **2026-11-02** — Shares rose about 3.2% intraday as Swedish registrations jumped 248% year over year in October, adding to signs of stronger European deliveries, even as the Nasdaq fell about 1.1%. ([source](https://financefeeds.com/tsla-stock-rises-as-tesla-registrations-jump-248/))
 - **2026-10-30** — Tesla closed down about 0.9% at $399.81, holding up far better than the Nasdaq's 2.9% drop; NHTSA responses on how the wheel-less Cybercab was certified were due that day. ([source](https://www.heygotrade.com/en/news/tesla-tsla-stock-news-november-2-2026/))
 - **2026-10-29** — Tesla closed down about 0.2% at $403.30 as megacap tech weakened after Alphabet's earnings miss. ([source](https://www.heygotrade.com/en/news/tesla-tsla-stock-news-october-30-2026/))
@@ -46,5 +49,5 @@ Makes electric vehicles and energy storage systems, and is developing self-drivi
 
 ## Bull case / bear case
 
-- **Bull:** Barclays and ARK Invest cite SpaceX-combination optionality and robotaxi potential; reports also note a Q3 delivery beat, higher auto margins, the largest vehicle backlog in four years and strong early-October European registrations.
-- **Bear:** Reports cite a 56% year-over-year drop in Q3 operating income, rising R&D spending, battery supply limits, a high valuation and unsettled merger terms.
+- **Bull:** Barclays and ARK Invest cite SpaceX-combination optionality and robotaxi potential; reports also note a Q3 delivery beat, higher auto margins, the largest vehicle backlog in four years, strong October European registrations, Robotaxi expansion to Fort Worth and a reported 2,500-truck Semi order.
+- **Bear:** Reports cite a 56% year-over-year drop in Q3 operating income, rising R&D spending, battery supply limits, a high valuation, unsettled merger terms, and a Robotaxi fleet still small next to Waymo's (Azat TV via Heygotrade).

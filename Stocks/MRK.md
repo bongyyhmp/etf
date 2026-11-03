@@ -4,7 +4,7 @@ ticker: MRK
 company: Merck & Co.
 sector: Healthcare
 held_by: [SCHD]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Drugmaker known for the cancer drug Keytruda and vaccines.
 
 ## Recent news
 
+- **2026-11-03** — DZ Bank cut Merck to Hold from Buy with a $153 target; shares opened at $148.58, and MarketBeat's consensus target is about $155.74 (Moderate Buy). ([source](https://marketbeat.com/instant-alerts/analyst-merck-co-inc-nyse-mrk-stock-rating-lowered-by-dz-bank-2026-11-03))
+- **2026-11-03** — Shares fell roughly 2-2.6% to about $144.8 in afternoon trading as Merck began ENHANCE-3, a Phase 3 trial of COPD drug Ohtuvayre (from the Verona deal) aiming to enroll about 2,136 patients; the stock remains up about 40% year to date. ([source](https://247wallst.com/investing/2026/11/03/moderna-climbs-5-ahead-of-earnings-pfizer-eases-despite-raised-outlook-merck-slides-2-despite-new-phase-3-trial/))
 - **2026-11-02** — Cantor Fitzgerald raised its target to $155 from $145 but kept a Neutral rating; shares opened Monday at $149.75. ([source](https://www.marketbeat.com/instant-alerts/analyst-merck-co-inc-nyse-mrk-stock-price-target-raised-at-cantor-fitzgerald-2026-11-02/))
 - **2026-10-30** — JPMorgan lifted its Merck target to $175 from $165 and reiterated Overweight. ([source](https://www.marketbeat.com/instant-alerts/analyst-merck-co-inc-nyse-mrk-stock-gets-price-target-increase-from-jpmorgan-chase-co-2026-10-30/))
 - **2026-10-30** — Shares rose $3.77 (about 2.6%) to $150.10 on Friday even as RBC trimmed its target to $140 from $145 (Sector Perform) and Guggenheim edged its target to $171 from $170 (Buy); MarketBeat's consensus target is about $152.96. ([source](https://www.marketbeat.com/instant-alerts/analyst-merck-co-inc-nyse-mrk-stock-gets-price-target-cut-from-royal-bank-of-canada-2026-10-30/))
@@ -41,4 +43,4 @@ Drugmaker known for the cancer drug Keytruda and vaccines.
 ## Bull case / bear case
 
 - **Bull:** Q3 beat with a raised 2026 EPS outlook, Keytruda Qlex ahead of estimates, Winrevair up 93%, and brokers (JPMorgan $175, BofA, Guggenheim, Barclays) citing pipeline assets such as sac-TMT, intismeran and Lipfendra.
-- **Bear:** IV Keytruda sales fell 5% ahead of its December 2028 U.S. patent expiry, management flagged slower 2027 growth, some growth came from purchase timing, and RBC (target cut to $140), Cantor (Neutral) and Citi question valuation and pipeline commercial size.
+- **Bear:** IV Keytruda sales fell 5% ahead of its December 2028 U.S. patent expiry, management flagged slower 2027 growth, some growth came from purchase timing, and DZ Bank (cut to Hold, Nov 3), RBC (target cut to $140), Cantor (Neutral) and Citi question valuation and pipeline commercial size.

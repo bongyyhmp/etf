@@ -4,7 +4,7 @@ ticker: NVDA
 company: NVIDIA
 sector: Technology
 held_by: [SMH, VGT, XLK, VUG, SOXX, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -31,6 +31,8 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 
 ## Recent news
 
+- **2026-11-03** — Nvidia rose about 2.3%, the biggest single lift to the S&P 500, as chip stocks rebounded from recent losses. ([source](https://lancasteronline.com/business/stock_market/nvidia-and-other-big-tech-stocks-lift-the-us-market-despite-drops-for-apple-and/article_b41e7d06-70b5-50ae-8a99-7d089b3583ec.html))
+- **2026-11-02** — Closed down 1.3% at $202.06, near the session low, amid a broad chip and tech selloff with no Nvidia-specific news; Marvell, Intel and AMD fell much harder. ([source](https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-november-3-2026/))
 - **2026-10-30** — Nvidia ended Friday down 4.2% at $204.64 as Intel's weak outlook dragged chip stocks lower; CNBC estimated the selloff cut about $6B from the value of Nvidia's own stake in Intel. ([source](https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-november-2-2026/))
 - **2026-10-30** — Nvidia was down about 5.2% in afternoon trading after a Bloomberg report that it may provide billions in credit guarantees for an Nscale data center expected to serve Anthropic, reviving "circular AI financing" worries; reports put its data-center commitments and guarantees near $165B. ([source](https://finance.yahoo.com/markets/stocks/articles/why-nvidia-stock-took-dive-194907899.html))
 - **2026-10-30** — Chip stocks fell after Intel's weak outlook and PC slump sent it down about 25% premarket; Nvidia was down about 3% premarket, a smaller drop than PC-exposed peers such as AMD and Dell. ([source](https://247wallst.com/investing/2026/10/30/intel-plunges-25-as-weak-outlook-and-pc-slump-overshadow-earnings-beat-dell-tumbles-13-amd-sinks-10-nvidia-falls-3/))
@@ -41,8 +43,6 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 - **2026-10-27** — Oracle was reported to be adding AI chips from Google, Cerebras and SambaNova to lessen its dependence on Nvidia. ([source](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html))
 - **2026-10-26** — SpaceX said it secured $40B in debt financing to buy AI chips, reportedly from Nvidia, and Nvidia was reported among chipmakers weighing up to $5B of Meta's share sale. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026))
 - **2026-10-26** — Nvidia rose about 2.4% to around $216 as Anthropic's IPO filing and cooler oil prices lifted tech. ([source](https://www.fool.com/coverage/stock-market-today/2026/10/26/stock-market-midday-oct-26-tech-sector-rallies-on-anthropic-ipo-filing-and-cooling-oil-prices/))
-- **2026-10-23** — Nvidia shares edged lower to about $210.96 Friday after a 4.4% chip-sector selloff the day before tied to AI-funding and cost-of-capital worries. ([source](https://www.heygotrade.com/en/us-stock/nvda/))
-- **2026-10-19** — Closed at $217.09 (+1.4%) as AI chip stocks rebounded from the prior week's sell-off; still about 11% below its 52-week high of $243.37. ([source](https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-october-20-2026/))
 
 ## Coming up
 

@@ -4,7 +4,7 @@ ticker: QCOM
 company: Qualcomm
 sector: Technology
 held_by: [SCHD, SMH]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -23,6 +23,9 @@ Designs chips and modems for smartphones, cars and PCs, and licenses wireless pa
 
 ## Recent news
 
+- **2026-11-03** — Options traders priced in a post-earnings swing of roughly 9.6% in either direction; TipRanks counts 3 Buy, 6 Hold and 2 Sell ratings with an average target near $197, and the stock was about 5% lower for the year. ([source](https://www.tipranks.com/news/qualcomm-stock-qcom-could-move-9-59-after-q4-earnings-say-options-traders))
+- **2026-11-03** — A TradingKey preview said Apple-related revenue is expected to fall about 50% from the prior quarter, while automotive revenue grew ~61% last quarter and first custom data-center chip revenue is expected in the December quarter. ([source](https://www.tradingkey.com/analysis/stocks/us-stocks/262266670-qualcomm-q4-earnings-preview-automotive-data-center-smartphone-qcom-tradingkey))
+- **2026-11-02** — StoneX kept its Buy rating and $270 target, looking for a modest beat (revenue $10.3-10.4B, EPS $2.20-2.25) and December-quarter guidance near $10.6B and $2.30 EPS, above consensus. ([source](https://www.investing.com/news/analyst-ratings/qualcomm-stock-reiterated-at-buy-by-stonex-ahead-of-results-93CH-4991335))
 - **2026-11-02** — Shares traded around $162, down about 1.6% in the afternoon, extending last week's slide as PC and memory-cost worries lingered two days before earnings. ([source](https://247wallst.com/investing/2026/11/02/amd-slides-3-ahead-of-earnings-as-pc-worries-linger-intel-drops-5-nvidia-edges-higher/))
 - **2026-11-02** — Bernstein SocGen lowered its target to $155 from $165 (Market Perform), arguing memory costs are worsening the handset backdrop and that Street smartphone forecasts for next year look too high. ([source](https://uk.investing.com/news/stock-market-news/bernstein-socgen-cuts-qualcomm-stock-price-target-on-handset-concerns-93CH-4949275))
 - **2026-10-30** — Shares fell about 12% intraday, among the hardest-hit chipmakers in a sector-wide rout after Intel's weak Q4 guidance and a forecast of further PC-market declines, days ahead of Qualcomm's Nov 4 report. ([source](https://www.tomshardware.com/pc-components/cpus/intels-woes-wipe-out-usd1-trillion-of-semiconductor-market-cap-in-one-day-pc-market-bloodbath-leaves-few-chip-stocks-unscathed))
@@ -32,11 +35,11 @@ Designs chips and modems for smartphones, cars and PCs, and licenses wireless pa
 
 ## Coming up
 
-- **2026-11-04** — fiscal Q4 2026 earnings after the close, call 4:45 p.m. ET (confirmed); consensus about $2.16-2.17 EPS (down ~28% y/y) on ~$10.14-10.15B revenue; options imply ~8% move
+- **2026-11-04** — fiscal Q4 2026 earnings after the close, call 4:45 p.m. ET (confirmed); consensus about $2.16-2.17 EPS (down ~28% y/y) on ~$10.14-10.15B revenue; options imply roughly 8-10% move; company guidance $9.7-10.5B revenue, $2.05-2.25 EPS
 - **November 2026** — global job cuts to begin, per a Reuters-reported CEO memo
 - **2026-12-03** — ex-dividend date for the $0.92 quarterly dividend (payable Dec 17)
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (TD Cowen, Susquehanna) cite fast non-handset growth in auto, IoT and data center, with a $40B fiscal-2029 non-handset target, plus new efforts like the Anduril laptop venture.
-- **Bear:** Cautious analysts (Bernstein SocGen, Piper Sandler, RBC, Wells Fargo) point to a handset market hurt by memory costs, Street phone forecasts they see as too high, Samsung Exynos competition and expected year-over-year EPS decline; MarketBeat's consensus rating is Hold, and Intel's PC warning hit the stock hard on Oct 30.
+- **Bull:** Analysts (StoneX, TD Cowen, Susquehanna) cite fast non-handset growth in auto (up ~61% last quarter), IoT and data center, with a $40B fiscal-2029 non-handset target and first custom data-center revenue due this quarter; StoneX expects a beat and above-consensus guidance.
+- **Bear:** Cautious analysts (Bernstein SocGen, Piper Sandler, RBC, Wells Fargo) point to memory-cost pressure on handsets, an expected ~50% sequential drop in Apple revenue, Samsung Exynos competition and a ~28% y/y EPS decline; TipRanks and MarketBeat consensus is Hold, and Intel's PC warning hit the stock hard on Oct 30.

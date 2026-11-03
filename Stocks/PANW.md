@@ -4,7 +4,7 @@ ticker: PANW
 company: Palo Alto Networks
 sector: Technology
 held_by: []
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -20,6 +20,8 @@ Sells cybersecurity products: firewalls, cloud security and security operations 
 
 ## Recent news
 
+- **2026-11-03** — Palo Alto confirmed it will report fiscal Q1 2027 results (quarter ended Oct 31) after the close on Nov 18, with a call at 4:30 p.m. ET. ([source](https://www.marketscreener.com/news/palo-alto-networks-to-announce-fiscal-first-quarter-2027-financial-results-on-wednesday-november-18-ce785fded980f020))
+- **2026-11-02** — Shares slid about 3.9% to roughly $352 from a $365.87 close, with no company-specific reason cited. ([source](https://www.marketbeat.com/instant-alerts/price-palo-alto-networks-nasdaq-panw-stock-falls-39-heres-what-happened-2026-11-02/))
 - **2026-10-30** — Shares fell about 3-4% to roughly $366-368 in afternoon trading as AI hyperscaler-spending worries and Alphabet's negative free cash flow weighed on tech; a $6.3B Binance hack did little to lift security stocks, and profit-taking after a ~100% year-to-date gain was cited. ([source](https://247wallst.com/investing/2026/10/30/datadog-sinks-12-crowdstrike-falls-4-despite-6-3-billion-binance-hack-spotlighting-cyber-defense-palo-alto-and-fortinet-slide-3/))
 - **2026-10-30** — Palo Alto said it does not endorse an unsolicited mini-tender offer from Tutanota LLC for up to 250,000 shares (about 0.03%) at $450 each, which is conditioned on the stock closing above $450 and expires Nov 2 unless extended; it urged holders to be cautious. ([source](https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-recommends-stockholders-120000244.html))
 - **2026-10-29** — Shares fell about 5% to roughly $375 in a cybersecurity selloff after Fortinet dropped about 20% on a cut to its service-revenue forecast and ServiceNow disappointed; profit-taking after a roughly 103% year-to-date gain was also cited. ([source](https://247wallst.com/investing/2026/10/29/fortinet-tumbles-20-as-service-revenue-forecast-cut-overshadows-beat-palo-alto-drops-5-crowdstrike-falls-4/))
@@ -31,10 +33,9 @@ Sells cybersecurity products: firewalls, cloud security and security operations 
 
 ## Coming up
 
-- **2026-11-02** — Tutanota mini-tender offer expires at 5 p.m. ET (unless extended)
-- **2026-11-18** — fiscal Q1 2027 earnings (estimated from past schedule; not yet confirmed); fiscal Q1 ends Oct 31
+- **2026-11-18** — fiscal Q1 2027 earnings after the close, call 4:30 p.m. ET (confirmed by the company)
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite 63% growth in Next-Gen Security ARR to $9.1B, AI-security platform demand and a mostly Strong Buy consensus (Wells Fargo, Citi, Jefferies).
+- **Bull:** Analysts cite 63% growth in Next-Gen Security ARR to $9.1B, AI-security platform demand and a mostly Buy consensus (Wells Fargo, Citi, Jefferies; MarketBeat average target ~$399).
 - **Bear:** Bears point to guided ARR growth slowing to 22-23%, a rich valuation (Cantor ~60x EV/FCF; Phillip downgrade), weak peer results (Fortinet) and AI-spending jitters hitting the sector, profit-taking after a ~100% YTD run, and recent exploited vulnerabilities.

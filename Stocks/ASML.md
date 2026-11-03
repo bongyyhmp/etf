@@ -4,7 +4,7 @@ ticker: ASML
 company: ASML Holding
 sector: Technology
 held_by: [SMH]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -22,6 +22,9 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 
 ## Recent news
 
+- **2026-11-03** — Shares rose about 2.1% as memory and equipment names led a chip rebound; coverage tied the move to sector sentiment rather than company news. ([source](https://ad-hoc-news.de/boerse/news/unternehmensnachrichten/asml-rises-with-the-chip-sector-but-its-own-numbers-hold-the-real-verdict/70452762))
+- **2026-11-02** — US-listed shares closed down 2.54% at $1,526.14 in another weak session for chips. ([source](https://www.heygotrade.com/en/us-stock/asml/))
+- **2026-11-02** — ASML disclosed it bought back 346,200 shares for about EUR 504 million during Oct 26-30. ([source](https://globenewswire.com/news-release/2026/11/02/3393071/0/en/asml-reports-transactions-under-its-current-share-buyback-program.html))
 - **2026-10-30** — US-listed shares closed down 6.55% at $1,565.90, a steeper final loss than intraday reports showed, as the chip-equipment group sold off. ([source](https://www.heygotrade.com/en/us-stock/asml/))
 - **2026-10-30** — US-listed shares fell about 4.8%, slightly worse than a 4.2% drop in tech-equipment stocks. ([source](https://www.tradingkey.com/news/market-movers/262260990-market-movers-asml-20261030))
 - **2026-10-30** — ASML slid about 5.4% in Europe as Intel's weak Q4 outlook triggered a global chip selloff that wiped roughly $1 trillion off semiconductor stocks and hit equipment makers on AI-capex doubts. ([source](https://finance.biggo.com/news/e843ba2b-1691-487d-b819-4b3f6dc2f1b9))
@@ -31,9 +34,10 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 
 ## Coming up
 
+- **2026-11-04** — payment of the ~$2.11 per-share dividend (went ex-dividend Oct 27)
 - **2027-01-27** — Q4 and full-year 2026 results (per company investor calendar)
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (JPMorgan, Citi) cite AI-driven EUV demand and planned ~30% capacity increases; ASML says planned supply won't fully cover 2027-2028 demand and customers are already asking about 2029-2030 systems (per ad-hoc-news).
-- **Bear:** Valuation models (GuruFocus) suggest the stock is modestly overvalued, shares fell after Q3 results despite strong demand, and the Oct 30 chip rout showed sensitivity to doubts about AI capex and export controls.
+- **Bull:** Analysts (JPMorgan, Citi, UBS) cite AI-driven EUV demand and planned ~30% capacity increases; ASML says planned supply won't fully cover 2027-2028 demand and customers are already asking about 2029-2030 systems (per ad-hoc-news).
+- **Bear:** Valuation models (GuruFocus) suggest the stock is modestly overvalued, shares fell after Q3 results despite strong demand, and the Oct 30-Nov 2 chip selloff showed sensitivity to doubts about AI capex and export controls.

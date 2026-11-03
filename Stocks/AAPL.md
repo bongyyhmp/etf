@@ -4,7 +4,7 @@ ticker: AAPL
 company: Apple
 sector: Technology
 held_by: [VGT, XLK, VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -29,6 +29,8 @@ Makes the iPhone, Mac, iPad and wearables, and earns a growing share from servic
 
 ## Recent news
 
+- **2026-11-03** — Apple fell 1.9%, weighing on the Dow, as investors focused on the weaker margin outlook driven by rising memory-chip costs rather than the earnings beat. ([source](https://lancasteronline.com/business/stock_market/nvidia-and-other-big-tech-stocks-lift-the-us-market-despite-drops-for-apple-and/article_b41e7d06-70b5-50ae-8a99-7d089b3583ec.html))
+- **2026-11-02** — For the December quarter Apple guided revenue growth of 7%-10% (above ~5.9% consensus, implying a record quarter) but gross margin of only 45%-46% vs. ~47% expected, citing rising memory costs that management expects to continue; shares dropped about 2.8% to $328.81 after hours. ([source](https://www.tradingkey.com/analysis/stocks/us-stocks/262266155-apple-stock-forecast-q4-earnings-memory-costs-margin-guide-330-support-november-3-2026-tradingkey))
 - **2026-11-02** — Fiscal Q4 results after the close: revenue $114.5B (+12%) and EPS $2.10 (incl. ~$0.05 tariff-refund benefit) topped estimates of roughly $113.5B and $2.00; iPhone $57.6B (+17%), Mac $10.8B (+24%), Services a record $31.6B, gross margin 47.9%; Greater China rose 21% to $17.5B but trailed the ~$18.6B forecast, and iPad and wearables declined. Fiscal 2026 revenue hit a record $478.8B. ([source](https://www.stocktitan.net/news/AAPL/apple-reports-fourth-quarter-7wgi79wgs8n4.html))
 - **2026-11-02** — Shares fell roughly 2% in the regular session ahead of the report (about $337 in the afternoon) as the Nasdaq slid about 1.1%, and were about 1% lower in early after-hours trading after the release. ([source](https://247wallst.com/investing/2026/11/02/live-will-apple-crush-q4-earnings-tonight-in-new-ceo-john-ternuss-first-quarter/))
 - **2026-10-30** — BofA's Wamsi Mohan kept Buy and a $370 target but trimmed his fiscal 2027 iPhone unit estimate by 9 million to 247 million (Street ~260 million), citing the split September/March launch schedule and higher prices from rising parts costs; he sees December-quarter revenue consensus as too high. ([source](https://www.tradingview.com/news/gurufocus:e2f8b7067094b:0-bank-of-america-delivers-stark-warning-on-apple-stock-ahead-of-earnings/))
@@ -39,12 +41,9 @@ Makes the iPhone, Mac, iPad and wearables, and earns a growing share from servic
 - **2026-10-27** — Apple shares edged higher after the company introduced a new iMac and 14-inch MacBook Pro. ([source](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html))
 - **2026-10-26** — Jefferies' Edison Lee kept an Underperform rating with a $270.62 target, arguing the stock is overvalued and that December-quarter revenue and EPS could come in below Street forecasts due to softer iPhone 18 Pro demand and memory-cost pressure; shares slipped about 1.5% early. ([source](https://www.tipranks.com/news/apple-stock-falls-today-as-bearish-analyst-comments-raise-concerns-ahead-of-next-weeks-earnings))
 - **2026-10-26** — BofA reiterated Buy with a $370 target as iPhone Duo global delivery lead times stretched to about 79 days, with international shipments slated for January 22, 2027. ([source](https://www.benzinga.com/markets/tech/26/10/62599048/apples-iphone-duo-buyers-face-a-wait-that-could-stretch-into-january))
-- **2026-10-26** — Apple shares ended Monday down about 1.1% near $343.91 while the broader tech sector rallied. ([source](https://www.fool.com/coverage/stock-market-today/2026/10/26/stock-market-midday-oct-26-tech-sector-rallies-on-anthropic-ipo-filing-and-cooling-oil-prices/))
-- **2026-10-23** — The $1,999 foldable iPhone Duo went on sale in stores, after DigiTimes reported (unconfirmed by Apple) that Apple lifted its 12-month Duo shipment target to 14 million units from 9.7 million. ([source](https://www.heygotrade.com/en/news/apple-aapl-stock-news-october-23-2026/))
 
 ## Coming up
 
-- **2026-11-02** — Fiscal Q4 results released after the close; December-quarter outlook from the earnings call is the key item to watch
 - **2026-11-06** — Touchscreen MacBook Pro, M6 MacBook Pro, M6 iMac and OLED iPad mini begin shipping (per Apple announcements)
 - **2026-11-12** — Record date for $0.27 quarterly dividend, payable 2026-11-16 (per Apple)
 - **Late January 2027** — Fiscal Q1 earnings (estimated, not yet confirmed)
@@ -52,5 +51,5 @@ Makes the iPhone, Mac, iPad and wearables, and earns a growing share from servic
 
 ## Bull case / bear case
 
-- **Bull:** Apple beat fiscal Q4 revenue and EPS estimates with iPhone up 17%, record Services and strong Mac sales, and BofA, Goldman Sachs and HSBC cite iPhone Duo demand, services growth and in-house chip margins as drivers into fiscal 2027.
-- **Bear:** Greater China revenue missed forecasts and iPad and wearables shrank, while Jefferies cites a stretched ~40x valuation, softer iPhone 18 Pro demand and memory-cost pressure, and BofA sees December-quarter consensus as too high.
+- **Bull:** Apple beat fiscal Q4 estimates (iPhone +17%, record Services) and guided December-quarter revenue up 7%-10%, above consensus; BofA, Goldman Sachs and HSBC cite iPhone Duo demand and services growth.
+- **Bear:** December-quarter gross margin guidance of 45%-46% trailed estimates on memory costs, Greater China missed, and Jefferies cites a stretched valuation (mid-30s forward earnings) and softer iPhone 18 Pro demand.

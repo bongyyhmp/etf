@@ -4,7 +4,7 @@ ticker: CSCO
 company: Cisco Systems
 sector: Technology
 held_by: [XLK, VGT, VTV]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -24,6 +24,8 @@ Sells networking equipment, security and collaboration software to businesses.
 
 ## Recent news
 
+- **2026-11-03** — Cisco set its fiscal Q1 2027 report for Nov 12 after the close, with a conference call at 1:30 p.m. PT. ([source](https://rallies.ai/news/cisco-schedules-q1-fiscal-2027-results-conference-call-6bc72ce2719896b1))
+- **2026-11-03** — Bank of America reiterated Buy with a $150 target, expecting about 22% revenue growth in fiscal Q1 and saying roughly $6B of unconverted AI orders covers about 80% of Cisco's $7.5B fiscal 2027 AI revenue goal; it forecast gross margin easing to about 65.5%. ([source](https://ca.finance.yahoo.com/news/cisco-ai-backlog-core-demand-181100832.html))
 - **2026-10-30** — Shares fell about 4.1% (to roughly $104.50) in a broad tech selloff, with worries about margins from lower-margin AI networking gear and memory costs, plus competition from Arista and HPE, cited. ([source](https://www.tradingkey.com/news/market-movers/262260988-market-movers-csco-20261030))
 - **2026-10-30** — Shares opened at $108.59, down from $110.29 a day earlier and below the 50-day average of about $110.10; MarketBeat's consensus stayed Moderate Buy (16 Buy, 7 Hold, 3 Strong Buy) with an average target near $128.52. ([source](https://www.marketbeat.com/instant-alerts/filing-cisco-systems-inc-csco-stock-bought-by-choreo-llc-2026-10-30/))
 - **2026-10-29** — Shares opened at $110.29; MarketBeat put the consensus at Moderate Buy with an average target near $128.52 and noted about $5.0M of insider sales over the past 90 days. ([source](https://www.marketbeat.com/instant-alerts/filing-cisco-systems-inc-csco-stock-position-reduced-by-bokf-na-2026-10-29/))
@@ -33,9 +35,9 @@ Sells networking equipment, security and collaboration software to businesses.
 
 ## Coming up
 
-- **2026-11-11** — Q1 FY2027 earnings after the close (expected; sources differ between Nov 11 and Nov 12, not yet confirmed by Cisco)
+- **2026-11-12** — Q1 FY2027 earnings after the close; conference call 1:30 p.m. PT (confirmed by Cisco on Nov 3)
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite hyperscaler AI networking orders, growing Splunk-driven recurring software revenue and a Moderate Buy consensus (MarketBeat average target about $128.52; Morgan Stanley Buy, $135).
+- **Bull:** Analysts cite hyperscaler AI networking orders (BofA: ~$6B AI backlog, Buy, $150), a campus-switch refresh cycle, growing Splunk-driven recurring software revenue and a Moderate Buy consensus (MarketBeat average target about $128.52; Morgan Stanley Buy, $135).
 - **Bear:** Coverage flags gross-margin pressure from lower-margin AI hardware and memory costs, competition from Arista and HPE, a trailing P/E above 30, HSBC's August downgrade to Hold and recent insider selling; shares fell about 4% in the Oct 30 tech selloff.

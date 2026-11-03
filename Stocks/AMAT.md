@@ -4,7 +4,7 @@ ticker: AMAT
 company: Applied Materials
 sector: Technology
 held_by: [XLK, VGT]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -23,6 +23,8 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 
 ## Recent news
 
+- **2026-11-03** — Shares bounced about 2% to roughly $381 with the chip group but were still about 29% below a month earlier; company guidance for the Nov 12 report calls for about $10.25B revenue and $4.02 adjusted EPS, and China made up 28% of Q3 sales. ([source](https://247wallst.com/investing/2026/11/03/applied-materials-just-dropped-29-in-a-month-will-november-12-earnings-rescue-or-break-amat-stock))
+- **2026-11-02** — Shares fell about 3.1%, lagging a 2.1% drop in tech-equipment stocks, amid AI-spending worries and position trimming ahead of earnings. ([source](https://www.tradingkey.com/news/market-movers/262264886-market-movers-amat-20261102))
 - **2026-10-30** — Shares fell about 7.1%, underperforming a 4.3% drop in tech-equipment stocks, as chip names sold off ahead of its Nov 12 report. ([source](https://www.tradingkey.com/news/market-movers/262261067-market-movers-amat-20261030))
 - **2026-10-30** — Intel's weak fourth-quarter outlook (revenue of $15B-$16B vs. ~$17.1B expected) set off a global chip rout that erased about $1 trillion in value; equipment makers including Applied Materials and Lam Research fell on doubts about AI-capex growth. ([source](https://finance.biggo.com/news/e843ba2b-1691-487d-b819-4b3f6dc2f1b9))
 - **2026-10-28** — Shares rose about 5% to roughly $416 as SK Hynix's view that tight memory-chip supply could persist for years lifted chip-equipment stocks. ([source](https://www.marketbeat.com/instant-alerts/price-applied-materials-nasdaq-amat-shares-up-51-still-a-buy-2026-10-28/))
@@ -30,9 +32,9 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 
 ## Coming up
 
-- **2026-11-12** — Fourth-quarter and fiscal 2026 results, with live webcast (announced by the company)
+- **2026-11-12** — Fourth-quarter and fiscal 2026 results after the close, with live webcast (announced by the company); guidance ~$10.25B revenue (±$0.5B), $4.02 adjusted EPS (±$0.20)
 
 ## Bull case / bear case
 
-- **Bull:** Coverage cites a memory shortage that SK Hynix expects to last toward 2030, driving equipment demand, plus a push into advanced packaging via the Besi stake; MarketBeat counts mostly Buy ratings.
-- **Bear:** Chip-equipment demand is cyclical and tied to customers' capex plans; the Oct 30 selloff after Intel's outlook showed how sharply the shares swing on doubts about AI and memory spending.
+- **Bull:** Coverage cites a memory shortage SK Hynix expects to last toward 2030, fast-growing packaging and services revenue, the Besi stake and a valuation 24/7 Wall St. puts near 23x forward earnings after a ~29% one-month drop; most analysts rate it Buy.
+- **Bear:** Demand is cyclical and tied to customer capex; coverage flags China (28% of sales) export-restriction risk, margins below 2030 targets and sharp swings on AI-spending doubts, as in the Oct 30 and Nov 2 selloffs.

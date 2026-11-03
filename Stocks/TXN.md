@@ -4,7 +4,7 @@ ticker: TXN
 company: Texas Instruments
 sector: Technology
 held_by: [SCHD, SMH, SOXX]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -24,6 +24,7 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 
 ## Recent news
 
+- **2026-11-03** — Shares gained about 4.7%, beating a 1.6% rise in tech-equipment stocks as chips rebounded; TradingKey cites an average analyst target near $325. ([source](https://www.tradingkey.com/news/market-movers/262267908-market-movers-txn-20261103))
 - **2026-10-30** — Shares fell about 4.2% (to roughly $301) as the stock went ex-dividend, investors took profits after the post-earnings run, and NXP's outlook and the broad chip selloff weighed. ([source](https://www.tradingkey.com/news/market-movers/262261184-market-movers-txn-20261030))
 - **2026-10-29** — Director Ronald Kirk sold 6,065 shares at about $310 (~$1.9M); filings also showed director sales by Janet Clark and Robert Sanchez around Oct 27. ([source](https://www.marketbeat.com/instant-alerts/filing-7250-texas-instruments-incorporated-txn-shares-acquired-by-vise-technologies-inc-2026-11-02/))
 - **2026-10-28** — Shares slipped about 1% to around $305 (still up about 79% this year) as NXP's soft guidance revived auto-chip demand worries across the sector. ([source](https://247wallst.com/investing/2026/10/28/on-semiconductor-falls-5-nxp-semiconductors-drops-4-as-soft-guidance-revives-auto-chip-worries-skyworks-ticks-up-qualcomm-and-texas-instruments-dip/))

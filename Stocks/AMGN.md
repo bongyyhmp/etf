@@ -4,7 +4,7 @@ ticker: AMGN
 company: Amgen
 sector: Healthcare
 held_by: [SCHD]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Biotech company making drugs for bone health, cancer, inflammation and heart dis
 
 ## Recent news
 
+- **2026-11-03** — Q3 results: revenue rose 8% to $10.4B and non-GAAP EPS climbed 14% to $6.45, both above estimates (~$10.1B and $5.79). Amgen raised its 2026 outlook to $38.9B-$39.7B revenue (from $38.2B-$39.4B) and $22.90-$23.70 adjusted EPS (from $22.30-$23.50); shares slipped about 2.2% to $455.60 after hours. ([source](https://rallies.ai/news/amgen-third-quarter-sales-rise-8-led-by-cholesterol-cancer-drugs-a06893f2988141e2))
+- **2026-11-03** — By product, Repatha grew 37% to $1.085B, Evenity 39%, Imdelltra 128% to $406M and Uplizna 191%, while biosimilars cut Prolia (-45%) and XGEVA (-47%); MariTide's Phase 3 cardiovascular and sleep-apnea studies finished enrollment. ([source](https://www.stocktitan.net/news/AMGN/amgen-reports-third-quarter-2026-financial-fa0bllbsq9fh.html))
 - **2026-10-30** — Shares touched an all-time high of $469.02, up about 44% year to date, ahead of the Nov 3 report; Oppenheimer has a $480 target with Outperform, and eight analysts recently raised estimates. ([source](https://www.investing.com/news/company-news/amgen-stock-hits-alltime-high-at-46902-usd-93CH-4987945))
 - **2026-10-29** — Ahead of the Nov 3 report, consensus sits near $5.79 EPS on $10.08B revenue, while the outgoing CFO had warned of a meaningful sequential rise in Q3 operating expenses, including a $100M upfront deal payment. ([source](https://247wallst.com/investing/2026/10/29/amgen-braces-for-rising-expenses-ahead-of-q3-results-is-a-profit-squeeze-looming/))
 - **2026-10-28** — Amgen hit a 52-week high of about $454.66 intraday after declaring a $2.52 quarterly dividend, payable Dec 11 to holders of record Nov 20. ([source](https://www.marketbeat.com/instant-alerts/price-amgen-nasdaq-amgn-reaches-new-1-year-high-following-dividend-announcement-2026-10-28/))
@@ -31,10 +33,10 @@ Biotech company making drugs for bone health, cancer, inflammation and heart dis
 
 ## Coming up
 
-- **2026-11-03** — Q3 earnings after the close, presentation 4:30 p.m. (on the company's investor calendar)
 - **2026-11-20** — Record and ex-dividend date for the $2.52 quarterly dividend (paid Dec 11)
+- **Early February 2027** — Q4 2026 earnings (estimated, not yet confirmed)
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite growth drivers up 26% (Repatha +37%), new Imdelltra survival data, the MariTide obesity program, rising estimates and target increases (Oppenheimer $480, Jefferies) with shares at record highs.
-- **Bear:** Commentators flag rising Q3 operating expenses, biosimilar erosion of Prolia and XGEVA, IRA price pressure on Enbrel, about $57B of debt, and valuation, with Guggenheim Neutral and some targets below the share price.
+- **Bull:** Q3 beat estimates and Amgen raised 2026 guidance, with Repatha, Evenity, Imdelltra and Uplizna growing fast and MariTide Phase 3 studies progressing; Oppenheimer ($480) and UBS ($470) have targets above the share price.
+- **Bear:** Shares dipped after hours as biosimilars nearly halved Prolia and XGEVA sales; commentators also flag IRA price pressure, about $57B of debt and valuation near record highs, with Guggenheim Neutral and some targets below the share price.

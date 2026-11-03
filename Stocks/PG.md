@@ -4,7 +4,7 @@ ticker: PG
 company: Procter & Gamble
 sector: Consumer Staples
 held_by: [SCHD]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Makes household brands such as Tide, Pampers, Gillette and Crest.
 
 ## Recent news
 
+- **2026-11-03** — Shares fell about 1% to roughly $161.97 at midday as staples lagged; a filing showed executive Sundar Raman sold 38,253 shares on Oct 30 at about $165 (roughly $6.3M), cutting his direct stake by about 44%. ([source](https://www.marketbeat.com/instant-alerts/insider-procter-gamble-nyse-pg-stock-insider-sundar-raman-sells-38253-shares-2026-11-03/))
 - **2026-11-02** — Shares rose about 1.5% to close near $163.99, per MarketBeat's quote page, as staples gained. ([source](https://www.marketbeat.com/stocks/NYSE/pg/news))
 - **2026-10-30** — P&G completed a $4 billion senior notes offering. ([source](https://www.tipranks.com/news/company-announcements/procter-gamble-completes-4-billion-senior-notes-offering))
 - **2026-10-28** — Colgate-Palmolive Pakistan signed an agreement to buy P&G Pakistan's Port Qasim (Karachi) land, factory and related assets, part of P&G's exit from Pakistani operations; terms were not disclosed and the deal needs competition-regulator clearance. ([source](https://www.investify.pk/news/100000159291/colgate-palmolive-pakistan-to-acquire-p-and-g-s-port-qasim-assets-amid-agreement))
@@ -36,5 +37,5 @@ Makes household brands such as Tide, Pampers, Gillette and Crest.
 
 ## Bull case / bear case
 
-- **Bull:** Commentators cite 4% organic growth with all 10 categories growing, a core EPS beat, maintained fiscal 2027 guidance, restructuring savings, and a long dividend growth record.
-- **Bear:** Commentators flag a larger commodity-cost hit (about 11% of core EPS), margin compression, a revenue miss, slower first-half organic growth, and materially higher costs expected in fiscal Q2.
+- **Bull:** Commentators cite 4% organic growth with all 10 categories growing, a core EPS beat, maintained fiscal 2027 guidance, restructuring savings, a long dividend growth record, and Wells Fargo's $180 Overweight target (MarketBeat average about $171).
+- **Bear:** Commentators flag a larger commodity-cost hit (about 11% of core EPS), margin compression, a revenue miss, materially higher costs expected in fiscal Q2, and recent executive share sales, including by the CEO.

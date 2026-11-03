@@ -4,7 +4,7 @@ ticker: UNH
 company: UnitedHealth Group
 sector: Healthcare
 held_by: [SCHD, VTV]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -23,6 +23,8 @@ The largest US health insurer, with the Optum health services and pharmacy busin
 
 ## Recent news
 
+- **2026-11-03** — Shares were down about 0.4% at roughly $399 in early-afternoon New York trading on Election Day. ([source](https://finanzen.ch/nachrichten/aktien/unitedhealth-aktie-kursbewegung-03-11-2026-1035061931))
+- **2026-11-02** — Sen. Elizabeth Warren criticized UnitedHealth's $3.3B Amedisys purchase and called for breaking up "Big Medicine" (she also co-sponsors a bill to separate PBMs from pharmacies), while investor nonprofit BetterInvesting named UNH its "Undervalued Stock"; shares fell about 1.7% to around $399.90, down 4.4% for the week but up about 24% year to date. ([source](https://247wallst.com/investing/2026/11/02/elizabeth-warren-wants-to-break-up-unitedhealth-and-one-day-later-a-nonprofit-called-it-undervalued/))
 - **2026-11-02** — Shares traded about 2% lower in European trading Monday after Mark Cuban criticized insurer pricing and opaque benefit contracts following reports of AI-driven contract reviews; the commentary was not a company announcement. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/unitedhealth-group-stock-faces-fresh-scrutiny-over-ai-audits/70446537))
 - **2026-10-28** — UNH closed down about 0.8% at $407.10 on thin volume; a technical recap cited no company-specific news. ([source](https://journalarta.com/en/2026/10/29/unh-golden-cross-formed-stock-drops-0-80-october-28-2026/))
 - **2026-10-27** — Wells Fargo kept Overweight but lowered its target to $487 from $526, pointing to medium-term political uncertainty while saying fundamentals remain on track. ([source](https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-unitedhealth-stock-price-target-on-political-uncertainty-93CH-4974803))
@@ -35,5 +37,5 @@ The largest US health insurer, with the Optum health services and pharmacy busin
 
 ## Bull case / bear case
 
-- **Bull:** Bulls cite the Q3 beat (medical loss ratio 88.4%), 2026 guidance raised to at least $20.50, and Wells Fargo's view that the fundamental recovery remains on track.
-- **Bear:** Wells Fargo, Raymond James and others flag political and midterm-election risk plus possible Medicare Advantage rule changes, and fresh criticism of insurer contract opacity (Mark Cuban, Nov 2); several firms trimmed targets after Q3.
+- **Bull:** Bulls cite the Q3 beat (medical loss ratio 88.4%), 2026 guidance raised to at least $20.50, Wells Fargo's view that the fundamental recovery remains on track, and BetterInvesting's Nov 2 "undervalued" pick.
+- **Bear:** Wells Fargo, Raymond James and others flag political and midterm-election risk plus possible Medicare Advantage rule changes, Sen. Warren's Nov 2 call to break up "Big Medicine" and PBM-ownership legislation, and criticism of insurer contract opacity (Mark Cuban); several firms trimmed targets after Q3.

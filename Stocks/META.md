@@ -4,7 +4,7 @@ ticker: META
 company: Meta Platforms
 sector: Communication Services
 held_by: [VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -27,6 +27,8 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 
 ## Recent news
 
+- **2026-11-03** — Meta began marketing a bond deal of at least $20B, including at least $15B in U.S. dollars and its first euro-denominated issue; 30-year notes were discussed at roughly 2.5 percentage points over Treasuries, about 0.9 points wider than its April debt. ([source](https://www.tradingview.com/news/benzinga:9226cedb9094b:0-what-is-going-on-with-meta-platforms-stock-on-tuesday/))
+- **2026-11-03** — Shares rose about 2.2% to roughly $620 as megacap growth stocks rebounded; Blue Line Capital trimmed its position and Ritholtz's Josh Brown dropped Meta from his best-stocks list, while the consensus target stayed near $860. ([source](https://www.tradingview.com/news/benzinga:9226cedb9094b:0-what-is-going-on-with-meta-platforms-stock-on-tuesday/))
 - **2026-11-02** — S&P Global Ratings revised its outlook on Meta's AA- credit rating to negative, citing rising leverage and uncertain AI returns, with capex seen near $140B in 2026 and above $225B in 2027; Meta said its credit profile remains very strong. Shares traded near $619 midday after falling below the $625 offering price on Friday. ([source](https://finance.yahoo.com/markets/stocks/articles/going-meta-platforms-stock-monday-153458291.html))
 - **2026-10-30** — Meta fell about 2% to around $613 in morning trading, pulled down with Amazon after Amazon's earnings miss and negative free cash flow; the stock was down about 17% over the past month. ([source](https://247wallst.com/investing/2026/10/30/amazon-slides-7-as-earnings-miss-and-ai-spending-turn-free-cash-flow-negative-meta-falls-2-alphabet-dips-walmart-gains-2/))
 - **2026-10-29** — An 8-K confirmed the mandatory convertible preferred offering (250M depositary shares) closed Oct 29, with 6.50% dividends payable quarterly from Feb 15, 2027 and conversion expected around Aug 15, 2029; the 40M-share forward sale has an initial price of about $622.92 and must settle by Nov 19, 2027. ([source](https://www.sec.gov/Archives/edgar/data/0001326801/000119312526438017/d183592d8k.htm))
@@ -37,8 +39,6 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 - **2026-10-27** — Nvidia committed $3B to Meta's share offering and expanded their AI work together, including planned Meta use of Nvidia Vera Rubin systems and networking gear. ([source](https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-rise-3-billion-151848169.html))
 - **2026-10-26** — After Monday's close, Meta priced the offerings: an upsized $25B of Class A stock (40M shares at $625, sold on a forward basis) and about $12.5B of depositary shares in 6.50% mandatory convertible preferred at $50 each, to trade as METAM; both settle Oct 29. ([source](https://www.sec.gov/Archives/edgar/data/0001326801/000119312526432549/d382225dfwp.htm))
 - **2026-10-26** — Meta launched a plan to raise up to $95B in equity for AI infrastructure: about $35B now via forward-sale common stock and mandatory convertible preferred, plus a $60B at-the-market program planned for Q1 2027. ([source](https://finance.yahoo.com/markets/stocks/articles/meta-stocks-fall-1-8-171432474.html))
-- **2026-10-26** — Nvidia, AMD and Broadcom were reported to be weighing purchases of up to $5B of Meta's Class A shares in the offering. ([source](https://www.tipranks.com/news/meta-launches-95-billion-stock-offering-plan-to-fund-ai-expansion-nvidia-amd-and-broadcom-weigh-5-billion-purchase))
-- **2026-10-26** — Meta shares fell about 1.9% to roughly $630.56 Monday, extending losses that followed its Oct 21 Q3 report. ([source](https://www.fool.com/coverage/stock-market-today/2026/10/26/stock-market-midday-oct-26-tech-sector-rallies-on-anthropic-ipo-filing-and-cooling-oil-prices/))
 
 ## Coming up
 
@@ -49,5 +49,5 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (KeyBanc, Cantor, Guggenheim) cite core ad strength, Q4 revenue guidance above consensus, and early Muse AI traction.
-- **Bear:** Analysts (Needham, Scotiabank) cite about 5% dilution from the equity raises, negative free cash flow from heavy capex and unproven Muse profitability; the stock has fallen about 17% in a month amid sector-wide AI-spending worries, and European regulatory disputes such as the French press-payments case add risk.
+- **Bull:** Analysts (KeyBanc, Cantor, Guggenheim, BofA) cite core ad strength, Q4 revenue guidance above consensus and early Muse AI traction, with a consensus target near $860 per Benzinga.
+- **Bear:** Analysts (Needham, Scotiabank) cite about 5% dilution from the equity raises and unproven Muse profitability; S&P's negative outlook, a new $20B+ bond deal priced wider than April's, and some investors trimming (Blue Line Capital) highlight rising leverage to fund capex, while European disputes such as the French press-payments case add regulatory risk.

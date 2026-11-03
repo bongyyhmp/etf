@@ -4,7 +4,7 @@ ticker: WMT
 company: Walmart
 sector: Consumer Staples
 held_by: [VTV]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ The world's largest retailer by revenue, with stores, Sam's Club and a growing e
 
 ## Recent news
 
+- **2026-11-03** — Shares slid about 2.2% to roughly $124.87 midday despite a rising market, as a Strong Sell note questioned a ~46x P/E, a Morgan Stanley survey raised membership-monetization doubts and investors took profits; Bernstein kept Buy with a $142 target. ([source](https://www.investing.com/news/stock-market-news/why-is-walmart-stock-sliding-today-93CH-4996170))
 - **2026-11-02** — Shares climbed about 3.4% to close near $127.69 (per MarketBeat's quote), outpacing a market where Amazon rebounded on an upgrade. ([source](https://247wallst.com/investing/2026/11/02/amazon-climbs-5-as-upgrade-fuels-post-earnings-rebound-on-aws-strength-walmart-rises-2-alphabet-edges-higher/))
 - **2026-10-31** — TD Cowen started research coverage of Walmart. ([source](https://www.marketbeat.com/instant-alerts/analyst-walmart-nasdaq-wmt-stock-picked-up-by-analysts-at-td-cowen-2026-10-31/))
 - **2026-10-30** — Walmart committed about $6 billion to expand its use of Symbotic's warehouse robotics; Walmart shares rose about 1.9% and Symbotic jumped. ([source](https://finance.yahoo.com/markets/stocks/articles/walmart-gains-commits-6-billion-111417597.html))
@@ -40,5 +41,5 @@ The world's largest retailer by revenue, with stores, Sam's Club and a growing e
 
 ## Bull case / bear case
 
-- **Bull:** Commentators cite a strong Q2 beat (adjusted EPS of $0.81 versus about $0.74 expected), steady execution, a roughly $6B Symbotic robotics expansion and other supply-chain automation, new TD Cowen coverage, and investors moving money into defensive staples.
-- **Bear:** Commentators flag a valuation of about 44x earnings, a rally driven by sector flows rather than company news, Bank of America's bubble-risk readings for staples, and reported FTC scrutiny of AI-driven personalized pricing.
+- **Bull:** Commentators cite a strong Q2 beat, steady execution, a roughly $6B Symbotic robotics expansion and other automation, Bernstein's Buy with a $142 target, new TD Cowen coverage, and a MarketBeat consensus of Buy (average target about $132).
+- **Bear:** Commentators flag a valuation near 46x earnings, a bearish Strong Sell note, doubts over membership monetization (Morgan Stanley survey), FTC scrutiny of personalized pricing, a reported Flipkart kickback probe, and Amazon passing Walmart in revenue.

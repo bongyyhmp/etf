@@ -4,7 +4,7 @@ ticker: PLTR
 company: Palantir Technologies
 sector: Technology
 held_by: [XLK, VGT]
-updated: 2026-11-02
+updated: 2026-11-03
 tags: [stock]
 ---
 
@@ -23,6 +23,8 @@ Builds data-analysis and AI software for governments and large companies.
 
 ## Recent news
 
+- **2026-11-03** — Shares closed down about 1.7% as investors focused on slowing bookings (total contract value +6%, new US business contract value +11%) despite the revenue beat. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026))
+- **2026-11-03** — Morgan Stanley kept a Hold rating but raised its target to $233 from $205, lifting its 2027 growth forecast to 65%; Piper Sandler nudged its target to $235 from $231. ([source](https://www.tipranks.com/news/why-palantir-stock-fell-despite-an-earnings-beat-and-why-morgan-stanley-raised-its-price-target))
 - **2026-11-02** — Q3 results after the close: revenue rose 96% to about $2.31B, above the ~$2.18B consensus; EPS of $0.44 beat ~$0.41; US commercial revenue jumped 148% to $984M, overtaking US government revenue ($953M) for the first time. Q4 revenue guidance of $2.649B-$2.653B topped the ~$2.46B consensus and full-year 2026 guidance rose to about $8.53B (+91%). New total contract value grew only ~6% to $2.92B. ([source](https://www.tipranks.com/news/palantir-stock-pltr-rises-as-company-reports-96-increase-in-revenue))
 - **2026-11-02** — Shares closed down about 3.1% near $178 in the regular session as tech sold off, then rose about 2% in early after-hours trading on the results. ([source](https://www.fool.com/investing/2026/11/02/palantir-grows-revenue-96-as-new-deals-slow-rapid-earnings-reaction/))
 - **2026-10-30** — Shares slid about 4.5% as software and AI-related names sold off with the Nasdaq, ahead of Palantir's Nov 2 Q3 report. ([source](https://www.tradingkey.com/news/market-movers/262260991-market-movers-pltr-20261030))
@@ -35,10 +37,9 @@ Builds data-analysis and AI software for governments and large companies.
 
 ## Coming up
 
-- **2026-11-02** — Q3 2026 results released after the close (webcast 5:00 p.m. ET)
 - **Early February 2027** — Q4 2026 earnings (estimated, not yet confirmed)
 
 ## Bull case / bear case
 
-- **Bull:** Bulls (Rosenblatt, $260 target) point to Q3 revenue growth of 96%, US commercial revenue up 148% and now larger than government, Q4 guidance well above consensus and a raised 2026 outlook of about $8.53B.
-- **Bear:** Bears (RBC, Underperform, $90 target; Michael Burry's short) cite a valuation near 61x 2026 revenue, and the Q3 report showed new contract value growing only about 6%, reinforcing worries about slowing deal growth.
+- **Bull:** Bulls (Rosenblatt $260; Morgan Stanley and Piper Sandler raising targets to $233-$235) point to 96% Q3 revenue growth, US commercial revenue now larger than government, and a raised 2026 outlook of about $8.53B.
+- **Bear:** Bears (RBC, Underperform, $90; Michael Burry's short) cite a valuation near 61x 2026 revenue, and shares fell after the report as new contract value grew only about 6%, signaling slower deal growth.
