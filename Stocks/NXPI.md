@@ -4,7 +4,7 @@ ticker: NXPI
 company: NXP Semiconductors
 sector: Technology
 held_by: [SOXX]
-updated: 2026-11-03
+updated: 2026-11-04
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Dutch chipmaker focused on automotive and industrial chips.
 
 ## Recent news
 
+- **2026-11-04** — A 13F-based report said ARGA Investment Management opened a new NXP stake of about 95,000 shares (~$22.6M) in Q3; MarketBeat's consensus is Moderate Buy with an average target near $296. No company news was found. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/nxp-semiconductors-stock-gains-as-arga-opens-usd-22-6-million-position/70458448))
 - **2026-11-03** — NXP held a webinar on secure, real-time factory networking (time-sensitive networking, OPC UA FX, its i.MX RT1180 crossover microcontroller), a product signal rather than a financial update; euro-quoted shares were about 1.6% higher than Monday morning. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/nxp-semiconductors-stock-rises-1-58-prozent-since-previous-report/70451885))
 - **2026-10-30** — Coverage noted the new $5B buyback adds to about $1.3B left under the prior plan, with repurchases set to speed up from Q4 into 2027. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/nxp-semiconductors-stock-gets-usd-5-billion-buyback-boost/70435394))
 - **2026-10-29** — Shares climbed about 5.6% to roughly $263.50 by early afternoon, recovering post-earnings losses with no single catalyst cited. ([source](https://247wallst.com/cards/nxp-semiconductors-nxpi-price-swing-01m64d6fp2pde7p1ytnzmv4849))

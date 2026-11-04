@@ -4,7 +4,7 @@ ticker: CVX
 company: Chevron
 sector: Energy
 held_by: [SCHD, VTV]
-updated: 2026-11-03
+updated: 2026-11-04
 tags: [stock]
 ---
 
@@ -23,6 +23,8 @@ Integrated oil and gas company with production, refining and chemicals.
 
 ## Recent news
 
+- **2026-11-04** — Chevron fell about 4% as oil slid; TradingKey also pointed to post-earnings profit-taking and Q3 buybacks at the low end of the target range ($2.5B, down from $3.1B in Q2). ([source](https://www.tradingkey.com/news/market-movers/262274795-market-movers-cvx-20261104))
+- **2026-11-04** — TipRanks said oil stocks were hit after Democrats won the Senate, with crude futures down about 8% to near $88; it noted Democrats' clean-energy focus and push to end the Middle East war, which has closed the Strait of Hormuz, could erode producers' gains. ([source](https://www.tipranks.com/news/oil-stocks-chevron-cvx-marathon-mpc-and-exxon-mobil-xom-take-a-beating-on-midterm-results))
 - **2026-11-03** — DZ Bank cut its rating to Hold from Buy with a $240 target; MarketBeat's average target is about $219 ("Moderate Buy"). ([source](https://www.marketbeat.com/instant-alerts/analyst-chevron-nyse-cvx-stock-moved-down-to-hold-by-dz-bank-2026-11-03/))
 - **2026-11-03** — Shares dipped about 0.7% to roughly $226.29 during the session after Monday's 3% drop, as crude swung on Iran news. ([source](https://www.marketbeat.com/instant-alerts/list-best-oil-stocks-to-follow-today-november-3rd-2026-11-03/))
 - **2026-11-03** — Crude whipsawed: Brent bounced toward $106 early after a reported U.S. strike on Iran's Qeshm Island, then gave ground on Iran peace-talk hopes, after a 7.6% plunge on Nov 2 to settle at $104.77 (its steepest one-day drop in over three months). ([source](https://lapaasvoice.com/brent-oil-extends-slump-nears-100-a-barrel-as-iran-peace-hopes-weigh-on-prices))
@@ -33,8 +35,6 @@ Integrated oil and gas company with production, refining and chemicals.
 - **2026-10-30** — Q3 adjusted EPS of $5.28 topped the ~$4.87 consensus and revenue of $65.24B beat the ~$61.82B estimate; shares rose about 1.7% to around $235.37, near the top of their one-year range. ([source](https://www.marketbeat.com/instant-alerts/earnings-chevron-nyse-cvx-posts-quarterly-earnings-results-beats-estimates-by-041-eps-2026-10-30/))
 - **2026-10-30** — Q3 net income reached $9.9B ($5.06/share) vs. $3.5B a year earlier, helped by $4.9B of downstream earnings and record U.S. refinery runs; operating cash flow was $16.0B, buybacks $2.5B and net debt fell $7.8B, while output slipped to 3.98M boe/d. Chevron also declared a $1.78 dividend and plans $7B of Venezuela JV investment over five years. ([source](https://www.sec.gov/Archives/edgar/data/0000093410/000009341026000196/a09302026ex9918-k.htm))
 - **2026-10-29** — Ahead of Friday's report, shares traded near $231, up about 1%, leaving the stock up roughly 57% this year; 24/7 Wall St. noted 39 straight years of dividend increases and $8.4B of debt reduction in Q2. ([source](https://247wallst.com/investing/2026/10/29/chevron-is-up-nearly-57-in-2026-is-its-dividend-safer-than-conocophillips/))
-- **2026-10-28** — TotalEnergies agreed to take a 25% stake in 26 Chevron-operated U.S. Gulf exploration leases, while Chevron gets a 75% operated interest in two adjacent TotalEnergies leases; terms were not disclosed. ([source](https://worldoil.com/news/2026/10/28/totalenergies-enters-26-chevron-u-s-gulf-exploration-blocks))
-- **2026-10-28** — Brent climbed about 1% to roughly $115 after Yemen's Houthis claimed a missile strike on Saudi Arabia's largest refinery (unconfirmed by Saudi authorities). ([source](https://www.5paisa.com/blog/crude-oil-price-today-28-oct-2026))
 
 ## Coming up
 
@@ -44,4 +44,4 @@ Integrated oil and gas company with production, refining and chemicals.
 ## Bull case / bear case
 
 - **Bull:** Q3 beat estimates with profit nearly tripling on record refining runs, $16B of operating cash flow and falling net debt; Morgan Stanley sees a higher FCF outlook, analysts raised targets (one to $244), and commentators point to higher exploration spending, Venezuela, Vaca Muerta and the TotalEnergies Gulf partnership.
-- **Bear:** Commentators flag dependence on oil and refining margins tied to Middle East tensions (Brent fell 7.6% on Nov 2 on peace hopes), lower Q3 production, DZ Bank's Nov 3 downgrade to Hold, a share price above MarketBeat's ~$219 average target, and political criticism of 'windfall' profits.
+- **Bear:** Commentators flag dependence on oil and refining margins tied to Middle East tensions (Brent fell below $95 on Nov 4 after the midterms), lower Q3 production, buybacks cut to $2.5B, DZ Bank's Nov 3 downgrade to Hold, a share price above MarketBeat's ~$219 average target, and political pressure over 'windfall' profits from a Democratic Congress.

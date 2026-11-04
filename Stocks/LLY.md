@@ -4,7 +4,7 @@ ticker: LLY
 company: Eli Lilly
 sector: Healthcare
 held_by: [VUG, VOO, IVV, SPY, VTI]
-updated: 2026-11-03
+updated: 2026-11-04
 tags: [stock]
 ---
 
@@ -26,6 +26,8 @@ Drugmaker best known for diabetes and obesity drugs (Mounjaro, Zepbound) plus Al
 
 ## Recent news
 
+- **2026-11-04** — Shares rose about 2% to around $1,437 after rival Novo Nordisk raised its 2026 outlook for a third time on strong Wegovy pill sales; Citi's Geoffrey Meacham said the demand suggests obesity-drug volumes can outrun pricing pressure as access widens. ([source](https://rallies.ai/news/lilly-climbs-after-rival-novo-hikes-2026-outlook-df6f3f047eb5a209))
+- **2026-11-04** — GuruFocus cautioned that Lilly's Q3 included roughly $900M of one-off-type items (mainly milestone income and favorable rebate adjustments, about 3.7% of revenue), which could flatter the recurring base. ([source](https://www.tradingview.com/news/gurufocus:85a1d8ddc094b:0-eli-lilly-stocks-rise-2-32-while-revenue-guidance-faces-a-quality-of-growth-test/))
 - **2026-11-03** — Shares gained about $9 (roughly 0.6%) to around $1,420 in Tuesday trading, near the 52-week high of $1,449.68; MarketBeat called Lilly the standout mover among large pharma names that day. ([source](https://www.marketbeat.com/instant-alerts/list-top-pharmaceutical-stocks-to-watch-today-november-3rd-2026-11-03/))
 - **2026-11-02** — Cantor Fitzgerald lifted its target to $1,600 from $1,440 and kept Overweight; shares opened Monday near $1,416, and MarketBeat's ~$1,404 consensus target now sits below the stock. ([source](https://marketbeat.com/instant-alerts/analyst-cantor-fitzgerald-issues-positive-forecast-for-eli-lilly-and-company-nyse-lly-stock-price-2026-11-02))
 - **2026-10-30** — JPMorgan also raised its target to $1,650 from $1,500 with an Overweight rating, the highest of the post-earnings increases. ([source](https://www.dailypolitical.com/2026/11/02/eli-lilly-and-company-nyselly-price-target-raised-to-1650-00.html))
@@ -36,7 +38,6 @@ Drugmaker best known for diabetes and obesity drugs (Mounjaro, Zepbound) plus Al
 - **2026-10-28** — Earnings previews put Q3 consensus near $6.67 EPS (cut from about $9.93 over 30 days, reflecting deal charges) on about $22.6B revenue, with international Mounjaro, the Foundayo launch and U.S. pricing as the focus. ([source](https://247wallst.com/investing/2026/10/28/3-big-pharma-earnings-reports-to-watch-eli-lilly-merck-and-gilead/))
 - **2026-10-26** — Lilly declared a $1.73 quarterly dividend, payable Dec 10 to holders of record Nov 13. ([source](https://www.gurufocus.com/news/9142967/eli-lilly-lly-declares-173-quarterly-dividend-payable-december-10))
 - **2026-10-24** — Lilly presented first clinical data in platinum-sensitive ovarian cancer at ESMO 2026. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/eli-lilly-presents-cancer-data-eli-lilly-stock-trades-2-68-percent-below-its-high/70414029))
-- **2026-10-23** — Goldman Sachs raised its Lilly price target to $1,413 from $1,371 and modeled Q3 revenue about 3% above consensus. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/goldman-sachs-raises-target-for-eli-lilly-stock-to-usd-1-413/70415779))
 
 ## Coming up
 
@@ -48,5 +49,5 @@ Drugmaker best known for diabetes and obesity drugs (Mounjaro, Zepbound) plus Al
 
 ## Bull case / bear case
 
-- **Bull:** Q3 beat on revenue and EPS with Mounjaro up 65% and volume up 53%, and the raised $91-92B 2026 sales outlook topped consensus; brokers including JPMorgan ($1,650), Truist, Cantor, Scotiabank and RBC lifted targets to about $1,600-1,650 on Oct 30-Nov 2.
-- **Bear:** Realized prices fell 15% (29% outside the U.S.), deal-related R&D charges pushed 2026 EPS guidance lower, and the stock trades at a premium valuation after rising to a new high above $1,400, still trading above MarketBeat's ~$1,404 consensus target as of Nov 3.
+- **Bull:** Q3 beat on revenue and EPS with Mounjaro up 65% and volume up 53%, and the raised $91-92B 2026 sales outlook topped consensus; brokers including JPMorgan ($1,650), Truist, Cantor, Scotiabank and RBC lifted targets to about $1,600-1,650, and Citi read Novo's Nov 4 outlook raise as a sign category volumes can outgrow price cuts.
+- **Bear:** Realized prices fell 15% (29% outside the U.S.), deal-related R&D charges pushed 2026 EPS guidance lower, GuruFocus flagged about $900M of one-off-type Q3 benefits, Novo's Wegovy pill competes with Lilly's Foundayo, and the stock trades above MarketBeat's ~$1,404 consensus target at a premium valuation.

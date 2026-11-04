@@ -4,7 +4,7 @@ ticker: PANW
 company: Palo Alto Networks
 sector: Technology
 held_by: []
-updated: 2026-11-03
+updated: 2026-11-04
 tags: [stock]
 ---
 
@@ -20,6 +20,8 @@ Sells cybersecurity products: firewalls, cloud security and security operations 
 
 ## Recent news
 
+- **2026-11-04** — Shares were roughly flat (about +0.3% near $351 late in the session) after swinging as high as $361.70, lagging a broad rally driven by the midterm results. ([source](https://www.finanzen.ch/nachrichten/aktien/palo_alto_networks-aktie-kursbewegung-04-11-2026-1035062881))
+- **2026-11-03** — Shares closed down about 0.4% at $350.20, below the 50-day average (~$372); the consensus target cited was about $417. ([source](https://www.heygotrade.com/en/us-stock/panw/))
 - **2026-11-03** — Palo Alto confirmed it will report fiscal Q1 2027 results (quarter ended Oct 31) after the close on Nov 18, with a call at 4:30 p.m. ET. ([source](https://www.marketscreener.com/news/palo-alto-networks-to-announce-fiscal-first-quarter-2027-financial-results-on-wednesday-november-18-ce785fded980f020))
 - **2026-11-02** — Shares slid about 3.9% to roughly $352 from a $365.87 close, with no company-specific reason cited. ([source](https://www.marketbeat.com/instant-alerts/price-palo-alto-networks-nasdaq-panw-stock-falls-39-heres-what-happened-2026-11-02/))
 - **2026-10-30** — Shares fell about 3-4% to roughly $366-368 in afternoon trading as AI hyperscaler-spending worries and Alphabet's negative free cash flow weighed on tech; a $6.3B Binance hack did little to lift security stocks, and profit-taking after a ~100% year-to-date gain was cited. ([source](https://247wallst.com/investing/2026/10/30/datadog-sinks-12-crowdstrike-falls-4-despite-6-3-billion-binance-hack-spotlighting-cyber-defense-palo-alto-and-fortinet-slide-3/))
@@ -37,5 +39,5 @@ Sells cybersecurity products: firewalls, cloud security and security operations 
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite 63% growth in Next-Gen Security ARR to $9.1B, AI-security platform demand and a mostly Buy consensus (Wells Fargo, Citi, Jefferies; MarketBeat average target ~$399).
-- **Bear:** Bears point to guided ARR growth slowing to 22-23%, a rich valuation (Cantor ~60x EV/FCF; Phillip downgrade), weak peer results (Fortinet) and AI-spending jitters hitting the sector, profit-taking after a ~100% YTD run, and recent exploited vulnerabilities.
+- **Bull:** Analysts cite 63% growth in Next-Gen Security ARR to $9.1B, AI-security platform demand and a mostly Buy consensus (Wells Fargo, Citi, Jefferies; average targets cited around $400-417).
+- **Bear:** Bears point to guided ARR growth slowing to 22-23%, a rich valuation (Cantor ~60x EV/FCF; Phillip downgrade), weak peer results (Fortinet), AI-spending jitters, profit-taking after a ~100% YTD run, recent exploited vulnerabilities and shares sitting below their 50-day average.

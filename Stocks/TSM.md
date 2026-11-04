@@ -4,7 +4,7 @@ ticker: TSM
 company: Taiwan Semiconductor (TSMC)
 sector: Technology
 held_by: [SMH, SOXX]
-updated: 2026-11-03
+updated: 2026-11-04
 tags: [stock]
 ---
 
@@ -23,6 +23,8 @@ The world's largest contract chipmaker; manufactures chips for Apple, Nvidia, AM
 
 ## Recent news
 
+- **2026-11-04** — In Taipei, TSMC closed down 1.53% at NT$2,260 as the Taiex fell 0.83% after a nearly 1,900-point intraday swing on U.S. midterm uncertainty and heavy foreign selling. ([source](https://focustaiwan.tw/business/202611040014))
+- **2026-11-04** — ADRs traded near $406 early; coverage framed the Nov 10 October sales release against Q4 guidance of $52.3-54.3B, a midpoint about 14% above Q3. ([source](https://www.tradingview.com/news/gurufocus:23eb95650094b:0-tsmc-stocks-move-lower-as-november-sales-data-face-a-53-3-billion-quarterly-hurdle/))
 - **2026-11-03** — ADRs rebounded about 1.9% to roughly $406 by midday as chip stocks recovered. ([source](https://www.marketbeat.com/instant-alerts/list-best-manufacturing-stocks-to-watch-today-november-3rd-2026-11-03/))
 - **2026-11-03** — In Taipei, TSMC fell 1.5% to NT$2,295 as the Taiex sank 3.59%, its seventh-largest point drop, on AI-spending worries, high bond yields and heavy foreign selling; TSMC alone took about 280 points off the index. ([source](https://focustaiwan.tw/business/202611030023))
 - **2026-11-02** — ADRs fell 1.85% as the Philadelphia Semiconductor Index dropped 3.37%. ([source](https://focustaiwan.tw/business/202611030023))
@@ -34,10 +36,10 @@ The world's largest contract chipmaker; manufactures chips for Apple, Nvidia, AM
 
 ## Coming up
 
-- **2026-11-10** — October monthly revenue report (cited as the next checkpoint in coverage; typical timing)
+- **2026-11-10** — October monthly revenue report, 1:30 p.m. Taipei time (subject to change); Q4 guidance $52.3-54.3B
 - **Mid-January 2027** — Q4 2026 earnings (expected; date not yet announced)
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (Barclays, Needham) and Moody's cite manufacturing leadership and AI demand; reports of possible CoWoS packaging price hikes point to pricing power.
-- **Bear:** Commentators flag a ~31x P/E, heavy capex, Taiwan concentration, a fatal Kaohsiung construction accident and sensitivity to AI-spending scares, as in the ~6% Oct 30 drop and the Taiex's 3.59% slide on Nov 3.
+- **Bull:** Analysts (Barclays, Needham) and Moody's cite manufacturing leadership and AI demand; Q4 guidance implies about 14% sequential growth, and reports of possible CoWoS packaging price hikes point to pricing power.
+- **Bear:** Commentators flag a ~31x P/E, heavy capex, Taiwan concentration, a fatal Kaohsiung construction accident, heavy foreign selling of Taiwan stocks and sensitivity to AI-spending and political scares, with the stock about 17% below its high.

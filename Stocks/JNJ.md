@@ -4,7 +4,7 @@ ticker: JNJ
 company: Johnson & Johnson
 sector: Healthcare
 held_by: [VTV]
-updated: 2026-11-03
+updated: 2026-11-04
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Makes prescription drugs and medical devices.
 
 ## Recent news
 
+- **2026-11-04** — Trefis said J&J, up about 31% this year, trades near 23.6x 2026 and 22.7x 2027 consensus profit, but flagged deal dilution (the Firefly Bio and Cell BioMedicines deals cut 2027 adjusted EPS by $1.36) and MedTech slowing to 2.5% operational growth in Q3. ([source](https://www.trefis.com/stock/jnj/articles/622606/if-johnson-johnson-stock-looks-expensive-you-need-to-read-this/2026-11-04))
+- **2026-11-04** — After Democrats won Congress, analysts quoted by BioPharma Dive saw limited near-term drug-pricing risk for pharma, with Leerink's David Risinger saying Democrats likely have bigger priorities. ([source](https://www.biopharmadive.com/news/biotech-pharma-midterm-elections-impact/873667/))
 - **2026-11-03** — Shares slipped about 1.1% to roughly $267.59 in Tuesday trading with no company-specific news cited, extending a pullback from the Oct 30 high of about $282. ([source](https://www.marketbeat.com/instant-alerts/list-top-pharmaceutical-stocks-to-watch-today-november-3rd-2026-11-03/))
 - **2026-11-02** — New analyses presented at the TCT 2026 meeting tied J&J's Impella heart pumps to lower short-term mortality in high-risk coronary procedures; Simply Wall St noted the stock closed at $273.20 the prior session and is up about 32% year to date, while its most-followed fair-value estimate (~$241) sits below the price. ([source](https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-jnj-impella-data-190958944.html))
 - **2026-10-30** — Shares hit a new 12-month high of about $282 intraday and traded near $278, up roughly 1%, above MarketBeat's ~$275.92 consensus target (Moderate Buy). ([source](https://www.marketbeat.com/instant-alerts/price-johnson-johnson-nyse-jnj-reaches-new-12-month-high-still-a-buy-2026-10-30/))
@@ -38,5 +40,5 @@ Makes prescription drugs and medical devices.
 
 ## Bull case / bear case
 
-- **Bull:** Bernstein, RBC and Citi cite 6.1% Q3 organic growth, a 3% EPS beat and Innovative Medicine strength, including Icotyde, while early ESMO data for its Halda prostate cancer drug and Leerink's view of J&J as the best-funded likely acquirer add to pipeline interest, along with TCT data supporting its Impella heart pumps (Nov 2).
-- **Bear:** Wells Fargo, BofA and Leerink flag 2027 pressure from deal dilution, MedTech constraints and loss-of-exclusivity headwinds; Erste sees a full valuation (Simply Wall St's most-followed fair value of ~$241 sits below the share price), and the Smith & Nephew orthopaedics talks reportedly collapsed.
+- **Bull:** Bernstein, RBC and Citi cite 6.1% Q3 organic growth, a 3% EPS beat and Innovative Medicine strength, including Icotyde, while early ESMO data for its Halda prostate cancer drug, TCT data for Impella heart pumps and Leerink's view of J&J as the best-funded likely acquirer add to interest; analysts saw limited drug-pricing risk from the new Congress.
+- **Bear:** Wells Fargo, BofA and Leerink flag 2027 pressure from deal dilution (Trefis: $1.36 of 2027 EPS), MedTech slowing and loss-of-exclusivity headwinds; Erste and Simply Wall St see a full valuation, and the Smith & Nephew orthopaedics talks reportedly collapsed.

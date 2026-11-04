@@ -4,7 +4,7 @@ ticker: AMZN
 company: Amazon
 sector: Consumer Discretionary
 held_by: [VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-11-03
+updated: 2026-11-04
 tags: [stock]
 ---
 
@@ -27,6 +27,8 @@ Runs the largest US online store and AWS, the biggest cloud computing business.
 
 ## Recent news
 
+- **2026-11-04** — Shares surged about 7% to around $269 in the morning as megacap tech led a post-midterm rally, with 24/7 Wall St. also citing AWS's 39% growth, a stronger ADP jobs report and lower Treasury yields. ([source](https://247wallst.com/investing/2026/11/04/amazon-rallies-7-apple-and-microsoft-climb-5-as-big-tech-leads-post-election-rebound/))
+- **2026-11-04** — Freedom Broker raised its price target to $330 from $255 with a Buy rating, per a market roundup. ([source](https://www.timothysykes.com/news/amazoncom-inc-amzn-news-2026_11_04/))
 - **2026-11-03** — Amazon moved higher along with Microsoft and chip stocks as AI heavyweights rebounded, helping the Nasdaq close up about 0.8% on midterm Election Day (Reuters gave no exact figure for Amazon). ([source](https://virginiabusiness.com/nasdaq-ai-chipmakers-rebound-us-midterm-results/))
 - **2026-11-02** — Anthropic's amended IPO filing disclosed a minimum commitment of at least $110B with AWS from May 2026 to April 2036, with true-up payments if spending falls short; it was part of about $895B in total Anthropic compute and lease commitments. ([source](https://www.unite.ai/anthropic-details-long-term-compute-commitments-in-amended-ipo-filing/))
 - **2026-11-02** — Phillip Securities upgraded Amazon to Buy from Accumulate and lifted its target to $330 from $320; shares jumped as much as about 5% in the morning on the post-earnings rebound and AWS strength, then were up about 2.4% near $246 shortly before the close. ([source](https://www.tokenpost.com/news/investing/46921))
@@ -37,8 +39,6 @@ Runs the largest US online store and AWS, the biggest cloud computing business.
 - **2026-10-29** — Amazon guided Q4 sales to $240B-$247B and operating income to $28.5B-$33.5B; operating income hit $28.1B (13.9% margin), trailing free cash flow swung to a $42.4B outflow, and the 2026 capex plan stayed near $220B. ([source](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx))
 - **2026-10-29** — Shares fell as much as about 10% after hours on the results before paring losses. ([source](https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html))
 - **2026-10-28** — The Fed held its benchmark rate at 3.75%-4.00% in a 10-2 vote, with two officials dissenting in favor of a quarter-point hike; the statement described growth as strong and inflation as still elevated. ([source](https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026))
-- **2026-10-26** — UBS raised its price target to $348 from $318 with a Buy rating, arguing Street estimates for 2027 AWS operating margin are too low even as it lifted its 2027 capex estimate above $300B. ([source](https://www.investing.com/news/analyst-ratings/ubs-raises-amazon-stock-price-target-to-348-on-margin-outlook-93CH-4971942))
-- **2026-10-26** — Evercore (Outperform, $355) said Q3 should meet or slightly beat expectations and that AI-funding worries may move the stock more than the results. ([source](https://www.investing.com/news/analyst-ratings/evercore-previews-amazon-stock-ahead-of-q3-earnings-report-93CH-4972848))
 
 ## Coming up
 
@@ -46,5 +46,5 @@ Runs the largest US online store and AWS, the biggest cloud computing business.
 
 ## Bull case / bear case
 
-- **Bull:** Bulls (UBS, Mizuho, MoffettNathanson, TD Cowen, Evercore, and Phillip Securities after its Nov 2 upgrade) point to AWS growth accelerating to 39%, an $82B jump in AWS backlog to $578B, Anthropic's disclosed $110B minimum AWS commitment, and management's expectation of 40%+ AWS growth in 2027-2028.
-- **Bear:** Critics point to the Q3 EPS and advertising misses, AWS growth below some investors' 42%-43% hopes, a $42.4B trailing free-cash-flow outflow as capex runs near $220B, and target cuts from Citizens, Baird and BofA.
+- **Bull:** Bulls (UBS, Mizuho, MoffettNathanson, TD Cowen, Evercore, Phillip Securities and Freedom Broker) point to AWS growth accelerating to 39%, an $82B jump in AWS backlog to $578B, Anthropic's disclosed $110B minimum AWS commitment, and management's expectation of 40%+ AWS growth in 2027-2028.
+- **Bear:** Critics point to the Q3 EPS and advertising misses, AWS growth below some investors' 42%-43% hopes, a $42.4B trailing free-cash-flow outflow as capex runs near $220B, possible tougher data-center rules after the midterms, and target cuts from Citizens, Baird and BofA.

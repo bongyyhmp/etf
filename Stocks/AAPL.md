@@ -4,7 +4,7 @@ ticker: AAPL
 company: Apple
 sector: Technology
 held_by: [VGT, XLK, VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-11-03
+updated: 2026-11-04
 tags: [stock]
 ---
 
@@ -29,6 +29,8 @@ Makes the iPhone, Mac, iPad and wearables, and earns a growing share from servic
 
 ## Recent news
 
+- **2026-11-04** — Shares jumped more than 6% to a record intraday high near $352.22 (prior close $331.90), pushing market value above roughly $5.1 trillion as Big Tech led a broad rally after Democrats won control of Congress, erasing Tuesday's margin-driven pullback. ([source](https://moneycheck.com/apple-aapl-reaches-5-12-trillion-market-cap-as-shares-hit-352-22))
+- **2026-11-04** — Post-earnings target changes were mixed: Bernstein raised to $380 from $370 (Outperform) while trimming FY27-FY28 estimates, Evercore ISI held $380 and Wedbush $400, DA Davidson lifted to $295, and JPMorgan cut to $355 citing services and margin factors. ([source](https://moneycheck.com/apple-aapl-reaches-5-12-trillion-market-cap-as-shares-hit-352-22))
 - **2026-11-03** — Apple fell 1.9%, weighing on the Dow, as investors focused on the weaker margin outlook driven by rising memory-chip costs rather than the earnings beat. ([source](https://lancasteronline.com/business/stock_market/nvidia-and-other-big-tech-stocks-lift-the-us-market-despite-drops-for-apple-and/article_b41e7d06-70b5-50ae-8a99-7d089b3583ec.html))
 - **2026-11-02** — For the December quarter Apple guided revenue growth of 7%-10% (above ~5.9% consensus, implying a record quarter) but gross margin of only 45%-46% vs. ~47% expected, citing rising memory costs that management expects to continue; shares dropped about 2.8% to $328.81 after hours. ([source](https://www.tradingkey.com/analysis/stocks/us-stocks/262266155-apple-stock-forecast-q4-earnings-memory-costs-margin-guide-330-support-november-3-2026-tradingkey))
 - **2026-11-02** — Fiscal Q4 results after the close: revenue $114.5B (+12%) and EPS $2.10 (incl. ~$0.05 tariff-refund benefit) topped estimates of roughly $113.5B and $2.00; iPhone $57.6B (+17%), Mac $10.8B (+24%), Services a record $31.6B, gross margin 47.9%; Greater China rose 21% to $17.5B but trailed the ~$18.6B forecast, and iPad and wearables declined. Fiscal 2026 revenue hit a record $478.8B. ([source](https://www.stocktitan.net/news/AAPL/apple-reports-fourth-quarter-7wgi79wgs8n4.html))
@@ -39,8 +41,6 @@ Makes the iPhone, Mac, iPad and wearables, and earns a growing share from servic
 - **2026-10-27** — Goldman Sachs reiterated Buy and lifted its target to $390 from $360 on a higher multiple, forecasting fiscal Q4 revenue of about $113.6B and EPS of $2.01, slightly above consensus, but a below-consensus December quarter. ([source](https://www.kucoin.com/news/flash/goldman-sachs-forecasts-apple-q4-earnings-iphone-18-series-drives-growth-target-price-raised-to-390))
 - **2026-10-28** — At its "Pro and Tell" event Apple unveiled its first touchscreen MacBook Pro, with an OLED "PROLED XDR" display, starting at $2,899 for 14-inch and $3,399 for 16-inch; preorders opened the same day with deliveries from Nov 6. ([source](https://www.techradar.com/news/live/oled-touchscreen-macbook-pro-apple-pro-and-tell-live-october-2026))
 - **2026-10-27** — Apple shares edged higher after the company introduced a new iMac and 14-inch MacBook Pro. ([source](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html))
-- **2026-10-26** — Jefferies' Edison Lee kept an Underperform rating with a $270.62 target, arguing the stock is overvalued and that December-quarter revenue and EPS could come in below Street forecasts due to softer iPhone 18 Pro demand and memory-cost pressure; shares slipped about 1.5% early. ([source](https://www.tipranks.com/news/apple-stock-falls-today-as-bearish-analyst-comments-raise-concerns-ahead-of-next-weeks-earnings))
-- **2026-10-26** — BofA reiterated Buy with a $370 target as iPhone Duo global delivery lead times stretched to about 79 days, with international shipments slated for January 22, 2027. ([source](https://www.benzinga.com/markets/tech/26/10/62599048/apples-iphone-duo-buyers-face-a-wait-that-could-stretch-into-january))
 
 ## Coming up
 
@@ -51,5 +51,5 @@ Makes the iPhone, Mac, iPad and wearables, and earns a growing share from servic
 
 ## Bull case / bear case
 
-- **Bull:** Apple beat fiscal Q4 estimates (iPhone +17%, record Services) and guided December-quarter revenue up 7%-10%, above consensus; BofA, Goldman Sachs and HSBC cite iPhone Duo demand and services growth.
-- **Bear:** December-quarter gross margin guidance of 45%-46% trailed estimates on memory costs, Greater China missed, and Jefferies cites a stretched valuation (mid-30s forward earnings) and softer iPhone 18 Pro demand.
+- **Bull:** Apple beat fiscal Q4 estimates (iPhone +17%, record Services), guided December-quarter revenue up 7%-10% and hit a record high above $5T in value on Nov 4; Bernstein ($380), Evercore ISI ($380), Wedbush ($400), Goldman Sachs and HSBC cite iPhone Duo demand and services growth.
+- **Bear:** December-quarter gross margin guidance of 45%-46% trailed estimates on memory costs, Greater China missed, JPMorgan cut its target to $355 on services and margins, and Jefferies and DA Davidson have targets well below the share price, citing a stretched valuation.

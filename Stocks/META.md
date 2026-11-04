@@ -4,7 +4,7 @@ ticker: META
 company: Meta Platforms
 sector: Communication Services
 held_by: [VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-11-03
+updated: 2026-11-04
 tags: [stock]
 ---
 
@@ -27,6 +27,9 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 
 ## Recent news
 
+- **2026-11-04** — Meta's first euro-denominated bond sale (up to about €9B in six tranches, 4-38 years) drew roughly €53B of orders, reported as the largest order book ever for a European corporate bond. ([source](https://leprivatebanker.com/2026/11/04/meta-draws-record-e53-billion-of-orders-for-debut-euro-bonds-topping-ab-inbevs-2016-mark/))
+- **2026-11-04** — Shares opened near $621 and traded up about 2.4% as communication-services stocks rallied after the midterm results, per MarketBeat. ([source](https://www.marketbeat.com/instant-alerts/filing-meta-platforms-inc-meta-stock-motley-fool-asset-management-llc-boosts-stake-2026-11-04/))
+- **2026-11-03** — Meta sold $15B of U.S. dollar bonds in five maturities against as much as $58B of orders; the 30-year piece ($2.75B) carried a 7.5% coupon at 220 basis points over Treasuries. ([source](https://leprivatebanker.com/2026/11/04/meta-draws-record-e53-billion-of-orders-for-debut-euro-bonds-topping-ab-inbevs-2016-mark/))
 - **2026-11-03** — Meta began marketing a bond deal of at least $20B, including at least $15B in U.S. dollars and its first euro-denominated issue; 30-year notes were discussed at roughly 2.5 percentage points over Treasuries, about 0.9 points wider than its April debt. ([source](https://www.tradingview.com/news/benzinga:9226cedb9094b:0-what-is-going-on-with-meta-platforms-stock-on-tuesday/))
 - **2026-11-03** — Shares rose about 2.2% to roughly $620 as megacap growth stocks rebounded; Blue Line Capital trimmed its position and Ritholtz's Josh Brown dropped Meta from his best-stocks list, while the consensus target stayed near $860. ([source](https://www.tradingview.com/news/benzinga:9226cedb9094b:0-what-is-going-on-with-meta-platforms-stock-on-tuesday/))
 - **2026-11-02** — S&P Global Ratings revised its outlook on Meta's AA- credit rating to negative, citing rising leverage and uncertain AI returns, with capex seen near $140B in 2026 and above $225B in 2027; Meta said its credit profile remains very strong. Shares traded near $619 midday after falling below the $625 offering price on Friday. ([source](https://finance.yahoo.com/markets/stocks/articles/going-meta-platforms-stock-monday-153458291.html))
@@ -36,9 +39,6 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 - **2026-10-29** — Meta rose about 3% to roughly $629 midday, moving up while Alphabet sank about 12% and Microsoft slipped after their reports. ([source](https://247wallst.com/investing/2026/10/29/amazon-slides-3-as-alphabets-12-plunge-raises-stakes-for-aws-report-meta-rises-3-microsoft-pulls-back/))
 - **2026-10-28** — Shares closed down 1.2% at $612.49, a fifth straight decline that took the stock down about 12.2% over the streak and about 21% below its 52-week high. ([source](https://www.trefis.com/stock/meta/articles/621231/a-5-day-losing-streak-has-meta-platforms-stock-down-12/2026-10-29))
 - **2026-10-27** — Shares closed down about 1.7% at $620.19 on heavy volume after banks reported the Class A offering was roughly five times oversubscribed, lifting Meta's total equity plan to about $97.5B. ([source](https://www.fool.com/coverage/stock-market-today/2026/10/27/stock-market-today-oct-27-meta-raises-largest-ever-equity-offering-to-nearly-usd98-billion-to-fund-ai-infrastructure-bet/))
-- **2026-10-27** — Nvidia committed $3B to Meta's share offering and expanded their AI work together, including planned Meta use of Nvidia Vera Rubin systems and networking gear. ([source](https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-rise-3-billion-151848169.html))
-- **2026-10-26** — After Monday's close, Meta priced the offerings: an upsized $25B of Class A stock (40M shares at $625, sold on a forward basis) and about $12.5B of depositary shares in 6.50% mandatory convertible preferred at $50 each, to trade as METAM; both settle Oct 29. ([source](https://www.sec.gov/Archives/edgar/data/0001326801/000119312526432549/d382225dfwp.htm))
-- **2026-10-26** — Meta launched a plan to raise up to $95B in equity for AI infrastructure: about $35B now via forward-sale common stock and mandatory convertible preferred, plus a $60B at-the-market program planned for Q1 2027. ([source](https://finance.yahoo.com/markets/stocks/articles/meta-stocks-fall-1-8-171432474.html))
 
 ## Coming up
 
@@ -49,5 +49,5 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (KeyBanc, Cantor, Guggenheim, BofA) cite core ad strength, Q4 revenue guidance above consensus and early Muse AI traction, with a consensus target near $860 per Benzinga.
-- **Bear:** Analysts (Needham, Scotiabank) cite about 5% dilution from the equity raises and unproven Muse profitability; S&P's negative outlook, a new $20B+ bond deal priced wider than April's, and some investors trimming (Blue Line Capital) highlight rising leverage to fund capex, while European disputes such as the French press-payments case add regulatory risk.
+- **Bull:** Analysts (KeyBanc, Cantor, Guggenheim, BofA, Goldman, Pivotal) cite core ad strength, Q4 revenue guidance above consensus and early Muse AI traction, with a consensus target near $860 per Benzinga; record demand for its dollar and debut euro bonds shows strong credit-market appetite for its debt.
+- **Bear:** Analysts (Needham, Scotiabank) cite about 5% dilution from the equity raises and unproven Muse profitability; S&P's negative outlook and more than $20B of new bonds (30-year at 7.5%) underline rising leverage to fund capex near $140B in 2026, while European disputes such as the French press-payments case add regulatory risk.

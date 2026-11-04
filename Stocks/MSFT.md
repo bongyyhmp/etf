@@ -4,7 +4,7 @@ ticker: MSFT
 company: Microsoft
 sector: Technology
 held_by: [XLK, VGT, VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-11-03
+updated: 2026-11-04
 tags: [stock]
 ---
 
@@ -29,6 +29,8 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 
 ## Recent news
 
+- **2026-11-04** — Shares jumped about 7% to close at $556.48 (up $35.49), hitting a new 52-week high of $559.15, as megacap software names rallied after the midterm results even while AI-hardware stocks fell. ([source](https://seekingalpha.com/news/4665563-microsoft-climbs-7-to-hit-new-52-week-high))
+- **2026-11-04** — Coverage described a split in tech after the Democratic sweep: software (Microsoft, Alphabet) rose while hardware names such as Nvidia, Tesla and Intel fell on worries about tighter AI rules and data-center scrutiny. ([source](https://finance.yahoo.com/markets/stocks/articles/tech-ai-stocks-split-democratic-170603319.html))
 - **2026-11-03** — Shares gained about 3.1%, well ahead of a ~0.4% rise for software and IT-services peers, as investors rotated back into megacap AI names; TradingKey put the average analyst target near $629 while flagging capex and free-cash-flow concerns. ([source](https://www.tradingkey.com/news/market-movers/262269145-market-movers-msft-20261103))
 - **2026-11-03** — Anthropic's amended IPO filing showed it has committed to spend at least $44.9B with Microsoft through June 2033; MSFT was up about 1.3% near $514 mid-morning, though GuruFocus stressed the figure is a commitment rather than booked revenue. ([source](https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-rise-44-9-180955025.html))
 - **2026-11-02** — Microsoft dropped about 2.8% as the Nasdaq fell roughly 1.1% in a tech reversal. ([source](https://www.heygotrade.com/en/news/tesla-tsla-stock-news-november-3-2026/))
@@ -39,8 +41,6 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 - **2026-10-29** — Analysts raised targets after the report: UBS to $700 (Buy), TD Cowen and Scotiabank to $650, BNP Paribas to $632 and Bank of America to $630 from $600. ([source](https://www.investing.com/news/analyst-ratings/ubs-raises-microsoft-stock-price-target-to-700-on-azure-beat-93CH-4984452))
 - **2026-10-28** — Fiscal Q1 results after the close: revenue $92.3B (+19%), net income $36.6B (+32%), adjusted EPS $4.89 vs. roughly $4.72 expected; Azure grew 48% and Microsoft Cloud revenue reached $63.9B (+30%); capex on property and equipment was $39.4B. ([source](https://phemex.com/news/article/microsoft-q1-fy2027-revenue-hits-923b-as-azure-grows-48-yoy-101615))
 - **2026-10-28** — Shares rose about 6% after hours, though commercial bookings fell 12% year over year and commercial backlog (RPO) was flat from June at $677B, still up 73% from a year earlier. ([source](https://zerohedge.com/markets/msft-rises-azure-beat-bookings-shrink-and-backlog-stalls))
-- **2026-10-28** — The Fed held its benchmark rate at 3.75%-4.00% in a 10-2 vote, with two officials dissenting in favor of a quarter-point hike; the statement described growth as strong and inflation as still elevated. ([source](https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026))
-- **2026-10-26** — Shares rose about 1.1-1.5% Monday as Oppenheimer lifted its target to $625 from $570 and Truist to $600 from $575, while Cantor ($608) and Morgan Stanley ($600) kept Overweight ratings into earnings. ([source](https://invezz.com/news/2026/10/26/microsoft-stock-gains-as-wall-street-sees-azure-growth-despite-rising-ai-spending/))
 
 ## Coming up
 
@@ -48,5 +48,5 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (UBS, Wells Fargo, Citi, BofA, TD Cowen) raised targets after 48% Azure growth, ~49% Azure guidance and a free-cash-flow beat, with management saying demand still exceeds supply; Anthropic's filing adds a disclosed $44.9B multi-year spending commitment to Microsoft.
-- **Bear:** Skeptics cite a 12% drop in commercial bookings, a stalled backlog, capex heading toward ~$170B a year now partly debt-funded via a $25B bond sale, and BNP's warning that free cash flow could turn negative later in fiscal 2027.
+- **Bull:** Analysts (UBS, Wells Fargo, Citi, BofA, TD Cowen) raised targets after 48% Azure growth, ~49% Azure guidance and a free-cash-flow beat, with management saying demand still exceeds supply; Anthropic's $44.9B commitment and a Nov 4 rally to a new high show investors favoring software over AI hardware after the midterms.
+- **Bear:** Skeptics cite a 12% drop in commercial bookings, a stalled backlog, capex heading toward ~$170B a year now partly debt-funded via a $25B bond sale, BNP's warning that free cash flow could turn negative later in fiscal 2027, and possible tighter AI and data-center rules under a Democratic Congress.

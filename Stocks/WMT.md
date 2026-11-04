@@ -4,7 +4,7 @@ ticker: WMT
 company: Walmart
 sector: Consumer Staples
 held_by: [VTV]
-updated: 2026-11-03
+updated: 2026-11-04
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ The world's largest retailer by revenue, with stores, Sam's Club and a growing e
 
 ## Recent news
 
+- **2026-11-04** — Shares rose about 3.5-4% to roughly $129 as investors rotated toward economy-linked and defensive names after the midterms; TradingKey also pointed to new holiday features in Walmart's Sparky AI shopping assistant ahead of fiscal Q3 results. ([source](https://www.tradingkey.com/news/market-movers/262274724-market-movers-wmt-20261104))
 - **2026-11-03** — Shares slid about 2.2% to roughly $124.87 midday despite a rising market, as a Strong Sell note questioned a ~46x P/E, a Morgan Stanley survey raised membership-monetization doubts and investors took profits; Bernstein kept Buy with a $142 target. ([source](https://www.investing.com/news/stock-market-news/why-is-walmart-stock-sliding-today-93CH-4996170))
 - **2026-11-02** — Shares climbed about 3.4% to close near $127.69 (per MarketBeat's quote), outpacing a market where Amazon rebounded on an upgrade. ([source](https://247wallst.com/investing/2026/11/02/amazon-climbs-5-as-upgrade-fuels-post-earnings-rebound-on-aws-strength-walmart-rises-2-alphabet-edges-higher/))
 - **2026-10-31** — TD Cowen started research coverage of Walmart. ([source](https://www.marketbeat.com/instant-alerts/analyst-walmart-nasdaq-wmt-stock-picked-up-by-analysts-at-td-cowen-2026-10-31/))
@@ -41,5 +42,5 @@ The world's largest retailer by revenue, with stores, Sam's Club and a growing e
 
 ## Bull case / bear case
 
-- **Bull:** Commentators cite a strong Q2 beat, steady execution, a roughly $6B Symbotic robotics expansion and other automation, Bernstein's Buy with a $142 target, new TD Cowen coverage, and a MarketBeat consensus of Buy (average target about $132).
-- **Bear:** Commentators flag a valuation near 46x earnings, a bearish Strong Sell note, doubts over membership monetization (Morgan Stanley survey), FTC scrutiny of personalized pricing, a reported Flipkart kickback probe, and Amazon passing Walmart in revenue.
+- **Bull:** Commentators cite a strong Q2 beat, steady execution, growth in ads, membership and marketplace income, AI shopping tools (Sparky), a roughly $6B Symbotic robotics expansion, Bernstein's Buy with a $142 target and new TD Cowen coverage.
+- **Bear:** Commentators flag a valuation of roughly 40-46x earnings against single-digit revenue growth, a bearish Strong Sell note, doubts over membership monetization (Morgan Stanley survey), FTC scrutiny of personalized pricing, insider share sales and a reported Flipkart kickback probe.

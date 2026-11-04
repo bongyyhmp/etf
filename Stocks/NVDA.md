@@ -4,7 +4,7 @@ ticker: NVDA
 company: NVIDIA
 sector: Technology
 held_by: [SMH, VGT, XLK, VUG, SOXX, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-11-03
+updated: 2026-11-04
 tags: [stock]
 ---
 
@@ -31,6 +31,8 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 
 ## Recent news
 
+- **2026-11-04** — Nvidia closed down about 3.1% and tested the $200 area while the broader market rallied, as the Democratic sweep raised worries about data-center restrictions, power constraints and hyperscaler spending ahead of its Nov 17 report; TradingKey also noted a Melius Research target cut to $315 from $420. ([source](https://www.tradingkey.com/news/market-movers/262275898-market-movers-nvda-20261104))
+- **2026-11-04** — AI data-center builders fell sharply after the Texas governor's race was won by a candidate promising a data-center moratorium, fueling fears of wider limits; Nvidia itself was only modestly lower by late morning. ([source](https://www.stocktitan.net/articles/ai-data-center-stocks-fall-texas-vote-november-4-2026))
 - **2026-11-03** — Nvidia rose about 2.3%, the biggest single lift to the S&P 500, as chip stocks rebounded from recent losses. ([source](https://lancasteronline.com/business/stock_market/nvidia-and-other-big-tech-stocks-lift-the-us-market-despite-drops-for-apple-and/article_b41e7d06-70b5-50ae-8a99-7d089b3583ec.html))
 - **2026-11-02** — Closed down 1.3% at $202.06, near the session low, amid a broad chip and tech selloff with no Nvidia-specific news; Marvell, Intel and AMD fell much harder. ([source](https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-november-3-2026/))
 - **2026-10-30** — Nvidia ended Friday down 4.2% at $204.64 as Intel's weak outlook dragged chip stocks lower; CNBC estimated the selloff cut about $6B from the value of Nvidia's own stake in Intel. ([source](https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-november-2-2026/))
@@ -41,8 +43,6 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 - **2026-10-28** — The Fed held its benchmark rate at 3.75%-4.00% in a 10-2 vote, with two officials dissenting in favor of a quarter-point hike; the statement described growth as strong and inflation as still elevated. ([source](https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026))
 - **2026-10-27** — Nvidia said it will put $3B into Meta's equity offering as part of a wider AI partnership covering planned Meta deployments of Vera Rubin systems, Vera CPUs, Spectrum-X networking and BlueField-4; quantities and timing were not disclosed. ([source](https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-rise-3-billion-151848169.html))
 - **2026-10-27** — Oracle was reported to be adding AI chips from Google, Cerebras and SambaNova to lessen its dependence on Nvidia. ([source](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html))
-- **2026-10-26** — SpaceX said it secured $40B in debt financing to buy AI chips, reportedly from Nvidia, and Nvidia was reported among chipmakers weighing up to $5B of Meta's share sale. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026))
-- **2026-10-26** — Nvidia rose about 2.4% to around $216 as Anthropic's IPO filing and cooler oil prices lifted tech. ([source](https://www.fool.com/coverage/stock-market-today/2026/10/26/stock-market-midday-oct-26-tech-sector-rallies-on-anthropic-ipo-filing-and-cooling-oil-prices/))
 
 ## Coming up
 
@@ -51,5 +51,5 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 
 ## Bull case / bear case
 
-- **Bull:** Goldman (Buy, $300) cites a positive medium-term AI deployment outlook after GTC; new DSX POD AI-factory designs and Rubin projects add demand signals.
-- **Bear:** Reports cite AI-spending and "circular financing" worries (about $165B of reported data-center commitments and guarantees, plus large equity stakes in customers), DOJ antitrust scrutiny of its Hugging Face and Groq deals, customers diversifying to other AI chips, and power and supply constraints.
+- **Bull:** Goldman (Buy, $300) cites a positive medium-term AI deployment outlook after GTC; new DSX POD AI-factory designs, Rubin projects and the Meta partnership add demand signals, and TradingKey put the average analyst target near $324.
+- **Bear:** Reports cite AI-spending and "circular financing" worries (about $165B of reported data-center commitments and guarantees), post-midterm risk of data-center restrictions (the Nov 4 drop), DOJ antitrust scrutiny of its Hugging Face and Groq deals, customers diversifying to other AI chips, and a Melius target cut.

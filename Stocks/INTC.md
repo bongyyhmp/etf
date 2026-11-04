@@ -4,7 +4,7 @@ ticker: INTC
 company: Intel
 sector: Technology
 held_by: [SOXX, XLK, VGT]
-updated: 2026-11-03
+updated: 2026-11-04
 tags: [stock]
 ---
 
@@ -24,6 +24,7 @@ Makes PC and server processors and is building a contract chip-manufacturing (fo
 
 ## Recent news
 
+- **2026-11-04** — Intel fell about 3.7% even as the broader market rallied; TradingKey cited the weak Q4 guide, the Fab 28 disruption in Israel (about $600M of lost revenue over two quarters), no expected positive free cash flow in 2027, and an average analyst target near $95. ([source](https://www.tradingkey.com/news/market-movers/262274882-market-movers-intc-20261104))
 - **2026-11-03** — Intel rose about 2.5% to around $61.46 in late morning as chip stocks recovered, though Q4 guidance still implies a roughly 6% sequential revenue decline. ([source](https://finance.yahoo.com/markets/stocks/articles/intel-stocks-rebound-2-5-181518569.html))
 - **2026-11-02** — Shares fell another 8.8% to $59.97, extending the post-earnings slide; data-center and AI revenue had grown 78% in Q3, but an Israel fab accident and PC inventory cuts weigh on Q4. ([source](https://www.fool.com/investing/2026/11/03/intel-is-down-31-as-data-center-sales-jump-78/))
 - **2026-10-30** — Intel finished the day down 28.6% at $65.76, its worst session since 1974; coverage also noted an early-October accident that forced an extended shutdown at its Israel factory, expected to trim about $300M from Q4 revenue. ([source](https://www.heygotrade.com/en/news/intel-intc-stock-news-november-2-2026/))
@@ -35,7 +36,7 @@ Makes PC and server processors and is building a contract chip-manufacturing (fo
 - **2026-10-29** — Q3 revenue rose 21% to $16.5B, roughly in line with estimates, with non-GAAP EPS of $0.52; the CFO said data-center revenue had its strongest growth in 15 years but expects the PC slowdown to last at least through the first half of 2027. ([source](https://panews.io/articles/01a1895c-e6d5-7730-9080-17e1515efd50))
 - **2026-10-29** — Ahead of the report, the stock closed the regular session down about 3.7% at $92.03. ([source](https://www.marketbeat.com/earnings/reports/2026-10-29-intel-co-stock/))
 - **2026-10-28** — Shares were flat near $93.73 the day before results; analysts expect about $0.39 EPS on $16.45B revenue, and the consensus rating is Hold with an average target near $115. ([source](https://www.kucoin.com/news/flash/intel-shares-dip-slightly-amid-upcoming-earnings-and-oracle-partnership))
-- **2026-10-27** — Intel and Oracle announced plans for a multiyear expansion of Xeon-based computing on Oracle Cloud, including future instances built on next-gen Diamond Rapids chips. ([source](https://www.intc.com/news-events/press-releases/detail/1785/intel-and-oracle-plan-expanded-collaboration-to-support))
+
 ## Coming up
 
 - Next earnings (Q4 2026): date not yet announced (Q3 was reported Oct 29)
@@ -44,4 +45,4 @@ Makes PC and server processors and is building a contract chip-manufacturing (fo
 ## Bull case / bear case
 
 - **Bull:** KeyBanc (Overweight, $140) and KGI (Outperform, $95) point to tight server-CPU supply and the Oracle cloud deal; Q3 data-center and AI revenue rose 78%, and the CEO sees the server-CPU market growing about fivefold over five years.
-- **Bear:** Jefferies called the Q4 outlook ($15B-$16B revenue, ~37% gross margin) a substantial reset amid memory costs, a PC slowdown into 2027 and an Israel fab shutdown; BofA and Roth downgraded, and shares fell further to about $60 on Nov 2 (roughly half their early-October level).
+- **Bear:** Jefferies called the Q4 outlook ($15B-$16B revenue, ~37% gross margin) a substantial reset amid memory costs, a PC slowdown into 2027 and an Israel fab disruption; BofA and Roth downgraded, management does not expect positive free cash flow in 2027, and shares kept falling (down ~3.7% on Nov 4).

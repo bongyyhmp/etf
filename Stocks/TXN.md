@@ -4,7 +4,7 @@ ticker: TXN
 company: Texas Instruments
 sector: Technology
 held_by: [SCHD, SMH, SOXX]
-updated: 2026-11-03
+updated: 2026-11-04
 tags: [stock]
 ---
 
@@ -24,6 +24,7 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 
 ## Recent news
 
+- **2026-11-03** — TI said it will show analog and embedded-processing products at electronica in Munich (Nov 10-13), marking 70 years in Europe and naming customers including ABB Robotics, Porsche and Schneider Electric. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/texas-instruments-stock-highlights-europe-ties-ahead-of-electronica/70457840))
 - **2026-11-03** — Shares gained about 4.7%, beating a 1.6% rise in tech-equipment stocks as chips rebounded; TradingKey cites an average analyst target near $325. ([source](https://www.tradingkey.com/news/market-movers/262267908-market-movers-txn-20261103))
 - **2026-10-30** — Shares fell about 4.2% (to roughly $301) as the stock went ex-dividend, investors took profits after the post-earnings run, and NXP's outlook and the broad chip selloff weighed. ([source](https://www.tradingkey.com/news/market-movers/262261184-market-movers-txn-20261030))
 - **2026-10-29** — Director Ronald Kirk sold 6,065 shares at about $310 (~$1.9M); filings also showed director sales by Janet Clark and Robert Sanchez around Oct 27. ([source](https://www.marketbeat.com/instant-alerts/filing-7250-texas-instruments-incorporated-txn-shares-acquired-by-vise-technologies-inc-2026-11-02/))
@@ -36,10 +37,11 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 
 - **2026-11-09** — Expected settlement of the $2B notes offering tied to the Silicon Labs deal
 - **2026-11-10** — payment of the raised $1.52 quarterly dividend (up from $1.42; went ex-dividend Oct 30)
+- **2026-11-10 to 2026-11-13** — electronica trade show in Munich, where TI will exhibit
 - **Late January 2027** — Q4 2026 earnings (expected; date not yet announced)
 - **First half of 2027** — expected closing of the Silicon Labs acquisition, still subject to China antitrust and other foreign clearances; outside date Feb 4, 2027, extendable ([source](https://investor.silabs.com/node/24776/html))
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite an analog-chip recovery, AI data-center and industrial demand, improving margins and free cash flow, and the planned Silicon Labs acquisition.
+- **Bull:** Analysts cite an analog-chip recovery, AI data-center and industrial demand, improving margins and free cash flow, the planned Silicon Labs acquisition and a sharp Nov 3 rebound; TradingKey cites an average target near $325.
 - **Bear:** Critics point to a P/E above 35x, heavy capex, new acquisition debt, flat sequential Q4 guidance leaving little room for error, renewed auto-chip worries after NXP's soft outlook and recent director share sales; Goldman Sachs rates it Sell ($250) and UBS and Mizuho trimmed targets.

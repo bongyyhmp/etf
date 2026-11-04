@@ -4,7 +4,7 @@ ticker: BRK-B
 company: Berkshire Hathaway
 sector: Financials
 held_by: [VTV]
-updated: 2026-11-03
+updated: 2026-11-04
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Conglomerate owning insurance (GEICO), BNSF railroad, utilities and a large stoc
 
 ## Recent news
 
+- **2026-11-04** — Class B shares rose about 1.9% in morning trade to roughly $567.73, a new 52-week high, as markets rallied on Democrats' congressional win; Investing.com also pointed to Greg Abel's ~12% Lennar stake and added Bending Spoons investment. ([source](https://www.investing.com/news/stock-market-news/why-is-berkshire-hathaway-stock-rallying-today-93CH-5000312))
+- **2026-11-04** — Berkshire confirmed it will release Q3 earnings together with its 10-Q on Saturday, Nov 7, at about 7 a.m. Central. ([source](https://www.stocktitan.net/news/BRK/berkshire-hathaway-inc-information-regarding-third-quarter-earnings-m7vkcns7fdc5.html))
 - **2026-11-03** — Shares climbed to their highest level since Warren Buffett announced he would step down as CEO, even as the Dow fell 0.4% on weakness in financials and consumer names. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026))
 - **2026-11-02** — Class B shares rose about 2% Monday while the S&P 500 fell 0.5%, per TheStreet, which also noted Berkshire's growing Bending Spoons stake (it added $330M on Oct 20, lifting ownership to 4%). ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026))
 - **2026-10-30** — Class B shares closed at $542.49 (+0.1%) after touching a 52-week high of $550.47 intraday, about 1.5% below the record. ([source](https://www.fool.com/investing/2026/10/31/berkshire-hathaway-shares-just-rallied-to-their-hi/))
@@ -34,9 +36,9 @@ Conglomerate owning insurance (GEICO), BNSF railroad, utilities and a large stoc
 
 ## Coming up
 
-- **2026-11-07 (Sat, estimated)** — Q3 earnings and 10-Q; still not confirmed by Berkshire as of Nov 3 (first Saturday of November; Digrin lists Nov 7, the Yahoo Finance calendar cited by ad-hoc-news lists Nov 6, Earnings Whispers estimates Nov 9). Zacks consensus: $5.91 EPS, $97.3B revenue
+- **2026-11-07 (Sat)** — Q3 earnings release and 10-Q at about 7:00 a.m. CT (confirmed by Berkshire on Nov 4); Zacks consensus: $5.91 EPS, $97.3B revenue
 
 ## Bull case / bear case
 
-- **Bull:** Commentators cite more than $360B of cash and Treasuries earning interest, resumed buybacks, a diversified base of 90+ businesses, Greg Abel's capital deployment (e.g., Bending Spoons, the $6.8B Taylor Morrison deal) and UBS's target raise to $628.
-- **Bear:** Commentators note the shares trade near record highs (highest since Buffett's CEO exit announcement on Nov 3) around 1.6x book, Zacks sees Q3 EPS down 5.6% year over year with soft GEICO results and BNSF cost pressure, and Alphabet's slump hits a holding now worth about 9% of the portfolio.
+- **Bull:** Commentators cite more than $360B of cash and Treasuries earning interest, resumed buybacks, a diversified base of 90+ businesses, Greg Abel's capital deployment (Lennar, Bending Spoons, the $6.8B Taylor Morrison deal) and UBS's target raise to $628; the stock's appeal as a non-tech rotation play was noted on Nov 4.
+- **Bear:** Commentators note the shares sit at fresh 52-week highs around 1.6x book and above the ~$556 average target cited by Barchart, Zacks sees Q3 EPS down 5.6% year over year with soft GEICO results and BNSF cost pressure, and Alphabet's slump hits a holding worth about 9% of the portfolio.

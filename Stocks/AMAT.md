@@ -4,7 +4,7 @@ ticker: AMAT
 company: Applied Materials
 sector: Technology
 held_by: [XLK, VGT]
-updated: 2026-11-03
+updated: 2026-11-04
 tags: [stock]
 ---
 
@@ -23,6 +23,8 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 
 ## Recent news
 
+- **2026-11-04** — Shares fell about 3% ($11.58) to roughly $370 on Wednesday despite a broad market rally, on below-average volume. ([source](https://www.marketbeat.com/instant-alerts/list-promising-manufacturing-stocks-to-add-to-your-watchlist-november-4th-2026-11-04/))
+- **2026-11-04** — Chip stocks such as Micron slid after Democrats' midterm wins pointed to tougher rules on data-center construction, raising questions about the long-term AI infrastructure build-out, though already-funded projects are expected to proceed. ([source](https://pluang.com/en/news-feed/micron-saham-chip-turun-hasil-pemilu-optimisme-data-center))
 - **2026-11-03** — Shares bounced about 2% to roughly $381 with the chip group but were still about 29% below a month earlier; company guidance for the Nov 12 report calls for about $10.25B revenue and $4.02 adjusted EPS, and China made up 28% of Q3 sales. ([source](https://247wallst.com/investing/2026/11/03/applied-materials-just-dropped-29-in-a-month-will-november-12-earnings-rescue-or-break-amat-stock))
 - **2026-11-02** — Shares fell about 3.1%, lagging a 2.1% drop in tech-equipment stocks, amid AI-spending worries and position trimming ahead of earnings. ([source](https://www.tradingkey.com/news/market-movers/262264886-market-movers-amat-20261102))
 - **2026-10-30** — Shares fell about 7.1%, underperforming a 4.3% drop in tech-equipment stocks, as chip names sold off ahead of its Nov 12 report. ([source](https://www.tradingkey.com/news/market-movers/262261067-market-movers-amat-20261030))
@@ -37,4 +39,4 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 ## Bull case / bear case
 
 - **Bull:** Coverage cites a memory shortage SK Hynix expects to last toward 2030, fast-growing packaging and services revenue, the Besi stake and a valuation 24/7 Wall St. puts near 23x forward earnings after a ~29% one-month drop; most analysts rate it Buy.
-- **Bear:** Demand is cyclical and tied to customer capex; coverage flags China (28% of sales) export-restriction risk, margins below 2030 targets and sharp swings on AI-spending doubts, as in the Oct 30 and Nov 2 selloffs.
+- **Bear:** Demand is cyclical and tied to customer capex; coverage flags China (28% of sales) export-restriction risk, margins below 2030 targets, and sharp swings on AI-spending doubts, now including possible stricter data-center rules after the midterms, as seen in the Oct 30, Nov 2 and Nov 4 declines.
