@@ -4,7 +4,7 @@ ticker: PG
 company: Procter & Gamble
 sector: Consumer Staples
 held_by: [SCHD]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Makes household brands such as Tide, Pampers, Gillette and Crest.
 
 ## Recent news
 
+- **2026-11-05** — MarketBeat reported that P&G's CFO sold 33,624 shares; in European trading the stock held near its record, up about 0.5% in Lang & Schwarz quotes, as investors weighed the $1.4B fiscal 2027 commodity-cost hit against maintained guidance. ([source](https://www.marketbeat.com/instant-alerts/insider-procter-gamble-nyse-pg-cfo-sells-33624-shares-of-company-stock-2026-11-05/), [ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/corporate-news/procter-und-gamble-stock-holds-near-record-as-cost-risks-persist/70464278))
 - **2026-11-04** — Shares rose about 3.4% to roughly $167.51 in afternoon trading and set a 52-week high, as investors favored defensive staples after Democrats' midterm sweep pointed to a divided government. ([source](https://www.fool.com/investing/2026/11/04/heres-why-dividend-kings-coca-cola-procter-gamble-and-colgate-palmolive-are-hitting-52-week-highs-following-midterm-election-results/))
 - **2026-11-03** — Shares fell about 1% to roughly $161.97 at midday as staples lagged; a filing showed executive Sundar Raman sold 38,253 shares on Oct 30 at about $165 (roughly $6.3M), cutting his direct stake by about 44%. ([source](https://www.marketbeat.com/instant-alerts/insider-procter-gamble-nyse-pg-stock-insider-sundar-raman-sells-38253-shares-2026-11-03/))
 - **2026-11-02** — Shares rose about 1.5% to close near $163.99, per MarketBeat's quote page, as staples gained. ([source](https://www.marketbeat.com/stocks/NYSE/pg/news))
@@ -38,5 +39,5 @@ Makes household brands such as Tide, Pampers, Gillette and Crest.
 
 ## Bull case / bear case
 
-- **Bull:** Commentators cite 4% organic growth with all 10 categories growing, a core EPS beat, maintained fiscal 2027 guidance, restructuring savings, a long dividend growth record, defensive appeal that lifted shares to a 52-week high on Nov 4, and Wells Fargo's $180 Overweight target (MarketBeat average about $171).
-- **Bear:** Commentators flag a larger commodity-cost hit (about 11% of core EPS), margin compression, a revenue miss, materially higher costs expected in fiscal Q2, and recent executive share sales, including by the CEO.
+- **Bull:** Commentators cite 4% organic growth with all 10 categories growing, a core EPS beat ($2.00 vs. ~$1.89), maintained fiscal 2027 guidance ($6.89-7.11 core EPS), restructuring savings, a long dividend growth record, defensive appeal that kept shares near record highs after the midterms, and Wells Fargo's $180 Overweight target (MarketBeat average about $171).
+- **Bear:** Commentators flag a $1.4B after-tax commodity-cost hit for fiscal 2027 (about 11% of core EPS), margin compression, a revenue miss, materially higher costs expected in fiscal Q2, and a run of executive share sales, including by the CEO and, per a Nov 5 MarketBeat report, the CFO.

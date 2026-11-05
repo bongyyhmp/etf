@@ -4,7 +4,7 @@ ticker: BRK-B
 company: Berkshire Hathaway
 sector: Financials
 held_by: [VTV]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Conglomerate owning insurance (GEICO), BNSF railroad, utilities and a large stoc
 
 ## Recent news
 
+- **2026-11-05** — Class B shares rose nearly 1% and hit an all-time high of $586.30 while the Dow and Nasdaq each fell more than 1,000 points, as investors sought safety and rotated out of AI-linked tech; the stock is up about 15% over the past month, per TipRanks. ([source](https://www.tipranks.com/news/berkshire-hathaway-stock-brk-b-hits-all-time-high-as-market-tanks))
 - **2026-11-04** — Class B shares rose about 1.9% in morning trade to roughly $567.73, a new 52-week high, as markets rallied on Democrats' congressional win; Investing.com also pointed to Greg Abel's ~12% Lennar stake and added Bending Spoons investment. ([source](https://www.investing.com/news/stock-market-news/why-is-berkshire-hathaway-stock-rallying-today-93CH-5000312))
 - **2026-11-04** — Berkshire confirmed it will release Q3 earnings together with its 10-Q on Saturday, Nov 7, at about 7 a.m. Central. ([source](https://www.stocktitan.net/news/BRK/berkshire-hathaway-inc-information-regarding-third-quarter-earnings-m7vkcns7fdc5.html))
 - **2026-11-03** — Shares climbed to their highest level since Warren Buffett announced he would step down as CEO, even as the Dow fell 0.4% on weakness in financials and consumer names. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026))
@@ -40,5 +41,5 @@ Conglomerate owning insurance (GEICO), BNSF railroad, utilities and a large stoc
 
 ## Bull case / bear case
 
-- **Bull:** Commentators cite more than $360B of cash and Treasuries earning interest, resumed buybacks, a diversified base of 90+ businesses, Greg Abel's capital deployment (Lennar, Bending Spoons, the $6.8B Taylor Morrison deal) and UBS's target raise to $628; the stock's appeal as a non-tech rotation play was noted on Nov 4.
-- **Bear:** Commentators note the shares sit at fresh 52-week highs around 1.6x book and above the ~$556 average target cited by Barchart, Zacks sees Q3 EPS down 5.6% year over year with soft GEICO results and BNSF cost pressure, and Alphabet's slump hits a holding worth about 9% of the portfolio.
+- **Bull:** Commentators cite more than $360B of cash and Treasuries, resumed buybacks, a diversified base of 90+ businesses, Greg Abel's capital deployment (Lennar, Bending Spoons, the $6.8B Taylor Morrison deal) and UBS's target raise to $628; TipRanks noted the shares set a record on Nov 5 as a safe haven in the selloff.
+- **Bear:** Commentators note the shares sit at record highs around 1.6x book and above the ~$556 average target cited by Barchart, Zacks sees Q3 EPS down 5.6% year over year with soft GEICO results and BNSF cost pressure, and Alphabet's slump hits a holding worth about 9% of the portfolio.

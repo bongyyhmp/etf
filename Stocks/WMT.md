@@ -4,7 +4,7 @@ ticker: WMT
 company: Walmart
 sector: Consumer Staples
 held_by: [VTV]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -37,10 +37,11 @@ The world's largest retailer by revenue, with stores, Sam's Club and a growing e
 ## Coming up
 
 - **2026-11-12** — Early Black Friday deals event begins (runs through Nov 15, per company)
-- **2026-11-19** — Q3 FY2027 earnings before the open (expected; one calendar lists it as confirmed, other coverage says it is unconfirmed)
+- **2026-11-19** — Q3 FY2027 earnings (expected; Motley Fool also cites Nov 19, timing of release not specified)
 - **2026-11-23** — Black Friday deals event begins (runs through Nov 29); Cyber Monday offers follow Nov 30-Dec 2
+- **2026-12-11** — Record date for the $0.24 quarterly dividend (payable 2027-01-04, per Motley Fool)
 
 ## Bull case / bear case
 
-- **Bull:** Commentators cite a strong Q2 beat, steady execution, growth in ads, membership and marketplace income, AI shopping tools (Sparky), a roughly $6B Symbotic robotics expansion, Bernstein's Buy with a $142 target and new TD Cowen coverage.
-- **Bear:** Commentators flag a valuation of roughly 40-46x earnings against single-digit revenue growth, a bearish Strong Sell note, doubts over membership monetization (Morgan Stanley survey), FTC scrutiny of personalized pricing, insider share sales and a reported Flipkart kickback probe.
+- **Bull:** Commentators cite a strong Q2 beat, steady execution, growth in ads, membership (fee revenue up 17%) and marketplace income, AI shopping tools (Sparky users up 70% and spending 40% more per order, per Motley Fool), a roughly $6B Symbotic robotics expansion, Bernstein's Buy with a $142 target and new TD Cowen coverage.
+- **Bear:** Commentators flag a valuation of roughly 40-46x earnings against single-digit revenue growth, a dividend yield under 1%, a bearish Strong Sell note, doubts over membership monetization (Morgan Stanley survey), FTC scrutiny of personalized pricing, insider share sales and a reported Flipkart kickback probe.

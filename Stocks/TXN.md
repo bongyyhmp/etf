@@ -4,7 +4,7 @@ ticker: TXN
 company: Texas Instruments
 sector: Technology
 held_by: [SCHD, SMH, SOXX]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -24,6 +24,8 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 
 ## Recent news
 
+- **2026-11-05** — Shares fell about 7.6% to $287.85 in morning trade amid the sector-wide chip rout after the midterms and Qualcomm's weak outlook; Investing.com also cited about $8M of insider sales last quarter and valuation questions after the $2B notes sale. ([source](https://www.investing.com/news/stock-market-news/why-is-texas-instruments-stock-sliding-today-93CH-5005160))
+- **2026-11-05** — TI introduced industrial-networking products: the TICS100MOD multiprotocol module (EtherCAT, EtherNet/IP, Profinet; expected by end of 2026) and the TIOM2212 dual-channel IO-Link master, now in preproduction. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/texas-instruments-stock-adds-industrial-networking-products/70464042))
 - **2026-11-03** — TI said it will show analog and embedded-processing products at electronica in Munich (Nov 10-13), marking 70 years in Europe and naming customers including ABB Robotics, Porsche and Schneider Electric. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/texas-instruments-stock-highlights-europe-ties-ahead-of-electronica/70457840))
 - **2026-11-03** — Shares gained about 4.7%, beating a 1.6% rise in tech-equipment stocks as chips rebounded; TradingKey cites an average analyst target near $325. ([source](https://www.tradingkey.com/news/market-movers/262267908-market-movers-txn-20261103))
 - **2026-10-30** — Shares fell about 4.2% (to roughly $301) as the stock went ex-dividend, investors took profits after the post-earnings run, and NXP's outlook and the broad chip selloff weighed. ([source](https://www.tradingkey.com/news/market-movers/262261184-market-movers-txn-20261030))
@@ -43,5 +45,5 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite an analog-chip recovery, AI data-center and industrial demand, improving margins and free cash flow, the planned Silicon Labs acquisition and a sharp Nov 3 rebound; TradingKey cites an average target near $325.
-- **Bear:** Critics point to a P/E above 35x, heavy capex, new acquisition debt, flat sequential Q4 guidance leaving little room for error, renewed auto-chip worries after NXP's soft outlook and recent director share sales; Goldman Sachs rates it Sell ($250) and UBS and Mizuho trimmed targets.
+- **Bull:** Analysts cite an analog-chip recovery, AI data-center and industrial demand, improving margins and free cash flow, the planned Silicon Labs acquisition and new factory-networking products; TradingKey cites an average target near $325.
+- **Bear:** Critics point to a P/E above 35x, heavy capex, new acquisition debt, flat sequential Q4 guidance, auto-chip worries and insider selling; Goldman Sachs rates it Sell ($250), and shares fell about 7.6% early on Nov 5 in the post-midterm chip rout.

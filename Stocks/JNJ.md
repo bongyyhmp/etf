@@ -4,7 +4,7 @@ ticker: JNJ
 company: Johnson & Johnson
 sector: Healthcare
 held_by: [VTV]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Makes prescription drugs and medical devices.
 
 ## Recent news
 
+- **2026-11-05** — Shares held up better than the market, slipping about $0.59 (roughly 0.2%) to about $275.73 at midday as the broad selloff hit tech. ([source](https://www.dailypolitical.com/2026/11/05/healthcare-stocks-to-keep-an-eye-on-november-5th.html))
+- **2026-11-04** — Shares rose about 3.5% as drugmakers rallied after the midterms, per TradingKey. ([source](https://www.tradingkey.com/news/market-movers/262274958-market-movers-jnj-20261104))
 - **2026-11-04** — Trefis said J&J, up about 31% this year, trades near 23.6x 2026 and 22.7x 2027 consensus profit, but flagged deal dilution (the Firefly Bio and Cell BioMedicines deals cut 2027 adjusted EPS by $1.36) and MedTech slowing to 2.5% operational growth in Q3. ([source](https://www.trefis.com/stock/jnj/articles/622606/if-johnson-johnson-stock-looks-expensive-you-need-to-read-this/2026-11-04))
 - **2026-11-04** — After Democrats won Congress, analysts quoted by BioPharma Dive saw limited near-term drug-pricing risk for pharma, with Leerink's David Risinger saying Democrats likely have bigger priorities. ([source](https://www.biopharmadive.com/news/biotech-pharma-midterm-elections-impact/873667/))
 - **2026-11-03** — Shares slipped about 1.1% to roughly $267.59 in Tuesday trading with no company-specific news cited, extending a pullback from the Oct 30 high of about $282. ([source](https://www.marketbeat.com/instant-alerts/list-top-pharmaceutical-stocks-to-watch-today-november-3rd-2026-11-03/))
@@ -40,5 +42,5 @@ Makes prescription drugs and medical devices.
 
 ## Bull case / bear case
 
-- **Bull:** Bernstein, RBC and Citi cite 6.1% Q3 organic growth, a 3% EPS beat and Innovative Medicine strength, including Icotyde, while early ESMO data for its Halda prostate cancer drug, TCT data for Impella heart pumps and Leerink's view of J&J as the best-funded likely acquirer add to interest; analysts saw limited drug-pricing risk from the new Congress.
-- **Bear:** Wells Fargo, BofA and Leerink flag 2027 pressure from deal dilution (Trefis: $1.36 of 2027 EPS), MedTech slowing and loss-of-exclusivity headwinds; Erste and Simply Wall St see a full valuation, and the Smith & Nephew orthopaedics talks reportedly collapsed.
+- **Bull:** Bernstein, RBC and Citi cite 6.1% Q3 organic growth, a 3% EPS beat and Innovative Medicine strength, including Icotyde, while early ESMO data for its Halda prostate cancer drug, TCT data for Impella heart pumps and Leerink's view of J&J as the best-funded likely acquirer add to interest; analysts saw limited drug-pricing risk from the new Congress, and the shares held steady in the Nov 5 selloff.
+- **Bear:** Wells Fargo, BofA and Leerink flag 2027 pressure from deal dilution (Trefis: $1.36 of 2027 EPS), MedTech slowing and loss-of-exclusivity headwinds; Erste and Simply Wall St see a full valuation (about 23.6x 2026 profit, per Trefis), and the Smith & Nephew orthopaedics talks reportedly collapsed.

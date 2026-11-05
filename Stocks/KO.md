@@ -4,7 +4,7 @@ ticker: KO
 company: Coca-Cola
 sector: Consumer Staples
 held_by: [SCHD]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -43,4 +43,4 @@ Sells soft drinks, water, sports drinks and coffee brands worldwide.
 ## Bull case / bear case
 
 - **Bull:** Coverage cites a seventh straight EPS beat, 5% unit-case volume growth, a third guidance raise, post-results target raises from JPMorgan, UBS, Wells Fargo, Citi and TD Cowen, and fresh 52-week highs on Nov 4 as investors sought defensive names after the midterms (Motley Fool).
-- **Bear:** Commentators flag flat North America volume, a valuation near 28-29x earnings, a shorter Q4 with destocking, an unresolved IRS tax case (Trefis), and (per UBS) tougher 2027 volume comparisons, currency and inflation headwinds.
+- **Bear:** Commentators flag flat North America volume, a valuation near 28-29x earnings, a shorter Q4 with destocking and the pending CCBA sale weighing on Q4 comparisons, an unresolved IRS tax case (Trefis), and (per UBS) tougher 2027 volume comparisons, currency and inflation headwinds.

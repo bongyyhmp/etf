@@ -4,7 +4,7 @@ ticker: NXPI
 company: NXP Semiconductors
 sector: Technology
 held_by: [SOXX]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Dutch chipmaker focused on automotive and industrial chips.
 
 ## Recent news
 
+- **2026-11-05** — Frankfurt-traded shares fell about 4.9% intraday to EUR 222.18 as chip stocks sold off; the report cited no company-specific cause and noted a Moderate Buy consensus with an average target near $296. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/nxp-semiconductors-stock-slips-4-9-prozent-arga-stake-adds-context/70465413))
 - **2026-11-04** — A 13F-based report said ARGA Investment Management opened a new NXP stake of about 95,000 shares (~$22.6M) in Q3; MarketBeat's consensus is Moderate Buy with an average target near $296. No company news was found. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/nxp-semiconductors-stock-gains-as-arga-opens-usd-22-6-million-position/70458448))
 - **2026-11-03** — NXP held a webinar on secure, real-time factory networking (time-sensitive networking, OPC UA FX, its i.MX RT1180 crossover microcontroller), a product signal rather than a financial update; euro-quoted shares were about 1.6% higher than Monday morning. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/nxp-semiconductors-stock-rises-1-58-prozent-since-previous-report/70451885))
 - **2026-10-30** — Coverage noted the new $5B buyback adds to about $1.3B left under the prior plan, with repurchases set to speed up from Q4 into 2027. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/nxp-semiconductors-stock-gets-usd-5-billion-buyback-boost/70435394))
@@ -39,5 +40,5 @@ Dutch chipmaker focused on automotive and industrial chips.
 
 ## Bull case / bear case
 
-- **Bull:** Q3 delivered about 19% revenue growth, record auto revenue and a $5B buyback; Cantor (Overweight, $400) and Truist (Buy, $300) stay positive.
-- **Bear:** Q4 revenue and profit guidance landed slightly under consensus, shares fell after the report, and several firms (Stifel, Morgan Stanley, Truist) trimmed targets; a shrinking mobile business was also flagged.
+- **Bull:** Q3 delivered about 19% revenue growth, record auto revenue and a $5B buyback; Cantor (Overweight, $400) and Truist (Buy, $300) stay positive, and MarketBeat's consensus is Moderate Buy (average target about $296).
+- **Bear:** Q4 guidance landed slightly under consensus, several firms (Stifel, Morgan Stanley, Truist) trimmed targets, a shrinking mobile business was flagged, and the stock slid with the Nov 5 chip selloff.

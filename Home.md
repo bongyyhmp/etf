@@ -6,20 +6,20 @@ Your ETF and stock research vault. Open **Graph view** (left sidebar, or Ctrl/Cm
 
 | ETF | What it holds | Assets | Fee | This year | 1 year |
 |---|---|---|---|---|---|
-| [[SOXX]] | NYSE Semiconductor Index | $48B | 0.33% | +54.7% | +51.3% |
-| [[SMH]] | MVIS US Listed Semiconductor 25 | $77B | 0.35% | +44.0% | +42.1% |
-| [[SCHD]] | Dow Jones U.S. Dividend 100 | $95B | 0.06% | +32.8% | +39.0% |
-| [[XLK]] | Technology Select Sector Index | $124B | 0.08% | +23.0% | +17.5% |
-| [[VGT]] | MSCI US IMI Information Technology 25/50 | $171B | 0.09% | +22.8% | +16.4% |
-| [[VTV]] | CRSP US Large Cap Value | $194B | 0.04% | +21.0% | +25.6% |
-| [[QQQ]] | Nasdaq-100 | $490B | 0.18% | +11.9% | +8.9% |
-| [[VTI]] | CRSP US Total Market | $665B | 0.03% | +11.7% | +11.8% |
-| [[IVV]] | S&P 500 | $888B | 0.03% | +11.6% | +11.7% |
-| [[VOO]] | S&P 500 | $989B | 0.03% | +11.5% | +11.7% |
-| [[SPY]] | S&P 500 | $781B | 0.0945% | +11.5% | +11.6% |
-| [[VUG]] | CRSP US Large Cap Growth | $212B | 0.04% | +4.7% | +1.9% |
+| [[SOXX]] | NYSE Semiconductor Index | $48B | 0.33% | +49.8% | +52.5% |
+| [[SMH]] | MVIS US Listed Semiconductor 25 | $77B | 0.35% | +40.0% | +43.4% |
+| [[SCHD]] | Dow Jones U.S. Dividend 100 | $95B | 0.06% | +35.3% | +41.8% |
+| [[VGT]] | MSCI US IMI Information Technology 25/50 | $171B | 0.09% | +23.1% | +19.9% |
+| [[XLK]] | Technology Select Sector Index | $124B | 0.08% | +23.0% | +20.7% |
+| [[VTV]] | CRSP US Large Cap Value | $197B | 0.04% | +22.8% | +27.9% |
+| [[VOO]] | S&P 500 | $1.00T | 0.03% | +13.4% | +14.8% |
+| [[IVV]] | S&P 500 | $888B | 0.03% | +13.4% | +14.8% |
+| [[VTI]] | CRSP US Total Market | $676B | 0.03% | +13.4% | +14.9% |
+| [[SPY]] | S&P 500 | $781B | 0.0945% | +13.3% | +14.8% |
+| [[QQQ]] | Nasdaq-100 | $490B | 0.18% | +13.0% | +12.3% |
+| [[VUG]] | CRSP US Large Cap Growth | $216B | 0.04% | +6.3% | +5.2% |
 
-*Data as of Nov 3, 2026 close. Returns include reinvested dividends. Past returns don't predict future ones.*
+*Data as of Nov 4, 2026 close (before the Nov 5 selloff, when the S&P 500 fell 4.4% and chip stocks about 12%). Returns include reinvested dividends. Past returns don't predict future ones.*
 
 ## Stocks held by the most of your ETFs
 
@@ -36,6 +36,7 @@ Your ETF and stock research vault. Open **Graph view** (left sidebar, or Ctrl/Cm
 
 ## Market scans
 
+- [[2026-11-05 Market Scan]]
 - [[2026-11-04 Market Scan]]
 - [[2026-11-03 Market Scan]]
 - [[2026-11-02 Market Scan]]

@@ -4,7 +4,7 @@ ticker: PANW
 company: Palo Alto Networks
 sector: Technology
 held_by: []
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -20,6 +20,8 @@ Sells cybersecurity products: firewalls, cloud security and security operations 
 
 ## Recent news
 
+- **2026-11-05** — Shares fell 7.41% ($25.80) to close at $322.24 as software and security names sold off; reports that Palo Alto is in talks to buy AI-security startup Clutch for about $500M (not confirmed by the company) also weighed. ([source](https://news.jkn.co.kr/editions/english/post/1073129))
+- **2026-11-04** — A Form 144 filing signaled more planned insider selling, per TradingKey, which put the one-month average analyst target near $402. ([source](https://www.tradingkey.com/news/market-movers/262283158-market-movers-panw-20261105))
 - **2026-11-04** — Shares were roughly flat (about +0.3% near $351 late in the session) after swinging as high as $361.70, lagging a broad rally driven by the midterm results. ([source](https://www.finanzen.ch/nachrichten/aktien/palo_alto_networks-aktie-kursbewegung-04-11-2026-1035062881))
 - **2026-11-03** — Shares closed down about 0.4% at $350.20, below the 50-day average (~$372); the consensus target cited was about $417. ([source](https://www.heygotrade.com/en/us-stock/panw/))
 - **2026-11-03** — Palo Alto confirmed it will report fiscal Q1 2027 results (quarter ended Oct 31) after the close on Nov 18, with a call at 4:30 p.m. ET. ([source](https://www.marketscreener.com/news/palo-alto-networks-to-announce-fiscal-first-quarter-2027-financial-results-on-wednesday-november-18-ce785fded980f020))
@@ -30,8 +32,6 @@ Sells cybersecurity products: firewalls, cloud security and security operations 
 - **2026-10-28** — A Barchart preview put fiscal Q1 consensus at $0.52 EPS, slightly below the year-ago $0.53, with 40 of 56 analysts at Strong Buy and an average target near $402. ([source](https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-quarterly-earnings-124002745.html))
 - **2026-10-27** — Shares added about 3.1% as investors credited fast hotfixes and analyst target raises, though the same report notes one flaw (CVE-2026-0257) was exploited by ransomware actors. ([source](https://www.tradingkey.com/news/market-movers/262242752-market-movers-panw-20261027))
 - **2026-10-26** — The stock added about 3.2% Monday as the company issued hotfixes for high-severity remote-code-execution flaws and said it had seen no malicious exploitation. ([source](https://www.tradingkey.com/news/market-movers/262240016-market-movers-panw-20261026))
-- **2026-10-23** — Shares jumped about 7% to roughly $380 after Wells Fargo lifted its target to $525 and Citi to $440, and the company was named a founding partner in Anthropic's Critical Infrastructure Defense Program. ([source](https://www.tradingkey.com/analysis/stocks/us-stocks/262239107-palo-alto-networks-stock-forecast-ai-security-arr-growth-387-resistance-october-26-2026-tradingkey))
-- **2026-10-23** — Phillip Securities moved the other way, cutting the stock to Reduce on valuation grounds. ([source](https://www.timothysykes.com/news/paloaltonetworksinc-panw-news-2026_10_23/))
 
 ## Coming up
 
@@ -39,5 +39,5 @@ Sells cybersecurity products: firewalls, cloud security and security operations 
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite 63% growth in Next-Gen Security ARR to $9.1B, AI-security platform demand and a mostly Buy consensus (Wells Fargo, Citi, Jefferies; average targets cited around $400-417).
-- **Bear:** Bears point to guided ARR growth slowing to 22-23%, a rich valuation (Cantor ~60x EV/FCF; Phillip downgrade), weak peer results (Fortinet), AI-spending jitters, profit-taking after a ~100% YTD run, recent exploited vulnerabilities and shares sitting below their 50-day average.
+- **Bull:** Analysts cite 63% growth in Next-Gen Security ARR to $9.1B, AI-security platform demand and a mostly Buy consensus (Wells Fargo $525, Citi, Jefferies; average targets around $400) ahead of the Nov 18 report.
+- **Bear:** Bears point to guided ARR growth slowing to 22-23%, a rich valuation (Cantor ~60x EV/FCF; Phillip downgrade), possible dilutive M&A (reported Clutch talks), insider selling, AI-spending jitters and a 7.41% drop on Nov 5 to about $322.

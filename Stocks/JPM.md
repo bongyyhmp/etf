@@ -4,7 +4,7 @@ ticker: JPM
 company: JPMorgan Chase
 sector: Financials
 held_by: [VTV]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ The largest US bank: consumer banking, credit cards, investment banking and asse
 
 ## Recent news
 
+- **2026-11-05** — Shares fell about 3.5% in the broad selloff, giving back much of Wednesday's post-midterm gain; TradingKey pointed to shifting rate expectations and net interest income worries, credit-quality concerns and uncertainty over capital rules. ([source](https://www.tradingkey.com/news/market-movers/262283065-market-movers-jpm-20261105))
+- **2026-11-05** — JPMorgan treasurer and CIO Charles Bristow warned that a too-rapid rise in rates could have "very non-linear and unpredictable outcomes" for the financial system, though the bank has stress-tested its balance sheet for higher rates and sees no current market stress. ([source](https://finance.yahoo.com/economy/policy/articles/jpmorgan-chase-co-warns-rapid-171453285.html))
 - **2026-11-04** — JPMorgan traded up $13.53 to about $351.51 (roughly 4%) during the session, per MarketBeat. ([source](https://www.marketbeat.com/instant-alerts/list-top-bank-stocks-to-watch-now-november-4th-2026-11-04/))
 - **2026-11-04** — Financial stocks climbed after the Democrats' midterm victory, with the XLF financials ETF up about 3.1%. ([source](https://rallies.ai/news/financial-stocks-jump-as-wall-street-rallies-after-democrats-win-congress-eb48d189dc72bdc0))
 - **2026-11-02** — UBS raised its target to $400 from $395 and kept Buy; shares rose $3.71 to about $340.75 Monday, below MarketBeat's ~$368 average target (Moderate Buy: 15 Buy/Strong Buy, 13 Hold). ([source](https://www.marketbeat.com/instant-alerts/analyst-ubs-group-forecasts-strong-price-appreciation-for-jpmorgan-chase-co-nyse-jpm-stock-2026-11-02/))
@@ -31,11 +33,10 @@ The largest US bank: consumer banking, credit cards, investment banking and asse
 
 ## Coming up
 
-- **2026-11-05** — Presentation at the BancAnalysts Association of Boston conference (scheduled)
 - **2027-01-14** — Q4 2026 earnings (scheduled)
 - **2027-04-13** — Q1 2027 earnings (confirmed in 2027 calendar)
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite a raised 2026 net interest income outlook of about $106B, 10% loan growth, improving card charge-offs, a higher dividend, Barclays' Overweight rating with a $425 target, and UBS's Nov 2 target raise to $400 (Buy); shares rallied with financials after the midterms.
-- **Bear:** Commentators flag the Q3 EPS and revenue miss, Hold-rated coverage from TD Cowen and Citi (target cut to $350), expenses growing faster than revenue, an 84% cut in buybacks, a lower CET1 ratio, an uncertain 2027 outlook, and possible tougher bank oversight under a Democratic Congress.
+- **Bull:** Analysts cite a raised 2026 net interest income outlook of about $106B, 10% loan growth, improving card charge-offs, a higher dividend, Barclays' Overweight rating with a $425 target, and UBS's Nov 2 target raise to $400 (Buy); the bank says it has stress-tested its balance sheet for higher rates.
+- **Bear:** Commentators flag the Q3 EPS and revenue miss, Hold-rated coverage from TD Cowen and Citi (target cut to $350), expenses growing faster than revenue, an 84% cut in buybacks, a lower CET1 ratio, rate-volatility and credit worries behind the Nov 5 drop (TradingKey), and possible tougher bank oversight under a Democratic Congress.

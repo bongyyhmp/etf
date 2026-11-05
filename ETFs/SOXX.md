@@ -4,18 +4,18 @@ ticker: SOXX
 issuer: BlackRock iShares
 aum: $48B
 expense_ratio: 0.33%
-return_ytd: 54.7
-return_1y: 51.3
-data_as_of: 2026-11-03
+return_ytd: 49.8
+return_1y: 52.5
+data_as_of: 2026-11-04
 tags: [etf]
 ---
 
 # SOXX — iShares Semiconductor ETF
 
-> [!info] Snapshot (as of Nov 3, 2026)
+> [!info] Snapshot (as of Nov 4, 2026)
 > **Tracks:** NYSE Semiconductor Index (30 US-listed chip companies)  
 > **Issuer:** BlackRock iShares · **Assets:** $48B · **Expense ratio:** 0.33%  
-> **Return:** +54.7% this year · +51.3% over 1 year (dividends reinvested)  
+> **Return:** +49.8% this year · +52.5% over 1 year (dividends reinvested)  
 > **Holdings:** 30 stocks · top 10 ≈ 62% of the fund
 
 ## Top 10 holdings
@@ -41,6 +41,7 @@ tags: [etf]
 
 ## News log
 
+- **2026-11-05** — Chip stocks crashed on data-center worries after the midterms: the PHLX Semiconductor index fell about 12.3%, with holdings Micron (-17.5%), AMD (-17.3%), Broadcom (-10.4%) and Nvidia (-9.3%) all sharply lower. ([source](https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html))
 - **2026-10-30** — Fell about 8% as the semiconductor index slid roughly 7% in a chip rout triggered by Intel's weak Q4 guidance. ([source](https://finance.biggo.com/news/e843ba2b-1691-487d-b819-4b3f6dc2f1b9))
 
 ## Sources

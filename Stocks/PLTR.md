@@ -4,7 +4,7 @@ ticker: PLTR
 company: Palantir Technologies
 sector: Technology
 held_by: [XLK, VGT]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -23,6 +23,7 @@ Builds data-analysis and AI software for governments and large companies.
 
 ## Recent news
 
+- **2026-11-05** — Palantir fell about 10%, losing roughly $40B of market value at the lows, as investors dumped software's AI winners; TIKR tied the drop to a deepening AI and defense selloff after Democrats won Congress, putting the requested $1.5T Pentagon budget at risk (Jefferies expects about $1.15T). ([source](https://www.tikr.com/blog/palantir-sinks-10-as-democratic-sweep-deepens-ai-and-defense-stock-sell-off))
 - **2026-11-04** — Shares fell more than 6% early, then pared losses (down about 3% near $170 in late morning), extending a losing streak as a Democratic Congress raised doubts about the requested $1.5T defense budget; Bank of America reiterated Buy with a $255 target. ([source](https://www.fool.com/investing/2026/11/04/why-palantir-technologies-stock-dropped-today/))
 - **2026-11-03** — Barclays kept Overweight and raised its target to $273 from $265. ([source](https://www.tradingview.com/news/tradingview:8c1dfaa7328b5:0-barclays-maintains-palantir-technologies-at-overweight-raises-price-target-to-273-from-265/))
 - **2026-11-03** — Cathie Wood's Ark funds bought 63,638 shares, worth about $10.9M at recent prices. ([source](https://thestreet.com/investing/stocks/cathie-wood-buys-10-9-million-of-tumbling-tech-stock-palantir-pltr))
@@ -34,7 +35,6 @@ Builds data-analysis and AI software for governments and large companies.
 - **2026-10-28** — Shares fell about 2% in morning trading after RBC Capital reiterated Underperform with a $90 target, calling Palantir the priciest name in its software coverage (about 61x 2026 revenue) and flagging slowing contract-value growth. ([source](https://finance.yahoo.com/markets/stocks/articles/palantir-stock-falls-rbc-delivers-174048319.html))
 - **2026-10-27** — Rosenblatt kept Buy and raised its target to $260 from $225, expecting a beat and raised guidance on Nov 2 and citing US commercial revenue up 149% to $764M in Q2. ([source](https://www.finanztrends.de/news/palantir-aktie-rosenblatt-hebt-kursziel-auf-260-dollar/))
 - **2026-10-27** — Shares closed nearly flat at $198.73 (-0.06%) as the Nasdaq rose about 1.2%, with no company-specific trigger cited. ([source](https://www.heygotrade.com/en/news/palantir-pltr-stock-news-october-28-2026/))
-- **2026-10-27** — Shares edged up about 0.5% to roughly $199.77 ahead of the Nov 2 report; Palantir's own Q3 revenue guidance is $2.160B-$2.164B, about 12% above Q2. ([source](https://www.tradingview.com/news/gurufocus:a01be8cf6094b:0-palantir-stocks-rise-as-november-results-approach/))
 
 ## Coming up
 
@@ -42,5 +42,5 @@ Builds data-analysis and AI software for governments and large companies.
 
 ## Bull case / bear case
 
-- **Bull:** Bulls (Barclays $273, BofA $255, Rosenblatt $260; Morgan Stanley and Piper Sandler raising targets to $233-$235; Ark buying) point to 96% Q3 revenue growth, US commercial revenue now larger than government, and a raised 2026 outlook of about $8.53B.
-- **Bear:** Bears (RBC, Underperform, $90; Michael Burry's short) cite a valuation near 61x 2026 revenue and new contract value growing only about 6%; after the midterms, coverage flags risk to defense spending under a Democratic Congress given heavy government revenue.
+- **Bull:** Bulls (Barclays $273, BofA $255, Rosenblatt $260; Morgan Stanley and Piper Sandler raising targets) point to 96% Q3 revenue growth, US commercial revenue now larger than government, a raised 2026 outlook of about $8.53B and a forward P/E TIKR puts below its five-year average after the drop.
+- **Bear:** Bears (RBC, Underperform, $90; Michael Burry's short) cite a rich valuation and new contract value growing only about 6%; TIKR flags 41% of revenue from the US government as defense budgets face a Democratic Congress, and shares fell about 10% on Nov 5.

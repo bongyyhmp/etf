@@ -4,7 +4,7 @@ ticker: AMGN
 company: Amgen
 sector: Healthcare
 held_by: [SCHD]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Biotech company making drugs for bone health, cancer, inflammation and heart dis
 
 ## Recent news
 
+- **2026-11-05** — More brokers raised targets after Q3: Guggenheim to $435 from $378 (Neutral), TD Cowen to $531 from $452 (Buy), and headlines cited UBS at $530 and JPMorgan at $425; shares fell about 2.1% to roughly $468.67, above MarketBeat's ~$415 average target (Hold consensus). ([source](https://www.dailypolitical.com/2026/11/05/amgen-nasdaqamgn-price-target-raised-to-435-00.html), [UBS](https://www.defenseworld.net/2026/11/05/amgen-nasdaqamgn-given-new-530-00-price-target-at-ubs-group.html), [JPMorgan](https://www.dailypolitical.com/2026/11/05/amgen-nasdaqamgn-given-new-425-00-price-target-at-jpmorgan-chase-co.html))
+- **2026-11-04** — Cantor Fitzgerald lifted its target to $465 from $440 (Neutral), and Goldman Sachs raised its target to $536 (Buy). ([source](https://www.dailypolitical.com/2026/11/05/amgen-nasdaqamgn-price-target-raised-to-435-00.html))
 - **2026-11-04** — Shares reversed the after-hours dip and rose about 3.6% ($16.70) to around $478, a new 52-week high, after the Q3 beat and raised outlook. ([source](https://www.marketbeat.com/instant-alerts/analyst-amgen-nasdaq-amgn-price-target-raised-to-41000-2026-11-04/))
 - **2026-11-04** — Morgan Stanley raised its target to $410 from $359 (Equal Weight) and RBC to $470 from $430 (Outperform), while Bernstein reaffirmed Market Perform with a $400 target. ([source](https://www.marketbeat.com/instant-alerts/analyst-amgen-nasdaq-amgn-price-target-raised-to-41000-2026-11-04/))
 - **2026-11-03** — Q3 results: revenue rose 8% to $10.4B and non-GAAP EPS climbed 14% to $6.45, both above estimates (~$10.1B and $5.79). Amgen raised its 2026 outlook to $38.9B-$39.7B revenue (from $38.2B-$39.4B) and $22.90-$23.70 adjusted EPS (from $22.30-$23.50); shares slipped about 2.2% to $455.60 after hours. ([source](https://rallies.ai/news/amgen-third-quarter-sales-rise-8-led-by-cholesterol-cancer-drugs-a06893f2988141e2))
@@ -40,5 +42,5 @@ Biotech company making drugs for bone health, cancer, inflammation and heart dis
 
 ## Bull case / bear case
 
-- **Bull:** Q3 beat estimates and Amgen raised 2026 guidance, with Repatha, Evenity, Imdelltra and Uplizna growing fast and MariTide Phase 3 studies progressing; RBC ($470), Oppenheimer ($480) and UBS ($470) are among the more positive, and shares hit a new high on Nov 4.
-- **Bear:** Biosimilars nearly halved Prolia and XGEVA sales, both below consensus (Zacks); commentators also flag IRA price pressure, about $57B of debt and a valuation at record highs, with Morgan Stanley ($410), Bernstein ($400) and Guggenheim holding neutral views and targets below the share price.
+- **Bull:** Q3 beat estimates and Amgen raised 2026 guidance, with Repatha, Evenity, Imdelltra and Uplizna growing fast and MariTide Phase 3 studies progressing; Goldman ($536), TD Cowen ($531), UBS ($530 per headlines), Oppenheimer ($480) and RBC ($470) are among the more positive.
+- **Bear:** Biosimilars nearly halved Prolia and XGEVA sales; commentators also flag IRA price pressure, about $57B of debt and a valuation at record highs, with MarketBeat's ~$415 average target below the share price and Morgan Stanley ($410), Bernstein ($400), Guggenheim ($435) and Cantor ($465) holding neutral views.

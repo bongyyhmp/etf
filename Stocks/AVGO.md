@@ -4,7 +4,7 @@ ticker: AVGO
 company: Broadcom
 sector: Technology
 held_by: [SOXX, SMH, XLK, VUG, VGT, VOO, IVV, SPY, VTI, QQQ]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -31,6 +31,8 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 
 ## Recent news
 
+- **2026-11-05** — Broadcom closed down 10.43% at $291.53, among the hardest-hit chip names as the semiconductor index fell 12.25%. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026))
+- **2026-11-05** — TradingKey pointed to doubts about how long hyperscaler capex lasts, soft non-AI segments, friction in the VMware transition and renewed scrutiny of its Anthropic-linked financing; it put the average analyst target near $517. ([source](https://www.tradingkey.com/news/market-movers/262282798-market-movers-avgo-20261105))
 - **2026-11-04** — Broadcom gained about 1% in premarket trade with Nvidia and AMD, helped by AMD's strong forecast, even though Democrats' win of both chambers raised the prospect of tighter AI and data-center rules. ([source](https://www.tipranks.com/news/ai-chip-stocks-nvda-amd-and-others-rise-despite-democratic-win-amds-strong-forecast-fuels-optimism))
 - **2026-11-04** — A 24/7 Wall St. analysis put the stock near $326 (about 18x forward earnings) against a consensus target of roughly $530, with 47 of 50 analysts at Buy or Strong Buy; it flagged customer concentration and reliance on customer-financing structures as key risks. ([source](https://247wallst.com/investing/2026/11/04/buy-the-dip-or-wait-three-scenarios-that-could-shape-broadcom-stock-through-2028/))
 - **2026-11-03** — Broadcom rose about 3.1%, second only to Nvidia in lifting the S&P 500, as chip stocks rebounded. ([source](https://lancasteronline.com/business/stock_market/nvidia-and-other-big-tech-stocks-lift-the-us-market-despite-drops-for-apple-and/article_b41e7d06-70b5-50ae-8a99-7d089b3583ec.html))
@@ -41,8 +43,6 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 - **2026-10-29** — Broadcom fell about 2.8% in overnight trading as chip stocks slid after Samsung's profit miss and lighter-than-expected capex from Microsoft and Alphabet. ([source](https://stocktwits.com/news-articles/markets/equity/intc-amd-avgo-mu-decline-on-samsung-s-profit-miss-lighter-capex-from-microsoft-alphabet/cZUQgW3R9ba))
 - **2026-10-28** — Broadcom gained more than 1% as the chip rally extended to a third day on SK Hynix's strong results and AI-driven memory demand outlook. ([source](https://www.aol.com/articles/nvidia-amd-micron-stocks-lead-124044000.html))
 - **2026-10-28** — The Fed held its benchmark rate at 3.75%-4.00% in a 10-2 vote, with two officials dissenting in favor of a quarter-point hike; the statement described growth as strong and inflation as still elevated. ([source](https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026))
-- **2026-10-27** — D.A. Davidson upgraded Broadcom to Buy from Neutral, and the stock rose about 3.5% early as chip stocks led the market. ([source](https://www.schwab.com/learn/story/stock-market-update-open))
-- **2026-10-26** — Broadcom was reported, with Nvidia and AMD, to be weighing purchases of up to $5B of Meta's new shares. ([source](https://www.tipranks.com/news/meta-launches-95-billion-stock-offering-plan-to-fund-ai-expansion-nvidia-amd-and-broadcom-weigh-5-billion-purchase))
 
 ## Coming up
 
@@ -50,5 +50,5 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 
 ## Bull case / bear case
 
-- **Bull:** D.A. Davidson's upgrade and other analysts cite surging AI semiconductor revenue (management targets ~$115B in FY2027 and ~$230B in FY2028), record free cash flow and the $63B Anthropic-linked financing vehicle; 24/7 Wall St. counts 47 of 50 analysts at Buy with a consensus target near $530.
-- **Bear:** William Blair's downgrade flags valuation, and reports cite heavy customer concentration, up to ~$43B of financing backstop exposure tied to Anthropic, sensitivity to hyperscaler capex, gross-margin dilution from AI chips, a ~20% three-month slide (Trefis), and the risk that a Democratic Congress tightens AI/data-center rules.
+- **Bull:** D.A. Davidson's upgrade and other analysts cite surging AI semiconductor revenue (management targets ~$115B in FY2027 and ~$230B in FY2028), record free cash flow and the $63B Anthropic-linked financing vehicle; most analysts rate it Buy, with average targets above $500 per TradingKey and 24/7 Wall St.
+- **Bear:** William Blair's downgrade flags valuation, and reports cite heavy customer concentration, up to ~$43B of financing backstop exposure tied to Anthropic, sensitivity to hyperscaler capex, VMware transition friction (TradingKey) and post-midterm data-center restrictions, which drove a 10% drop on Nov 5.

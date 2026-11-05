@@ -4,7 +4,7 @@ ticker: ADI
 company: Analog Devices
 sector: Technology
 held_by: [SMH, SOXX]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -23,6 +23,8 @@ Makes analog, mixed-signal and power chips for industrial, auto and communicatio
 
 ## Recent news
 
+- **2026-11-05** — Shares fell 3.64% ($14.80) to close at $391.44, with no earnings or company event; JKN attributed the drop to sector rotation and profit-taking in chip stocks. ([source](https://news.jkn.co.kr/editions/english/post/1073189))
+- **2026-11-04** — Shares closed down 3.23% at $406.24 even as the broader market rose. ([source](https://finance.yahoo.com/markets/stocks/articles/analog-devices-adi-stock-sinks-220001153.html))
 - **2026-11-03** — Analog Devices completed its acquisition of Alif Semiconductor (terms not disclosed), adding AI-focused microcontrollers and fusion processors aimed at industrial, data-center, defense, robotics and wearable markets. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/analog-devices-stock-alif-acquisition-closes-before-november-results/70457471))
 - **2026-11-03** — Shares rose about 4.8%, well ahead of a 1.6% gain in tech-equipment stocks, as chipmakers rebounded; TradingKey put the average analyst target near $470. ([source](https://www.tradingkey.com/news/market-movers/262267906-market-movers-adi-20261103))
 - **2026-10-30** — Shares fell 3.78% ($16.38) to close at $416.91 during a broad chip pullback, with no company-specific catalyst reported. ([source](https://news.jkn.co.kr/editions/english/post/1060505))
@@ -39,5 +41,5 @@ Makes analog, mixed-signal and power chips for industrial, auto and communicatio
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (TD Cowen, target $475) cite accelerating growth, with fiscal Q3 revenue up ~39%, ~40% operating margins, Street Q4 forecasts near $4.32B (+40%), and AI tie-ups such as its Nvidia physical-AI work and the just-closed Alif edge-AI deal.
-- **Bear:** GuruFocus and Trefis flag a rich valuation (about 50x trailing earnings), low-single-digit auto growth, heavy insider selling and a possible AI-capex slowdown, which weighed on chips in the Oct 30 selloff; CEO Vincent Roche has pre-planned 10b5-1 sales.
+- **Bull:** Analysts (TD Cowen, target $475) cite accelerating growth, with fiscal Q3 revenue up ~39%, ~40% operating margins, Street Q4 forecasts near $4.32B (+40%), and AI tie-ups such as its Nvidia physical-AI work and the just-closed Alif edge-AI deal; the stock fell less than the chip index on Nov 5.
+- **Bear:** GuruFocus and Trefis flag a rich valuation (about 50x trailing earnings), low-single-digit auto growth, heavy insider selling and a possible AI-capex slowdown; shares fell on Nov 4 and Nov 5 (to $391.44) amid chip-sector selling.

@@ -4,18 +4,18 @@ ticker: QQQ
 issuer: Invesco
 aum: $490B
 expense_ratio: 0.18%
-return_ytd: 11.9
-return_1y: 8.9
-data_as_of: 2026-11-03
+return_ytd: 13.0
+return_1y: 12.3
+data_as_of: 2026-11-04
 tags: [etf]
 ---
 
 # QQQ — Invesco QQQ Trust
 
-> [!info] Snapshot (as of Nov 3, 2026)
+> [!info] Snapshot (as of Nov 4, 2026)
 > **Tracks:** Nasdaq-100 (100 largest non-financial Nasdaq companies)  
 > **Issuer:** Invesco · **Assets:** $490B · **Expense ratio:** 0.18%  
-> **Return:** +11.9% this year · +8.9% over 1 year (dividends reinvested)  
+> **Return:** +13.0% this year · +12.3% over 1 year (dividends reinvested)  
 > **Holdings:** 101 stocks · top 10 ≈ 51% of the fund
 
 ## Top 10 holdings
@@ -46,7 +46,7 @@ tags: [etf]
 
 ## News log
 
-- *Updates are added here, newest first.*
+- **2026-11-05** — Closed down about 6.5% as AI and chip stocks sold off for a second day on fears that the new Democratic Congress could slow data-center building; the Nasdaq slipped into correction territory. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026))
 
 ## Sources
 - [Fund holdings](https://chartrow.com/quote/qqq/holdings)

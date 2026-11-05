@@ -4,7 +4,7 @@ ticker: TSM
 company: Taiwan Semiconductor (TSMC)
 sector: Technology
 held_by: [SMH, SOXX]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -23,6 +23,7 @@ The world's largest contract chipmaker; manufactures chips for Apple, Nvidia, AM
 
 ## Recent news
 
+- **2026-11-05** — TSMC ADRs sank roughly 9-10% with no company-specific news as the chip rout deepened after Democrats' midterm wins; Qualcomm's memory-cost warning and a Bloomberg report that Micron paused a $4.5B Taiwan plant added pressure, leaving the stock near 15x forward earnings. ([source](https://finance.yahoo.com/markets/stocks/articles/tsmc-sinks-10-umc-down-182304636.html))
 - **2026-11-04** — In Taipei, TSMC closed down 1.53% at NT$2,260 as the Taiex fell 0.83% after a nearly 1,900-point intraday swing on U.S. midterm uncertainty and heavy foreign selling. ([source](https://focustaiwan.tw/business/202611040014))
 - **2026-11-04** — ADRs traded near $406 early; coverage framed the Nov 10 October sales release against Q4 guidance of $52.3-54.3B, a midpoint about 14% above Q3. ([source](https://www.tradingview.com/news/gurufocus:23eb95650094b:0-tsmc-stocks-move-lower-as-november-sales-data-face-a-53-3-billion-quarterly-hurdle/))
 - **2026-11-03** — ADRs rebounded about 1.9% to roughly $406 by midday as chip stocks recovered. ([source](https://www.marketbeat.com/instant-alerts/list-best-manufacturing-stocks-to-watch-today-november-3rd-2026-11-03/))
@@ -41,5 +42,5 @@ The world's largest contract chipmaker; manufactures chips for Apple, Nvidia, AM
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (Barclays, Needham) and Moody's cite manufacturing leadership and AI demand; Q4 guidance implies about 14% sequential growth, and reports of possible CoWoS packaging price hikes point to pricing power.
-- **Bear:** Commentators flag a ~31x P/E, heavy capex, Taiwan concentration, a fatal Kaohsiung construction accident, heavy foreign selling of Taiwan stocks and sensitivity to AI-spending and political scares, with the stock about 17% below its high.
+- **Bull:** Analysts (Barclays, Needham) and Moody's cite manufacturing leadership and AI demand; Q4 guidance implies about 14% sequential growth, analysts expect EPS to nearly triple from 2025 to 2028, and after the Nov 5 drop the stock trades near 15x forward earnings vs. an 18x five-year average (per Yahoo Finance).
+- **Bear:** Coverage flags heavy capex ($60-64B guided for 2026), Taiwan concentration, heavy foreign selling of Taiwan stocks and sharp sensitivity to AI-spending and US political scares, shown by the roughly 9-10% ADR drop on Nov 5 alongside peers UMC and ASE.

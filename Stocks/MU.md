@@ -4,7 +4,7 @@ ticker: MU
 company: Micron Technology
 sector: Technology
 held_by: [SOXX, SMH, QQQ, XLK, VGT, VTV, VOO, IVV, SPY, VTI]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -31,6 +31,9 @@ Makes memory chips (DRAM, NAND), including high-bandwidth memory used in AI serv
 
 ## Recent news
 
+- **2026-11-05** — Micron plunged 17.46% to $656.39, leading the chip rout as the semiconductor index fell 12.25%; in Seoul, SK hynix had dropped about 9%. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026))
+- **2026-11-05** — Memory peers SK Hynix, Sandisk, Seagate and Western Digital also fell by double digits as the selloff deepened on worries that Democratic control of Congress slows data-center construction. ([source](https://www.aol.com/articles/micron-stock-declines-12-chip-163137000.html))
+- **2026-11-05** — 24/7 Wall St. counted 45 of 49 analysts at Buy or Strong Buy with an average target near $1,562 (many set before the selloff), and cited estimates that moratoria could affect about 45% of planned U.S. data-center expansion, with Texas alone 25%-30% of planned capacity. ([source](https://247wallst.com/investing/2026/11/05/how-worried-should-investors-be-about-micron-right-now/))
 - **2026-11-04** — Micron fell about 6% (near $802 in the afternoon) after the Democratic midterm sweep, including Texas and Ohio governor wins, stoked worries that slower data-center construction could ease the memory shortage behind its gains. ([source](https://www.fool.com/investing/2026/11/04/why-micron-stock-is-falling-today/))
 - **2026-11-04** — TradingKey put the close at about -6.1% and also cited reports of progress by China's CXMT on next-generation server DRAM, cautious outlooks from memory peers and profit-taking. ([source](https://www.tradingkey.com/news/market-movers/262274722-market-movers-mu-20261104))
 - **2026-11-03** — Micron rose about 2% as chip stocks rebounded, recouping part of Monday's drop. ([source](https://finance.yahoo.com/markets/article/micron-nvidia-amd-lead-chip-stocks-rebound-140538628.html))
@@ -40,9 +43,6 @@ Makes memory chips (DRAM, NAND), including high-bandwidth memory used in AI serv
 - **2026-10-29** — Micron fell about 5% to near $930 after Samsung's quarterly net profit (75.1T won) missed the ~86.1T won consensus despite record revenue, cooling a memory rally that followed SK Hynix's record results. Samsung still expects memory supply to stay tight for years. ([source](https://247wallst.com/investing/2026/10/29/sandisk-and-micron-slide-5-as-samsung-miss-cools-memory-rally-ahead-of-sandisk-earnings-sk-hynix-falls-3-western-digital-dips/))
 - **2026-10-28** — Micron rose about 4% before the open as memory names rallied after SK Hynix posted a record quarter and a large shareholder-return plan. ([source](https://coinpaper.com/38013/stock-market-today-nasdaq-rises-as-ai-chip-stocks-rally-dow-slips-before-fed-decision))
 - **2026-10-28** — Management and workers reached a labor agreement at Micron's Taichung, Taiwan site after reports of a possible strike; RBC (Outperform, $1,500) and Fubon (new Buy, $1,260) were among bullish analysts cited. ([source](https://stockstotrade.com/news/micron-technology-inc-mu-news-2026_10_28/))
-- **2026-10-26** — Shares traded near $906 on Monday as Wedbush's reiterated Outperform rating and $1,400 target was recirculated. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/wedbush-reaffirms-usd-1-400-target-for-micron-technology-stock/70416021))
-- **2026-10-23** — Micron rose about 2.5% to $877.55, rebounding from a 6% drop the day before, as investors weighed a BNP Paribas note on memory constraints in AI inference. ([source](https://www.heygotrade.com/en/news/micron-mu-stock-news-october-26-2026/))
-- **2026-10-15** — Closed at $931.24 (+1.9%) after an early dip tied to rate worries and competition from China's CXMT. ([source](https://www.heygotrade.com/en/news/micron-mu-stock-news-october-16-2026/))
 
 ## Coming up
 
@@ -51,5 +51,5 @@ Makes memory chips (DRAM, NAND), including high-bandwidth memory used in AI serv
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (Wedbush, RBC, Fubon, Rosenblatt) cite AI-driven memory demand, FQ1 revenue guidance of about $61.5B, multi-year pricing deals and the $35B buyback that could accelerate after Dec 9.
-- **Bear:** Coverage flags peak-cycle worries, price pressure from added capacity (including China's CXMT), cautious peer outlooks (Kioxia) and post-midterm data-center politics; the stock fell about 6% on Nov 4 and sits more than a third below its high.
+- **Bull:** Analysts (Wedbush, RBC, Fubon, Rosenblatt) cite AI-driven memory demand, FQ1 revenue guidance of about $61.5B, more than 75% of fiscal 2027 shipments under supply agreements and the $35B buyback that could accelerate after Dec 9; 24/7 Wall St. counts 45 of 49 analysts at Buy.
+- **Bear:** Coverage flags peak-cycle worries, added capacity including China's CXMT, cautious peer outlooks (Kioxia) and post-midterm data-center moratoria that could hit a large share of planned U.S. capacity; the stock fell about 17% on Nov 5 and sits nearly 48% below its $1,255 52-week high.

@@ -4,7 +4,7 @@ ticker: CSCO
 company: Cisco Systems
 sector: Technology
 held_by: [XLK, VGT, VTV]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -24,6 +24,8 @@ Sells networking equipment, security and collaboration software to businesses.
 
 ## Recent news
 
+- **2026-11-05** — Cisco fell about 5.9%, slightly less than its sector, as chip and AI-hardware stocks slid on data-center slowdown fears; TradingKey cited margin pressure from AI hardware and memory costs, Arista competition and pre-earnings trimming. ([source](https://www.tradingkey.com/news/market-movers/262283067-market-movers-csco-20261105))
+- **2026-11-05** — TradingKey reported that Morgan Stanley cut Cisco to Equal-Weight from Overweight and lowered its target to $120 from $135, citing a 43% 12-month rally and a valuation near the market's (~19x forward earnings). ([source](https://www.tradingkey.com/news/market-movers/262283067-market-movers-csco-20261105))
 - **2026-11-04** — A Trefis review noted Cisco is down 8.7% over the past month versus a 2.6% S&P 500 decline, though still up about 36% this year; historically it has fallen about 16% on average in market shocks. ([source](https://www.trefis.com/stock/csco/articles/622499/how-low-can-cisco-stock-go/2026-11-04))
 - **2026-11-03** — Cisco set its fiscal Q1 2027 report for Nov 12 after the close, with a conference call at 1:30 p.m. PT. ([source](https://rallies.ai/news/cisco-schedules-q1-fiscal-2027-results-conference-call-6bc72ce2719896b1))
 - **2026-11-03** — Bank of America reiterated Buy with a $150 target, expecting about 22% revenue growth in fiscal Q1 and saying roughly $6B of unconverted AI orders covers about 80% of Cisco's $7.5B fiscal 2027 AI revenue goal; it forecast gross margin easing to about 65.5%. ([source](https://ca.finance.yahoo.com/news/cisco-ai-backlog-core-demand-181100832.html))
@@ -40,5 +42,5 @@ Sells networking equipment, security and collaboration software to businesses.
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite hyperscaler AI networking orders (BofA: ~$6B AI backlog, Buy, $150), a campus-switch refresh cycle, growing Splunk-driven recurring software revenue and a Moderate Buy consensus (MarketBeat average target about $128.52; Morgan Stanley Buy, $135) heading into the Nov 12 report.
-- **Bear:** Coverage flags gross-margin pressure from lower-margin AI hardware and memory costs, competition from Arista and HPE, a trailing P/E above 30, HSBC's August downgrade to Hold, recent insider selling and an 8.7% one-month decline (Trefis).
+- **Bull:** Analysts cite hyperscaler AI networking orders (BofA: ~$6B AI backlog, Buy, $150), a campus-switch refresh cycle, growing Splunk-driven software revenue and a Moderate Buy consensus (MarketBeat average target about $128.52) heading into the Nov 12 report.
+- **Bear:** Morgan Stanley's downgrade to Equal-Weight ($120) cites valuation after a 43% rally; coverage flags gross-margin pressure from AI hardware and memory costs, Arista competition, possible pulled-forward orders, recent insider selling and a 5.9% drop on Nov 5.

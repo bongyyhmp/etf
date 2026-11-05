@@ -4,7 +4,7 @@ ticker: CVX
 company: Chevron
 sector: Energy
 held_by: [SCHD, VTV]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -23,6 +23,8 @@ Integrated oil and gas company with production, refining and chemicals.
 
 ## Recent news
 
+- **2026-11-05** — Chevron barely moved as WTI rebounded about 2%, per Yahoo Finance; 24/7 Wall St. put the consensus target at about $241.67 (21 of 26 analysts at Buy or Strong Buy) and noted 2027 EPS consensus of $15.80 sits below 2026's $17.54, while Jefferies flagged a "Texas shock" risk to data-center demand and Chevron's Project Kilby power plan for Microsoft. ([source](https://www.aol.com/articles/oil-bounces-worst-3-day-184905000.html), [24/7 Wall St.](https://247wallst.com/investing/2026/11/05/chevron-has-become-very-interesting-again-following-the-midterms/))
+- **2026-11-04** — Iraq's oil minister said Iraq and Chevron agreed key terms for a contract to develop the West Qurna-2 oilfield (previously run by Lukoil), with signing targeted before the end of 2026; financial terms were not disclosed. ([source](https://ad-hoc-news.de/boerse/news/corporate-news/chevron-stock-in-focus-as-iraq-agrees-west-qurna-2-terms/70464598))
 - **2026-11-04** — Chevron fell about 4% as oil slid; TradingKey also pointed to post-earnings profit-taking and Q3 buybacks at the low end of the target range ($2.5B, down from $3.1B in Q2). ([source](https://www.tradingkey.com/news/market-movers/262274795-market-movers-cvx-20261104))
 - **2026-11-04** — TipRanks said oil stocks were hit after Democrats won the Senate, with crude futures down about 8% to near $88; it noted Democrats' clean-energy focus and push to end the Middle East war, which has closed the Strait of Hormuz, could erode producers' gains. ([source](https://www.tipranks.com/news/oil-stocks-chevron-cvx-marathon-mpc-and-exxon-mobil-xom-take-a-beating-on-midterm-results))
 - **2026-11-03** — DZ Bank cut its rating to Hold from Buy with a $240 target; MarketBeat's average target is about $219 ("Moderate Buy"). ([source](https://www.marketbeat.com/instant-alerts/analyst-chevron-nyse-cvx-stock-moved-down-to-hold-by-dz-bank-2026-11-03/))
@@ -33,15 +35,14 @@ Integrated oil and gas company with production, refining and chemicals.
 - **2026-11-01** — California Gov. Gavin Newsom and Sen. Bernie Sanders criticized oil majors including Chevron and Exxon over 'windfall' profits tied to the Iran war and higher gas prices. ([source](https://www.benzinga.com/news/politics/26/11/62767692/gavin-newsom-says-trump-delivering-windfall-profits-for-big-oil-giants-xom-cvx-amid-iran-war-bernie-sanders-says-surge-is-beyond-unacceptable))
 - **2026-10-31** — Chevron plans to raise exploration spending by about 50%. ([source](https://finance.yahoo.com/energy/articles/chevron-raises-exploration-spending-50-230000485.html))
 - **2026-10-30** — Q3 adjusted EPS of $5.28 topped the ~$4.87 consensus and revenue of $65.24B beat the ~$61.82B estimate; shares rose about 1.7% to around $235.37, near the top of their one-year range. ([source](https://www.marketbeat.com/instant-alerts/earnings-chevron-nyse-cvx-posts-quarterly-earnings-results-beats-estimates-by-041-eps-2026-10-30/))
-- **2026-10-30** — Q3 net income reached $9.9B ($5.06/share) vs. $3.5B a year earlier, helped by $4.9B of downstream earnings and record U.S. refinery runs; operating cash flow was $16.0B, buybacks $2.5B and net debt fell $7.8B, while output slipped to 3.98M boe/d. Chevron also declared a $1.78 dividend and plans $7B of Venezuela JV investment over five years. ([source](https://www.sec.gov/Archives/edgar/data/0000093410/000009341026000196/a09302026ex9918-k.htm))
-- **2026-10-29** — Ahead of Friday's report, shares traded near $231, up about 1%, leaving the stock up roughly 57% this year; 24/7 Wall St. noted 39 straight years of dividend increases and $8.4B of debt reduction in Q2. ([source](https://247wallst.com/investing/2026/10/29/chevron-is-up-nearly-57-in-2026-is-its-dividend-safer-than-conocophillips/))
 
 ## Coming up
 
 - **2026-11-18** — Record date for the $1.78 quarterly dividend (payable 2026-12-10)
+- **By end of 2026** — Targeted signing of the West Qurna-2 contract with Iraq
 - **January 2027** — Q4 2026 earnings (expected, per Trefis)
 
 ## Bull case / bear case
 
-- **Bull:** Q3 beat estimates with profit nearly tripling on record refining runs, $16B of operating cash flow and falling net debt; Morgan Stanley sees a higher FCF outlook, analysts raised targets (one to $244), and commentators point to higher exploration spending, Venezuela, Vaca Muerta and the TotalEnergies Gulf partnership.
-- **Bear:** Commentators flag dependence on oil and refining margins tied to Middle East tensions (Brent fell below $95 on Nov 4 after the midterms), lower Q3 production, buybacks cut to $2.5B, DZ Bank's Nov 3 downgrade to Hold, a share price above MarketBeat's ~$219 average target, and political pressure over 'windfall' profits from a Democratic Congress.
+- **Bull:** Q3 beat estimates for a seventh straight quarter with profit nearly tripling, $16B of operating cash flow and falling net debt; Morgan Stanley sees a higher FCF outlook, 24/7 Wall St. cites a ~$242 consensus target and rising estimates, and commentators point to higher exploration spending, Venezuela, Vaca Muerta and the new West Qurna-2 terms in Iraq.
+- **Bear:** Commentators flag dependence on oil and refining margins tied to Middle East tensions (Brent fell below $95 on Nov 4 after the midterms), 2027 EPS consensus below 2026, lower Q3 production, buybacks cut to $2.5B, DZ Bank's Nov 3 downgrade to Hold, Jefferies' warning on data-center risks to Project Kilby, and political pressure over 'windfall' profits from a Democratic Congress.

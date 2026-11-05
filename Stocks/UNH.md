@@ -4,7 +4,7 @@ ticker: UNH
 company: UnitedHealth Group
 sector: Healthcare
 held_by: [SCHD, VTV]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -23,6 +23,8 @@ The largest US health insurer, with the Optum health services and pharmacy busin
 
 ## Recent news
 
+- **2026-11-05** — Shares fell about 3.3% in the broad selloff (around $398, down about $11, at midday); TradingKey cited medical-cost trends, federal scrutiny of Medicare Advantage payments and PBMs, and rotation out of defensive names. ([source](https://www.tradingkey.com/news/market-movers/262284351-market-movers-unh-20261105), [midday](https://www.dailypolitical.com/2026/11/05/healthcare-stocks-to-keep-an-eye-on-november-5th.html))
+- **2026-11-05** — Ballad Health and UnitedHealthcare finalized a multi-year contract keeping in-network access for UnitedHealthcare Medicare Advantage individual and Group Retiree members, with value-based quality measures. ([source](https://wcyb.com/news/local/ballad-health-announces-new-multi-year-agreement-with-unitedhealthcare))
 - **2026-11-04** — Managed-care and hospital stocks rallied after Democrats won Congress; Bernstein said the result most helps Medicaid- and ACA-focused insurers (Centene, Molina, Elevance) and helps UnitedHealth to a lesser degree, and does not expect Medicare Advantage cuts. UNH showed a gain of roughly 1%. ([source](https://www.investing.com/news/stock-market-news/policy-relief-sparks-surge-in-health-insurance-and-hospital-stocks-4999489))
 - **2026-11-04** — UnitedHealth was reported to have expanded its buyback authorization by up to 50 million shares, on top of the remaining 2024 authorization. ([source](https://www.tokenpost.com/news/business/48291))
 - **2026-11-03** — Shares were down about 0.4% at roughly $399 in early-afternoon New York trading on Election Day. ([source](https://finanzen.ch/nachrichten/aktien/unitedhealth-aktie-kursbewegung-03-11-2026-1035061931))
@@ -39,5 +41,5 @@ The largest US health insurer, with the Optum health services and pharmacy busin
 
 ## Bull case / bear case
 
-- **Bull:** Bulls cite the Q3 beat (medical loss ratio 88.4%), 2026 guidance raised to at least $20.50, an expanded 50-million-share buyback, Wells Fargo's view that the fundamental recovery remains on track, and Bernstein's expectation of no Medicare Advantage cuts after the midterms.
-- **Bear:** Wells Fargo, Raymond James and others flag political risk, with a Democratic Congress expected to bring tougher PBM oversight (pressure on Optum Rx), Sen. Warren's call to break up "Big Medicine" and criticism of insurer contract opacity; Bernstein sees UNH benefiting less than Medicaid-focused peers, and several firms trimmed targets after Q3.
+- **Bull:** Bulls cite the Q3 beat (medical loss ratio 88.4%), 2026 guidance raised to at least $20.50, an expanded 50-million-share buyback, Wells Fargo's view that the fundamental recovery remains on track, Bernstein's expectation of no Medicare Advantage cuts after the midterms, and renewed provider contracts such as Ballad Health's.
+- **Bear:** Wells Fargo, Raymond James and others flag political risk, with a Democratic Congress expected to bring tougher PBM oversight (pressure on Optum Rx) and Sen. Warren's call to break up "Big Medicine"; TradingKey tied the Nov 5 drop to medical-cost trends and Medicare Advantage payment scrutiny, and several firms trimmed targets after Q3.

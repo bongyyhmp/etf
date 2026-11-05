@@ -4,7 +4,7 @@ ticker: COP
 company: ConocoPhillips
 sector: Energy
 held_by: [SCHD]
-updated: 2026-11-04
+updated: 2026-11-05
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ The largest US oil and gas producer focused purely on exploration and production
 
 ## Recent news
 
+- **2026-11-05** — Q3 adjusted EPS was $3.27 (GAAP $3.34), above the ~$2.97 consensus, and revenue of about $20.06B topped estimates; shares rose about 1.6% to roughly $139.12 right after the release and were up about 1% in early trading, per StockStory and Investing.com. ([source](https://markets.financialcontent.com/stocks/article/stockstory-2026-11-5-conocophillips-nysecop-delivers-impressive-q3-2026), [Investing.com](https://www.investing.com/news/earnings/conocophillips-beats-thirdquarter-profit-estimates-5003536))
+- **2026-11-05** — Output fell to 2,302 MBOED (down 97 MBOED year over year) on Qatar disruption from the Middle East conflict and higher Surmont royalties, while realized prices rose 32% to $61.40/BOE; the company generated $7.2B of operating cash flow and $4.0B of free cash flow, returned $3.4B ($2.4B buybacks), raised the quarterly dividend 11% to $0.93, guided Q4 output to 2.32-2.36 MMBOED and kept full-year capex guidance. ([source](https://www.sec.gov/Archives/edgar/data/0001163165/000116316526000043/cop-20261105x8kexx991.htm))
 - **2026-11-04** — ConocoPhillips fell about 5.2% as Brent sank 8.7% to $94.62, a two-month low, after Democrats won control of Congress. ([source](https://www.boston.com/news/business/2026/11/04/us-stocks-surge-and-the-dow-soars-more-than-1500-points-as-oil-prices-tumble-following-us-midterms/))
 - **2026-11-04** — Reuters reported the S&P 500 energy sector down about 3% by midday as the Democratic sweep shrank the Iran-war risk premium in crude; SEB's Bjarne Schieldrop said a large risk premium had left oil prices. ([source](https://boereport.com/2026/11/04/energy-sector-falls-as-democratic-sweep-dents-iran-war-risk-premium/))
 - **2026-11-03** — Shares fell about 1.4% to roughly $144.84 at midday, adding to Monday's losses as oil prices swung on Iran headlines. ([source](https://www.marketbeat.com/instant-alerts/list-best-oil-stocks-to-follow-today-november-3rd-2026-11-03/))
@@ -32,14 +34,14 @@ The largest US oil and gas producer focused purely on exploration and production
 - **2026-10-29** — Shares traded near $149.96, up about 0.6%; a 24/7 Wall St. comparison noted ConocoPhillips' 2015-16 dividend cut and its plan for $7B of added free cash flow by 2029, with Willow first oil targeted for early 2029. ([source](https://247wallst.com/investing/2026/10/29/chevron-is-up-nearly-57-in-2026-is-its-dividend-safer-than-conocophillips/))
 - **2026-10-29** — Brent eased about 0.7% to roughly $115.40 by mid-morning, still up about 78% from a year earlier. ([source](https://finance.yahoo.com/energy/articles/current-price-oil-october-29-130000851.html))
 - **2026-10-28** — Brent climbed about 1% to roughly $115 after Yemen's Houthis claimed a missile strike on Saudi Arabia's largest refinery (unconfirmed by Saudi authorities). ([source](https://www.5paisa.com/blog/crude-oil-price-today-28-oct-2026))
-- **2026-10-27** — The stock closed down 2.25% at $147.96 while the S&P 500 rose 0.6%; Zacks consensus for the Nov 5 report is $2.95 EPS on about $18.1B revenue. ([source](https://finance.yahoo.com/markets/stocks/articles/conocophillips-cop-stock-declines-while-210002853.html))
-- **2026-10-27** — Piper Sandler started coverage at Neutral with a $157 target; shares slipped to about $148.69 midday as Brent eased. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/piper-sandler-sets-usd-157-target-for-conocophillips-stock/70421658))
 
 ## Coming up
 
-- **2026-11-05** — Q3 results before the open, call at 12 p.m. ET (confirmed); StockTitan and Zacks put consensus EPS near $2.97 (vs. $1.61 a year earlier) on about $18.2B revenue
+- **2026-11-16** — Record date for the raised $0.93 quarterly dividend (payable 2026-12-01)
+- **2026-12-01** — $0.93 dividend paid
+- Next earnings (Q4 2026): date not yet announced
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite Marathon Oil synergies, Willow and LNG growth (a plan for $7B of added free cash flow by 2029), a 45% cash-return target, rising earnings estimates, Q3 EPS expected up about 85% (Zacks), and targets of $174 (Jefferies) and $175 (Susquehanna).
-- **Bear:** Analysts flag high sensitivity as a pure producer to oil, which dropped below $95 Brent on Nov 4 as the midterm results eased Iran-war risk (the stock fell ~5%), Willow and LNG execution risk, 2027 EPS modeled below 2026, and Piper Sandler's Neutral start.
+- **Bull:** Coverage of the Nov 5 report cites a Q3 EPS and revenue beat, $4.0B of free cash flow, an 11% dividend increase, the 45% cash-return target, a reaffirmed $7B free-cash-flow inflection by 2029 (CEO Andy O'Brien: "2029 is not the endpoint") and targets of $174 (Jefferies) and $175 (Susquehanna).
+- **Bear:** Commentators note the beat came from higher prices rather than volume (production fell about 4% with Qatar disrupted), leaving the pure producer exposed to swings in crude, which fell below $95 Brent on Nov 4 after the midterms; Willow and LNG execution risk and Piper Sandler's Neutral rating are also cited.
