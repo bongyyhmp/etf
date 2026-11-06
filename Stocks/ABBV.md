@@ -4,7 +4,7 @@ ticker: ABBV
 company: AbbVie
 sector: Healthcare
 held_by: [VTV]
-updated: 2026-11-05
+updated: 2026-11-06
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Drugmaker known for immunology drugs (Skyrizi, Rinvoq) and Botox.
 
 ## Recent news
 
+- **2026-11-06** — Shares recovered about $1.84 (roughly 0.6%) to around $290.08 at midday Friday, per DailyPolitical, after closing Thursday at $288.24, down 2.24%. ([source](https://www.dailypolitical.com/2026/11/06/best-biotech-stocks-to-watch-today-november-6th.html), [Nov 5 close](https://journalarta.com/en/2026/11/06/abbvie-abbv-stock-falls-2-24-momentum-weakens-in-focus/))
 - **2026-11-05** — Shares opened at $298.90 but turned lower with the market, down about 0.8% at $292.38 in the afternoon, per finanzen.ch. ([source](https://finanzen.ch/nachrichten/aktien/abbvie-aktie-kursbewegung-05-11-2026-1035062883))
 - **2026-11-04** — AbbVie announced an expanded 12,000 sq ft R&D site in Oxford for immunology, neuroscience and oncology research, part of a more than GBP 120M UK life-sciences commitment; it employs over 1,100 people in the UK. ([source](https://ad-hoc-news.de/boerse/news/corporate-news/abbvie-stock-gains-as-oxford-r-und-d-expansion-deepens-uk-footprint/70464623))
 - **2026-11-04** — AbbVie licensed global rights to Nxera Pharma's oral EP4 agonist NXE0033744 for inflammatory bowel disease, paying $100M upfront with up to $1.37B more in milestones plus tiered royalties; the gut-targeted drug has finished Phase 1. ([source](https://www.biospace.com/deals/abbvie-bets-up-to-1-47b-for-nxeras-discarded-ibd-program))
@@ -33,7 +34,6 @@ Drugmaker known for immunology drugs (Skyrizi, Rinvoq) and Botox.
 - **2026-10-30** — Q3 revenue rose 10.3% to $17.40B, a bit above the ~$17.36B consensus, and adjusted EPS of $3.82 beat the $3.74 estimate; Skyrizi grew 22.7% to $5.78B and Rinvoq 23.9% to $2.71B while Humira fell 31.2% to $683M. AbbVie raised 2026 adjusted EPS guidance to $13.95-$13.99 from $13.76-$13.96 and lifted the quarterly dividend 5.2% to $1.82. ([source](https://finance.biggo.com/news/48db2777-ec7c-46a8-a0ff-13c6b1f6413a))
 - **2026-10-30** — Shares closed up 1.72% at $295.79 after the results. ([source](https://moneycheck.com/abbvie-abbv-shares-climb-1-72-following-strong-q3-performance-and-raised-2026-outlook))
 - **2026-10-29** — Ahead of the Oct 30 report, TIKR noted the Street expects Q3 revenue near $17.37B, above AbbVie's ~$17.2B guide, with full-year EPS consensus ($13.95) near the top of guidance and a dividend decision typically due with the results. ([source](https://www.tikr.com/blog/abbvies-pipeline-had-a-mixed-week-the-october-30-report-has-to-show-its-guidance-still-rises))
-- **2026-10-27** — AbbVie filed for FDA approval of etentamig, a monthly BCMA x CD3 bispecific for relapsed/refractory multiple myeloma, backed by Phase 3 data showing a 74% response rate vs. about 46% for standard options. ([source](https://www.biopharminternational.com/view/abbvie-bla-fda-etentamig-relapsed-refractory-multiple-myeloma))
 
 ## Coming up
 

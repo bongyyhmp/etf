@@ -4,7 +4,7 @@ ticker: JNJ
 company: Johnson & Johnson
 sector: Healthcare
 held_by: [VTV]
-updated: 2026-11-05
+updated: 2026-11-06
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Makes prescription drugs and medical devices.
 
 ## Recent news
 
+- **2026-11-05** — The FDA granted accelerated approval to Rybrevant Faspro (subcutaneous amivantamab) as a single agent for recurrent or metastatic head and neck squamous cell cancer after platinum chemo and anti-PD-(L)1 therapy, excluding HPV-linked oropharyngeal cases; the 102-patient OrigAMI-4 cohort showed a 42% confirmed response rate, and full approval may depend on the Phase 3 OrigAMI-5 trial. ([source](https://www.biopharminternational.com/view/fda-accelerated-approval-rybrevant-faspro-amivantamab-head-neck-cancer))
 - **2026-11-05** — Shares held up better than the market, slipping about $0.59 (roughly 0.2%) to about $275.73 at midday as the broad selloff hit tech. ([source](https://www.dailypolitical.com/2026/11/05/healthcare-stocks-to-keep-an-eye-on-november-5th.html))
 - **2026-11-04** — Shares rose about 3.5% as drugmakers rallied after the midterms, per TradingKey. ([source](https://www.tradingkey.com/news/market-movers/262274958-market-movers-jnj-20261104))
 - **2026-11-04** — Trefis said J&J, up about 31% this year, trades near 23.6x 2026 and 22.7x 2027 consensus profit, but flagged deal dilution (the Firefly Bio and Cell BioMedicines deals cut 2027 adjusted EPS by $1.36) and MedTech slowing to 2.5% operational growth in Q3. ([source](https://www.trefis.com/stock/jnj/articles/622606/if-johnson-johnson-stock-looks-expensive-you-need-to-read-this/2026-11-04))
@@ -33,7 +34,6 @@ Makes prescription drugs and medical devices.
 - **2026-10-27** — J&J said it will hold an Enterprise Business Review for investors on Dec 8, covering its Innovative Medicine and MedTech pipelines and long-term strategy. ([source](https://www.jnj.com/media-center/press-releases/johnson-johnson-to-host-enterprise-business-review/2026))
 - **2026-10-26** — At ESMO, J&J reported a 75% confirmed response rate in early-stage testing of JNJ-6143, an oral prostate cancer drug it acquired with Halda. ([source](https://www.biospace.com/drug-development/esmo-2026-j-j-delivers-immaculate-early-data-for-prostate-cancer-drug-from-halda))
 - **2026-10-23** — Talks to combine J&J's orthopaedics unit with Smith & Nephew reportedly collapsed over who would be CEO, and J&J shares closed down about 1.4%. ([source](https://www.marketscreener.com/news/smith-nephew-j-j-s-orthopedics-merger-talks-reportedly-collapse-over-leadership-plans-ce785cdfda8cff27))
-- **2026-10-23** — Simply Wall St summarized mixed analyst moves: several firms raised targets into the $280-320 range, Wells Fargo, BofA and Leerink trimmed theirs, and Erste cut to Hold. ([source](https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-jnj-stock-gets-141329999.html))
 
 ## Coming up
 
@@ -42,5 +42,5 @@ Makes prescription drugs and medical devices.
 
 ## Bull case / bear case
 
-- **Bull:** Bernstein, RBC and Citi cite 6.1% Q3 organic growth, a 3% EPS beat and Innovative Medicine strength, including Icotyde, while early ESMO data for its Halda prostate cancer drug, TCT data for Impella heart pumps and Leerink's view of J&J as the best-funded likely acquirer add to interest; analysts saw limited drug-pricing risk from the new Congress, and the shares held steady in the Nov 5 selloff.
+- **Bull:** Bernstein, RBC and Citi cite 6.1% Q3 organic growth, a 3% EPS beat and Innovative Medicine strength, including Icotyde, while the Nov 5 accelerated FDA approval of Rybrevant Faspro in head and neck cancer, early ESMO data for its Halda prostate cancer drug, TCT data for Impella heart pumps and Leerink's view of J&J as the best-funded likely acquirer add to interest; analysts saw limited drug-pricing risk from the new Congress.
 - **Bear:** Wells Fargo, BofA and Leerink flag 2027 pressure from deal dilution (Trefis: $1.36 of 2027 EPS), MedTech slowing and loss-of-exclusivity headwinds; Erste and Simply Wall St see a full valuation (about 23.6x 2026 profit, per Trefis), and the Smith & Nephew orthopaedics talks reportedly collapsed.

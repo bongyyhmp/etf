@@ -4,7 +4,7 @@ ticker: NXPI
 company: NXP Semiconductors
 sector: Technology
 held_by: [SOXX]
-updated: 2026-11-05
+updated: 2026-11-06
 tags: [stock]
 ---
 
@@ -22,6 +22,9 @@ Dutch chipmaker focused on automotive and industrial chips.
 
 ## Recent news
 
+- **2026-11-06** — Microcontroller and analog rival Microchip Technology fell about 13% by midday after analysts cut forecasts on its results and outlook, even as most chip stocks rebounded. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026))
+- **2026-11-06** — Shares opened Friday at $244.43, between the 50-day ($235.65) and 200-day ($246.45) averages; MarketBeat's consensus stayed Moderate Buy (16 Buy, 9 Hold, 1 Sell) with a target near $295.78. ([source](https://www.dailypolitical.com/2026/11/06/nxp-semiconductors-nasdaqnxpi-director-anthony-foxx-sells-400-shares-of-stock.html))
+- **2026-11-06** — A Form 4 signed Friday showed director Anthony Foxx sold 400 shares on Nov 4 at $263.60 (about $105K), leaving him about 2,900 shares. ([source](https://rallies.ai/news/nxp-semiconductors-director-anthony-r-foxx-reports-105440-common-share-disposal-212016212466b053))
 - **2026-11-05** — Frankfurt-traded shares fell about 4.9% intraday to EUR 222.18 as chip stocks sold off; the report cited no company-specific cause and noted a Moderate Buy consensus with an average target near $296. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/nxp-semiconductors-stock-slips-4-9-prozent-arga-stake-adds-context/70465413))
 - **2026-11-04** — A 13F-based report said ARGA Investment Management opened a new NXP stake of about 95,000 shares (~$22.6M) in Q3; MarketBeat's consensus is Moderate Buy with an average target near $296. No company news was found. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/nxp-semiconductors-stock-gains-as-arga-opens-usd-22-6-million-position/70458448))
 - **2026-11-03** — NXP held a webinar on secure, real-time factory networking (time-sensitive networking, OPC UA FX, its i.MX RT1180 crossover microcontroller), a product signal rather than a financial update; euro-quoted shares were about 1.6% higher than Monday morning. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/nxp-semiconductors-stock-rises-1-58-prozent-since-previous-report/70451885))
@@ -30,9 +33,6 @@ Dutch chipmaker focused on automotive and industrial chips.
 - **2026-10-28** — More post-earnings target cuts: Stifel lowered its target to $250 from $265 (Hold) and Morgan Stanley to $313 from $338 (Overweight), while Jefferies and TD Cowen reiterated Buy; MarketBeat's consensus target is about $299. ([source](https://www.marketbeat.com/instant-alerts/analyst-stifel-nicolaus-issues-pessimistic-forecast-for-nxp-semiconductors-nasdaq-nxpi-stock-price-2026-10-28/))
 - **2026-10-28** — Truist trimmed its target to $300 from $310 (Buy kept); shares were down about 2.9% near $246 at midday. ([source](https://www.marketbeat.com/instant-alerts/analyst-nxp-semiconductors-nasdaq-nxpi-price-target-cut-to-30000-by-analysts-at-truist-financial-2026-10-28/))
 - **2026-10-27** — With Q3 results NXP noted automotive revenue above $2B for the first time and a $5B buyback authorization; Volkswagen picked its S32K5 microcontrollers for a future architecture co-developed with Rivian. ([source](https://www.marketbeat.com/instant-alerts/analyst-nxp-semiconductors-nasdaq-nxpi-price-target-cut-to-30000-by-analysts-at-truist-financial-2026-10-28/))
-- **2026-10-27** — Q3 revenue rose about 19% to $3.79B and adjusted EPS was $4.20, both slightly above consensus, but the Q4 revenue outlook (about $3.85B at the midpoint) came in a bit under estimates; shares dropped roughly 9% to near $232 right after the report. ([source](https://stockstory.org/us/stocks/nasdaq/nxpi/news/earnings/nxp-semiconductors-nasdaqnxpi-surprises-with-q3-sales-but-stock-drops))
-- **2026-10-26** — Shares traded around $244 on Nasdaq Monday morning, up from a $234.92 close on Oct 23, the day before Q3 results; the article also noted TD Cowen had trimmed its target to $275 (Buy kept) and Wells Fargo to $235 (Equal Weight) on Oct 20. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/td-cowen-cuts-nxp-semiconductors-stock-target-to-usd-275-00/70415079))
-- **2026-10-26** — Preview pieces put Q3 revenue guidance at $3.65-3.85B (consensus about $3.77B) and non-GAAP EPS guidance at $3.89-4.32 (consensus about $4.14), with autos seen growing low double digits and mobile slipping. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/nxp-semiconductors-schedules-results-nxp-semiconductors-stock-sits-23-05-percent-below-target/70413496))
 
 ## Coming up
 
@@ -40,5 +40,5 @@ Dutch chipmaker focused on automotive and industrial chips.
 
 ## Bull case / bear case
 
-- **Bull:** Q3 delivered about 19% revenue growth, record auto revenue and a $5B buyback; Cantor (Overweight, $400) and Truist (Buy, $300) stay positive, and MarketBeat's consensus is Moderate Buy (average target about $296).
-- **Bear:** Q4 guidance landed slightly under consensus, several firms (Stifel, Morgan Stanley, Truist) trimmed targets, a shrinking mobile business was flagged, and the stock slid with the Nov 5 chip selloff.
+- **Bull:** Q3 delivered about 19% revenue growth, record auto revenue and a $5B buyback; Cantor (Overweight, $400) and Truist (Buy, $300) stay positive, and MarketBeat's consensus is Moderate Buy (16 Buy, 9 Hold, 1 Sell; average target about $296).
+- **Bear:** Q4 guidance landed slightly under consensus, several firms (Stifel, Morgan Stanley, Truist) trimmed targets, a shrinking mobile business was flagged, shares sit below their 200-day average after the Nov 5 chip selloff, and peer Microchip's weak Nov 6 outlook revived questions about industrial and auto chip demand.

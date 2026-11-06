@@ -4,7 +4,7 @@ ticker: AAPL
 company: Apple
 sector: Technology
 held_by: [VGT, XLK, VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-11-05
+updated: 2026-11-06
 tags: [stock]
 ---
 
@@ -29,6 +29,8 @@ Makes the iPhone, Mac, iPad and wearables, and earns a growing share from servic
 
 ## Recent news
 
+- **2026-11-06** — Apple traded about 1.1% lower during Friday's session, lagging as the Nasdaq rebounded roughly 1.1% after Thursday's rout, per a KuCoin market flash. ([source](https://www.kucoin.com/news/flash/nasdaq-rebounds-after-19-month-largest-drop-amid-ai-sector-volatility))
+- **2026-11-06** — CNBC reported that Daiwa Capital Markets thinks Apple's recent stretch of outperforming the market is unlikely to last much longer. ([source](https://www.cnbc.com/2026/11/06/apple-is-on-a-tear-but-it-wont-be-for-long-per-daiwa-capital-markets.html))
 - **2026-11-05** — Apple slipped 1.53% to $344.17, a far milder loss than the Nasdaq's 5.5% slide, giving back part of Wednesday's post-election surge. ([source](https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/))
 - **2026-11-05** — Per Bloomberg (via TradingKey), Apple marketed about $7B of investment-grade bonds in seven tranches maturing in 2-10 years, drawing roughly $31B of orders; it is its first bond sale since a $4.5B deal in May 2025, with proceeds earmarked for general purposes including buybacks and dividends. ([source](https://www.tradingkey.com/analysis/stocks/us-stocks/262283411-apple-stock-forecast-7-billion-bond-sale-31-billion-demand-share-buybacks-tradingkey))
 - **2026-11-04** — Shares jumped more than 6% to a record intraday high near $352.22 (prior close $331.90), pushing market value above roughly $5.1 trillion as Big Tech led a broad rally after Democrats won control of Congress, erasing Tuesday's margin-driven pullback. ([source](https://moneycheck.com/apple-aapl-reaches-5-12-trillion-market-cap-as-shares-hit-352-22))
@@ -39,17 +41,14 @@ Makes the iPhone, Mac, iPad and wearables, and earns a growing share from servic
 - **2026-11-02** — Shares fell roughly 2% in the regular session ahead of the report (about $337 in the afternoon) as the Nasdaq slid about 1.1%, and were about 1% lower in early after-hours trading after the release. ([source](https://247wallst.com/investing/2026/11/02/live-will-apple-crush-q4-earnings-tonight-in-new-ceo-john-ternuss-first-quarter/))
 - **2026-10-30** — BofA's Wamsi Mohan kept Buy and a $370 target but trimmed his fiscal 2027 iPhone unit estimate by 9 million to 247 million (Street ~260 million), citing the split September/March launch schedule and higher prices from rising parts costs; he sees December-quarter revenue consensus as too high. ([source](https://www.tradingview.com/news/gurufocus:e2f8b7067094b:0-bank-of-america-delivers-stark-warning-on-apple-stock-ahead-of-earnings/))
 - **2026-10-30** — Shares eased about 0.6% to roughly $347 midday as focus turned to whether supply limits cap revenue in the Nov 2 report; the stock trades near 40x earnings. ([source](https://www.tradingview.com/news/gurufocus:0a30fbaac094b:0-apple-stocks-edge-lower-with-supply-limits-setting-the-earnings-bar/))
-- **2026-10-28** — HSBC kept a Buy rating and $366 target, saying iPhone Duo sales look promising even after weekend social-media reports of some foldable screens cracking along the crease when unfolded. ([source](https://www.tipranks.com/news/apples-iphone-duo-sales-look-promising-despite-cracked-screen-problem-analyst-says-ahead-of-q4-earnings))
-- **2026-10-28** — At its "Pro and Tell" event Apple unveiled its first touchscreen MacBook Pro, with an OLED "PROLED XDR" display, starting at $2,899 for 14-inch and $3,399 for 16-inch; preorders opened the same day with deliveries from Nov 6. ([source](https://www.techradar.com/news/live/oled-touchscreen-macbook-pro-apple-pro-and-tell-live-october-2026))
 
 ## Coming up
 
-- **2026-11-06** — Touchscreen MacBook Pro, M6 MacBook Pro, M6 iMac and OLED iPad mini begin shipping (per Apple announcements)
 - **2026-11-12** — Record date for $0.27 quarterly dividend, payable 2026-11-16 (per Apple)
 - **Late January 2027** — Fiscal Q1 earnings (estimated, not yet confirmed)
 - **2027-03-01** — Australian court deadline to allow rival app stores; Apple plans to appeal
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (Bernstein $380, Evercore ISI $380, Wedbush $400, Goldman Sachs, HSBC) cite the fiscal Q4 beat (iPhone +17%, record Services), December-quarter revenue guidance of 7%-10% growth and iPhone Duo demand; the stock fell only about 1.5% in the Nov 5 tech rout and its ~$7B bond sale drew about 4.4x demand.
-- **Bear:** Critics point to 45%-46% December-quarter gross margin guidance hurt by memory costs, slowing Services growth and a Greater China miss; JPMorgan cut its target to $355, and a Motley Fool contributor flagged a forward P/E near 35x as hard to sustain.
+- **Bull:** Analysts (Bernstein $380, Evercore ISI $380, Wedbush $400, Goldman Sachs, HSBC) cite the fiscal Q4 beat (iPhone +17%, record Services), December-quarter revenue guidance of 7%-10% growth and iPhone Duo demand; the stock held up far better than the Nasdaq in the Nov 5 rout and its ~$7B bond sale drew about 4.4x demand.
+- **Bear:** Critics point to 45%-46% December-quarter gross margin guidance hurt by memory costs, a Greater China miss and a rich valuation (a forward P/E near 35x, per a Motley Fool contributor); JPMorgan cut its target to $355, and Daiwa (per CNBC) expects Apple's outperformance to fade.

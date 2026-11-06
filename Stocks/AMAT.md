@@ -4,7 +4,7 @@ ticker: AMAT
 company: Applied Materials
 sector: Technology
 held_by: [XLK, VGT]
-updated: 2026-11-05
+updated: 2026-11-06
 tags: [stock]
 ---
 
@@ -23,6 +23,8 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 
 ## Recent news
 
+- **2026-11-06** — Shares jumped 7.87% ($25.14) to close at $344.39 in a broad chip-equipment relief rally after the prior day's rout, helped by Lam Research's new buyback; JKN found no company-specific filing or update. ([source](https://news.jkn.co.kr/editions/english/post/1075679))
+- **2026-11-06** — GuruFocus, noting the stock up 4.7% to about $334 mid-morning as Lam unveiled a $25B repurchase, said the Nov 12 outlook will show whether customers are pausing orders after the midterm data-center scare. ([source](https://www.tradingview.com/news/gurufocus:8b212079f094b:0-applied-materials-stocks-rise-4-7-as-chip-equipment-rallies-ahead-of-earnings/))
 - **2026-11-05** — Shares fell 6.79% ($25.08) to close at $344.32 in a broad semiconductor selloff, with no company-specific filing or news found; the stock is down about 30% over the past month. ([source](https://news.jkn.co.kr/editions/english/post/1073144))
 - **2026-11-04** — Shares fell about 3% ($11.58) to roughly $370 on Wednesday despite a broad market rally, on below-average volume. ([source](https://www.marketbeat.com/instant-alerts/list-promising-manufacturing-stocks-to-add-to-your-watchlist-november-4th-2026-11-04/))
 - **2026-11-04** — Chip stocks such as Micron slid after Democrats' midterm wins pointed to tougher rules on data-center construction, raising questions about the long-term AI infrastructure build-out, though already-funded projects are expected to proceed. ([source](https://pluang.com/en/news-feed/micron-saham-chip-turun-hasil-pemilu-optimisme-data-center))
@@ -39,5 +41,5 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 
 ## Bull case / bear case
 
-- **Bull:** Coverage cites a memory shortage SK Hynix expects to last toward 2030, fast-growing packaging and services revenue, the Besi stake and a valuation 24/7 Wall St. put near 23x forward earnings even before the latest drop; most analysts rate it Buy ahead of the Nov 12 report.
-- **Bear:** Demand is cyclical and tied to customer capex; coverage flags China (28% of sales) export-restriction risk, margins below 2030 targets and sharp swings on AI-spending and data-center policy doubts, with shares down about 30% in a month after the Nov 5 drop to about $344.
+- **Bull:** Coverage cites a memory shortage SK Hynix expects to last toward 2030, fast-growing packaging and services revenue, the Besi stake and a GuruFocus quality score of 95/100; most analysts rate it Buy ahead of the Nov 12 report, and the stock rebounded about 7.9% on Nov 6 alongside peers.
+- **Bear:** Demand is cyclical and tied to customer capex; coverage flags China (28% of sales) export-restriction risk, margins below 2030 targets, a price GuruFocus puts about 28% above its GF Value estimate, and the risk customers pause orders after the data-center policy scare; shares remain well below October levels despite the Nov 6 bounce.

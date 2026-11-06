@@ -4,7 +4,7 @@ ticker: ASML
 company: ASML Holding
 sector: Technology
 held_by: [SMH]
-updated: 2026-11-05
+updated: 2026-11-06
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 
 ## Recent news
 
+- **2026-11-06** — ASML gained about 5.3% per TradingKey as chip-equipment names rebounded, with no company announcement; it cited reaffirmed chipmaker capacity plans, high-NA EUV progress and short covering, and put the average analyst target near $2,204. ([source](https://www.tradingkey.com/news/market-movers/262292575-market-movers-asml-20261106))
 - **2026-11-05** — ASML fell about 8% in a second day of post-election chip selling, with no company news; TIKR tied the drop to fears that Democrats' midterm wins slow data-center spending and to Qualcomm's light guidance, and put the forward P/E near 23x after the drop vs. a five-year average of 34x. ([source](https://www.tikr.com/blog/asml-sinks-8-as-post-election-chip-rout-deepens))
 - **2026-11-04** — Shares traded about 3.5% lower at roughly EUR 1,336 in late European trading as chip stocks lagged the post-midterm rally; the EUR 1.88 interim dividend was scheduled for payment the same day. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/asml-holding-stock-slips-as-dividend-date-meets-ai-demand-debate/70458415))
 - **2026-11-03** — Shares rose about 2.1% as memory and equipment names led a chip rebound; coverage tied the move to sector sentiment rather than company news. ([source](https://ad-hoc-news.de/boerse/news/unternehmensnachrichten/asml-rises-with-the-chip-sector-but-its-own-numbers-hold-the-real-verdict/70452762))
@@ -40,5 +41,5 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (JPMorgan, Citi, UBS) cite AI-driven EUV demand; ASML says planned 2027-2028 supply won't fully cover demand, customer down payments rose to EUR 9.3B in Q3, and TIKR notes the Nov 5 drop came with no company news and left the forward P/E near 23x, below its five-year average; buybacks run about EUR 500M a week.
-- **Bear:** GuruFocus valuation models suggest modest overvaluation, and the Oct 30, Nov 4 and Nov 5 (about -8%) declines show sensitivity to AI-capex and data-center policy fears; TIKR flags reliance on chipmaker spending through 2028 and the proposed MATCH Act, which could ban DUV immersion sales to China (about 20% of 2026 sales).
+- **Bull:** Analysts (JPMorgan, Citi, UBS) cite AI-driven EUV demand; ASML says planned 2027-2028 supply won't fully cover demand, customer down payments rose to EUR 9.3B in Q3, TIKR put the forward P/E near 23x after the Nov 5 drop (below its five-year average), buybacks run about EUR 500M a week, and TradingKey's average target is near $2,204.
+- **Bear:** GuruFocus valuation models suggest modest overvaluation, and the Oct 30 and Nov 4-5 declines show sensitivity to AI-capex and data-center policy fears; TIKR and TradingKey flag reliance on chipmaker spending, possible data-center delays and proposed limits on DUV sales to China (about 20% of revenue).

@@ -4,7 +4,7 @@ ticker: LLY
 company: Eli Lilly
 sector: Healthcare
 held_by: [VUG, VOO, IVV, SPY, VTI]
-updated: 2026-11-05
+updated: 2026-11-06
 tags: [stock]
 ---
 
@@ -26,6 +26,7 @@ Drugmaker best known for diabetes and obesity drugs (Mounjaro, Zepbound) plus Al
 
 ## Recent news
 
+- **2026-11-06** — Lilly agreed to let Hims & Hers sell Zepbound and Foundayo directly on its telehealth platform rather than sending patients to LillyDirect, with Hims agreeing not to offer compounded or copycat versions; Hims rose about 7% premarket while Lilly was off about 1.1% at $1,352 before the open, per Reuters via Yahoo Finance. ([source](https://finance.yahoo.com/healthcare/articles/lilly-sell-obesity-drugs-directly-115402316.html))
 - **2026-11-05** — Shares touched an all-time high near $1,450 in the morning (market cap about $1.29T, up about 54% in a year), then reversed with the market to about $1,391, down roughly 1.9%, by midday. ([source](https://investing.com/news/company-news/eli-lilly-stock-hits-alltime-high-at-144978-usd-93CH-5004994), [midday](https://www.dailypolitical.com/2026/11/05/healthcare-stocks-to-keep-an-eye-on-november-5th.html))
 - **2026-11-05** — Trefis flagged the Dec 7 Innovation Day and the first 2027 revenue forecast on the Q4 call as the next catalysts, noting about $2B of 2026 revenue is one-time and U.S. prices fell 10% in Q3 excluding a rebate adjustment, with Medicare and Medicaid coverage shifts seen pressuring net prices through 2027. ([source](https://www.trefis.com/stock/lly/articles/623094/what-will-decide-eli-lilly-stock-over-the-next-six-months/2026-11-05))
 - **2026-11-04** — Shares rose about 2% to around $1,437 after rival Novo Nordisk raised its 2026 outlook for a third time on strong Wegovy pill sales; Citi's Geoffrey Meacham said the demand suggests obesity-drug volumes can outrun pricing pressure as access widens. ([source](https://rallies.ai/news/lilly-climbs-after-rival-novo-hikes-2026-outlook-df6f3f047eb5a209))
@@ -37,7 +38,6 @@ Drugmaker best known for diabetes and obesity drugs (Mounjaro, Zepbound) plus Al
 - **2026-10-29** — Q3 revenue rose 39% to $24.4B (vs. about $22.6B expected) and non-GAAP EPS was $7.48 (vs. about $6.61); Mounjaro sales were $10.7B (+65%) and Zepbound $5.4B (+49%), while volume rose 53% and realized prices fell 15%. Lilly lifted 2026 revenue guidance to $91-92B from $85-87B but set EPS guidance at $35-36 after about $4.57/share of acquired-R&D charges. ([source](https://www.tikr.com/blog/eli-lilly-soars-5-as-mounjaro-and-zepbound-demand-drives-5-5-billion-guidance-raise))
 - **2026-10-29** — Shares climbed nearly 7% to around $1,374 intraday from a $1,288.30 prior close, near the 52-week high of $1,408.38. ([source](https://finance.yahoo.com/healthcare/articles/eli-lilly-shares-jump-7-154837065.html))
 - **2026-10-28** — Lilly said international-markets head Patrik Jonsson will retire at the end of 2026, after which its U.S. and international units will combine into one "Lilly Global Markets" division led by Ilya Yuffa. ([source](https://www.biopharmadive.com/news/lilly-global-markets-novartis-avidity-astellas-talzenna-prana/872857/))
-- **2026-10-28** — Earnings previews put Q3 consensus near $6.67 EPS (cut from about $9.93 over 30 days, reflecting deal charges) on about $22.6B revenue, with international Mounjaro, the Foundayo launch and U.S. pricing as the focus. ([source](https://247wallst.com/investing/2026/10/28/3-big-pharma-earnings-reports-to-watch-eli-lilly-merck-and-gilead/))
 
 ## Coming up
 
@@ -49,5 +49,5 @@ Drugmaker best known for diabetes and obesity drugs (Mounjaro, Zepbound) plus Al
 
 ## Bull case / bear case
 
-- **Bull:** Q3 beat on revenue and EPS with Mounjaro up 65% and volume up 53%, and the raised $91-92B 2026 sales outlook topped consensus; brokers including JPMorgan ($1,650), Truist, Cantor, Scotiabank and RBC lifted targets to about $1,600-1,650, the stock hit a record on Nov 5, and Trefis sees the Foundayo rollout as a 2027 tailwind.
+- **Bull:** Q3 beat on revenue and EPS with Mounjaro up 65% and volume up 53%, and the raised $91-92B 2026 sales outlook topped consensus; brokers including JPMorgan ($1,650), Truist, Cantor, Scotiabank and RBC lifted targets to about $1,600-1,650, the stock hit a record on Nov 5, Trefis sees the Foundayo rollout as a 2027 tailwind, and the Nov 6 Hims & Hers deal widens direct distribution.
 - **Bear:** Realized prices fell 15% (29% outside the U.S.), Trefis sees government-coverage shifts pressuring U.S. net prices through 2027 and about $2B of one-time 2026 revenue, deal-related R&D charges pushed 2026 EPS guidance lower, Novo's Wegovy pill competes with Foundayo, and the stock trades above MarketBeat's ~$1,404 consensus target at a premium valuation.

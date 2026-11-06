@@ -4,7 +4,7 @@ ticker: TSM
 company: Taiwan Semiconductor (TSMC)
 sector: Technology
 held_by: [SMH, SOXX]
-updated: 2026-11-05
+updated: 2026-11-06
 tags: [stock]
 ---
 
@@ -23,6 +23,9 @@ The world's largest contract chipmaker; manufactures chips for Apple, Nvidia, AM
 
 ## Recent news
 
+- **2026-11-06** — TSMC ADRs closed up 7.50% at $379.57 as chip stocks rebounded; unconfirmed chatter that TSMC may explore advanced memory production was also cited. ([source](https://news.jkn.co.kr/editions/english/post/1075704))
+- **2026-11-06** — Taiwan regulators cut the intraday short-sale cap to 3% of a stock's 30-day average volume (from 30%) and raised the short-sale margin to 130% from 90%, effective Nov 9, and the Finance Ministry said a NT$500B stabilization fund is available. ([source](https://www.tradingview.com/news/gurufocus:422141255094b:0-taiwan-semiconductor-stocks-jump-7-45-as-taiwan-slashes-short-selling-after-rout/))
+- **2026-11-06** — In Taipei, TSMC closed down 4.69% at NT$2,135, catching up to Thursday's U.S. rout, as the Taiex lost 1,873 points (4.51%) to 39,701.64. ([source](https://ts2.tech/en/tsmc-rebound-recovers-57-of-chipmakers-thursday-loss/))
 - **2026-11-05** — TSMC ADRs sank roughly 9-10% with no company-specific news as the chip rout deepened after Democrats' midterm wins; Qualcomm's memory-cost warning and a Bloomberg report that Micron paused a $4.5B Taiwan plant added pressure, leaving the stock near 15x forward earnings. ([source](https://finance.yahoo.com/markets/stocks/articles/tsmc-sinks-10-umc-down-182304636.html))
 - **2026-11-04** — In Taipei, TSMC closed down 1.53% at NT$2,260 as the Taiex fell 0.83% after a nearly 1,900-point intraday swing on U.S. midterm uncertainty and heavy foreign selling. ([source](https://focustaiwan.tw/business/202611040014))
 - **2026-11-04** — ADRs traded near $406 early; coverage framed the Nov 10 October sales release against Q4 guidance of $52.3-54.3B, a midpoint about 14% above Q3. ([source](https://www.tradingview.com/news/gurufocus:23eb95650094b:0-tsmc-stocks-move-lower-as-november-sales-data-face-a-53-3-billion-quarterly-hurdle/))
@@ -32,15 +35,14 @@ The world's largest contract chipmaker; manufactures chips for Apple, Nvidia, AM
 - **2026-10-30** — ADRs closed down about 6% at $406.13 as Intel's weak outlook revived worries about returns on AI spending; coverage cited sector sentiment rather than any TSMC-specific problem. ([source](https://tickerspark.ai/market/taiwan-semiconductor-manufacturing-company-limited-tsm-drops-5-7-1793376412321))
 - **2026-10-29** — ADRs fell 1.75% to $431.81 in a broad chip pullback after Alphabet's revenue miss reignited AI-spending concerns. ([source](https://www.heygotrade.com/en/news/tsmc-tsm-stock-news-october-30-2026/))
 - **2026-10-28** — ADRs closed up about 0.6% at $439.51, extending gains as coverage focused on TSMC's AI pricing power, then eased about 1.9% after hours; no company announcement was cited. ([source](https://www.heygotrade.com/en/us-stock/tsm/))
-- **2026-10-27** — ADRs rose about 3% amid reports TSMC is weighing price increases for its CoWoS advanced packaging, read by investors as a sign of pricing power with capacity tight. ([source](https://www.tradingkey.com/news/market-movers/262242907-market-movers-tsm-20261027))
-- **2026-10-23** — TSMC ADRs rose about 1% to roughly $417, outperforming a weak market after Moody's upgraded its credit rating to Aa2 earlier in the week. ([source](https://www.benzinga.com/markets/tech/26/10/62570114/whats-going-on-with-taiwan-semiconductor-stock-friday-5))
 
 ## Coming up
 
+- **2026-11-09** — Taiwan's tighter short-selling limits take effect
 - **2026-11-10** — October monthly revenue report, 1:30 p.m. Taipei time (subject to change); Q4 guidance $52.3-54.3B
 - **Mid-January 2027** — Q4 2026 earnings (expected; date not yet announced)
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (Barclays, Needham) and Moody's cite manufacturing leadership and AI demand; Q4 guidance implies about 14% sequential growth, analysts expect EPS to nearly triple from 2025 to 2028, and after the Nov 5 drop the stock trades near 15x forward earnings vs. an 18x five-year average (per Yahoo Finance).
-- **Bear:** Coverage flags heavy capex ($60-64B guided for 2026), Taiwan concentration, heavy foreign selling of Taiwan stocks and sharp sensitivity to AI-spending and US political scares, shown by the roughly 9-10% ADR drop on Nov 5 alongside peers UMC and ASE.
+- **Bull:** Analysts (Barclays, Needham) and Moody's cite manufacturing leadership and AI demand; Q4 guidance implies about 14% sequential growth, analysts expect EPS to nearly triple from 2025 to 2028, and the ADRs rebounded 7.5% on Nov 6 as Taiwan announced short-selling curbs and a stabilization fund.
+- **Bear:** Coverage flags heavy capex ($60-64B guided for 2026), Taiwan concentration, heavy foreign selling of Taiwan stocks and sharp sensitivity to AI-spending and US political scares; Taipei shares fell another 4.7% on Nov 6, and GuruFocus sees the ADR near fair value rather than a bargain.

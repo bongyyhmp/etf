@@ -4,7 +4,7 @@ ticker: PANW
 company: Palo Alto Networks
 sector: Technology
 held_by: []
-updated: 2026-11-05
+updated: 2026-11-06
 tags: [stock]
 ---
 
@@ -20,6 +20,8 @@ Sells cybersecurity products: firewalls, cloud security and security operations 
 
 ## Recent news
 
+- **2026-11-06** — Shares rose 3.85% ($12.10) to close at $326.78 as cybersecurity and software sentiment improved; JKN found no company-specific catalyst. ([source](https://news.jkn.co.kr/editions/english/post/1075722))
+- **2026-11-06** — Reports said Palo Alto is also in talks to buy Beacon Security (seed-funded, price undisclosed) alongside the reported Clutch Security deal, which TechCrunch put at $500M in cash plus milestone payments for a business with nearly $10M of ARR; no agreement has been announced. ([source](https://runtimewire.com/article/palo-alto-networks-talks-buy-clutch-beacon-ai-agent-security))
 - **2026-11-05** — Shares fell 7.41% ($25.80) to close at $322.24 as software and security names sold off; reports that Palo Alto is in talks to buy AI-security startup Clutch for about $500M (not confirmed by the company) also weighed. ([source](https://news.jkn.co.kr/editions/english/post/1073129))
 - **2026-11-04** — A Form 144 filing signaled more planned insider selling, per TradingKey, which put the one-month average analyst target near $402. ([source](https://www.tradingkey.com/news/market-movers/262283158-market-movers-panw-20261105))
 - **2026-11-04** — Shares were roughly flat (about +0.3% near $351 late in the session) after swinging as high as $361.70, lagging a broad rally driven by the midterm results. ([source](https://www.finanzen.ch/nachrichten/aktien/palo_alto_networks-aktie-kursbewegung-04-11-2026-1035062881))
@@ -30,14 +32,11 @@ Sells cybersecurity products: firewalls, cloud security and security operations 
 - **2026-10-30** — Palo Alto said it does not endorse an unsolicited mini-tender offer from Tutanota LLC for up to 250,000 shares (about 0.03%) at $450 each, which is conditioned on the stock closing above $450 and expires Nov 2 unless extended; it urged holders to be cautious. ([source](https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-recommends-stockholders-120000244.html))
 - **2026-10-29** — Shares fell about 5% to roughly $375 in a cybersecurity selloff after Fortinet dropped about 20% on a cut to its service-revenue forecast and ServiceNow disappointed; profit-taking after a roughly 103% year-to-date gain was also cited. ([source](https://247wallst.com/investing/2026/10/29/fortinet-tumbles-20-as-service-revenue-forecast-cut-overshadows-beat-palo-alto-drops-5-crowdstrike-falls-4/))
 - **2026-10-28** — A Barchart preview put fiscal Q1 consensus at $0.52 EPS, slightly below the year-ago $0.53, with 40 of 56 analysts at Strong Buy and an average target near $402. ([source](https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-quarterly-earnings-124002745.html))
-- **2026-10-27** — Shares added about 3.1% as investors credited fast hotfixes and analyst target raises, though the same report notes one flaw (CVE-2026-0257) was exploited by ransomware actors. ([source](https://www.tradingkey.com/news/market-movers/262242752-market-movers-panw-20261027))
-- **2026-10-26** — The stock added about 3.2% Monday as the company issued hotfixes for high-severity remote-code-execution flaws and said it had seen no malicious exploitation. ([source](https://www.tradingkey.com/news/market-movers/262240016-market-movers-panw-20261026))
-
 ## Coming up
 
 - **2026-11-18** — fiscal Q1 2027 earnings after the close, call 4:30 p.m. ET (confirmed by the company)
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite 63% growth in Next-Gen Security ARR to $9.1B, AI-security platform demand and a mostly Buy consensus (Wells Fargo $525, Citi, Jefferies; average targets around $400) ahead of the Nov 18 report.
-- **Bear:** Bears point to guided ARR growth slowing to 22-23%, a rich valuation (Cantor ~60x EV/FCF; Phillip downgrade), possible dilutive M&A (reported Clutch talks), insider selling, AI-spending jitters and a 7.41% drop on Nov 5 to about $322.
+- **Bull:** Analysts cite 63% growth in Next-Gen Security ARR to $9.1B, AI-security platform demand (reported Clutch and Beacon deals would add AI-agent identity and data tools) and a mostly Buy consensus (Wells Fargo $525, Citi, Jefferies; average targets around $400) ahead of the Nov 18 report.
+- **Bear:** Bears point to guided ARR growth slowing to 22-23%, a rich valuation (Cantor ~60x EV/FCF; Phillip downgrade), possible dilutive M&A (Clutch at a reported ~50x ARR), insider selling and AI-spending jitters; the Nov 6 bounce to about $327 recovered only part of the Nov 5 slide.

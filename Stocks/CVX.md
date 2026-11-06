@@ -4,7 +4,7 @@ ticker: CVX
 company: Chevron
 sector: Energy
 held_by: [SCHD, VTV]
-updated: 2026-11-05
+updated: 2026-11-06
 tags: [stock]
 ---
 
@@ -23,6 +23,8 @@ Integrated oil and gas company with production, refining and chemicals.
 
 ## Recent news
 
+- **2026-11-06** — Freedom Broker raised its rating to Hold from Sell with a $218 target, per a MarketBeat-syndicated report that puts the consensus at "Moderate Buy" with an average target near $222. ([source](https://www.thecerbatgem.com/2026/11/06/chevron-nysecvx-stock-rating-raised-to-hold-at-freedom-broker.html), [MarketBeat](https://www.marketbeat.com/instant-alerts/analyst-chevron-nyse-cvx-upgraded-at-freedom-broker-2026-11-06/))
+- **2026-11-06** — Crude steadied with Brent near $98-100 and WTI near $91, yet both were heading for weekly losses of roughly 12-16%, among the steepest since 2020, as post-midterm hopes of Iran de-escalation and a JPMorgan estimate of a 1.4M bpd October supply surplus weighed; Yahoo Finance said the energy sector ETF XLE lost about 11% for the week. ([source](https://mansfield.energy/2026/11/06/week-in-review-oil-prices-retreat-on-iran-peace-hopes-and-weaker-global-demand/), [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html))
 - **2026-11-05** — Chevron barely moved as WTI rebounded about 2%, per Yahoo Finance; 24/7 Wall St. put the consensus target at about $241.67 (21 of 26 analysts at Buy or Strong Buy) and noted 2027 EPS consensus of $15.80 sits below 2026's $17.54, while Jefferies flagged a "Texas shock" risk to data-center demand and Chevron's Project Kilby power plan for Microsoft. ([source](https://www.aol.com/articles/oil-bounces-worst-3-day-184905000.html), [24/7 Wall St.](https://247wallst.com/investing/2026/11/05/chevron-has-become-very-interesting-again-following-the-midterms/))
 - **2026-11-04** — Iraq's oil minister said Iraq and Chevron agreed key terms for a contract to develop the West Qurna-2 oilfield (previously run by Lukoil), with signing targeted before the end of 2026; financial terms were not disclosed. ([source](https://ad-hoc-news.de/boerse/news/corporate-news/chevron-stock-in-focus-as-iraq-agrees-west-qurna-2-terms/70464598))
 - **2026-11-04** — Chevron fell about 4% as oil slid; TradingKey also pointed to post-earnings profit-taking and Q3 buybacks at the low end of the target range ($2.5B, down from $3.1B in Q2). ([source](https://www.tradingkey.com/news/market-movers/262274795-market-movers-cvx-20261104))
@@ -33,8 +35,6 @@ Integrated oil and gas company with production, refining and chemicals.
 - **2026-11-02** — Shares fell about 3.2% to close near $228.00 (per MarketBeat's quote) as energy stocks retreated, even as analysts lifted targets after Q3, including a raise to $244. ([source](https://www.marketbeat.com/instant-alerts/analyst-chevron-nyse-cvx-price-target-raised-to-24400-2026-11-02/))
 - **2026-11-02** — Morgan Stanley said the Q3 results support a higher free-cash-flow outlook. ([source](https://finance.yahoo.com/markets/stocks/articles/chevron-apos-q3-results-support-162504867.html))
 - **2026-11-01** — California Gov. Gavin Newsom and Sen. Bernie Sanders criticized oil majors including Chevron and Exxon over 'windfall' profits tied to the Iran war and higher gas prices. ([source](https://www.benzinga.com/news/politics/26/11/62767692/gavin-newsom-says-trump-delivering-windfall-profits-for-big-oil-giants-xom-cvx-amid-iran-war-bernie-sanders-says-surge-is-beyond-unacceptable))
-- **2026-10-31** — Chevron plans to raise exploration spending by about 50%. ([source](https://finance.yahoo.com/energy/articles/chevron-raises-exploration-spending-50-230000485.html))
-- **2026-10-30** — Q3 adjusted EPS of $5.28 topped the ~$4.87 consensus and revenue of $65.24B beat the ~$61.82B estimate; shares rose about 1.7% to around $235.37, near the top of their one-year range. ([source](https://www.marketbeat.com/instant-alerts/earnings-chevron-nyse-cvx-posts-quarterly-earnings-results-beats-estimates-by-041-eps-2026-10-30/))
 
 ## Coming up
 
@@ -44,5 +44,5 @@ Integrated oil and gas company with production, refining and chemicals.
 
 ## Bull case / bear case
 
-- **Bull:** Q3 beat estimates for a seventh straight quarter with profit nearly tripling, $16B of operating cash flow and falling net debt; Morgan Stanley sees a higher FCF outlook, 24/7 Wall St. cites a ~$242 consensus target and rising estimates, and commentators point to higher exploration spending, Venezuela, Vaca Muerta and the new West Qurna-2 terms in Iraq.
-- **Bear:** Commentators flag dependence on oil and refining margins tied to Middle East tensions (Brent fell below $95 on Nov 4 after the midterms), 2027 EPS consensus below 2026, lower Q3 production, buybacks cut to $2.5B, DZ Bank's Nov 3 downgrade to Hold, Jefferies' warning on data-center risks to Project Kilby, and political pressure over 'windfall' profits from a Democratic Congress.
+- **Bull:** Q3 beat estimates for a seventh straight quarter with profit nearly tripling, $16B of operating cash flow and falling net debt; Morgan Stanley sees a higher FCF outlook, 24/7 Wall St. cites a ~$242 consensus target and rising estimates, and commentators point to higher exploration spending, Venezuela, Vaca Muerta and the new West Qurna-2 terms in Iraq; Freedom Broker lifted its rating to Hold from Sell ($218) on Nov 6.
+- **Bear:** Commentators flag dependence on oil and refining margins tied to Middle East tensions (Brent was headed for a weekly drop of roughly 12-16% in the week to Nov 6), 2027 EPS consensus below 2026, lower Q3 production, buybacks cut to $2.5B, DZ Bank's Nov 3 downgrade to Hold, Jefferies' warning on data-center risks to Project Kilby, and political pressure over 'windfall' profits from a Democratic Congress.

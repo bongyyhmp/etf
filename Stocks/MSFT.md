@@ -4,7 +4,7 @@ ticker: MSFT
 company: Microsoft
 sector: Technology
 held_by: [XLK, VGT, VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-11-05
+updated: 2026-11-06
 tags: [stock]
 ---
 
@@ -29,6 +29,8 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 
 ## Recent news
 
+- **2026-11-06** — Bloomberg reported Microsoft is winding down a 2023 arrangement to rent Oracle-built AI servers used for Bing, opting not to renew because the Nvidia GPUs no longer meet its specs; Oracle shares fell nearly 3%. ([source](https://startupfortune.com/microsoft-winds-down-oracle-deal-to-rent-ai-cloud-capacity/))
+- **2026-11-06** — Microsoft was down about 0.4% at midday Friday, lagging the Nasdaq's 1.1% rebound (TheStreet). ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026))
 - **2026-11-05** — Microsoft fell 3.58% to $535.93 as the AI selloff spread to megacap software, reversing roughly half of Wednesday's 7% jump. ([source](https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/))
 - **2026-11-05** — TradingKey tied the drop to doubts over how soon AI infrastructure spending pays off, Azure capacity limits, rising depreciation and higher long-term yields; it put the average analyst target near $629. ([source](https://www.tradingkey.com/news/market-movers/262283228-market-movers-msft-20261105))
 - **2026-11-04** — Shares jumped about 7% to close at $556.48 (up $35.49), hitting a new 52-week high of $559.15, as megacap software names rallied after the midterm results even while AI-hardware stocks fell. ([source](https://seekingalpha.com/news/4665563-microsoft-climbs-7-to-hit-new-52-week-high))
@@ -38,15 +40,14 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 - **2026-11-02** — Microsoft dropped about 2.8% as the Nasdaq fell roughly 1.1% in a tech reversal. ([source](https://www.heygotrade.com/en/news/tesla-tsla-stock-news-november-3-2026/))
 - **2026-10-30** — Microsoft slipped about 1.2% as Amazon and Intel results sparked a broad tech selloff, though the report described Microsoft's results as comparatively stronger with a more constructive monetization picture. ([source](https://au.finance.yahoo.com/news/stock-market-today-oct-30-141142726.html))
 - **2026-10-29** — Microsoft priced $25B of senior unsecured notes in ten tranches (maturities 2028-2066, coupons 4.85%-6.35%), reportedly its first U.S. investment-grade bond sale since 2017; shares closed down 0.16% that day after giving up an after-hours gain. Citi lifted its target to $680 and Wells Fargo to $750. ([source](https://www.tikr.com/blog/microsoft-sold-25-billion-in-bonds-a-day-after-its-azure-beat-heres-where-the-stock-could-go-by-2031))
-- **2026-10-29** — Shares gave up a premarket gain of about 2.6% and were down roughly 1-2% near $523 by midday, as capex and finance leases of $45.2B came in under the ~$50.7B consensus because of delayed third-party capacity; CFO Amy Hood guided to more than $50B next quarter and about $170B for the calendar year. ([source](https://247wallst.com/investing/2026/10/29/amazon-slides-3-as-alphabets-12-plunge-raises-stakes-for-aws-report-meta-rises-3-microsoft-pulls-back/))
-- **2026-10-29** — Bloomberg reported Microsoft plans to raise at least $25B in a U.S. bond sale to help fund AI infrastructure; management also guided Azure growth near 49% for fiscal Q2. ([source](https://finwire.io/news/stock-markets-news/microsoft-stock-falls-as-25b-bond-plan-draws-focus-despite-azure-growth))
 - **2026-10-29** — Analysts raised targets after the report: UBS to $700 (Buy), TD Cowen and Scotiabank to $650, BNP Paribas to $632 and Bank of America to $630 from $600. ([source](https://www.investing.com/news/analyst-ratings/ubs-raises-microsoft-stock-price-target-to-700-on-azure-beat-93CH-4984452))
 
 ## Coming up
 
-- Next earnings date: not found in sources (fiscal Q1 was reported Oct 28)
+- **2026-11-17 to 2026-11-20** — Microsoft Ignite conference, San Francisco (per event listings)
+- **Late January 2027** — Fiscal Q2 earnings (estimated, not yet confirmed; fiscal Q1 was reported Oct 28)
 
 ## Bull case / bear case
 
 - **Bull:** Analysts (UBS, Wells Fargo, Citi, BofA, TD Cowen) raised targets after 48% Azure growth and ~49% Azure guidance, with management saying demand still exceeds supply; Anthropic's $44.9B commitment adds visibility, and TradingKey called the Nov 5 drop a valuation reset rather than structural weakness.
-- **Bear:** Skeptics cite a 12% drop in commercial bookings, a stalled backlog, capex heading toward ~$170B a year partly funded by a $25B bond sale, BNP's warning on free cash flow, and (per TradingKey) capacity constraints, rising depreciation and possible tighter data-center rules under a Democratic Congress.
+- **Bear:** Skeptics cite a 12% drop in commercial bookings, capex heading toward ~$170B a year partly funded by a $25B bond sale, BNP's free-cash-flow warning, and (per TradingKey) capacity constraints, rising depreciation and possible tighter data-center rules under a Democratic Congress; the stock lagged Friday's tech rebound.

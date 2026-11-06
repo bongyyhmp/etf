@@ -4,7 +4,7 @@ ticker: WMT
 company: Walmart
 sector: Consumer Staples
 held_by: [VTV]
-updated: 2026-11-05
+updated: 2026-11-06
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ The world's largest retailer by revenue, with stores, Sam's Club and a growing e
 
 ## Recent news
 
+- **2026-11-06** — Shares opened down about 3% (roughly 2.8% lower later in the session), lagging a falling food and drug retail group; TradingKey cited strained lower- and middle-income shoppers, a sales mix tilting toward lower-margin groceries, expected holiday discounting, rotation out of high-multiple defensives and de-risking ahead of the Nov 19 report. ([source](https://www.tradingkey.com/news/market-movers/262292422-market-movers-wmt-20261106))
+- **2026-11-06** — The same report said the FTC has issued formal orders on Walmart's use of browsing history, loyalty data and algorithms for personalized pricing, with a 45-day window to comply, and noted 10b5-1 plan share sales by CTO Suresh Kumar (about 166,000 shares, roughly $20.5M) and EVP Daniel Bartlett. ([source](https://www.tradingkey.com/news/market-movers/262292422-market-movers-wmt-20261106))
 - **2026-11-04** — Shares rose about 3.5-4% to roughly $129 as investors rotated toward economy-linked and defensive names after the midterms; TradingKey also pointed to new holiday features in Walmart's Sparky AI shopping assistant ahead of fiscal Q3 results. ([source](https://www.tradingkey.com/news/market-movers/262274724-market-movers-wmt-20261104))
 - **2026-11-03** — Shares slid about 2.2% to roughly $124.87 midday despite a rising market, as a Strong Sell note questioned a ~46x P/E, a Morgan Stanley survey raised membership-monetization doubts and investors took profits; Bernstein kept Buy with a $142 target. ([source](https://www.investing.com/news/stock-market-news/why-is-walmart-stock-sliding-today-93CH-4996170))
 - **2026-11-02** — Shares climbed about 3.4% to close near $127.69 (per MarketBeat's quote), outpacing a market where Amazon rebounded on an upgrade. ([source](https://247wallst.com/investing/2026/11/02/amazon-climbs-5-as-upgrade-fuels-post-earnings-rebound-on-aws-strength-walmart-rises-2-alphabet-edges-higher/))
@@ -32,7 +34,6 @@ The world's largest retailer by revenue, with stores, Sam's Club and a growing e
 - **2026-10-28** — Walmart opened its sixth next-generation automated fulfillment center, a 1.5M sq ft site in Carnesville, Georgia, that it says will double daily order fulfillment and storage, with plans to hire 1,000 full-time workers. ([source](https://www.fox5atlanta.com/news/walmart-expands-georgia-operations-new-automated-facility))
 - **2026-10-26** — Walmart announced three holiday sales events: early Black Friday deals Nov 12-15, Black Friday deals Nov 23-29 and Cyber Monday offers Nov 30-Dec 2. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/walmart-launches-three-holiday-events-while-walmart-stock-sits-7-16-percent-below-its-yearly-high/70419924))
 - **2026-10-23** — The stock was on pace for its best month since 1999, up about 16.6% in October and roughly 4% short of a $1 trillion market cap, a rally commentators tied to rotation into staples. ([source](https://247wallst.com/investing/2026/10/23/walmart-is-having-its-best-month-since-1999-and-is-4-from-1-trillion/))
-- **2026-10-23** — Shares slipped about 1% to around $120 on valuation worries and grocery competition from Kroger. ([source](https://www.marketbeat.com/instant-alerts/price-walmart-nasdaq-wmt-stock-falls-1-heres-why-2026-10-23/))
 
 ## Coming up
 
@@ -44,4 +45,4 @@ The world's largest retailer by revenue, with stores, Sam's Club and a growing e
 ## Bull case / bear case
 
 - **Bull:** Commentators cite a strong Q2 beat, steady execution, growth in ads, membership (fee revenue up 17%) and marketplace income, AI shopping tools (Sparky users up 70% and spending 40% more per order, per Motley Fool), a roughly $6B Symbotic robotics expansion, Bernstein's Buy with a $142 target and new TD Cowen coverage.
-- **Bear:** Commentators flag a valuation of roughly 40-46x earnings against single-digit revenue growth, a dividend yield under 1%, a bearish Strong Sell note, doubts over membership monetization (Morgan Stanley survey), FTC scrutiny of personalized pricing, insider share sales and a reported Flipkart kickback probe.
+- **Bear:** Commentators flag a valuation of roughly 40-46x earnings against single-digit revenue growth, a dividend yield under 1%, a bearish Strong Sell note, doubts over membership monetization (Morgan Stanley survey), FTC formal orders on personalized pricing (45-day compliance window, per TradingKey), pressure on lower-income shoppers and margin mix ahead of the holidays, insider share sales and a reported Flipkart kickback probe.

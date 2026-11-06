@@ -4,7 +4,7 @@ ticker: MRK
 company: Merck & Co.
 sector: Healthcare
 held_by: [SCHD]
-updated: 2026-11-05
+updated: 2026-11-06
 tags: [stock]
 ---
 

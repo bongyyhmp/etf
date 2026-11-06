@@ -4,7 +4,7 @@ ticker: META
 company: Meta Platforms
 sector: Communication Services
 held_by: [VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-11-05
+updated: 2026-11-06
 tags: [stock]
 ---
 
@@ -27,6 +27,9 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 
 ## Recent news
 
+- **2026-11-06** — Meta rebounded about 2.7% to $621.29, back near its $625 offering price, as it closed the $15B five-part dollar bond sale (coupons 5.85%-7.50%); Moody's rated the notes Aa3 with a stable outlook while S&P kept AA- with a negative outlook. ([source](https://blockonomi.com/meta-platforms-meta-stock-rises-2-68-as-company-closes-15-billion-bond-sale/))
+- **2026-11-06** — Meta launched Spaces for its Muse AI agents, letting users set up project-specific threads (planners, trackers) that can link to outside apps and refresh in the background. ([source](https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent))
+- **2026-11-05** — Meta indefinitely paused proposed commercial terms that would have let it scrape Meta Business users' websites, which had been set for Nov 20; the terms faced injunctions in Norway and Brazil, a UK CMA probe and pushback from two U.S. senators. ([source](https://www.niemanlab.org/2026/11/meta-pulls-down-controversial-terms-of-service/))
 - **2026-11-05** — Meta fell 3.96% to $605.08 in the broad tech selloff, slipping further below the $625 price of its recent share offering. ([source](https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/))
 - **2026-11-05** — TradingKey linked the decline to worries over AI capex (2026 guidance of $135B-$145B), signs of softer ad budgets in some categories, rising leverage and dilution from its bond and equity raises, and litigation costs; it put the average analyst target near $848. ([source](https://www.tradingkey.com/news/market-movers/262282917-market-movers-meta-20261105))
 - **2026-11-04** — Meta's first euro-denominated bond sale (up to about €9B in six tranches, 4-38 years) drew roughly €53B of orders, reported as the largest order book ever for a European corporate bond. ([source](https://leprivatebanker.com/2026/11/04/meta-draws-record-e53-billion-of-orders-for-debut-euro-bonds-topping-ab-inbevs-2016-mark/))
@@ -36,9 +39,6 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 - **2026-11-03** — Shares rose about 2.2% to roughly $620 as megacap growth stocks rebounded; Blue Line Capital trimmed its position and Ritholtz's Josh Brown dropped Meta from his best-stocks list, while the consensus target stayed near $860. ([source](https://www.tradingview.com/news/benzinga:9226cedb9094b:0-what-is-going-on-with-meta-platforms-stock-on-tuesday/))
 - **2026-11-02** — S&P Global Ratings revised its outlook on Meta's AA- credit rating to negative, citing rising leverage and uncertain AI returns, with capex seen near $140B in 2026 and above $225B in 2027; Meta said its credit profile remains very strong. Shares traded near $619 midday after falling below the $625 offering price on Friday. ([source](https://finance.yahoo.com/markets/stocks/articles/going-meta-platforms-stock-monday-153458291.html))
 - **2026-10-30** — Meta fell about 2% to around $613 in morning trading, pulled down with Amazon after Amazon's earnings miss and negative free cash flow; the stock was down about 17% over the past month. ([source](https://247wallst.com/investing/2026/10/30/amazon-slides-7-as-earnings-miss-and-ai-spending-turn-free-cash-flow-negative-meta-falls-2-alphabet-dips-walmart-gains-2/))
-- **2026-10-29** — An 8-K confirmed the mandatory convertible preferred offering (250M depositary shares) closed Oct 29, with 6.50% dividends payable quarterly from Feb 15, 2027 and conversion expected around Aug 15, 2029; the 40M-share forward sale has an initial price of about $622.92 and must settle by Nov 19, 2027. ([source](https://www.sec.gov/Archives/edgar/data/0001326801/000119312526438017/d183592d8k.htm))
-- **2026-10-29** — The Paris Court of Appeals rejected Meta's appeals against French interim measures over payments owed to press publishers ("neighboring rights"), saying its calculation methods could amount to abuse of a dominant position. ([source](https://www.analyticsinsight.net/news/meta-loses-french-regulator-appeals-over-press-rights))
-- **2026-10-29** — Meta rose about 3% to roughly $629 midday, moving up while Alphabet sank about 12% and Microsoft slipped after their reports. ([source](https://247wallst.com/investing/2026/10/29/amazon-slides-3-as-alphabets-12-plunge-raises-stakes-for-aws-report-meta-rises-3-microsoft-pulls-back/))
 
 ## Coming up
 
@@ -49,5 +49,5 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (KeyBanc, Cantor, Guggenheim, BofA, Goldman, Pivotal) cite core ad strength, Q4 revenue guidance above consensus and early Muse AI traction, with average targets near $850; record order books for its dollar and debut euro bonds show strong credit demand.
-- **Bear:** Analysts (Needham, Scotiabank) cite dilution from the equity raises and unproven Muse profitability; S&P's negative outlook, more than $20B of new bonds and capex near $140B in 2026 point to rising leverage, while TradingKey flags softer ad budgets and litigation and regulatory costs.
+- **Bull:** Analysts (KeyBanc, Cantor, Guggenheim, BofA, Goldman, Pivotal) cite core ad strength, Q4 revenue guidance above consensus and early Muse AI traction (now adding features like Spaces), with average targets near $850; record order books for its dollar and debut euro bonds show strong credit demand.
+- **Bear:** Analysts (Needham, Scotiabank) cite dilution from the equity raises and unproven Muse profitability; S&P's negative outlook, more than $20B of new bonds at higher coupons and capex near $140B in 2026 point to rising leverage, while TradingKey flags softer ad budgets and regulators abroad have challenged its data and press-payment practices.

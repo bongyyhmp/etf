@@ -4,7 +4,7 @@ ticker: NVDA
 company: NVIDIA
 sector: Technology
 held_by: [SMH, VGT, XLK, VUG, SOXX, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-11-05
+updated: 2026-11-06
 tags: [stock]
 ---
 
@@ -31,6 +31,8 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 
 ## Recent news
 
+- **2026-11-06** — Nvidia closed up 2.78% (about $186.65), recovering part of Thursday's 9% drop and edging back above its end-of-2025 level, as chip stocks bounced. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026))
+- **2026-11-06** — Three senior House Republicans (Mast, Moolenaar, Crawford) asked Jensen Huang to a closed-door briefing on Nov 18 about his reported contacts with an executive of Singapore-based Megaspeed alleged to have passed information to China; Nvidia did not say whether he would attend and said customers get only ordinary business information. ([source](https://www.thenationalnews.com/future/technology/2026/11/06/jensen-huang-nvidia-china-ai-congress/))
 - **2026-11-05** — Nvidia closed down 9.26% at $181.60, below its $186.50 close at the end of 2025 and erasing its 2026 gain, as the Philadelphia Semiconductor Index sank 12.25%. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026))
 - **2026-11-05** — The Motley Fool said shares hit their lowest level since April on heavy volume (about 154M vs. a 113.9M average), citing fears that planned AI infrastructure spending may not materialize next year and exposure through Nvidia's investments in chip customers. ([source](https://www.fool.com/investing/2026/11/05/why-nvidia-stock-is-getting-punished-today/))
 - **2026-11-05** — Nomura's Charlie McElligott described the rout as hedge funds locking in 2026 gains rather than a fundamental deterioration; Nvidia was down about 15% over the past month. ([source](https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html))
@@ -41,15 +43,14 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 - **2026-10-30** — Nvidia ended Friday down 4.2% at $204.64 as Intel's weak outlook dragged chip stocks lower; CNBC estimated the selloff cut about $6B from the value of Nvidia's own stake in Intel. ([source](https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-november-2-2026/))
 - **2026-10-30** — Nvidia was down about 5.2% in afternoon trading after a Bloomberg report that it may provide billions in credit guarantees for an Nscale data center expected to serve Anthropic, reviving "circular AI financing" worries; reports put its data-center commitments and guarantees near $165B. ([source](https://finance.yahoo.com/markets/stocks/articles/why-nvidia-stock-took-dive-194907899.html))
 - **2026-10-30** — Chip stocks fell after Intel's weak outlook and PC slump sent it down about 25% premarket; Nvidia was down about 3% premarket, a smaller drop than PC-exposed peers such as AMD and Dell. ([source](https://247wallst.com/investing/2026/10/30/intel-plunges-25-as-weak-outlook-and-pc-slump-overshadow-earnings-beat-dell-tumbles-13-amd-sinks-10-nvidia-falls-3/))
-- **2026-10-28** — Nvidia closed down 1.2% at $215.38 after reports that the Justice Department is asking how its planned $12.9B Hugging Face acquisition (expected to close in 1H 2027) could affect AI competition, as part of a wider review that reportedly also covers its Groq licensing deal; Jensen Huang said Hugging Face will stay open. ([source](https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-october-29-2026/))
-- **2026-10-28** — Nvidia rose nearly 1% as chip stocks gained for a third session after SK Hynix reported roughly sevenfold profit growth and forecast memory shortages into 2030. ([source](https://www.aol.com/articles/nvidia-amd-micron-stocks-lead-124044000.html))
 
 ## Coming up
 
 - **2026-11-17** — Q3 FY2027 earnings, call at 2 p.m. PT / 5 p.m. ET (confirmed by Nvidia; company guided revenue of about $108B, plus or minus 2%)
+- **2026-11-18** — closed-door congressional briefing requested from Jensen Huang on Megaspeed-related security questions (attendance not confirmed)
 - **2026-12-01** — GTC Washington, D.C. keynote by Jensen Huang (conference runs Nov 30-Dec 3)
 
 ## Bull case / bear case
 
-- **Bull:** Goldman (Buy, $300) sees a positive medium-term AI deployment outlook, Nomura's McElligott framed the Nov 5 rout as profit-taking rather than weaker fundamentals, and a Motley Fool contributor noted a forward P/E near 14 and a supply-constrained growth outlook ahead of the Nov 17 report.
-- **Bear:** Reports cite AI-spending and circular-financing worries (about $165B of reported commitments and guarantees), a post-midterm risk of data-center moratoria that erased its 2026 gain on Nov 5, DOJ antitrust scrutiny of the Hugging Face and Groq deals, customers diversifying to other AI chips, and a Melius target cut.
+- **Bull:** Goldman (Buy, $300) sees a positive medium-term AI deployment outlook, Nomura's McElligott framed the Nov 5 rout as profit-taking, and TradingKey cites reaffirmed hyperscaler data-center spending and an average analyst target near $324; the stock bounced on Nov 6 ahead of the Nov 17 report.
+- **Bear:** Reports cite AI-spending and circular-financing worries (TradingKey puts supply and capacity commitments near $250B), post-midterm data-center moratorium risk, DOJ scrutiny of the Hugging Face and Groq deals, a new congressional request for Huang to brief lawmakers on China-linked security concerns, and Melius' target cut and a Seaport Sell rating.

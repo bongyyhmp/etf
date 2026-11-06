@@ -4,7 +4,7 @@ ticker: GOOGL
 company: Alphabet (Google)
 sector: Communication Services
 held_by: [VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-11-05
+updated: 2026-11-06
 tags: [stock]
 ---
 
@@ -27,8 +27,10 @@ Owns Google Search, YouTube, Android and Google Cloud; most revenue comes from a
 
 ## Recent news
 
+- **2026-11-06** — Alphabet was up about 1.4% during Friday's session as the Nasdaq rebounded about 1.1%, per a KuCoin market flash. ([source](https://www.kucoin.com/news/flash/nasdaq-rebounds-after-19-month-largest-drop-amid-ai-sector-volatility))
 - **2026-11-05** — Alphabet fell 2.20% to $282.57, holding up better than most megacaps in the AI selloff. ([source](https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/))
 - **2026-11-05** — Shares rose before the open, which Reuters attributed to views that a slower AI build-out would help Alphabet, then turned lower once trading began. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026))
+- **2026-11-04** — Google said it will invest $15B in Malaysia over 2027-2028 for data-center campuses and a cloud region, and plans to add over 1 GW of clean energy to the national grid. ([source](https://blog.google/intl/en-my/company-news/inside-google/google-investment-malaysia-digital-infrastructure-november-2026))
 - **2026-11-04** — Alphabet closed up about 3.2% as megacap tech rallied after Democrats took both chambers of Congress, per AP. ([source](https://www.boston.com/news/business/2026/11/04/us-stocks-surge-and-the-dow-soars-more-than-1500-points-as-oil-prices-tumble-following-us-midterms/))
 - **2026-11-04** — Stocktwits said investors were betting a Democratic Congress, which campaigned on limiting large data-center construction, could slow AI capex and help Alphabet return to positive free cash flow; TradingKey also cited short-covering after the post-earnings slide. ([source](https://stocktwits.com/news-articles/markets/equity/big-tech-stocks-and-mag7-etf-jumps-after-democratic-sweep-raises-bets-for-easing-ai-capex/cNGLlXXR93y))
 - **2026-11-03** — Anthropic's amended IPO filing disclosed a minimum spend of about $121.3B with Google from April 2026 to July 2033, with true-up payments if usage falls short; Alphabet was down about 0.35% in early trading as the Nasdaq rose. ([source](https://finance.yahoo.com/technology/ai/articles/alphabet-stocks-move-lower-121-181127673.html))
@@ -37,8 +39,6 @@ Owns Google Search, YouTube, Android and Google Cloud; most revenue comes from a
 - **2026-11-02** — Shares rose as much as about 2.6% early but faded to roughly flat near $278 late in the session as tech reversed lower and the Nasdaq fell about 1.1%; the stock lost almost 19% in October, its worst month on record. ([source](https://en.cryptonomist.ch/2026/11/02/goog-alphabet-stock-trades-27816))
 - **2026-10-30** — Shares slid another ~2% to about $277.42 on above-average volume, near its 12-month low of $270.70; Wells Fargo cut its target to $371 from $417 but kept Overweight. ([source](https://www.marketbeat.com/instant-alerts/analyst-alphabet-nasdaq-googl-price-target-cut-to-37100-by-analysts-at-wells-fargo-company-2026-10-30/))
 - **2026-10-29** — Class A shares closed down about 12.6% at $283.82 after the Q3 miss. ([source](https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-alphabet-slides-on-soft-earnings-microsoft-firms-4981271))
-- **2026-10-29** — More post-earnings calls: UBS set a $332 target (Neutral), Piper Sandler $345 (Overweight), and KeyBanc cut to $385 from $410 (Overweight). ([source](https://www.marketbeat.com/instant-alerts/analyst-alphabet-nasdaq-googl-price-target-cut-to-37100-by-analysts-at-wells-fargo-company-2026-10-30/))
-- **2026-10-29** — The slide was on pace to be Alphabet's worst post-earnings session since its 2004 IPO, erasing close to $500B of market value; Pivotal Research said bears will see AI starting to hurt search, while CFRA called the pullback a likely buying opportunity. ([source](https://finance.yahoo.com/markets/article/alphabet-heads-for-a-500-billion-drop-in-market-value-the-biggest-in-its-history-134824763.html))
 
 ## Coming up
 
@@ -47,5 +47,5 @@ Owns Google Search, YouTube, Android and Google Cloud; most revenue comes from a
 
 ## Bull case / bear case
 
-- **Bull:** Bulls (Yorkville's Dan Ives, CFRA, TD Cowen and Guggenheim at Buy) cite Google Cloud revenue more than doubling, an external TPU business, a ~$121B minimum Anthropic commitment and hopes that slower data-center spending could restore free cash flow, a view Reuters said lifted the stock before the Nov 5 open.
-- **Bear:** Bears cite the large Q3 EPS miss, ad revenue below forecasts, signs AI may erode search (Pivotal), negative free cash flow on capex that management says will rise significantly in 2027, possible data-center curbs from a Democratic Congress, and a wave of target cuts (Scotiabank, Raymond James, Susquehanna, KeyBanc, Wells Fargo).
+- **Bull:** Bulls (Yorkville's Dan Ives, CFRA, TD Cowen and Guggenheim at Buy) cite Google Cloud revenue more than doubling, an external TPU business, a ~$121B minimum Anthropic commitment and hopes that slower data-center spending could restore free cash flow; the stock outperformed the Nasdaq in the Nov 5 rout.
+- **Bear:** Bears cite the large Q3 EPS miss, ad revenue below forecasts, signs AI may erode search (Pivotal), negative free cash flow on capex that management says will rise significantly in 2027 (plus new commitments such as $15B in Malaysia), possible data-center curbs from a Democratic Congress, and a wave of target cuts (Scotiabank, Raymond James, Susquehanna, KeyBanc, Wells Fargo).
