@@ -4,7 +4,7 @@ ticker: KO
 company: Coca-Cola
 sector: Consumer Staples
 held_by: [SCHD]
-updated: 2026-11-06
+updated: 2026-11-09
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Sells soft drinks, water, sports drinks and coffee brands worldwide.
 
 ## Recent news
 
+- **2026-11-09** — A Motley Fool column argued the rally has run ahead of earnings: guidance now calls for 2026 comparable EPS growth of at least 11% (up from 7-8% in February), yet the stock has gained about 25% since then and trades near 29x 2026 earnings versus a ~24x five-year average; the stock closed at $95.67 on Nov 6. ([source](https://www.fool.com/investing/2026/11/09/coca-cola-stock-keeps-setting-records-i-m-still-not-buying-it/))
+- **2026-11-09** — A filing showed EVP Nancy Quan sold 20,585 shares on Nov 5 for about $1.97M, keeping roughly 229,000 shares. ([source](https://www.marketscreener.com/news/coca-cola-insider-sold-shares-worth-1-968-406-according-to-a-recent-sec-filing-ce785fd3df80fe23))
 - **2026-11-06** — Shares rose about 3.3% to roughly $96.14 by early afternoon from a $93.09 open, as beverage peers such as Monster and Keurig Dr Pepper also gained in what 24/7 Wall St. described as a sector-wide rotation into staples, with no company-specific catalyst identified. ([source](https://247wallst.com/cards/coca-cola-company-ko-enriched-price-move-01m6s0c83425dw7csht3yceeh3))
 - **2026-11-04** — Shares rose about 1.5% to roughly $96.26 in the afternoon and touched a new 52-week high near $96.43, as investors leaned into defensive staples after the midterms produced a divided government; the Motley Fool noted the stock trades near 29x earnings. ([source](https://www.fool.com/investing/2026/11/04/heres-why-dividend-kings-coca-cola-procter-gamble-and-colgate-palmolive-are-hitting-52-week-highs-following-midterm-election-results/))
 - **2026-11-04** — A filing showed EVP Beatriz Perez sold 67,548 shares on Nov 2 at about $94.91 (roughly $6.4M) to cover tax withholding on vested awards, leaving her about 160,000 shares. ([source](https://www.marketbeat.com/instant-alerts/insider-insider-selling-coca-cola-nyse-ko-evp-sells-67548-shares-of-company-stock-2026-11-04/))
@@ -32,8 +34,6 @@ Sells soft drinks, water, sports drinks and coffee brands worldwide.
 - **2026-10-29** — Shares rose about 1.2% to near $92.85 (intraday high $93.16) as Freedom Broker lifted its target to $89 from $85 while keeping Hold; MarketBeat's consensus target is about $97.26 ("Moderate Buy"). ([source](https://www.marketbeat.com/instant-alerts/price-coca-cola-nyse-ko-stock-price-up-12-on-analyst-upgrade-2026-10-29/))
 - **2026-10-28** — Citigroup kept Buy and nudged its target to $103 from $102; shares rose $0.57 to $91.75. ([source](https://www.marketbeat.com/instant-alerts/analyst-citigroup-forecasts-strong-price-appreciation-for-coca-cola-nyse-ko-stock-2026-10-28/))
 - **2026-10-28** — Wells Fargo lifted its target to $100 from $90 (Overweight), citing broad strength in volume and margins while noting the forward P/E has expanded to about 27.5x; TD Cowen raised to $104 from $100 (Buy). ([source](https://www.investing.com/news/analyst-ratings/wells-fargo-raises-cocacola-stock-price-target-to-100-on-strong-2026-93CH-4978124))
-- **2026-10-28** — UBS raised its target to $106 from $104 (Buy), calling the valuation expensive but justified by visibility, while flagging tougher 2027 volume comparisons, currency and inflation. ([source](https://www.investing.com/news/analyst-ratings/ubs-raises-cocacola-stock-price-target-to-106-on-solid-results-93CH-4979947))
-- **2026-10-28** — JPMorgan kept Overweight and raised its target to $98 from $95 after the Q3 beat. ([source](https://www.gurufocus.com/news/9148344/ko-maintained-by-jp-morgan-price-target-raised-to-9800))
 
 ## Coming up
 
@@ -42,5 +42,5 @@ Sells soft drinks, water, sports drinks and coffee brands worldwide.
 
 ## Bull case / bear case
 
-- **Bull:** Coverage cites a seventh straight EPS beat, 5% unit-case volume growth, a third guidance raise, post-results target raises from JPMorgan, UBS, Wells Fargo, Citi and TD Cowen, and fresh 52-week highs on Nov 4 as investors sought defensive names after the midterms (Motley Fool), plus a roughly 3% gain on Nov 6 amid a beverage-sector rally (24/7 Wall St.).
-- **Bear:** Commentators flag flat North America volume, a valuation near 28-29x earnings, a shorter Q4 with destocking and the pending CCBA sale weighing on Q4 comparisons, an unresolved IRS tax case (Trefis), and (per UBS) tougher 2027 volume comparisons, currency and inflation headwinds.
+- **Bull:** Coverage cites a seventh straight EPS beat, 5% unit-case volume growth, guidance raised to at least 11% comparable EPS growth for 2026, post-results target raises from JPMorgan, UBS, Wells Fargo, Citi and TD Cowen, and record highs as investors rotated into defensive staples after the midterms (Motley Fool, 24/7 Wall St.).
+- **Bear:** Commentators flag a valuation near 28-29x earnings, well above its ~24x five-year average (a Nov 9 Motley Fool column says the price already bakes in years of growth), flat North America volume, a shorter Q4 with destocking and the pending CCBA sale, an unresolved IRS tax case (Trefis), tougher 2027 comparisons (UBS) and recent executive share sales.

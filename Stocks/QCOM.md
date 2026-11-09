@@ -3,8 +3,8 @@ type: stock
 ticker: QCOM
 company: Qualcomm
 sector: Technology
-held_by: [SCHD, SMH]
-updated: 2026-11-06
+held_by: [SMH, SCHD]
+updated: 2026-11-09
 tags: [stock]
 ---
 
@@ -18,11 +18,13 @@ Designs chips and modems for smartphones, cars and PCs, and licenses wireless pa
 
 | ETF | Weight |
 |---|---|
+| [[SMH]] | 4.6% |
 | [[SCHD]] | 4.4% |
-| [[SMH]] | 4.3% |
 
 ## Recent news
 
+- **2026-11-09** — Qualcomm closed at $172.02, up 4.00%, with the gain attributed to broad tech and chip momentum rather than a company announcement. ([source](https://news.jkn.co.kr/editions/english/post/1081690))
+- **2026-11-09** — Freedom Broker cut Qualcomm to Hold from Buy and its target to $185 from $200, saying new growth engines will weigh on margins longer than assumed; it raised revenue estimates but trimmed EPS forecasts about 3% for fiscal 2027 and 8% for fiscal 2028. ([source](https://www.investing.com/news/analyst-ratings/freedom-broker-downgrades-qualcomm-stock-rating-on-margin-concerns-93CH-5013110))
 - **2026-11-06** — Qualcomm closed up 5.52% (about $165.40), rebounding from its post-earnings drop as investors focused on the SpaceX Starlink Mobile 5G deal and the broader chip bounce; Evercore ISI nudged its target up to $165 and UBS (Neutral) moved to $180. ([source](https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-rallying-today-93CH-5008747))
 - **2026-11-06** — Alphabet's latest 13F showed it held about 3 million Qualcomm shares worth roughly $548M at the end of September. ([source](https://coincentral.com/qualcomm-qcom-stock-edges-up-premarket-as-alphabet-reveals-548m-stake))
 - **2026-11-05** — Shares closed down 9.49% the day after results, as the 26% drop in handset chip sales missed estimates on weak demand and lower Apple-related revenue, even though overall earnings beat and the company expects non-handset sales to grow over 60% in fiscal 2027. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026))
@@ -33,8 +35,6 @@ Designs chips and modems for smartphones, cars and PCs, and licenses wireless pa
 - **2026-11-04** — Ahead of the report, shares rose about 3.6% in the regular session to around $170. ([source](https://247wallst.com/cards/qualcomm-qcom-price-swing-01m6m58ypx68xmz5rs6rcz6zyx))
 - **2026-11-03** — Options traders priced in a post-earnings swing of roughly 9.6% in either direction; TipRanks counts 3 Buy, 6 Hold and 2 Sell ratings with an average target near $197, and the stock was about 5% lower for the year. ([source](https://www.tipranks.com/news/qualcomm-stock-qcom-could-move-9-59-after-q4-earnings-say-options-traders))
 - **2026-11-03** — A TradingKey preview said Apple-related revenue is expected to fall about 50% from the prior quarter, while automotive revenue grew ~61% last quarter and first custom data-center chip revenue is expected in the December quarter. ([source](https://www.tradingkey.com/analysis/stocks/us-stocks/262266670-qualcomm-q4-earnings-preview-automotive-data-center-smartphone-qcom-tradingkey))
-- **2026-11-02** — StoneX kept its Buy rating and $270 target, looking for a modest beat (revenue $10.3-10.4B, EPS $2.20-2.25) and December-quarter guidance near $10.6B and $2.30 EPS, above consensus. ([source](https://www.investing.com/news/analyst-ratings/qualcomm-stock-reiterated-at-buy-by-stonex-ahead-of-results-93CH-4991335))
-- **2026-11-02** — Shares traded around $162, down about 1.6% in the afternoon, extending last week's slide as PC and memory-cost worries lingered two days before earnings. ([source](https://247wallst.com/investing/2026/11/02/amd-slides-3-ahead-of-earnings-as-pc-worries-linger-intel-drops-5-nvidia-edges-higher/))
 
 ## Coming up
 
@@ -44,5 +44,5 @@ Designs chips and modems for smartphones, cars and PCs, and licenses wireless pa
 
 ## Bull case / bear case
 
-- **Bull:** Supporters (StoneX, TD Cowen, Rosenblatt Buy at $205) cite fast non-handset growth, with auto revenue up 89% to a record, an expected 60%+ rise in non-handset sales in fiscal 2027, a reiterated $5B fiscal-2027 data-center target with Amazon in production, and the Starlink Mobile 5G win, which Qualcomm calls its biggest 5G deal.
-- **Bear:** Cautious analysts (Susquehanna at $165; UBS, JPMorgan, Goldman Sachs and Piper Sandler at Neutral; Bernstein SocGen) point to a 26% handset revenue drop, rising memory costs, a shrinking Apple modem business and an EPS guide midpoint below consensus; MarketBeat's consensus is Hold.
+- **Bull:** Supporters (StoneX, TD Cowen, Rosenblatt Buy at $205) cite fast non-handset growth, with auto revenue up 89% to a record, an expected 60%+ rise in non-handset sales in fiscal 2027, a reiterated $5B fiscal-2027 data-center target with shipments to two hyperscalers, licensing renewals running to fiscal 2030 and the Starlink Mobile 5G win.
+- **Bear:** Cautious analysts (Freedom Broker's new Hold at $185, Susquehanna at $165; UBS, JPMorgan, Goldman Sachs and Piper Sandler at Neutral) point to a 26% handset revenue drop, input-cost inflation and custom silicon squeezing margins, a shrinking Apple modem business and an EPS guide midpoint below consensus; MarketBeat's consensus is Hold.

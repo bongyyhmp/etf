@@ -2,38 +2,38 @@
 type: etf
 ticker: VTV
 issuer: Vanguard
-aum: $191B
+aum: $190B
 expense_ratio: 0.04%
-return_ytd: 19.0
-return_1y: 23.3
-data_as_of: 2026-11-05
+return_ytd: 18.5
+return_1y: 23.0
+data_as_of: 2026-11-06
 tags: [etf]
 ---
 
 # VTV — Vanguard Value ETF
 
-> [!info] Snapshot (as of Nov 5, 2026)
+> [!info] Snapshot (as of Nov 6, 2026)
 > **Tracks:** CRSP US Large Cap Value  
-> **Issuer:** Vanguard · **Assets:** $191B · **Expense ratio:** 0.04%  
-> **Return:** +19.0% this year · +23.3% over 1 year (dividends reinvested)  
-> **Holdings:** 306 stocks · top 10 ≈ 24% of the fund
+> **Issuer:** Vanguard · **Assets:** $190B · **Expense ratio:** 0.04%  
+> **Return:** +18.5% this year · +23.0% over 1 year (dividends reinvested)  
+> **Holdings:** 306 stocks · top 10 ≈ 23% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[BRK-B]] — Berkshire Hathaway | 3.7% |
-| 2 | [[MU]] — Micron Technology | 3.6% |
-| 3 | [[JPM]] — JPMorgan Chase | 3.0% |
-| 4 | [[XOM]] — Exxon Mobil | 2.8% |
-| 5 | [[JNJ]] — Johnson & Johnson | 2.3% |
-| 6 | [[WMT]] — Walmart | 1.9% |
-| 7 | [[ABBV]] — AbbVie | 1.8% |
-| 8 | [[CVX]] — Chevron | 1.6% |
-| 9 | [[CSCO]] — Cisco Systems | 1.4% |
-| 10 | [[UNH]] — UnitedHealth Group | 1.4% |
+| 1 | [[BRK-B]] — Berkshire Hathaway | 3.9% |
+| 2 | [[JPM]] — JPMorgan Chase | 3.1% |
+| 3 | [[MU]] — Micron Technology | 2.9% |
+| 4 | [[XOM]] — Exxon Mobil | 2.5% |
+| 5 | [[JNJ]] — Johnson & Johnson | 2.4% |
+| 6 | [[WMT]] — Walmart | 2.0% |
+| 7 | [[ABBV]] — AbbVie | 1.9% |
+| 8 | [[CVX]] — Chevron | 1.5% |
+| 9 | [[PG]] — Procter & Gamble | 1.4% |
+| 10 | [[MRK]] — Merck & Co. | 1.3% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Oct 23, 2026 prices.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 6, 2026 prices.*
 
 ## Sector mix
 

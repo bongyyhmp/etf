@@ -16,6 +16,7 @@ tags: [sector]
 - [[AVGO]] — Broadcom
 - [[CSCO]] — Cisco Systems
 - [[INTC]] — Intel
+- [[KLAC]] — KLA
 - [[MRVL]] — Marvell Technology
 - [[MSFT]] — Microsoft
 - [[MU]] — Micron Technology

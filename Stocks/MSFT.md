@@ -3,8 +3,8 @@ type: stock
 ticker: MSFT
 company: Microsoft
 sector: Technology
-held_by: [XLK, VGT, VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-11-06
+held_by: [XLK, VGT, VUG, QQQ, IVV, SPY, VOO, VTI]
+updated: 2026-11-09
 tags: [stock]
 ---
 
@@ -18,17 +18,20 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 
 | ETF | Weight |
 |---|---|
-| [[XLK]] | 12.1% |
-| [[VGT]] | 11.2% |
-| [[VUG]] | 10.6% |
-| [[QQQ]] | 6.4% |
-| [[VOO]] | 6.0% |
-| [[IVV]] | 6.0% |
-| [[SPY]] | 6.0% |
-| [[VTI]] | 5.3% |
+| [[XLK]] | 13.6% |
+| [[VGT]] | 13.1% |
+| [[VUG]] | 11.3% |
+| [[QQQ]] | 7.0% |
+| [[IVV]] | 6.2% |
+| [[SPY]] | 6.2% |
+| [[VOO]] | 6.2% |
+| [[VTI]] | 5.6% |
 
 ## Recent news
 
+- **2026-11-09** — Microsoft rose about 2.75% as megacap tech rebounded and the Nasdaq gained 2.74%, per Finnhub data cited by MarketAlleys. ([source](https://www.marketalleys.com/post/apple-rises-2-43-to-350-69-on-nov-9-2026-11-09))
+- **2026-11-09** — TradingKey (which put the gain at 3.24%) attributed the move to optimism about Copilot seat deployments, Azure consumption and easing compute constraints, while flagging capex above $39B a quarter and a valuation near 66x free cash flow; average analyst target about $629. ([source](https://www.tradingkey.com/news/market-movers/262296988-market-movers-msft-20261109))
+- **2026-11-08** — A Motley Fool column revisited Nov 5 Bloomberg and FT reports that Microsoft tightened oversight of neocloud projects (Nebius, IREN, Nscale) and passed on an option to more than double its Nscale Texas deal; Microsoft has not confirmed the reports, and shares were near $535. ([source](https://finance.yahoo.com/markets/stocks/articles/microsoft-reportedly-getting-pickier-ai-175802004.html))
 - **2026-11-06** — Bloomberg reported Microsoft is winding down a 2023 arrangement to rent Oracle-built AI servers used for Bing, opting not to renew because the Nvidia GPUs no longer meet its specs; Oracle shares fell nearly 3%. ([source](https://startupfortune.com/microsoft-winds-down-oracle-deal-to-rent-ai-cloud-capacity/))
 - **2026-11-06** — Microsoft was down about 0.4% at midday Friday, lagging the Nasdaq's 1.1% rebound (TheStreet). ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026))
 - **2026-11-05** — Microsoft fell 3.58% to $535.93 as the AI selloff spread to megacap software, reversing roughly half of Wednesday's 7% jump. ([source](https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/))
@@ -38,9 +41,6 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 - **2026-11-03** — Shares gained about 3.1%, well ahead of a ~0.4% rise for software and IT-services peers, as investors rotated back into megacap AI names; TradingKey put the average analyst target near $629 while flagging capex and free-cash-flow concerns. ([source](https://www.tradingkey.com/news/market-movers/262269145-market-movers-msft-20261103))
 - **2026-11-03** — Anthropic's amended IPO filing showed it has committed to spend at least $44.9B with Microsoft through June 2033; MSFT was up about 1.3% near $514 mid-morning, though GuruFocus stressed the figure is a commitment rather than booked revenue. ([source](https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-rise-44-9-180955025.html))
 - **2026-11-02** — Microsoft dropped about 2.8% as the Nasdaq fell roughly 1.1% in a tech reversal. ([source](https://www.heygotrade.com/en/news/tesla-tsla-stock-news-november-3-2026/))
-- **2026-10-30** — Microsoft slipped about 1.2% as Amazon and Intel results sparked a broad tech selloff, though the report described Microsoft's results as comparatively stronger with a more constructive monetization picture. ([source](https://au.finance.yahoo.com/news/stock-market-today-oct-30-141142726.html))
-- **2026-10-29** — Microsoft priced $25B of senior unsecured notes in ten tranches (maturities 2028-2066, coupons 4.85%-6.35%), reportedly its first U.S. investment-grade bond sale since 2017; shares closed down 0.16% that day after giving up an after-hours gain. Citi lifted its target to $680 and Wells Fargo to $750. ([source](https://www.tikr.com/blog/microsoft-sold-25-billion-in-bonds-a-day-after-its-azure-beat-heres-where-the-stock-could-go-by-2031))
-- **2026-10-29** — Analysts raised targets after the report: UBS to $700 (Buy), TD Cowen and Scotiabank to $650, BNP Paribas to $632 and Bank of America to $630 from $600. ([source](https://www.investing.com/news/analyst-ratings/ubs-raises-microsoft-stock-price-target-to-700-on-azure-beat-93CH-4984452))
 
 ## Coming up
 
@@ -49,5 +49,5 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (UBS, Wells Fargo, Citi, BofA, TD Cowen) raised targets after 48% Azure growth and ~49% Azure guidance, with management saying demand still exceeds supply; Anthropic's $44.9B commitment adds visibility, and TradingKey called the Nov 5 drop a valuation reset rather than structural weakness.
-- **Bear:** Skeptics cite a 12% drop in commercial bookings, capex heading toward ~$170B a year partly funded by a $25B bond sale, BNP's free-cash-flow warning, and (per TradingKey) capacity constraints, rising depreciation and possible tighter data-center rules under a Democratic Congress; the stock lagged Friday's tech rebound.
+- **Bull:** Analysts (UBS, Wells Fargo, Citi, BofA, TD Cowen) raised targets after 48% Azure growth and ~49% Azure guidance, with management saying demand still exceeds supply; Anthropic's $44.9B commitment adds visibility, and TradingKey linked the Nov 9 rebound to Copilot adoption and easing capacity limits (average target ~$629).
+- **Bear:** Skeptics cite a 12% drop in commercial bookings, capex heading toward ~$170B a year partly funded by a $25B bond sale, free cash flow down about 23% over four quarters (Motley Fool), a valuation near 66x free cash flow (TradingKey), reported pullbacks from neocloud and Oracle capacity deals, and possible tighter data-center rules under a Democratic Congress.

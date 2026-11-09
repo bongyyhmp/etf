@@ -2,38 +2,38 @@
 type: etf
 ticker: VOO
 issuer: Vanguard
-aum: $961B
+aum: $964B
 expense_ratio: 0.03%
-return_ytd: 8.4
-return_1y: 9.5
-data_as_of: 2026-11-05
+return_ytd: 8.7
+return_1y: 11.0
+data_as_of: 2026-11-06
 tags: [etf]
 ---
 
 # VOO — Vanguard S&P 500 ETF
 
-> [!info] Snapshot (as of Nov 5, 2026)
+> [!info] Snapshot (as of Nov 6, 2026)
 > **Tracks:** S&P 500 (about 500 of the largest US companies)  
-> **Issuer:** Vanguard · **Assets:** $961B · **Expense ratio:** 0.03%  
-> **Return:** +8.4% this year · +9.5% over 1 year (dividends reinvested)  
-> **Holdings:** 504 stocks · top 10 ≈ 40% of the fund
+> **Issuer:** Vanguard · **Assets:** $964B · **Expense ratio:** 0.03%  
+> **Return:** +8.7% this year · +11.0% over 1 year (dividends reinvested)  
+> **Holdings:** 504 stocks · top 10 ≈ 39% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[NVDA]] — NVIDIA | 7.9% |
-| 2 | [[AAPL]] — Apple | 7.6% |
-| 3 | [[MSFT]] — Microsoft | 6.0% |
-| 4 | [[GOOGL]] — Alphabet (Google) | 5.1% |
-| 5 | [[AMZN]] — Amazon | 3.7% |
-| 6 | [[AVGO]] — Broadcom | 2.5% |
-| 7 | [[META]] — Meta Platforms | 2.0% |
-| 8 | [[TSLA]] — Tesla | 1.7% |
-| 9 | [[MU]] — Micron Technology | 1.7% |
-| 10 | [[LLY]] — Eli Lilly | 1.5% |
+| 1 | [[AAPL]] — Apple | 7.9% |
+| 2 | [[NVDA]] — NVIDIA | 7.2% |
+| 3 | [[MSFT]] — Microsoft | 6.2% |
+| 4 | [[GOOGL]] — Alphabet (Google) | 4.7% |
+| 5 | [[AMZN]] — Amazon | 4.0% |
+| 6 | [[AVGO]] — Broadcom | 2.2% |
+| 7 | [[META]] — Meta Platforms | 2.1% |
+| 8 | [[LLY]] — Eli Lilly | 1.7% |
+| 9 | [[BRK-B]] — Berkshire Hathaway | 1.7% |
+| 10 | [[TSLA]] — Tesla | 1.6% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Oct 28, 2026 prices.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 6, 2026 prices.*
 
 ## Sector mix
 

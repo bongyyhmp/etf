@@ -3,8 +3,8 @@ type: stock
 ticker: TXN
 company: Texas Instruments
 sector: Technology
-held_by: [SCHD, SMH, SOXX]
-updated: 2026-11-06
+held_by: [SMH, SCHD, SOXX]
+updated: 2026-11-09
 tags: [stock]
 ---
 
@@ -18,12 +18,13 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 
 | ETF | Weight |
 |---|---|
+| [[SMH]] | 5.4% |
 | [[SCHD]] | 5.1% |
-| [[SMH]] | 4.8% |
-| [[SOXX]] | 4.3% |
+| [[SOXX]] | 5.0% |
 
 ## Recent news
 
+- **2026-11-09** — Shares closed up 4.47% ($12.40) at $289.76 in a broad analog-chip rally alongside ADI, ON Semi and Monolithic Power; JKN found no earnings update or other company-specific catalyst. ([source](https://news.jkn.co.kr/editions/english/post/1081680))
 - **2026-11-06** — Analog and microcontroller peer Microchip Technology fell about 13% by midday after analysts cut forecasts following its results and soft guidance, a read-through for TI's industrial and embedded markets as most chip stocks rebounded. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026))
 - **2026-11-06** — TI's euro-quoted shares on Lang & Schwarz slipped about 2.8% during Friday afternoon as coverage recapped the new factory-networking modules it will demo at electronica next week; a US closing figure was not confirmed. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/texas-instruments-stock-slips-2-80-prozent-as-factory-tools-near-launch/70471026))
 - **2026-11-05** — Shares ended the session down nearly 11% in the broad tech selloff, a far deeper drop than the morning decline. ([source](https://www.gurufocus.com/news/9177010/texas-instruments-txn-shares-drop-nearly-11-amid-broad-tech-selloff-on-november-5-2026))
@@ -35,7 +36,7 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 - **2026-10-29** — Director Ronald Kirk sold 6,065 shares at about $310 (~$1.9M); filings also showed director sales by Janet Clark and Robert Sanchez around Oct 27. ([source](https://www.marketbeat.com/instant-alerts/filing-7250-texas-instruments-incorporated-txn-shares-acquired-by-vise-technologies-inc-2026-11-02/))
 - **2026-10-28** — Shares slipped about 1% to around $305 (still up about 79% this year) as NXP's soft guidance revived auto-chip demand worries across the sector. ([source](https://247wallst.com/investing/2026/10/28/on-semiconductor-falls-5-nxp-semiconductors-drops-4-as-soft-guidance-revives-auto-chip-worries-skyworks-ticks-up-qualcomm-and-texas-instruments-dip/))
 - **2026-10-27** — TI priced $2B of senior unsecured notes in four $500M tranches maturing 2028-2036 (coupons 5.00%-5.75%) to help fund its pending Silicon Labs acquisition; settlement is set for Nov 9. ([source](https://www.gurufocus.com/news/9143967/texas-instruments-prices-2-billion-debt-to-fund-silicon-labs-acquisition-txn))
-- **2026-10-27** — Shares rose about 3.2%, beating the sector, as investors kept responding to the Q3 beat and Q4 outlook. ([source](https://www.tradingkey.com/news/market-movers/262242833-market-movers-txn-20261027))
+
 ## Coming up
 
 - **2026-11-09** — Expected settlement of the $2B notes offering tied to the Silicon Labs deal
@@ -46,5 +47,5 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite an analog-chip recovery, AI data-center and industrial demand, improving margins and free cash flow, the planned Silicon Labs acquisition and new factory-networking products; TradingKey cites an average target near $325.
-- **Bear:** Critics point to a P/E above 35x, heavy capex, new acquisition debt, flat sequential Q4 guidance, auto-chip worries and insider selling; Goldman Sachs rates it Sell ($250), shares fell nearly 11% on Nov 5 in the post-midterm chip rout, and peer Microchip's weak outlook on Nov 6 raised questions about industrial demand.
+- **Bull:** Analysts cite an analog-chip recovery, AI data-center and industrial demand, improving margins and free cash flow, the planned Silicon Labs acquisition and new factory-networking products shown at electronica (customers include ABB Robotics, Porsche and Schneider Electric); TradingKey cites an average target near $325, and shares recovered about 4.5% on Nov 9.
+- **Bear:** Critics point to a P/E above 35x, heavy capex, new acquisition debt, flat sequential Q4 guidance, auto-chip worries and insider selling; Goldman Sachs rates it Sell ($250), shares fell nearly 11% on Nov 5 in the post-midterm chip rout and remain below that level, and peer Microchip's weak outlook on Nov 6 raised questions about industrial demand.

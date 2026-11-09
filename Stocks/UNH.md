@@ -3,8 +3,8 @@ type: stock
 ticker: UNH
 company: UnitedHealth Group
 sector: Healthcare
-held_by: [SCHD, VTV]
-updated: 2026-11-06
+held_by: [SCHD]
+updated: 2026-11-09
 tags: [stock]
 ---
 
@@ -19,10 +19,10 @@ The largest US health insurer, with the Optum health services and pharmacy busin
 | ETF | Weight |
 |---|---|
 | [[SCHD]] | 5.2% |
-| [[VTV]] | 1.4% |
 
 ## Recent news
 
+- **2026-11-06** — Shares closed down 0.4% at $394.15, below the 20-day average of about $404.82, extending a five-day slide that a JournalArta technical recap could not tie to a specific catalyst. ([source](https://journalarta.com/en/2026/11/09/unitedhealth-unh-stock-falls-0-40-on-friday-momentum-weakens/))
 - **2026-11-06** — An Investing.com review of the 2027 Medicare Advantage star ratings said UnitedHealth lost ground, citing JPMorgan's projection that its share of members in 4-star-or-better plans drops to about 67% from 81% (CVS to 70% from 84%); Humana gained and its shares rose on the ratings. ([source](https://investing.com/news/stock-market-news/cvs-and-unitedhealth-lost-ground-on-medicare-ratings-who-gained-5007887))
 - **2026-11-06** — Rival Humana lifted its full-year profit forecast on easing medical costs, per Reuters, capping a strong Q3 reporting season for U.S. health insurers. ([source](https://www.investing.com/news/stock-market-news/humana-raises-fullyear-profit-forecast-on-lower-medical-costs-5007329))
 - **2026-11-05** — Shares fell about 3.3% in the broad selloff (around $398, down about $11, at midday); TradingKey cited medical-cost trends, federal scrutiny of Medicare Advantage payments and PBMs, and rotation out of defensive names. ([source](https://www.tradingkey.com/news/market-movers/262284351-market-movers-unh-20261105), [midday](https://www.dailypolitical.com/2026/11/05/healthcare-stocks-to-keep-an-eye-on-november-5th.html))
@@ -34,7 +34,6 @@ The largest US health insurer, with the Optum health services and pharmacy busin
 - **2026-11-02** — Shares traded about 2% lower in European trading Monday after Mark Cuban criticized insurer pricing and opaque benefit contracts following reports of AI-driven contract reviews; the commentary was not a company announcement. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/unitedhealth-group-stock-faces-fresh-scrutiny-over-ai-audits/70446537))
 - **2026-10-28** — UNH closed down about 0.8% at $407.10 on thin volume; a technical recap cited no company-specific news. ([source](https://journalarta.com/en/2026/10/29/unh-golden-cross-formed-stock-drops-0-80-october-28-2026/))
 - **2026-10-27** — Wells Fargo kept Overweight but lowered its target to $487 from $526, pointing to medium-term political uncertainty while saying fundamentals remain on track. ([source](https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-unitedhealth-stock-price-target-on-political-uncertainty-93CH-4974803))
-- **2026-10-23** — RBC Capital lifted its UnitedHealth target to $498 from $478 (Outperform), and the stock rose as managed-care names rallied. ([source](https://finance.yahoo.com/healthcare/articles/unitedhealth-gains-3-5-rbc-183128787.html))
 
 ## Coming up
 

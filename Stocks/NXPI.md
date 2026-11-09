@@ -4,7 +4,7 @@ ticker: NXPI
 company: NXP Semiconductors
 sector: Technology
 held_by: [SOXX]
-updated: 2026-11-06
+updated: 2026-11-09
 tags: [stock]
 ---
 
@@ -18,10 +18,11 @@ Dutch chipmaker focused on automotive and industrial chips.
 
 | ETF | Weight |
 |---|---|
-| [[SOXX]] | 4.1% |
+| [[SOXX]] | 4.8% |
 
 ## Recent news
 
+- **2026-11-09** — NXP launched a unified robotics platform for physical AI built on its Neural Axis architecture, with an open-source SDK and drone reference designs available now (PX4, Zephyr, ROS 2); support for service robots and autonomous mobile robots is due in the second half of 2027. No revenue or customer figures were given. ([source](https://www.stocktitan.net/news/NXPI/nxp-unveils-unified-robotics-platform-to-speed-trusted-physical-ai-x2nzvvgk3bzi.html))
 - **2026-11-06** — Microcontroller and analog rival Microchip Technology fell about 13% by midday after analysts cut forecasts on its results and outlook, even as most chip stocks rebounded. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026))
 - **2026-11-06** — Shares opened Friday at $244.43, between the 50-day ($235.65) and 200-day ($246.45) averages; MarketBeat's consensus stayed Moderate Buy (16 Buy, 9 Hold, 1 Sell) with a target near $295.78. ([source](https://www.dailypolitical.com/2026/11/06/nxp-semiconductors-nasdaqnxpi-director-anthony-foxx-sells-400-shares-of-stock.html))
 - **2026-11-06** — A Form 4 signed Friday showed director Anthony Foxx sold 400 shares on Nov 4 at $263.60 (about $105K), leaving him about 2,900 shares. ([source](https://rallies.ai/news/nxp-semiconductors-director-anthony-r-foxx-reports-105440-common-share-disposal-212016212466b053))
@@ -40,5 +41,5 @@ Dutch chipmaker focused on automotive and industrial chips.
 
 ## Bull case / bear case
 
-- **Bull:** Q3 delivered about 19% revenue growth, record auto revenue and a $5B buyback; Cantor (Overweight, $400) and Truist (Buy, $300) stay positive, and MarketBeat's consensus is Moderate Buy (16 Buy, 9 Hold, 1 Sell; average target about $296).
-- **Bear:** Q4 guidance landed slightly under consensus, several firms (Stifel, Morgan Stanley, Truist) trimmed targets, a shrinking mobile business was flagged, shares sit below their 200-day average after the Nov 5 chip selloff, and peer Microchip's weak Nov 6 outlook revived questions about industrial and auto chip demand.
+- **Bull:** Q3 delivered about 19% revenue growth, record auto revenue and a $5B buyback; Cantor (Overweight, $400) and Truist (Buy, $300) stay positive, MarketBeat's consensus is Moderate Buy (16 Buy, 9 Hold, 1 Sell; average target about $296), and the Nov 9 robotics platform extends its physical-AI push.
+- **Bear:** Q4 guidance landed slightly under consensus, several firms (Stifel, Morgan Stanley, Truist) trimmed targets, a shrinking mobile business was flagged, shares sit below their 200-day average after the Nov 5 chip selloff, peer Microchip's weak Nov 6 outlook revived questions about industrial and auto demand, and coverage called the robotics launch strategic rather than a near-term revenue driver.

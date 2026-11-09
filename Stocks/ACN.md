@@ -4,7 +4,7 @@ ticker: ACN
 company: Accenture
 sector: Technology
 held_by: [SCHD]
-updated: 2026-11-06
+updated: 2026-11-09
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Global IT consulting and outsourcing firm helping companies adopt technology and
 
 ## Recent news
 
+- **2026-11-09** — Accenture is set to appear at BMO's Technology & Innovation Leaders Conference in New York on Nov 12, with Ndidi Oteh, CEO of Accenture Song, listed as speaker; its euro-quoted shares on Lang & Schwarz were about 1.6% below the prior report's quote. ([source](https://ad-hoc-news.de/boerse/news/corporate-news/accenture-stock-heads-toward-bmo-ai-conference/70482495))
 - **2026-11-05** — Accenture and Mondelez International announced a collaboration to rebuild Mondelez's order-to-cash process (from order entry to payment collection) with agentic AI on top of its cloud ERP, targeting faster collections, better working capital and lower costs; no contract value was disclosed. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/accenture-stock-adds-mondel-z-ai-workflow-project/70471200))
 - **2026-11-04** — Trefis put shares (about $254.56) at 18.3x trailing earnings vs. a 23.3x recent average, after a ~50% gain since early August, but its upside case assumes ~8% annual revenue growth, above the 3%-6% fiscal 2027 guide, and it noted lower pricing in many areas in Q4. ([source](https://www.trefis.com/stock/acn/articles/622564/can-accenture-stock-jump-30-2/2026-11-04))
 - **2026-11-04** — Zacks named Accenture the strongest one-month performer among three relative-strength picks, citing Q4 revenue up 6% to $18.7B and $22.2B in new bookings easing AI-disruption fears. ([source](https://finance.yahoo.com/markets/stocks/articles/3-stocks-showing-impressive-relative-153000357.html))
@@ -33,9 +34,10 @@ Global IT consulting and outsourcing firm helping companies adopt technology and
 - **2026-10-29** — Shares closed up 1.57% at $247.22 even as the major US indexes fell; Zacks noted the consensus earnings estimate edged up 0.36% over the past month. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/accenture-stock-gains-as-analysts-lift-earnings-estimates/70433676))
 - **2026-10-28** — Shares rebounded 4.4%, with CEO Julie Sweet's share purchase, an Accenture Federal Services defense engineering task order under GSA Alliant 2, and recent Avicado and Sagacity acquisitions cited. ([source](https://www.tradingkey.com/news/market-movers/262247202-market-movers-acn-20261028))
 - **2026-10-28** — A filing showed CEO Julie Sweet bought 12,200 shares for about $3.0M on Oct 26. ([source](https://www.marketscreener.com/news/accenture-insider-bought-shares-worth-3-001-041-according-to-a-recent-sec-filing-ce785cd2dd8ff220))
-- **2026-10-27** — Shares fell 4.4% on more profit-taking after the rally, with Baird's Neutral call and concerns about acquisition-driven growth cited. ([source](https://www.tradingkey.com/news/market-movers/262242750-market-movers-acn-20261027))
+
 ## Coming up
 
+- **2026-11-12** — presentation at the BMO Technology & Innovation Leaders Conference, New York (per company IR calendar via ad-hoc-news)
 - **2026-12-17** — Q1 FY2027 earnings (date cited by ad-hoc-news; confirm with company)
 
 ## Bull case / bear case

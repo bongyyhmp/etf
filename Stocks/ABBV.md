@@ -4,7 +4,7 @@ ticker: ABBV
 company: AbbVie
 sector: Healthcare
 held_by: [VTV]
-updated: 2026-11-06
+updated: 2026-11-09
 tags: [stock]
 ---
 
@@ -18,10 +18,11 @@ Drugmaker known for immunology drugs (Skyrizi, Rinvoq) and Botox.
 
 | ETF | Weight |
 |---|---|
-| [[VTV]] | 1.8% |
+| [[VTV]] | 1.9% |
 
 ## Recent news
 
+- **2026-11-08** — At the ASDS dermatologic surgery meeting, AbbVie's Allergan Aesthetics unit presented interim Phase 4 data (Harmony In Diversity and Halo studies), including improved facial-aesthetic and well-being scores among GLP-1 weight-loss patients treated with fillers and neurotoxins. ([source](https://www.gurufocus.com/news/9184206/abbvie-abbv-reports-positive-phase-4-trial-results-in-aesthetic-treatments))
 - **2026-11-06** — Shares recovered about $1.84 (roughly 0.6%) to around $290.08 at midday Friday, per DailyPolitical, after closing Thursday at $288.24, down 2.24%. ([source](https://www.dailypolitical.com/2026/11/06/best-biotech-stocks-to-watch-today-november-6th.html), [Nov 5 close](https://journalarta.com/en/2026/11/06/abbvie-abbv-stock-falls-2-24-momentum-weakens-in-focus/))
 - **2026-11-05** — Shares opened at $298.90 but turned lower with the market, down about 0.8% at $292.38 in the afternoon, per finanzen.ch. ([source](https://finanzen.ch/nachrichten/aktien/abbvie-aktie-kursbewegung-05-11-2026-1035062883))
 - **2026-11-04** — AbbVie announced an expanded 12,000 sq ft R&D site in Oxford for immunology, neuroscience and oncology research, part of a more than GBP 120M UK life-sciences commitment; it employs over 1,100 people in the UK. ([source](https://ad-hoc-news.de/boerse/news/corporate-news/abbvie-stock-gains-as-oxford-r-und-d-expansion-deepens-uk-footprint/70464623))
@@ -33,7 +34,6 @@ Drugmaker known for immunology drugs (Skyrizi, Rinvoq) and Botox.
 - **2026-11-02** — Despite the upgrades, shares were down about 2.1% at roughly $288.74 in Monday trading, per MarketBeat. ([source](https://www.marketbeat.com/instant-alerts/analyst-abbvie-nyse-abbv-given-new-34600-price-target-at-morgan-stanley-2026-11-02/))
 - **2026-10-30** — Q3 revenue rose 10.3% to $17.40B, a bit above the ~$17.36B consensus, and adjusted EPS of $3.82 beat the $3.74 estimate; Skyrizi grew 22.7% to $5.78B and Rinvoq 23.9% to $2.71B while Humira fell 31.2% to $683M. AbbVie raised 2026 adjusted EPS guidance to $13.95-$13.99 from $13.76-$13.96 and lifted the quarterly dividend 5.2% to $1.82. ([source](https://finance.biggo.com/news/48db2777-ec7c-46a8-a0ff-13c6b1f6413a))
 - **2026-10-30** — Shares closed up 1.72% at $295.79 after the results. ([source](https://moneycheck.com/abbvie-abbv-shares-climb-1-72-following-strong-q3-performance-and-raised-2026-outlook))
-- **2026-10-29** — Ahead of the Oct 30 report, TIKR noted the Street expects Q3 revenue near $17.37B, above AbbVie's ~$17.2B guide, with full-year EPS consensus ($13.95) near the top of guidance and a dividend decision typically due with the results. ([source](https://www.tikr.com/blog/abbvies-pipeline-had-a-mixed-week-the-october-30-report-has-to-show-its-guidance-still-rises))
 
 ## Coming up
 

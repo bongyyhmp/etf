@@ -4,7 +4,7 @@ ticker: JPM
 company: JPMorgan Chase
 sector: Financials
 held_by: [VTV]
-updated: 2026-11-06
+updated: 2026-11-09
 tags: [stock]
 ---
 
@@ -18,10 +18,11 @@ The largest US bank: consumer banking, credit cards, investment banking and asse
 
 | ETF | Weight |
 |---|---|
-| [[VTV]] | 3.0% |
+| [[VTV]] | 3.1% |
 
 ## Recent news
 
+- **2026-11-09** — Shares rose about 2% to around $342.80 in Monday trading as banks joined a broad rebound led by AI and growth stocks, lagging Goldman Sachs (+5%) and Morgan Stanley (+4%); 24/7 Wall St. tied the smaller gain to JPMorgan's universal-bank model being less dependent on IPO and deal fees. ([source](https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-climbs-4-vinyl-190218879.html))
 - **2026-11-06** — Citing a CNBC report, Ad-hoc News said Senate Democrats could probe JPMorgan's past Jeffrey Epstein relationship once they control Congress, possibly using Finance Committee subpoena power under expected chair Ron Wyden; no inquiry has been announced, and the bank says it regrets the association but denies helping his crimes. Shares traded about 1.4% higher in German trading. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-chase-stock-trades-higher-as-senate-scrutiny-looms/70470716))
 - **2026-11-05** — Shares fell about 3.5% in the broad selloff, giving back much of Wednesday's post-midterm gain; TradingKey pointed to shifting rate expectations and net interest income worries, credit-quality concerns and uncertainty over capital rules. ([source](https://www.tradingkey.com/news/market-movers/262283065-market-movers-jpm-20261105))
 - **2026-11-05** — JPMorgan treasurer and CIO Charles Bristow warned that a too-rapid rise in rates could have "very non-linear and unpredictable outcomes" for the financial system, though the bank has stress-tested its balance sheet for higher rates and sees no current market stress. ([source](https://finance.yahoo.com/economy/policy/articles/jpmorgan-chase-co-warns-rapid-171453285.html))

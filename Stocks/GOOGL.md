@@ -3,8 +3,8 @@ type: stock
 ticker: GOOGL
 company: Alphabet (Google)
 sector: Communication Services
-held_by: [VUG, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-11-06
+held_by: [VUG, QQQ, IVV, SPY, VOO, VTI]
+updated: 2026-11-09
 tags: [stock]
 ---
 
@@ -18,15 +18,18 @@ Owns Google Search, YouTube, Android and Google Cloud; most revenue comes from a
 
 | ETF | Weight |
 |---|---|
-| [[VUG]] | 9.1% |
-| [[QQQ]] | 5.9% |
-| [[VOO]] | 5.1% |
-| [[IVV]] | 5.1% |
-| [[SPY]] | 5.1% |
-| [[VTI]] | 4.6% |
+| [[VUG]] | 8.5% |
+| [[QQQ]] | 5.6% |
+| [[IVV]] | 4.7% |
+| [[SPY]] | 4.7% |
+| [[VOO]] | 4.7% |
+| [[VTI]] | 4.2% |
 
 ## Recent news
 
+- **2026-11-09** — Alphabet closed up about 1.2%, trailing the Nasdaq’s 2.7% rebound, per Finnhub data cited by MarketAlleys. ([source](https://www.marketalleys.com/post/apple-rises-2-43-to-350-69-on-nov-9-2026-11-09))
+- **2026-11-09** — Google introduced two more eighth-generation TPU systems: TPU 8tx, aimed at confidential inference for governments and regulated firms using AMD EPYC hosts, and TPU 8i Max, which packs two TPU 8i chips together for double the compute and HBM bandwidth for long-context work. ([source](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/))
+- **2026-11-09** — Shares rose about 2.3% premarket after Bloomberg reported the chips; Amin Vahdat said both arrive next year, and Bloomberg Intelligence expects TPU sales to top $135B by 2028 from about $12B this year (via GuruFocus). ([source](https://uk.finance.yahoo.com/news/alphabet-stock-rises-google-adds-160513423.html))
 - **2026-11-06** — Alphabet was up about 1.4% during Friday's session as the Nasdaq rebounded about 1.1%, per a KuCoin market flash. ([source](https://www.kucoin.com/news/flash/nasdaq-rebounds-after-19-month-largest-drop-amid-ai-sector-volatility))
 - **2026-11-05** — Alphabet fell 2.20% to $282.57, holding up better than most megacaps in the AI selloff. ([source](https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/))
 - **2026-11-05** — Shares rose before the open, which Reuters attributed to views that a slower AI build-out would help Alphabet, then turned lower once trading began. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026))
@@ -36,16 +39,14 @@ Owns Google Search, YouTube, Android and Google Cloud; most revenue comes from a
 - **2026-11-03** — Anthropic's amended IPO filing disclosed a minimum spend of about $121.3B with Google from April 2026 to July 2033, with true-up payments if usage falls short; Alphabet was down about 0.35% in early trading as the Nasdaq rose. ([source](https://finance.yahoo.com/technology/ai/articles/alphabet-stocks-move-lower-121-181127673.html))
 - **2026-11-02** — The amended Anthropic S-1 also said it expects $125B-$150B of additional Google TPU compute to be delivered in 2028-2031, outside its contractual-obligations table; Anthropic's total compute and lease commitments came to about $895B. ([source](https://www.unite.ai/anthropic-details-long-term-compute-commitments-in-amended-ipo-filing/))
 - **2026-11-02** — Alphabet launched a €6B (about $6.7B) euro bond sale in seven parts with maturities of 2 to 19 years, its second euro deal this year, drawing over €17B of orders; it was seen as a test of appetite for AI-related debt after the selloff. ([source](https://thenextweb.com/news/alphabet-6bn-euro-bond-sale-ai-debt))
-- **2026-11-02** — Shares rose as much as about 2.6% early but faded to roughly flat near $278 late in the session as tech reversed lower and the Nasdaq fell about 1.1%; the stock lost almost 19% in October, its worst month on record. ([source](https://en.cryptonomist.ch/2026/11/02/goog-alphabet-stock-trades-27816))
-- **2026-10-30** — Shares slid another ~2% to about $277.42 on above-average volume, near its 12-month low of $270.70; Wells Fargo cut its target to $371 from $417 but kept Overweight. ([source](https://www.marketbeat.com/instant-alerts/analyst-alphabet-nasdaq-googl-price-target-cut-to-37100-by-analysts-at-wells-fargo-company-2026-10-30/))
-- **2026-10-29** — Class A shares closed down about 12.6% at $283.82 after the Q3 miss. ([source](https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-alphabet-slides-on-soft-earnings-microsoft-firms-4981271))
 
 ## Coming up
 
 - **Anthropic IPO (Nasdaq: ANT)** — filed publicly Oct 26, amended S-1 with Q3 results filed Nov 2; Alphabet holds a reported stake (pricing date not yet set)
 - Next earnings date: not found in sources (Q3 was reported Oct 28; Q4 likely early February 2027, unconfirmed)
+- **2027** — TPU 8tx and TPU 8i Max availability (per Google's Amin Vahdat, via GuruFocus)
 
 ## Bull case / bear case
 
-- **Bull:** Bulls (Yorkville's Dan Ives, CFRA, TD Cowen and Guggenheim at Buy) cite Google Cloud revenue more than doubling, an external TPU business, a ~$121B minimum Anthropic commitment and hopes that slower data-center spending could restore free cash flow; the stock outperformed the Nasdaq in the Nov 5 rout.
-- **Bear:** Bears cite the large Q3 EPS miss, ad revenue below forecasts, signs AI may erode search (Pivotal), negative free cash flow on capex that management says will rise significantly in 2027 (plus new commitments such as $15B in Malaysia), possible data-center curbs from a Democratic Congress, and a wave of target cuts (Scotiabank, Raymond James, Susquehanna, KeyBanc, Wells Fargo).
+- **Bull:** Bulls (Yorkville's Dan Ives, CFRA, TD Cowen and Guggenheim at Buy) cite Google Cloud revenue more than doubling, a growing external TPU business (new TPU 8tx and 8i Max chips; Bloomberg Intelligence sees TPU sales above $135B by 2028) and a ~$121B minimum Anthropic commitment, plus hopes that slower data-center spending could restore free cash flow.
+- **Bear:** Bears cite the large Q3 EPS miss, ad revenue below forecasts, signs AI may erode search (Pivotal), negative free cash flow on capex that management says will rise significantly in 2027 (plus new commitments such as $15B in Malaysia), possible data-center curbs from a Democratic Congress, target cuts (Scotiabank, Raymond James, Susquehanna, KeyBanc, Wells Fargo) and a lagging Nov 9 rebound.

@@ -4,18 +4,18 @@ ticker: SCHD
 issuer: Schwab
 aum: $95B
 expense_ratio: 0.06%
-return_ytd: 32.3
-return_1y: 38.0
-data_as_of: 2026-11-05
+return_ytd: 31.4
+return_1y: 37.3
+data_as_of: 2026-11-06
 tags: [etf]
 ---
 
 # SCHD — Schwab U.S. Dividend Equity ETF
 
-> [!info] Snapshot (as of Nov 5, 2026)
+> [!info] Snapshot (as of Nov 6, 2026)
 > **Tracks:** Dow Jones U.S. Dividend 100 (quality dividend payers)  
 > **Issuer:** Schwab · **Assets:** $95B · **Expense ratio:** 0.06%  
-> **Return:** +32.3% this year · +38.0% over 1 year (dividends reinvested)  
+> **Return:** +31.4% this year · +37.3% over 1 year (dividends reinvested)  
 > **Holdings:** 99 stocks · top 10 ≈ 44% of the fund
 
 ## Top 10 holdings

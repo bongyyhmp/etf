@@ -4,36 +4,36 @@ ticker: VGT
 issuer: Vanguard
 aum: $171B
 expense_ratio: 0.09%
-return_ytd: 14.0
-return_1y: 10.6
-data_as_of: 2026-11-05
+return_ytd: 15.6
+return_1y: 14.4
+data_as_of: 2026-11-06
 tags: [etf]
 ---
 
 # VGT — Vanguard Information Technology ETF
 
-> [!info] Snapshot (as of Nov 5, 2026)
+> [!info] Snapshot (as of Nov 6, 2026)
 > **Tracks:** MSCI US IMI Information Technology 25/50  
 > **Issuer:** Vanguard · **Assets:** $171B · **Expense ratio:** 0.09%  
-> **Return:** +14.0% this year · +10.6% over 1 year (dividends reinvested)  
-> **Holdings:** 317 stocks · top 10 ≈ 61% of the fund
+> **Return:** +15.6% this year · +14.4% over 1 year (dividends reinvested)  
+> **Holdings:** 317 stocks · top 10 ≈ 64% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[NVDA]] — NVIDIA | 17.0% |
-| 2 | [[AAPL]] — Apple | 16.5% |
-| 3 | [[MSFT]] — Microsoft | 11.2% |
-| 4 | [[MU]] — Micron Technology | 3.9% |
-| 5 | [[AMD]] — Advanced Micro Devices | 3.3% |
-| 6 | [[AVGO]] — Broadcom | 3.1% |
-| 7 | [[PLTR]] — Palantir Technologies | 1.7% |
-| 8 | [[CSCO]] — Cisco Systems | 1.7% |
-| 9 | [[INTC]] — Intel | 1.6% |
-| 10 | [[AMAT]] — Applied Materials | 1.3% |
+| 1 | [[AAPL]] — Apple | 19.0% |
+| 2 | [[NVDA]] — NVIDIA | 16.7% |
+| 3 | [[MSFT]] — Microsoft | 13.1% |
+| 4 | [[AVGO]] — Broadcom | 3.6% |
+| 5 | [[MU]] — Micron Technology | 3.3% |
+| 6 | [[AMD]] — Advanced Micro Devices | 3.1% |
+| 7 | [[CSCO]] — Cisco Systems | 1.6% |
+| 8 | [[PLTR]] — Palantir Technologies | 1.5% |
+| 9 | [[AMAT]] — Applied Materials | 1.2% |
+| 10 | [[PANW]] — Palo Alto Networks | 1.1% |
 
-*Holdings from the fund's May 31, 2026 SEC filing; weights estimated at Oct 23, 2026 prices; #10 updated from Oct 28 estimates.*
+*Holdings from the fund's Aug 31, 2026 SEC filing; weights estimated at Nov 6, 2026 prices.*
 
 ## Sector mix
 

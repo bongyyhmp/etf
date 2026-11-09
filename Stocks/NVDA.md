@@ -3,8 +3,8 @@ type: stock
 ticker: NVDA
 company: NVIDIA
 sector: Technology
-held_by: [SMH, VGT, XLK, VUG, SOXX, QQQ, VOO, IVV, SPY, VTI]
-updated: 2026-11-06
+held_by: [SMH, VGT, XLK, VUG, SOXX, QQQ, IVV, SPY, VOO, VTI]
+updated: 2026-11-09
 tags: [stock]
 ---
 
@@ -18,19 +18,23 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 
 | ETF | Weight |
 |---|---|
-| [[SMH]] | 22.6% |
-| [[VGT]] | 17.0% |
-| [[XLK]] | 16.0% |
-| [[VUG]] | 13.2% |
-| [[SOXX]] | 9.4% |
-| [[QQQ]] | 8.4% |
-| [[VOO]] | 7.8% |
-| [[IVV]] | 7.8% |
-| [[SPY]] | 7.8% |
-| [[VTI]] | 6.7% |
+| [[SMH]] | 23.0% |
+| [[VGT]] | 16.7% |
+| [[XLK]] | 15.6% |
+| [[VUG]] | 12.3% |
+| [[SOXX]] | 9.7% |
+| [[QQQ]] | 8.0% |
+| [[IVV]] | 7.2% |
+| [[SPY]] | 7.2% |
+| [[VOO]] | 7.2% |
+| [[VTI]] | 6.1% |
 
 ## Recent news
 
+- **2026-11-09** — Nvidia closed down 4.27% at $178.67, back below its end-of-2025 level, while the S&P 500 gained 2.35% and the Nasdaq 2.74% as most chip stocks rallied. ([source](https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html))
+- **2026-11-09** — The selloff centered on the CEO probe; Dan Ives (Yorkville Ives) called Huang irreplaceable, other analysts flagged a near-term overhang and a risk he loses the CEO title, and Bloomberg said the episode could complicate a Xi-Trump meeting at next week's APEC summit in Shenzhen. ([source](https://247wallst.com/investing/2026/11/09/nvidia-falls-5-as-board-probes-jensen-huangs-ties-to-alleged-chinese-spy-amd-rises-4-intel-holds-steady/))
+- **2026-11-09** — Citi strategists cut U.S. equities and technology to neutral from overweight, citing AI-related turbulence; Nvidia was about 5% lower in the morning. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-09-202))
+- **2026-11-08** — Nvidia's board said a committee of independent directors, with outside counsel, will investigate Jensen Huang's relationship with a woman U.S. intelligence suspects of spying for China; in a memo to staff Huang admitted the affair and pledged cooperation, and the board said it sees no sign that company secrets or national security were compromised and still backs him. ([source](https://www.kucoin.com/news/flash/nvidia-shares-drop-amid-board-investigation-semiconductor-index-rises))
 - **2026-11-06** — Nvidia closed up 2.78% (about $186.65), recovering part of Thursday's 9% drop and edging back above its end-of-2025 level, as chip stocks bounced. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026))
 - **2026-11-06** — Three senior House Republicans (Mast, Moolenaar, Crawford) asked Jensen Huang to a closed-door briefing on Nov 18 about his reported contacts with an executive of Singapore-based Megaspeed alleged to have passed information to China; Nvidia did not say whether he would attend and said customers get only ordinary business information. ([source](https://www.thenationalnews.com/future/technology/2026/11/06/jensen-huang-nvidia-china-ai-congress/))
 - **2026-11-05** — Nvidia closed down 9.26% at $181.60, below its $186.50 close at the end of 2025 and erasing its 2026 gain, as the Philadelphia Semiconductor Index sank 12.25%. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026))
@@ -39,10 +43,6 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 - **2026-11-04** — Nvidia closed down about 3.1% and tested the $200 area while the broader market rallied, as the Democratic sweep raised worries about data-center restrictions, power constraints and hyperscaler spending ahead of its Nov 17 report; TradingKey also noted a Melius Research target cut to $315 from $420. ([source](https://www.tradingkey.com/news/market-movers/262275898-market-movers-nvda-20261104))
 - **2026-11-04** — AI data-center builders fell sharply after the Texas governor's race was won by a candidate promising a data-center moratorium, fueling fears of wider limits; Nvidia itself was only modestly lower by late morning. ([source](https://www.stocktitan.net/articles/ai-data-center-stocks-fall-texas-vote-november-4-2026))
 - **2026-11-03** — Nvidia rose about 2.3%, the biggest single lift to the S&P 500, as chip stocks rebounded from recent losses. ([source](https://lancasteronline.com/business/stock_market/nvidia-and-other-big-tech-stocks-lift-the-us-market-despite-drops-for-apple-and/article_b41e7d06-70b5-50ae-8a99-7d089b3583ec.html))
-- **2026-11-02** — Closed down 1.3% at $202.06, near the session low, amid a broad chip and tech selloff with no Nvidia-specific news; Marvell, Intel and AMD fell much harder. ([source](https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-november-3-2026/))
-- **2026-10-30** — Nvidia ended Friday down 4.2% at $204.64 as Intel's weak outlook dragged chip stocks lower; CNBC estimated the selloff cut about $6B from the value of Nvidia's own stake in Intel. ([source](https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-november-2-2026/))
-- **2026-10-30** — Nvidia was down about 5.2% in afternoon trading after a Bloomberg report that it may provide billions in credit guarantees for an Nscale data center expected to serve Anthropic, reviving "circular AI financing" worries; reports put its data-center commitments and guarantees near $165B. ([source](https://finance.yahoo.com/markets/stocks/articles/why-nvidia-stock-took-dive-194907899.html))
-- **2026-10-30** — Chip stocks fell after Intel's weak outlook and PC slump sent it down about 25% premarket; Nvidia was down about 3% premarket, a smaller drop than PC-exposed peers such as AMD and Dell. ([source](https://247wallst.com/investing/2026/10/30/intel-plunges-25-as-weak-outlook-and-pc-slump-overshadow-earnings-beat-dell-tumbles-13-amd-sinks-10-nvidia-falls-3/))
 
 ## Coming up
 
@@ -52,5 +52,5 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 
 ## Bull case / bear case
 
-- **Bull:** Goldman (Buy, $300) sees a positive medium-term AI deployment outlook, Nomura's McElligott framed the Nov 5 rout as profit-taking, and TradingKey cites reaffirmed hyperscaler data-center spending and an average analyst target near $324; the stock bounced on Nov 6 ahead of the Nov 17 report.
-- **Bear:** Reports cite AI-spending and circular-financing worries (TradingKey puts supply and capacity commitments near $250B), post-midterm data-center moratorium risk, DOJ scrutiny of the Hugging Face and Groq deals, a new congressional request for Huang to brief lawmakers on China-linked security concerns, and Melius' target cut and a Seaport Sell rating.
+- **Bull:** Supporters cite the AI demand outlook (Goldman Buy, $300; TradingKey's average target near $324), Nomura's view that the Nov 5 rout was profit-taking, and a board statement that it sees no compromise of company secrets and remains confident in Huang; Dan Ives calls Huang irreplaceable and Capital.com notes the probe need not change underlying demand ahead of the Nov 17 report.
+- **Bear:** The stock fell 4.3% on Nov 9 as a board probe into Huang's ties to a suspected Chinese spy added leadership and China-relations risk to a requested Nov 18 congressional briefing; reports also cite circular-financing and AI-spending worries, post-midterm data-center moratorium risk, Citi's cut of U.S. tech to neutral, Melius' target cut and a Seaport Sell rating.

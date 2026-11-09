@@ -4,36 +4,36 @@ ticker: XLK
 issuer: State Street SPDR
 aum: $124B
 expense_ratio: 0.08%
-return_ytd: 13.2
-return_1y: 10.6
-data_as_of: 2026-11-05
+return_ytd: 14.8
+return_1y: 14.5
+data_as_of: 2026-11-06
 tags: [etf]
 ---
 
 # XLK — Technology Select Sector SPDR Fund
 
-> [!info] Snapshot (as of Nov 5, 2026)
+> [!info] Snapshot (as of Nov 6, 2026)
 > **Tracks:** Technology Select Sector Index (S&P 500 tech stocks)  
 > **Issuer:** State Street SPDR · **Assets:** $124B · **Expense ratio:** 0.08%  
-> **Return:** +13.2% this year · +10.6% over 1 year (dividends reinvested)  
+> **Return:** +14.8% this year · +14.5% over 1 year (dividends reinvested)  
 > **Holdings:** 74 stocks · top 10 ≈ 67% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[NVDA]] — NVIDIA | 16.0% |
-| 2 | [[AAPL]] — Apple | 15.9% |
-| 3 | [[MSFT]] — Microsoft | 12.1% |
-| 4 | [[AMD]] — Advanced Micro Devices | 4.8% |
-| 5 | [[AVGO]] — Broadcom | 4.7% |
-| 6 | [[MU]] — Micron Technology | 4.2% |
-| 7 | [[PLTR]] — Palantir Technologies | 2.6% |
-| 8 | [[CSCO]] — Cisco Systems | 2.4% |
-| 9 | [[INTC]] — Intel | 2.3% |
-| 10 | [[AMAT]] — Applied Materials | 1.8% |
+| 1 | [[AAPL]] — Apple | 17.3% |
+| 2 | [[NVDA]] — NVIDIA | 15.6% |
+| 3 | [[MSFT]] — Microsoft | 13.6% |
+| 4 | [[AVGO]] — Broadcom | 4.8% |
+| 5 | [[AMD]] — Advanced Micro Devices | 4.6% |
+| 6 | [[MU]] — Micron Technology | 3.7% |
+| 7 | [[CSCO]] — Cisco Systems | 2.3% |
+| 8 | [[PLTR]] — Palantir Technologies | 2.3% |
+| 9 | [[INTC]] — Intel | 1.7% |
+| 10 | [[AMAT]] — Applied Materials | 1.7% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Oct 23, 2026 prices; #10 updated from Oct 28 estimates.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 6, 2026 prices.*
 
 ## Sector mix
 
