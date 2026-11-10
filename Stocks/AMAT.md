@@ -4,7 +4,7 @@ ticker: AMAT
 company: Applied Materials
 sector: Technology
 held_by: [SOXX, SMH, XLK, VGT]
-updated: 2026-11-09
+updated: 2026-11-10
 tags: [stock]
 ---
 
@@ -25,6 +25,7 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 
 ## Recent news
 
+- **2026-11-10** — Trefis noted that ahead of the Nov 12 report the stock was about half its $723 record close of June 30 and roughly 27% lower over the past month, while trading near 9.5x trailing sales vs. about 3.1x for the S&P 500; the key figure to watch is fiscal Q4 revenue against the $10.25B guide. ([source](https://www.trefis.com/stock/amat/articles/624081/what-is-driving-applied-materials-stock/2026-11-10))
 - **2026-11-09** — Shares closed up 8.51% ($28.31) at $361.02 after trading as much as about 11% higher, as chip-equipment stocks rebounded ahead of its Nov 12 report; JKN found no company-specific announcement. ([source](https://news.jkn.co.kr/editions/english/post/1081653))
 - **2026-11-09** — Into the report, consensus sits near $10.30B revenue and $4.06 adjusted EPS; UBS (Buy, $695) models $10.45B and a $10.95B fiscal Q1 guide vs. $10.83B expected, while Citi (Buy, reiterated Nov 6) said component shortages hitting equipment peers are a key question but Applied should handle them better. ([source](https://www.tipranks.com/news/applied-materials-amat-heads-into-q4-earnings-amid-supply-worries-heres-what-analysts-expect))
 - **2026-11-06** — Shares jumped 7.87% ($25.14) to close at $344.39 in a broad chip-equipment relief rally after the prior day's rout, helped by Lam Research's new buyback; JKN found no company-specific filing or update. ([source](https://news.jkn.co.kr/editions/english/post/1075679))
@@ -36,7 +37,6 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 - **2026-11-02** — Shares fell about 3.1%, lagging a 2.1% drop in tech-equipment stocks, amid AI-spending worries and position trimming ahead of earnings. ([source](https://www.tradingkey.com/news/market-movers/262264886-market-movers-amat-20261102))
 - **2026-10-30** — Shares fell about 7.1%, underperforming a 4.3% drop in tech-equipment stocks, as chip names sold off ahead of its Nov 12 report. ([source](https://www.tradingkey.com/news/market-movers/262261067-market-movers-amat-20261030))
 - **2026-10-30** — Intel's weak fourth-quarter outlook (revenue of $15B-$16B vs. ~$17.1B expected) set off a global chip rout that erased about $1 trillion in value; equipment makers including Applied Materials and Lam Research fell on doubts about AI-capex growth. ([source](https://finance.biggo.com/news/e843ba2b-1691-487d-b819-4b3f6dc2f1b9))
-- **2026-10-28** — Shares rose about 5% to roughly $416 as SK Hynix's view that tight memory-chip supply could persist for years lifted chip-equipment stocks. ([source](https://www.marketbeat.com/instant-alerts/price-applied-materials-nasdaq-amat-shares-up-51-still-a-buy-2026-10-28/))
 
 ## Coming up
 

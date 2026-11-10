@@ -8,4 +8,5 @@ tags: [sector]
 ## Stocks in your vault
 
 - [[AMZN]] — Amazon
+- [[HD]] — Home Depot
 - [[TSLA]] — Tesla

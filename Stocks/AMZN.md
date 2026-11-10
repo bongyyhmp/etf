@@ -4,7 +4,7 @@ ticker: AMZN
 company: Amazon
 sector: Consumer Discretionary
 held_by: [VUG, QQQ, IVV, SPY, VOO, VTI]
-updated: 2026-11-09
+updated: 2026-11-10
 tags: [stock]
 ---
 
@@ -27,6 +27,9 @@ Runs the largest US online store and AWS, the biggest cloud computing business.
 
 ## Recent news
 
+- **2026-11-10** — Amazon was up about 0.7% at $268.77 at midday, bucking a Nasdaq decline driven by hot inflation data. ([source](https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-midday-nov-10-stocks-slide-on-hot-inflation-data/))
+- **2026-11-10** — Anthropic's updated S-1, which set a $70-$78 IPO price range, shows Amazon holding about 1.92B Class N shares, more than Google's stake, per the Motley Fool. ([source](https://www.fool.com/investing/2026/11/10/alphabet-is-set-to-become-an-even-bigger-anthropic/))
+- **2026-11-09** — Amazon announced its Black Friday Week and Cyber Monday events will run from 12:01 a.m. PST on Nov 19 through Nov 30, with themed daily deal drops and up to 35% off its own devices. ([source](https://aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026))
 - **2026-11-09** — Amazon finished about 2.9% higher in the broad tech rally, per Finnhub data cited by MarketAlleys. ([source](https://www.marketalleys.com/post/apple-rises-2-43-to-350-69-on-nov-9-2026-11-09))
 - **2026-11-09** — JPMorgan's Doug Anmuth named Amazon a top AI pick on the bank's focus list, citing guidance for 40%+ AWS growth in 2027-2028, a path to $1T of AWS revenue in five to ten years and improving capex payback; shares were up 4.05% at $269.79 mid-morning (GuruFocus). ([source](https://www.gurufocus.com/news/9185505/amazon-stocks-rise-405-as-jpmorgan-adds-it-to-focus-list-on-aws))
 - **2026-11-06** — Amazon edged up about 0.3% during Friday's session, trailing the Nasdaq's roughly 1.1% rebound, per a KuCoin market flash. ([source](https://www.kucoin.com/news/flash/nasdaq-rebounds-after-19-month-largest-drop-amid-ai-sector-volatility))
@@ -36,15 +39,13 @@ Runs the largest US online store and AWS, the biggest cloud computing business.
 - **2026-11-04** — Shares surged about 7% to around $269 in the morning as megacap tech led a post-midterm rally, with 24/7 Wall St. also citing AWS's 39% growth, a stronger ADP jobs report and lower Treasury yields. ([source](https://247wallst.com/investing/2026/11/04/amazon-rallies-7-apple-and-microsoft-climb-5-as-big-tech-leads-post-election-rebound/))
 - **2026-11-04** — Freedom Broker raised its price target to $330 from $255 with a Buy rating, per a market roundup. ([source](https://www.timothysykes.com/news/amazoncom-inc-amzn-news-2026_11_04/))
 - **2026-11-03** — Amazon moved higher along with Microsoft and chip stocks as AI heavyweights rebounded, helping the Nasdaq close up about 0.8% on midterm Election Day (Reuters gave no exact figure for Amazon). ([source](https://virginiabusiness.com/nasdaq-ai-chipmakers-rebound-us-midterm-results/))
-- **2026-11-02** — Anthropic's amended IPO filing disclosed a minimum commitment of at least $110B with AWS from May 2026 to April 2036, with true-up payments if spending falls short; it was part of about $895B in total Anthropic compute and lease commitments. ([source](https://www.unite.ai/anthropic-details-long-term-compute-commitments-in-amended-ipo-filing/))
-- **2026-11-02** — Phillip Securities upgraded Amazon to Buy from Accumulate and lifted its target to $330 from $320; shares jumped as much as about 5% in the morning on the post-earnings rebound and AWS strength, then were up about 2.4% near $246 shortly before the close. ([source](https://www.tokenpost.com/news/investing/46921))
-- **2026-10-30** — Shares ended Friday down about 1.4% after the Q3 miss, as the Nasdaq fell 2.9% in its worst day in nearly five months. ([source](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-2-132700821.html))
 
 ## Coming up
 
+- **2026-11-19** — Black Friday Week and Cyber Monday deals begin (through Nov 30); Anthropic, in which Amazon is a large holder, is expected to start trading Nov 19 or 20 (per WSJ)
 - Next earnings date: not found in sources (Q3 reported 2026-10-29; Q4 likely late January/early February 2027, unconfirmed); Q4 guidance calls for $240B-$247B in sales
 
 ## Bull case / bear case
 
-- **Bull:** Bulls (JPMorgan's Doug Anmuth naming it a top AI pick, plus UBS, Mizuho, MoffettNathanson, TD Cowen, Evercore and Freedom Broker) point to AWS growth accelerating to 39%, a $578B AWS backlog, Anthropic's $110B minimum AWS commitment and guidance for AWS growth above 40% in 2027 and 2028.
+- **Bull:** Bulls (JPMorgan's Doug Anmuth naming it a top AI pick, plus UBS, Mizuho, MoffettNathanson, TD Cowen, Evercore and Freedom Broker) point to AWS growth accelerating to 39%, a $578B AWS backlog, Anthropic's $110B minimum AWS commitment plus a ~1.92B-share Anthropic stake ahead of the IPO, and guidance for AWS growth above 40% in 2027 and 2028.
 - **Bear:** Critics point to the Q3 EPS and advertising misses, a $42.4B trailing free-cash-flow outflow with capex near $220B, the ongoing FTC and state ad-pricing lawsuit, possible tougher data-center rules after the midterms, target cuts from Citizens, Baird and BofA, and a share price GuruFocus puts slightly above its own fair-value estimate.

@@ -4,18 +4,18 @@ ticker: SMH
 issuer: VanEck
 aum: $77B
 expense_ratio: 0.35%
-return_ytd: 28.8
-return_1y: 32.6
-data_as_of: 2026-11-06
+return_ytd: 35.3
+return_1y: 40.5
+data_as_of: 2026-11-09
 tags: [etf]
 ---
 
 # SMH — VanEck Semiconductor ETF
 
-> [!info] Snapshot (as of Nov 6, 2026)
+> [!info] Snapshot (as of Nov 9, 2026)
 > **Tracks:** MVIS US Listed Semiconductor 25  
 > **Issuer:** VanEck · **Assets:** $77B · **Expense ratio:** 0.35%  
-> **Return:** +28.8% this year · +32.6% over 1 year (dividends reinvested)  
+> **Return:** +35.3% this year · +40.5% over 1 year (dividends reinvested)  
 > **Holdings:** 25 stocks · top 10 ≈ 74% of the fund
 
 ## Top 10 holdings
@@ -47,5 +47,6 @@ tags: [etf]
 - **2026-10-30** — Dropped about 7.9% intraday as chip stocks sold off after Intel's weak Q4 outlook and renewed worries about Big Tech AI spending. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-30-2026))
 
 ## Sources
+- [Fund quote: price, assets and returns](https://chartrow.com/quote/smh)
 - [Fund holdings](https://chartrow.com/quote/smh/holdings)
 - [Assets, fees and returns](https://chartrow.com/lists/biggest-etfs)

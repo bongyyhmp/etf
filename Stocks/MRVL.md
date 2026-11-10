@@ -4,7 +4,7 @@ ticker: MRVL
 company: Marvell Technology
 sector: Technology
 held_by: []
-updated: 2026-11-09
+updated: 2026-11-10
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Designs data-infrastructure chips: custom AI chips, networking and storage contr
 
 ## Recent news
 
+- **2026-11-10** — Marvell fell about 2.9% in afternoon trading, leading declines among chip names such as Intel, Micron and Qualcomm. ([source](https://www.kucoin.com/news/flash/chip-stocks-drop-in-u-s-trading-marvell-tech-falls-2-9))
+- **2026-11-09** — Bloomberg reported that analysts see roughly even odds that the $115B Lumentum acquisition closes, as the AI trade wobbles. ([source](https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders))
 - **2026-11-09** — Marvell rose about 8.6% as investors rotated back into semiconductors, extending Friday's gain; ad-hoc-news also listed fiscal Q3 results for Dec 1. ([source](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/marvell-s-8-6-prozent-jump-draws-the-eye-but-the-lumentum-clock-runs-to-2028/70482110))
 - **2026-11-09** — Lumentum climbed about 11% to roughly $596 in early trading alongside Marvell (up about 9% near $153), with the target's shares largely tracking its acquirer under the all-stock deal. ([source](https://247wallst.com/investing/2026/11/09/coherent-jumps-13-as-optical-stocks-extend-ai-rebound-lumentum-surges-11-applied-optoelectronics-rises-4/))
 - **2026-11-09** — KuCoin's market note put Marvell up 9.23% at $154.24 during the session but still well below its 20-, 50- and 200-day moving averages, flagging $171 as resistance and $147 as support. ([source](https://www.kucoin.com/news/flash/marvell-technology-stock-surges-9-23-amid-broader-tech-recovery))
@@ -32,8 +34,6 @@ Designs data-infrastructure chips: custom AI chips, networking and storage contr
 - **2026-11-04** — Shares fell about 5% to close near $163.21 (down as much as ~8% intraday), a fifth straight decline to the lowest level since May and roughly half the all-time high, as the Lumentum dilution debate continued and AI-hardware names sold off after the midterms. ([source](https://news.jkn.co.kr/editions/english/post/1070706))
 - **2026-11-04** — Cantor Fitzgerald cut its target to $225 from $350, and Susquehanna, RBC, Wells Fargo, Needham and UBS also trimmed targets after the Lumentum deal, per InvestingCube. ([source](https://www.investingcube.com/shares/marvell-stock-tests-key-support-after-the-lumentum-deal-as-analysts-slash-its-price-target/))
 - **2026-11-03** — Bank of America cut the stock to Neutral (target $225 from $400) and TD Cowen to Hold (target $175 from $350), both pointing to the Lumentum deal. ([source](https://finance.yahoo.com/markets/stocks/articles/analysts-downgrade-marvell-slash-price-133715676.html))
-- **2026-11-03** — Shares edged up about 2% to around $174.50 midday as chip stocks bounced, after Monday's deal-driven slide left them near $171. ([source](https://247wallst.com/investing/2026/11/03/amd-advances-5-intel-rises-4-marvell-gains-2-as-chip-stocks-bounce-ahead-of-amd-earnings/))
-- **2026-11-02** — Shares fell about 6-7% to around $183 in morning trade, down roughly 28% from the Oct 28 close, as investors focused on dilution; Lumentum dropped about 10%. ([source](https://www.tradingview.com/news/gurufocus:419f06afd094b:0-marvell-stocks-decline-6-8-with-lumentum-deal-putting-dilution-ahead-of-synergies/))
 
 ## Coming up
 
@@ -43,4 +43,4 @@ Designs data-infrastructure chips: custom AI chips, networking and storage contr
 ## Bull case / bear case
 
 - **Bull:** Analysts (Piper Sandler, Jefferies; MarketBeat consensus Moderate Buy) and Morningstar cite AI custom-chip and optical demand and a strong fit with Lumentum's lasers; management promises first-year EPS accretion, over $1B in cost synergies, a $70-90B fiscal-2031 revenue goal and fiscal Q3 revenue tracking guidance, and the stock rebounded about 15% over Nov 6-9.
-- **Bear:** BofA and TD Cowen downgraded and several firms cut targets over dilution from the all-stock Lumentum deal; the Motley Fool flags data-center moratorium risk, a deal value that shrinks with Marvell's price and a long regulatory review including China, and technical commentary notes the stock remains below all its key moving averages.
+- **Bear:** BofA and TD Cowen downgraded and several firms cut targets over dilution from the all-stock Lumentum deal, which analysts cited by Bloomberg give roughly coin-flip odds of closing; the Motley Fool flags data-center moratorium risk, a deal value that shrinks with Marvell's price and a long review including China, and the stock remains below all its key moving averages.

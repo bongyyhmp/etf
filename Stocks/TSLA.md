@@ -4,7 +4,7 @@ ticker: TSLA
 company: Tesla
 sector: Consumer Discretionary
 held_by: [QQQ, VUG, IVV, SPY, VOO, VTI]
-updated: 2026-11-09
+updated: 2026-11-10
 tags: [stock]
 ---
 
@@ -27,6 +27,8 @@ Makes electric vehicles and energy storage systems, and is developing self-drivi
 
 ## Recent news
 
+- **2026-11-10** — Shares slipped about 0.6% to $375.75 in early trading, giving back part of Monday's 5.5% gain; GuruFocus said Tesla has not disclosed San Antonio hours, service area, fleet size or whether safety monitors ride along, and noted paid robotaxi miles fell in Q2 from Q1. ([source](https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-move-lower-day-174917522.html))
+- **2026-11-09** — Tesla began robotaxi rides in San Antonio at 5 a.m. local time Monday, adding to Austin and limited areas of Miami, Orlando, Dallas, Fort Worth and Houston; shares closed at $378.05, up 5.54%. ([source](https://www.heygotrade.com/en/news/tesla-tsla-stock-news-november-10-2026/))
 - **2026-11-09** — Tesla ended about 5.5% higher, the top Magnificent Seven gainer on the day, per Finnhub data cited by MarketAlleys. ([source](https://www.marketalleys.com/post/apple-rises-2-43-to-350-69-on-nov-9-2026-11-09))
 - **2026-11-09** — Musk said Tesla will have to refund deposits for "a lot of people" because Cybertruck orders exceed what it can build before the line closes in about eight months; a Nov 7 post put the shutdown around June-July 2027 and promised an extra shift. ([source](https://stockanalysis.com/news/tesla-to-refund-cybertruck-deposits/))
 - **2026-11-09** — Shares traded near $376.68 in the afternoon despite the refund comments, which coverage tied mainly to a return of risk appetite; the stock was still down about 6% over the past week. ([source](https://finance.yahoo.com/markets/stocks/articles/tesla-rises-5-despite-musk-190434224.html))
@@ -37,8 +39,6 @@ Makes electric vehicles and energy storage systems, and is developing self-drivi
 - **2026-11-05** — Tesla tumbled 10.77% to $343.69, its second straight decline, as SpaceX also fell about 9%. ([source](https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/))
 - **2026-11-05** — Democrats' Texas wins (governor and a Senate seat taken by James Talarico, a Musk critic) fed worries; Dan Ives said a SpaceX-Tesla deal now faces a much harder regulatory path in 2027 and Texas data-center buildouts will slow, while Goldman estimated local moratoria could touch ~45% of planned U.S. data-center capacity growth. ([source](https://finance.yahoo.com/markets/article/spacex-tesla-stocks-tumble-as-democratic-sweep-raises-questions-on-merger-prospects-ai-buildout-153753814.html))
 - **2026-11-04** — Shares fell about 3.5% as Democrats won Congress, raising concerns about more scrutiny of Musk's businesses and autonomous driving; TradingKey also cited CPCA data showing October sales of China-made Teslas down 28.9% from September to 67,829. ([source](https://www.tradingkey.com/news/market-movers/262274725-market-movers-tsla-20261104))
-- **2026-11-04** — Coverage said investors worry the midterm result could add obstacles to a possible SpaceX-Tesla combination and closer scrutiny of Musk's federal contracting; Tesla is down about 14% in 2026. ([source](https://finance.yahoo.com/markets/stocks/articles/why-shares-elon-musk-tesla-170754769.html))
-- **2026-11-03** — Tesla and SpaceX objected to having their shares offered on the planned OKX-ICE tokenized-stock venue, joining Amazon, Netflix and others in a list that grew to 56 issuers. ([source](https://finance.yahoo.com/markets/crypto/articles/elon-musk-tesla-spacex-block-174615605.html))
 
 ## Coming up
 
@@ -50,5 +50,5 @@ Makes electric vehicles and energy storage systems, and is developing self-drivi
 
 ## Bull case / bear case
 
-- **Bull:** Barclays and ARK Invest cite SpaceX-combination optionality and robotaxi potential, and Dan Ives still expects a merger; supporters also point to a Q3 delivery beat, Musk saying Cybertruck orders exceed production as the line shifts to Cybercab, construction starting on a $10.1B Texas solar plant, and a 5.5% rebound on Nov 9.
-- **Bear:** Reports cite a 56% drop in Q3 operating income, a 28.9% month-on-month fall in October China-made sales, Cybertruck deposit refunds and a weak sales history (about 71,000 since launch, per Kelley Blue Book), a harder regulatory path for a SpaceX deal after Democratic wins in Texas (Ives), a trailing P/E near 383 (GuruFocus) and Scottish Mortgage's reported exit.
+- **Bull:** Barclays and ARK Invest cite SpaceX-combination optionality and robotaxi potential, and Dan Ives still expects a merger; supporters also point to a Q3 delivery beat, a new robotaxi city (San Antonio) on Nov 9, Musk saying Cybertruck orders exceed production as the line shifts to Cybercab, and construction starting on a $10.1B Texas solar plant.
+- **Bear:** Reports cite a 56% drop in Q3 operating income, a 28.9% month-on-month fall in October China-made sales, Cybertruck deposit refunds and weak sales history, sparse disclosure on robotaxi fleets and falling Q2 paid miles (GuruFocus), a harder regulatory path for a SpaceX deal after Democratic wins in Texas (Ives), a P/E above 400 (GuruFocus) and Scottish Mortgage's reported exit.

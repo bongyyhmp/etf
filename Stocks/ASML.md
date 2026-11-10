@@ -4,7 +4,7 @@ ticker: ASML
 company: ASML Holding
 sector: Technology
 held_by: [SMH]
-updated: 2026-11-09
+updated: 2026-11-10
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 
 ## Recent news
 
+- **2026-11-10** — ASML traded near EUR 1,350 in early European dealings; Zacks Research kept a Hold rank, citing strong AI-related EUV demand (EUV revenue seen up more than 45% in 2026) against execution risks, China exposure of about 20% of 2026 sales and a forward P/E near 23.6x vs. a five-year median of 31.3x. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/asml-holding-stock-faces-execution-test-as-ai-demand-stays-strong/70484907))
 - **2026-11-09** — Shares rebounded about 6% intraday (near $1,509-$1,514 in the afternoon) with the chip group; a Motley Fool contributor called the AI selloff overdone and pointed to a weekend Nikkei report that Musk's Terafab project targets 1 million wafers a month by 2032, which would need many EUV tools. ([source](https://www.fool.com/investing/2026/11/09/why-asml-bounced-back-today/))
 - **2026-11-09** — 24/7 Wall St. found no ASML-specific catalyst for the gain, recalling its October raise of 2026 sales guidance to EUR 44-45B, and put its forward multiple near 24x earnings, the highest among the big equipment names. ([source](https://247wallst.com/investing/2026/11/09/applied-materials-jumps-11-ahead-of-earnings-lam-research-surges-9-asml-rises-6/))
 - **2026-11-06** — ASML gained about 5.3% per TradingKey as chip-equipment names rebounded, with no company announcement; it cited reaffirmed chipmaker capacity plans, high-NA EUV progress and short covering, and put the average analyst target near $2,204. ([source](https://www.tradingkey.com/news/market-movers/262292575-market-movers-asml-20261106))
@@ -33,7 +34,6 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 - **2026-10-30** — US-listed shares closed down 6.55% at $1,565.90, a steeper final loss than intraday reports showed, as the chip-equipment group sold off. ([source](https://www.heygotrade.com/en/us-stock/asml/))
 - **2026-10-30** — US-listed shares fell about 4.8%, slightly worse than a 4.2% drop in tech-equipment stocks. ([source](https://www.tradingkey.com/news/market-movers/262260990-market-movers-asml-20261030))
 - **2026-10-30** — ASML slid about 5.4% in Europe as Intel's weak Q4 outlook triggered a global chip selloff that wiped roughly $1 trillion off semiconductor stocks and hit equipment makers on AI-capex doubts. ([source](https://finance.biggo.com/news/e843ba2b-1691-487d-b819-4b3f6dc2f1b9))
-- **2026-10-27** — US-listed shares rose about 2.8% to around $1,636 on the ex-dividend date for a roughly $2.11 per-share payout; no specific catalyst was cited. ([source](https://www.thestockobserver.com/2026/10/27/asml-nasdaqasml-shares-climb-2-8-still-a-buy.html))
 
 ## Coming up
 

@@ -4,7 +4,7 @@ ticker: JNJ
 company: Johnson & Johnson
 sector: Healthcare
 held_by: [VTV]
-updated: 2026-11-09
+updated: 2026-11-10
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Makes prescription drugs and medical devices.
 
 ## Recent news
 
+- **2026-11-10** — J&J said Caplyta (lumateperone) met the primary endpoint of a second pivotal Phase 3 trial (Study 452) in bipolar I mania, cutting YMRS scores 3.7 points more than placebo at week 3 with benefit seen from day 3; it plans an FDA submission for this use, which is not yet approved. ([source](https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-caplyta-lumateperone-shows-significant-and-rapid-improvement-in-bipolar-mania-in-second-pivotal-phase-3-study))
+- **2026-11-10** — Trefis noted the Nov 9 close was a 52-week high, with shares up 38.5% year to date, while trailing net income fell about 36% on roughly $7B of Q3 talc and deal charges, lifting the P/E to about 42 from 18 a year ago. ([source](https://www.trefis.com/stock/jnj/articles/624058/what-usually-comes-after-a-new-high-in-johnson-johnson-stock/2026-11-10))
 - **2026-11-09** — Shares rose about 2.1-2.3% to an all-time high of about $282 in Monday trading, above MarketBeat's ~$275.92 consensus target (Moderate Buy); InvestingPro flagged the stock as trading above its fair value after a roughly 51% one-year gain. ([source](https://www.investing.com/news/company-news/johnson-and-johnson-stock-hits-alltime-high-of-28203-usd-93CH-5012972), [MarketBeat](https://www.thecerbatgem.com/2026/11/09/johnson-johnson-nysejnj-sets-new-52-week-high-heres-why.html))
 - **2026-11-07** — At ACR Convergence 2026, J&J said its oral peptide Icotyde (icotrokinra) met the primary endpoint of the Phase 3 ICONIC-PsA 1 study in biologic-naive psoriatic arthritis, with 58% reaching ACR20 at week 16 vs. 41% on placebo and much higher skin clearance; it is not yet approved for this use. ([source](https://www.prnewswire.com/news-releases/johnson--johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide-302932455.html))
 - **2026-11-05** — The FDA granted accelerated approval to Rybrevant Faspro (subcutaneous amivantamab) as a single agent for recurrent or metastatic head and neck squamous cell cancer after platinum chemo and anti-PD-(L)1 therapy, excluding HPV-linked oropharyngeal cases; the 102-patient OrigAMI-4 cohort showed a 42% confirmed response rate, and full approval may depend on the Phase 3 OrigAMI-5 trial. ([source](https://www.biopharminternational.com/view/fda-accelerated-approval-rybrevant-faspro-amivantamab-head-neck-cancer))
@@ -32,8 +34,6 @@ Makes prescription drugs and medical devices.
 - **2026-11-03** — Shares slipped about 1.1% to roughly $267.59 in Tuesday trading with no company-specific news cited, extending a pullback from the Oct 30 high of about $282. ([source](https://www.marketbeat.com/instant-alerts/list-top-pharmaceutical-stocks-to-watch-today-november-3rd-2026-11-03/))
 - **2026-11-02** — New analyses presented at the TCT 2026 meeting tied J&J's Impella heart pumps to lower short-term mortality in high-risk coronary procedures; Simply Wall St noted the stock closed at $273.20 the prior session and is up about 32% year to date, while its most-followed fair-value estimate (~$241) sits below the price. ([source](https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-jnj-impella-data-190958944.html))
 - **2026-10-30** — Shares hit a new 12-month high of about $282 intraday and traded near $278, up roughly 1%, above MarketBeat's ~$275.92 consensus target (Moderate Buy). ([source](https://www.marketbeat.com/instant-alerts/price-johnson-johnson-nyse-jnj-reaches-new-12-month-high-still-a-buy-2026-10-30/))
-- **2026-10-28** — BioSpace highlighted a Leerink Partners report naming J&J the most likely big-pharma acquirer, given about $21B of cash, its market cap and management comments; CEO Joaquin Duato has said J&J can grow double digits this decade without M&A. ([source](https://biospace.com/business/big-pharma-is-ready-to-strike-with-j-j-most-likely-to-buy-leerink))
-- **2026-10-27** — J&J said it will hold an Enterprise Business Review for investors on Dec 8, covering its Innovative Medicine and MedTech pipelines and long-term strategy. ([source](https://www.jnj.com/media-center/press-releases/johnson-johnson-to-host-enterprise-business-review/2026))
 
 ## Coming up
 
@@ -42,5 +42,5 @@ Makes prescription drugs and medical devices.
 
 ## Bull case / bear case
 
-- **Bull:** Bernstein, RBC and Citi cite 6.1% Q3 organic growth, a 3% EPS beat and Innovative Medicine strength, including Icotyde, which posted positive Phase 3 psoriatic arthritis data at ACR on Nov 7; the accelerated FDA approval of Rybrevant Faspro in head and neck cancer, early Halda prostate cancer data, Impella heart pump data and Leerink's view of J&J as the best-funded likely acquirer add to interest, and shares hit an all-time high on Nov 9.
-- **Bear:** Wells Fargo, BofA and Leerink flag 2027 pressure from deal dilution (Trefis: $1.36 of 2027 EPS), MedTech slowing and loss-of-exclusivity headwinds; Erste, InvestingPro and Simply Wall St see a full valuation, with shares above MarketBeat's ~$276 consensus target, and the Smith & Nephew orthopaedics talks reportedly collapsed.
+- **Bull:** Bernstein, RBC and Citi cite 6.1% Q3 organic growth, a 3% EPS beat and Innovative Medicine strength (Tremfya up 68%, per Trefis), including positive Phase 3 data for Icotyde in psoriatic arthritis and for Caplyta in bipolar mania; the accelerated FDA approval of Rybrevant Faspro in head and neck cancer, Impella heart pump data and Leerink's view of J&J as the best-funded likely acquirer add to interest.
+- **Bear:** Wells Fargo, BofA and Leerink flag 2027 pressure from deal dilution (Trefis: $1.36 of 2027 EPS), MedTech slowing and loss-of-exclusivity headwinds; Erste, InvestingPro and Simply Wall St see a full valuation, with shares above MarketBeat's ~$276 consensus target and a trailing P/E near 42 after charges (Trefis), and the Smith & Nephew orthopaedics talks reportedly collapsed.

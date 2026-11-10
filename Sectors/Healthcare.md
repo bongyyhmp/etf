@@ -8,6 +8,7 @@ tags: [sector]
 ## Stocks in your vault
 
 - [[ABBV]] — AbbVie
+- [[ABT]] — Abbott Laboratories
 - [[AMGN]] — Amgen
 - [[JNJ]] — Johnson & Johnson
 - [[LLY]] — Eli Lilly

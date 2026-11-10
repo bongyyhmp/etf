@@ -4,7 +4,7 @@ ticker: MSFT
 company: Microsoft
 sector: Technology
 held_by: [XLK, VGT, VUG, QQQ, IVV, SPY, VOO, VTI]
-updated: 2026-11-09
+updated: 2026-11-10
 tags: [stock]
 ---
 
@@ -29,6 +29,8 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 
 ## Recent news
 
+- **2026-11-10** — Shares fell about 2% (Motley Fool's midday quote: -2.6% near $531) after Anthropic introduced Claude Sheets, Claude Whiteboards and Claude Data, tools seen as competing with Microsoft Office, amid a broad tech slide on hot CPI data. ([source](https://uk.finance.yahoo.com/news/microsoft-stock-drops-anthropic-unveils-191336293.html))
+- **2026-11-10** — Anthropic's amended IPO filing listed Microsoft as one of seven companies buying into a $26B private placement of nonvoting Class N shares at the IPO price ($70-$78 range); GuruFocus put Microsoft's share at about $1.0B, small next to Anthropic's Azure compute commitments. ([source](https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-move-lower-despite-173936237.html))
 - **2026-11-09** — Microsoft rose about 2.75% as megacap tech rebounded and the Nasdaq gained 2.74%, per Finnhub data cited by MarketAlleys. ([source](https://www.marketalleys.com/post/apple-rises-2-43-to-350-69-on-nov-9-2026-11-09))
 - **2026-11-09** — TradingKey (which put the gain at 3.24%) attributed the move to optimism about Copilot seat deployments, Azure consumption and easing compute constraints, while flagging capex above $39B a quarter and a valuation near 66x free cash flow; average analyst target about $629. ([source](https://www.tradingkey.com/news/market-movers/262296988-market-movers-msft-20261109))
 - **2026-11-08** — A Motley Fool column revisited Nov 5 Bloomberg and FT reports that Microsoft tightened oversight of neocloud projects (Nebius, IREN, Nscale) and passed on an option to more than double its Nscale Texas deal; Microsoft has not confirmed the reports, and shares were near $535. ([source](https://finance.yahoo.com/markets/stocks/articles/microsoft-reportedly-getting-pickier-ai-175802004.html))
@@ -38,9 +40,7 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 - **2026-11-05** — TradingKey tied the drop to doubts over how soon AI infrastructure spending pays off, Azure capacity limits, rising depreciation and higher long-term yields; it put the average analyst target near $629. ([source](https://www.tradingkey.com/news/market-movers/262283228-market-movers-msft-20261105))
 - **2026-11-04** — Shares jumped about 7% to close at $556.48 (up $35.49), hitting a new 52-week high of $559.15, as megacap software names rallied after the midterm results even while AI-hardware stocks fell. ([source](https://seekingalpha.com/news/4665563-microsoft-climbs-7-to-hit-new-52-week-high))
 - **2026-11-04** — Coverage described a split in tech after the Democratic sweep: software (Microsoft, Alphabet) rose while hardware names such as Nvidia, Tesla and Intel fell on worries about tighter AI rules and data-center scrutiny. ([source](https://finance.yahoo.com/markets/stocks/articles/tech-ai-stocks-split-democratic-170603319.html))
-- **2026-11-03** — Shares gained about 3.1%, well ahead of a ~0.4% rise for software and IT-services peers, as investors rotated back into megacap AI names; TradingKey put the average analyst target near $629 while flagging capex and free-cash-flow concerns. ([source](https://www.tradingkey.com/news/market-movers/262269145-market-movers-msft-20261103))
 - **2026-11-03** — Anthropic's amended IPO filing showed it has committed to spend at least $44.9B with Microsoft through June 2033; MSFT was up about 1.3% near $514 mid-morning, though GuruFocus stressed the figure is a commitment rather than booked revenue. ([source](https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-rise-44-9-180955025.html))
-- **2026-11-02** — Microsoft dropped about 2.8% as the Nasdaq fell roughly 1.1% in a tech reversal. ([source](https://www.heygotrade.com/en/news/tesla-tsla-stock-news-november-3-2026/))
 
 ## Coming up
 
@@ -49,5 +49,5 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (UBS, Wells Fargo, Citi, BofA, TD Cowen) raised targets after 48% Azure growth and ~49% Azure guidance, with management saying demand still exceeds supply; Anthropic's $44.9B commitment adds visibility, and TradingKey linked the Nov 9 rebound to Copilot adoption and easing capacity limits (average target ~$629).
-- **Bear:** Skeptics cite a 12% drop in commercial bookings, capex heading toward ~$170B a year partly funded by a $25B bond sale, free cash flow down about 23% over four quarters (Motley Fool), a valuation near 66x free cash flow (TradingKey), reported pullbacks from neocloud and Oracle capacity deals, and possible tighter data-center rules under a Democratic Congress.
+- **Bull:** Analysts (UBS, Wells Fargo, Citi, BofA, TD Cowen) raised targets after 48% Azure growth and ~49% Azure guidance, with management saying demand still exceeds supply; Anthropic's $44.9B spending commitment plus a ~$1B stake in its IPO placement add visibility, and TradingKey cites Copilot adoption and an average target near $629.
+- **Bear:** Skeptics cite a 12% drop in commercial bookings, capex heading toward ~$170B a year, free cash flow down about 23% over four quarters (Motley Fool), a valuation near 66x free cash flow (TradingKey), reported pullbacks from neocloud and Oracle capacity deals, and new Anthropic office tools seen as a challenge to Microsoft 365, which helped push shares down ~2% on Nov 10.

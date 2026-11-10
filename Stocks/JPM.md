@@ -4,7 +4,7 @@ ticker: JPM
 company: JPMorgan Chase
 sector: Financials
 held_by: [VTV]
-updated: 2026-11-09
+updated: 2026-11-10
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ The largest US bank: consumer banking, credit cards, investment banking and asse
 
 ## Recent news
 
+- **2026-11-09** — Reuters reported, via Ad-hoc News, that JPMorgan's loans backed by other income-producing properties, a category including data centers, reached $29B at the end of Q3, or 12% of its commercial real estate book versus 8% three years earlier, as lenders tighten scrutiny of AI infrastructure financing. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-chase-stock-faces-ai-lending-test-as-data-center-loans-reach-usd-29-billion/70487192))
 - **2026-11-09** — Shares rose about 2% to around $342.80 in Monday trading as banks joined a broad rebound led by AI and growth stocks, lagging Goldman Sachs (+5%) and Morgan Stanley (+4%); 24/7 Wall St. tied the smaller gain to JPMorgan's universal-bank model being less dependent on IPO and deal fees. ([source](https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-climbs-4-vinyl-190218879.html))
 - **2026-11-06** — Citing a CNBC report, Ad-hoc News said Senate Democrats could probe JPMorgan's past Jeffrey Epstein relationship once they control Congress, possibly using Finance Committee subpoena power under expected chair Ron Wyden; no inquiry has been announced, and the bank says it regrets the association but denies helping his crimes. Shares traded about 1.4% higher in German trading. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-chase-stock-trades-higher-as-senate-scrutiny-looms/70470716))
 - **2026-11-05** — Shares fell about 3.5% in the broad selloff, giving back much of Wednesday's post-midterm gain; TradingKey pointed to shifting rate expectations and net interest income worries, credit-quality concerns and uncertainty over capital rules. ([source](https://www.tradingkey.com/news/market-movers/262283065-market-movers-jpm-20261105))
@@ -41,4 +42,4 @@ The largest US bank: consumer banking, credit cards, investment banking and asse
 ## Bull case / bear case
 
 - **Bull:** Analysts cite a raised 2026 net interest income outlook of about $106B, 10% loan growth, improving card charge-offs, a higher dividend, Barclays' Overweight rating with a $425 target, and UBS's Nov 2 target raise to $400 (Buy); the bank says it has stress-tested its balance sheet for higher rates.
-- **Bear:** Commentators flag the Q3 EPS and revenue miss, Hold-rated coverage from TD Cowen and Citi (target cut to $350), expenses growing faster than revenue, a sharp buyback cut, a lower CET1 ratio, rate-volatility and credit worries behind the Nov 5 drop (TradingKey), and a Democratic Congress that may bring tougher bank oversight and a possible Senate look at the bank's Epstein ties.
+- **Bear:** Commentators flag the Q3 EPS and revenue miss, Hold-rated coverage from TD Cowen and Citi (target cut to $350), expenses growing faster than revenue, a sharp buyback cut, a lower CET1 ratio, rising data-center-linked property lending (Reuters: $29B), rate-volatility and credit worries (TradingKey), and a Democratic Congress that may bring tougher bank oversight and a possible Senate look at the bank's Epstein ties.

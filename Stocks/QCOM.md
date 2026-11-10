@@ -3,8 +3,8 @@ type: stock
 ticker: QCOM
 company: Qualcomm
 sector: Technology
-held_by: [SMH, SCHD]
-updated: 2026-11-09
+held_by: [SMH]
+updated: 2026-11-10
 tags: [stock]
 ---
 
@@ -19,10 +19,11 @@ Designs chips and modems for smartphones, cars and PCs, and licenses wireless pa
 | ETF | Weight |
 |---|---|
 | [[SMH]] | 4.6% |
-| [[SCHD]] | 4.4% |
 
 ## Recent news
 
+- **2026-11-10** — Qualcomm closed up 1.20% at $173.53, trading between $167.20 and $174.41 on lighter-than-average volume. ([source](https://fool.com/investing/2026/11/10/prediction-this-underrated-semiconductor-stock-will-jump-187-in-3-years))
+- **2026-11-10** — A Motley Fool contributor argued non-handset growth could drive a large gain by 2029, citing fiscal 2026 automotive revenue up 52% to $6B, about $5B of expected fiscal 2027 data-center revenue and Amazon and Meta agreements, while noting fiscal 2026 EPS fell 12% and Q3 smartphone shipments dropped 20% per Counterpoint. ([source](https://fool.com/investing/2026/11/10/prediction-this-underrated-semiconductor-stock-will-jump-187-in-3-years))
 - **2026-11-09** — Qualcomm closed at $172.02, up 4.00%, with the gain attributed to broad tech and chip momentum rather than a company announcement. ([source](https://news.jkn.co.kr/editions/english/post/1081690))
 - **2026-11-09** — Freedom Broker cut Qualcomm to Hold from Buy and its target to $185 from $200, saying new growth engines will weigh on margins longer than assumed; it raised revenue estimates but trimmed EPS forecasts about 3% for fiscal 2027 and 8% for fiscal 2028. ([source](https://www.investing.com/news/analyst-ratings/freedom-broker-downgrades-qualcomm-stock-rating-on-margin-concerns-93CH-5013110))
 - **2026-11-06** — Qualcomm closed up 5.52% (about $165.40), rebounding from its post-earnings drop as investors focused on the SpaceX Starlink Mobile 5G deal and the broader chip bounce; Evercore ISI nudged its target up to $165 and UBS (Neutral) moved to $180. ([source](https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-rallying-today-93CH-5008747))
@@ -33,8 +34,6 @@ Designs chips and modems for smartphones, cars and PCs, and licenses wireless pa
 - **2026-11-04** — Automotive revenue jumped 89% to a record ~$1.99B and licensing (QTL) fell 7% to $1.30B; Qualcomm reiterated a $5B fiscal-2027 data-center revenue target (at least $650M in the December quarter) and said Amazon is in production, while flagging rising memory and other component costs. ([source](https://www.securities.io/qualcomm-keeps-5-billion-data-center-target-as-handset-revenue-falls/))
 - **2026-11-04** — SpaceX picked Qualcomm's Dragonwing radio and baseband platforms for Starlink Mobile's planned US terrestrial 5G network, with deployment of tens of thousands of sites to start in 2027; financial terms were not disclosed. ([source](https://rcrwireless.com/20261104/network-infrastructure/spacex-taps-qualcomm-for-starlink-mobile-5g-network-buildout))
 - **2026-11-04** — Ahead of the report, shares rose about 3.6% in the regular session to around $170. ([source](https://247wallst.com/cards/qualcomm-qcom-price-swing-01m6m58ypx68xmz5rs6rcz6zyx))
-- **2026-11-03** — Options traders priced in a post-earnings swing of roughly 9.6% in either direction; TipRanks counts 3 Buy, 6 Hold and 2 Sell ratings with an average target near $197, and the stock was about 5% lower for the year. ([source](https://www.tipranks.com/news/qualcomm-stock-qcom-could-move-9-59-after-q4-earnings-say-options-traders))
-- **2026-11-03** — A TradingKey preview said Apple-related revenue is expected to fall about 50% from the prior quarter, while automotive revenue grew ~61% last quarter and first custom data-center chip revenue is expected in the December quarter. ([source](https://www.tradingkey.com/analysis/stocks/us-stocks/262266670-qualcomm-q4-earnings-preview-automotive-data-center-smartphone-qcom-tradingkey))
 
 ## Coming up
 

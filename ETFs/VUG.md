@@ -2,20 +2,20 @@
 type: etf
 ticker: VUG
 issuer: Vanguard
-aum: $206B
+aum: $211B
 expense_ratio: 0.04%
-return_ytd: 1.4
-return_1y: 1.9
-data_as_of: 2026-11-06
+return_ytd: 4.2
+return_1y: 5.0
+data_as_of: 2026-11-09
 tags: [etf]
 ---
 
 # VUG — Vanguard Growth ETF
 
-> [!info] Snapshot (as of Nov 6, 2026)
+> [!info] Snapshot (as of Nov 9, 2026)
 > **Tracks:** CRSP US Large Cap Growth  
-> **Issuer:** Vanguard · **Assets:** $206B · **Expense ratio:** 0.04%  
-> **Return:** +1.4% this year · +1.9% over 1 year (dividends reinvested)  
+> **Issuer:** Vanguard · **Assets:** $211B · **Expense ratio:** 0.04%  
+> **Return:** +4.2% this year · +5.0% over 1 year (dividends reinvested)  
 > **Holdings:** 146 stocks · top 10 ≈ 67% of the fund
 
 ## Top 10 holdings
@@ -49,5 +49,6 @@ tags: [etf]
 - *Updates are added here, newest first.*
 
 ## Sources
+- [Fund quote: price, assets and returns](https://chartrow.com/quote/vug)
 - [Fund holdings](https://chartrow.com/quote/vug/holdings)
 - [Assets, fees and returns](https://chartrow.com/lists/biggest-etfs)

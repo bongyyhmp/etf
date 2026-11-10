@@ -4,7 +4,7 @@ ticker: MU
 company: Micron Technology
 sector: Technology
 held_by: [SOXX, SMH, QQQ, XLK, VGT, VTV]
-updated: 2026-11-09
+updated: 2026-11-10
 tags: [stock]
 ---
 
@@ -27,6 +27,9 @@ Makes memory chips (DRAM, NAND), including high-bandwidth memory used in AI serv
 
 ## Recent news
 
+- **2026-11-10** — Anthropic's amended IPO filing confirmed Micron as a $1.0B buyer in its private placement (about 13.5M nonvoting shares at the $74 midpoint); GuruFocus called the stake a signal rather than a driver, at roughly 0.12% of Micron's market value, as shares slipped about 1.3% early after the hot CPI report. ([source](https://www.tradingview.com/news/gurufocus:e8082f9dc094b:0-micron-technology-stocks-slip-1-27-as-hot-cpi-overshadows-1-billion-anthropic-bet/))
+- **2026-11-10** — Micron was down about 3.3% near $709 in early-afternoon trading; a Motley Fool contributor noted it traded above $855 before the midterms and called it riskier than Nvidia because its case rests on a lasting memory shortage. ([source](https://www.fool.com/investing/2026/11/10/midterm-meltdowns-3-top-tech-stocks-down-big-since-the-election-results/))
+- **2026-11-10** — A 24/7 Wall St. analysis warned of another cyclical turn, citing the CFO's remark that price increases will eventually moderate, pricing ceilings in long-term deals and new capacity (Micron's Idaho fab from mid-2027, plus Samsung and SK Hynix), against an average target near $1,562 and about 4x forward earnings. ([source](https://247wallst.com/investing/2026/11/10/micron-supposedly-outgrew-its-boom-bust-commodity-pricing-now-it-faces-another-cyclical-cliff/))
 - **2026-11-09** — Micron closed at $725.60, up 5.16%, with no company-specific announcement, as investors rotated back into chip names that had sold off. ([source](https://news.jkn.co.kr/editions/english/post/1081667))
 - **2026-11-09** — TSMC told Barron's it remains focused on being a logic-chip provider, easing worries raised by a Nov 6 report that it was exploring 3D DRAM at Nvidia's request; TIKR noted Micron still trades near 4x forward earnings, similar to 2017-18 peak levels. ([source](https://www.tikr.com/blog/micron-soars-5-as-tsmc-sticks-to-the-global-logic-ic-industry-not-memory))
 - **2026-11-09** — Blockonomi cited a Moderate Buy consensus with an average target near $1,408, about $78M of insider sales over three months, and Jefferies' expectation that TSMC enters memory by 2035. ([source](https://blockonomi.com/micron-mu-stock-gets-a-tsmc-reprieve-but-washington-worries-remain/))
@@ -36,16 +39,14 @@ Makes memory chips (DRAM, NAND), including high-bandwidth memory used in AI serv
 - **2026-11-05** — Memory peers SK Hynix, Sandisk, Seagate and Western Digital also fell by double digits as the selloff deepened on worries that Democratic control of Congress slows data-center construction. ([source](https://www.aol.com/articles/micron-stock-declines-12-chip-163137000.html))
 - **2026-11-05** — 24/7 Wall St. counted 45 of 49 analysts at Buy or Strong Buy with an average target near $1,562 (many set before the selloff), and cited estimates that moratoria could affect about 45% of planned U.S. data-center expansion, with Texas alone 25%-30% of planned capacity. ([source](https://247wallst.com/investing/2026/11/05/how-worried-should-investors-be-about-micron-right-now/))
 - **2026-11-04** — Micron fell about 6% (near $802 in the afternoon) after the Democratic midterm sweep, including Texas and Ohio governor wins, stoked worries that slower data-center construction could ease the memory shortage behind its gains. ([source](https://www.fool.com/investing/2026/11/04/why-micron-stock-is-falling-today/))
-- **2026-11-04** — TradingKey put the close at about -6.1% and also cited reports of progress by China's CXMT on next-generation server DRAM, cautious outlooks from memory peers and profit-taking. ([source](https://www.tradingkey.com/news/market-movers/262274722-market-movers-mu-20261104))
-- **2026-11-03** — Micron rose about 2% as chip stocks rebounded, recouping part of Monday's drop. ([source](https://finance.yahoo.com/markets/article/micron-nvidia-amd-lead-chip-stocks-rebound-140538628.html))
-- **2026-11-02** — Closed down 5.8% at $833.59 (about 34% below its $1,255 52-week high) after Kioxia's outlook disappointed and AI-spending worries persisted; after the close, Barron's reported Micron may step up buybacks from Dec 9, when CHIPS Act limits expire. ([source](https://www.heygotrade.com/en/news/micron-mu-stock-news-november-3-2026/))
 
 ## Coming up
 
+- **2026-11-19** — Anthropic's IPO expected to begin trading on Nasdaq (Nov 19 or 20 per the WSJ); Micron ($1.0B) is buying shares in the concurrent private placement
 - **2026-12-09** — CHIPS Act restrictions on buybacks expire, after which Micron may expand repurchases (per Barron's report)
 - **2026-12-16** — fiscal Q1 2027 earnings (date per TIKR; company guided revenue of about $61.5B)
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (Wedbush, RBC, Fubon, Rosenblatt) cite AI-driven memory demand, FQ1 revenue guidance of about $61.5B, more than 75% of fiscal 2027 output committed and a buyback that could accelerate after Dec 9; 24/7 Wall St. counts 45 of 49 analysts at Buy, TIKR notes a forward P/E near 4x, and TSMC's Nov 9 statement that it is sticking to logic eased new-rival fears.
-- **Bear:** Coverage flags peak-cycle worries (TIKR likens the multiple to the 2017-18 peak), added capacity including China's CXMT, possible longer-term TSMC entry into memory (Jefferies sees it by 2035), a reported pause of a $4.5B Taiwan plant, insider selling and post-midterm data-center moratoria that UBS says could hit about 30% of 2028 U.S. additions.
+- **Bull:** Analysts (Wedbush, RBC, Fubon, Rosenblatt) cite AI-driven memory demand, FQ1 revenue guidance of about $61.5B and more than 75% of fiscal 2027 output committed; 24/7 Wall St. counts 45 of 49 analysts at Buy (average target ~$1,562), the stock trades near 4x forward earnings, buybacks may accelerate after Dec 9 and GuruFocus sees it modestly undervalued.
+- **Bear:** 24/7 Wall St. and a Motley Fool contributor flag cycle risk, citing the CFO's comment that price gains will moderate, capped pricing in long-term deals and new capacity from Micron, Samsung, SK Hynix and China's CXMT; coverage also notes a paused $4.5B Taiwan plant, insider selling and post-midterm data-center moratoria, and shares slid again on Nov 10.

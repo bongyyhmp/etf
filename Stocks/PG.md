@@ -4,7 +4,7 @@ ticker: PG
 company: Procter & Gamble
 sector: Consumer Staples
 held_by: [SCHD, VTV]
-updated: 2026-11-09
+updated: 2026-11-10
 tags: [stock]
 ---
 
@@ -18,7 +18,7 @@ Makes household brands such as Tide, Pampers, Gillette and Crest.
 
 | ETF | Weight |
 |---|---|
-| [[SCHD]] | 3.7% |
+| [[SCHD]] | 4.3% |
 | [[VTV]] | 1.4% |
 
 ## Recent news

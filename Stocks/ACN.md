@@ -4,7 +4,7 @@ ticker: ACN
 company: Accenture
 sector: Technology
 held_by: [SCHD]
-updated: 2026-11-09
+updated: 2026-11-10
 tags: [stock]
 ---
 
@@ -18,7 +18,7 @@ Global IT consulting and outsourcing firm helping companies adopt technology and
 
 | ETF | Weight |
 |---|---|
-| [[SCHD]] | 3.6% |
+| [[SCHD]] | 3.9% |
 
 ## Recent news
 

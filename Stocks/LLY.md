@@ -4,7 +4,7 @@ ticker: LLY
 company: Eli Lilly
 sector: Healthcare
 held_by: [VUG, IVV, SPY, VOO, VTI]
-updated: 2026-11-09
+updated: 2026-11-10
 tags: [stock]
 ---
 
@@ -26,6 +26,7 @@ Drugmaker best known for diabetes and obesity drugs (Mounjaro, Zepbound) plus Al
 
 ## Recent news
 
+- **2026-11-10** — Shares traded about 1.6% higher in German trading (€1,268.50 on Lang & Schwarz in the afternoon) as the Foundayo sleep apnea data stayed in focus; Lilly still plans an FDA filing for that use by the end of 2026. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/eli-lilly-stock-gains-as-foundayo-data-broaden-obesity-case/70487287))
 - **2026-11-09** — Shares rose about 4.5% to roughly $1,414.93, rebounding from intraday lows near $1,360, on the sleep apnea data and a Street-high target from Jefferies. ([source](https://blockonomi.com/eli-lilly-and-company-lly-stock-surges-4-50-as-foundayo-delivers-positive-phase-3-sleep-apnea-results/))
 - **2026-11-09** — Phase 3 ATTAIN-OSA results presented at AHA and published in JAMA showed oral Foundayo cut sleep apnea events per hour by 43.8% without PAP therapy and 27.5% with PAP over 52 weeks (vs. small placebo declines); Lilly plans to file with the FDA for obstructive sleep apnea by the end of 2026. Jefferies raised its target to $1,700 from $1,610, the highest on the Street, citing an underappreciated international GLP-1 opportunity. ([source](https://finance.yahoo.com/news/aha26-lilly-foundayo-benefits-beyond-164940133.html), [Jefferies](https://finance.biggo.com/news/97c66adb-fe02-41ca-bc54-7dfb759e9825))
 - **2026-11-09** — The FDA ordered a class-wide GLP-1 label update adding a warning about possible higher risk of NAION, a rare optic-nerve condition, covering Lilly's Zepbound, Mounjaro and Foundayo as well as Novo's Wegovy and Ozempic; BMO called it a warnings-and-precautions change with limited risk to the obesity names. ([source](https://www.biospace.com/fda/fda-orders-class-wide-glp-1-label-update-to-include-potential-risk-for-rare-eye-disease))
@@ -37,7 +38,6 @@ Drugmaker best known for diabetes and obesity drugs (Mounjaro, Zepbound) plus Al
 - **2026-11-03** — Shares gained about $9 (roughly 0.6%) to around $1,420 in Tuesday trading, near the 52-week high of $1,449.68; MarketBeat called Lilly the standout mover among large pharma names that day. ([source](https://www.marketbeat.com/instant-alerts/list-top-pharmaceutical-stocks-to-watch-today-november-3rd-2026-11-03/))
 - **2026-11-02** — Cantor Fitzgerald lifted its target to $1,600 from $1,440 and kept Overweight; shares opened Monday near $1,416, and MarketBeat's ~$1,404 consensus target now sits below the stock. ([source](https://marketbeat.com/instant-alerts/analyst-cantor-fitzgerald-issues-positive-forecast-for-eli-lilly-and-company-nyse-lly-stock-price-2026-11-02))
 - **2026-10-30** — JPMorgan also raised its target to $1,650 from $1,500 with an Overweight rating, the highest of the post-earnings increases. ([source](https://www.dailypolitical.com/2026/11/02/eli-lilly-and-company-nyselly-price-target-raised-to-1650-00.html))
-- **2026-10-30** — Shares gained $45.72 (about 3.3%) to $1,419.42 on Friday, above the prior 52-week high, as brokers raised targets after Q3: Truist to $1,612 from $1,376 (Buy), Scotiabank to $1,605 from $1,300 (Sector Outperform), RBC to $1,600 from $1,500 (Outperform) and Argus to $1,550 from $1,300 (Buy). ([source](https://www.marketbeat.com/instant-alerts/analyst-eli-lilly-and-company-nyse-lly-stock-gets-price-target-increase-from-scotiabank-2026-10-30/))
 
 ## Coming up
 

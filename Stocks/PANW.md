@@ -4,7 +4,7 @@ ticker: PANW
 company: Palo Alto Networks
 sector: Technology
 held_by: [VGT]
-updated: 2026-11-09
+updated: 2026-11-10
 tags: [stock]
 ---
 

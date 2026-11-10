@@ -3,8 +3,8 @@ type: stock
 ticker: TXN
 company: Texas Instruments
 sector: Technology
-held_by: [SMH, SCHD, SOXX]
-updated: 2026-11-09
+held_by: [SMH, SOXX]
+updated: 2026-11-10
 tags: [stock]
 ---
 
@@ -19,11 +19,11 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 | ETF | Weight |
 |---|---|
 | [[SMH]] | 5.4% |
-| [[SCHD]] | 5.1% |
 | [[SOXX]] | 5.0% |
 
 ## Recent news
 
+- **2026-11-10** — TI broadened agentic-AI features in its free CCStudio embedded-software tools (IDE and VS Code versions): agents can now write code, set up peripherals, build, flash and help debug across its microcontroller, wireless and radar chips, plus a new skill to port projects from rival chips to TI parts; demos run at electronica in Munich through Nov 13. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/texas-instruments-stock-gains-ai-angle-with-ccstudio-upgrade/70487459))
 - **2026-11-09** — Shares closed up 4.47% ($12.40) at $289.76 in a broad analog-chip rally alongside ADI, ON Semi and Monolithic Power; JKN found no earnings update or other company-specific catalyst. ([source](https://news.jkn.co.kr/editions/english/post/1081680))
 - **2026-11-06** — Analog and microcontroller peer Microchip Technology fell about 13% by midday after analysts cut forecasts following its results and soft guidance, a read-through for TI's industrial and embedded markets as most chip stocks rebounded. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026))
 - **2026-11-06** — TI's euro-quoted shares on Lang & Schwarz slipped about 2.8% during Friday afternoon as coverage recapped the new factory-networking modules it will demo at electronica next week; a US closing figure was not confirmed. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/texas-instruments-stock-slips-2-80-prozent-as-factory-tools-near-launch/70471026))
@@ -35,11 +35,9 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 - **2026-10-30** — Shares fell about 4.2% (to roughly $301) as the stock went ex-dividend, investors took profits after the post-earnings run, and NXP's outlook and the broad chip selloff weighed. ([source](https://www.tradingkey.com/news/market-movers/262261184-market-movers-txn-20261030))
 - **2026-10-29** — Director Ronald Kirk sold 6,065 shares at about $310 (~$1.9M); filings also showed director sales by Janet Clark and Robert Sanchez around Oct 27. ([source](https://www.marketbeat.com/instant-alerts/filing-7250-texas-instruments-incorporated-txn-shares-acquired-by-vise-technologies-inc-2026-11-02/))
 - **2026-10-28** — Shares slipped about 1% to around $305 (still up about 79% this year) as NXP's soft guidance revived auto-chip demand worries across the sector. ([source](https://247wallst.com/investing/2026/10/28/on-semiconductor-falls-5-nxp-semiconductors-drops-4-as-soft-guidance-revives-auto-chip-worries-skyworks-ticks-up-qualcomm-and-texas-instruments-dip/))
-- **2026-10-27** — TI priced $2B of senior unsecured notes in four $500M tranches maturing 2028-2036 (coupons 5.00%-5.75%) to help fund its pending Silicon Labs acquisition; settlement is set for Nov 9. ([source](https://www.gurufocus.com/news/9143967/texas-instruments-prices-2-billion-debt-to-fund-silicon-labs-acquisition-txn))
 
 ## Coming up
 
-- **2026-11-09** — Expected settlement of the $2B notes offering tied to the Silicon Labs deal
 - **2026-11-10** — payment of the raised $1.52 quarterly dividend (up from $1.42; went ex-dividend Oct 30)
 - **2026-11-10 to 2026-11-13** — electronica trade show in Munich, where TI will exhibit
 - **Late January 2027** — Q4 2026 earnings (expected; date not yet announced)

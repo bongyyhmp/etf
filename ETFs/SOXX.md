@@ -4,18 +4,18 @@ ticker: SOXX
 issuer: BlackRock iShares
 aum: $48B
 expense_ratio: 0.33%
-return_ytd: 36.2
-return_1y: 38.1
-data_as_of: 2026-11-06
+return_ytd: 46.5
+return_1y: 50.0
+data_as_of: 2026-11-09
 tags: [etf]
 ---
 
 # SOXX — iShares Semiconductor ETF
 
-> [!info] Snapshot (as of Nov 6, 2026)
+> [!info] Snapshot (as of Nov 9, 2026)
 > **Tracks:** NYSE Semiconductor Index (30 US-listed chip companies)  
 > **Issuer:** BlackRock iShares · **Assets:** $48B · **Expense ratio:** 0.33%  
-> **Return:** +36.2% this year · +38.1% over 1 year (dividends reinvested)  
+> **Return:** +46.5% this year · +50.0% over 1 year (dividends reinvested)  
 > **Holdings:** 30 stocks · top 10 ≈ 62% of the fund
 
 ## Top 10 holdings
@@ -41,6 +41,7 @@ tags: [etf]
 
 ## News log
 
+- **2026-11-09** — Chip stocks led the market's best day since April: holdings AMD (about +13%), Broadcom (about +9%), Applied Materials (+8.5%) and Micron (+5.2%) rallied, while Nvidia fell 4.3% on its board's probe of CEO Jensen Huang; the fund's year-to-date total return moved back above 46%. ([source](https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html))
 - **2026-11-06** — Chip stocks rebounded a day after their worst selloff since 2020 but recovered only part of the losses: holdings AMD (+11.0%), Intel (+7.7%), Marvell (+5.7%), Micron (+5.1%) and Nvidia (+2.8%) closed higher, while Broadcom added just 0.7%. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026))
 - **2026-11-06** — A fund-flow report published today showed about $513M of net new money coming in on Nov 4, the day of the post-election rally, with the fund adding to 28 positions. ([source](https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semi-sector-110502951.html))
 - **2026-11-05** — Chip stocks crashed on data-center worries after the midterms: the PHLX Semiconductor index fell about 12.3%, with holdings Micron (-17.5%), AMD (-17.3%), Broadcom (-10.4%) and Nvidia (-9.3%) all sharply lower. ([source](https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html))

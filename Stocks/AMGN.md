@@ -4,7 +4,7 @@ ticker: AMGN
 company: Amgen
 sector: Healthcare
 held_by: [SCHD]
-updated: 2026-11-09
+updated: 2026-11-10
 tags: [stock]
 ---
 
@@ -18,10 +18,11 @@ Biotech company making drugs for bone health, cancer, inflammation and heart dis
 
 | ETF | Weight |
 |---|---|
-| [[SCHD]] | 4.2% |
+| [[SCHD]] | 5.0% |
 
 ## Recent news
 
+- **2026-11-10** — Ahead of Amgen's Nov 11 late-breaking ACR Convergence presentation of the Phase 3 OASIZ-301 dazodalibep study in Sjögren's disease (topline: ESSDAI fell 5.6 and 5.2 points on the two doses vs 3.8 on placebo at Week 48, with similar safety), the shares were little changed in European trading. ([source](https://ad-hoc-news.de/boerse/news/corporate-news/amgen-stock-faces-acr-data-test-with-dazodalibep-results/70486925))
 - **2026-11-09** — At AHA 2026, Amgen presented new Repatha analyses: an independent VESALIUS-CV study found the drug cost-effective at about 36% below the ACC/AHA benchmark in patients without a prior heart attack or stroke, and a kidney-disease subgroup showed a 39% cut in major cardiac events; a FOURIER long-term analysis used a non-randomized comparison. ([source](https://www.prnewswire.com/news-releases/new-data-at-aha-2026-demonstrates-the-value-of-treatment-with-repatha-earlier-in-the-cardiovascular-risk-continuum-302932775.html))
 - **2026-11-06** — Freedom Broker downgraded Amgen to Hold from Buy while lifting its target to $470 from $450, saying the shares (up about 44% this year and near the $484 52-week high) now trade near fair value, with key catalysts such as MariTide data not due before 2027. ([source](https://www.investing.com/news/analyst-ratings/freedom-broker-downgrades-amgen-stock-rating-on-valuation-despite-raising-price-target-93CH-5008466))
 - **2026-11-06** — Trefis flagged the risk that Amgen's next four biosimilars (versions of Eylea HD, Opdivo, Keytruda and Ocrevus, all still in late-stage trials) reach market after the first wave of rivals; biosimilars made $977M in Q3 (up 26%, about 9% of sales), and the stock trades near 26.5x earnings. ([source](https://www.trefis.com/stock/amgn/articles/623208/could-late-biosimilar-launches-slow-amgen-stock/2026-11-06))
@@ -33,14 +34,15 @@ Biotech company making drugs for bone health, cancer, inflammation and heart dis
 - **2026-11-03** — By product, Repatha grew 37% to $1.085B, Evenity 39%, Imdelltra 128% to $406M and Uplizna 191%, while biosimilars cut Prolia (-45%) and XGEVA (-47%); MariTide's Phase 3 cardiovascular and sleep-apnea studies finished enrollment. ([source](https://www.stocktitan.net/news/AMGN/amgen-reports-third-quarter-2026-financial-fa0bllbsq9fh.html))
 - **2026-10-30** — Shares touched an all-time high of $469.02, up about 44% year to date, ahead of the Nov 3 report; Oppenheimer has a $480 target with Outperform, and eight analysts recently raised estimates. ([source](https://www.investing.com/news/company-news/amgen-stock-hits-alltime-high-at-46902-usd-93CH-4987945))
 - **2026-10-29** — Ahead of the Nov 3 report, consensus sits near $5.79 EPS on $10.08B revenue, while the outgoing CFO had warned of a meaningful sequential rise in Q3 operating expenses, including a $100M upfront deal payment. ([source](https://247wallst.com/investing/2026/10/29/amgen-braces-for-rising-expenses-ahead-of-q3-results-is-a-profit-squeeze-looming/))
-- **2026-10-28** — Amgen hit a 52-week high of about $454.66 intraday after declaring a $2.52 quarterly dividend, payable Dec 11 to holders of record Nov 20. ([source](https://www.marketbeat.com/instant-alerts/price-amgen-nasdaq-amgn-reaches-new-1-year-high-following-dividend-announcement-2026-10-28/))
 
 ## Coming up
 
+- **2026-11-11** — Late-breaking oral presentation of Phase 3 OASIZ-301 dazodalibep data at ACR Convergence, 8:45 a.m. ET
 - **2026-11-20** — Record and ex-dividend date for the $2.52 quarterly dividend (paid Dec 11)
+- **Q4 2026** — OASIZ-303 dazodalibep study expected to complete
 - **Early February 2027** — Q4 2026 earnings (estimated, not yet confirmed)
 
 ## Bull case / bear case
 
-- **Bull:** Q3 beat estimates and Amgen raised 2026 guidance, with Repatha (up 37%, backed by new AHA cost-effectiveness and kidney-subgroup data), Evenity, Imdelltra and Uplizna growing fast and MariTide Phase 3 studies progressing; Goldman ($536), TD Cowen ($531), UBS ($530 per headlines), Oppenheimer ($480) and RBC ($470) are among the more positive.
+- **Bull:** Q3 beat estimates and Amgen raised 2026 guidance, with Repatha (up 37%, backed by new AHA cost-effectiveness and kidney-subgroup data), Evenity, Imdelltra and Uplizna growing fast, MariTide Phase 3 studies progressing and positive Phase 3 dazodalibep data due at ACR on Nov 11; Goldman ($536), TD Cowen ($531), UBS ($530 per headlines), Oppenheimer ($480) and RBC ($470) are among the more positive.
 - **Bear:** Biosimilars nearly halved Prolia and XGEVA sales, and Trefis warns Amgen's next biosimilars may launch late; commentators also flag IRA price pressure, about $57B of debt and a valuation near record highs (about 26.5x earnings), with MarketBeat's ~$415 average target below the share price, Freedom Broker's Nov 6 downgrade to Hold, and Morgan Stanley ($410), Bernstein ($400), Guggenheim ($435) and Cantor ($465) holding neutral views.
