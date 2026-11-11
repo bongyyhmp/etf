@@ -4,7 +4,7 @@ ticker: ASML
 company: ASML Holding
 sector: Technology
 held_by: [SMH]
-updated: 2026-11-10
+updated: 2026-11-11
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 
 ## Recent news
 
+- **2026-11-11** — ASML rose about 3.3% but trailed a 4.3% gain in technology-equipment stocks; TradingKey cited steady EUV and High-NA orders from foundries and memory makers, risk-on sentiment in chip equipment and signs of steadier export rules, with an average analyst target near $2,204. ([source](https://www.tradingkey.com/news/market-movers/262300989-market-movers-asml-20261111))
 - **2026-11-10** — ASML traded near EUR 1,350 in early European dealings; Zacks Research kept a Hold rank, citing strong AI-related EUV demand (EUV revenue seen up more than 45% in 2026) against execution risks, China exposure of about 20% of 2026 sales and a forward P/E near 23.6x vs. a five-year median of 31.3x. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/asml-holding-stock-faces-execution-test-as-ai-demand-stays-strong/70484907))
 - **2026-11-09** — Shares rebounded about 6% intraday (near $1,509-$1,514 in the afternoon) with the chip group; a Motley Fool contributor called the AI selloff overdone and pointed to a weekend Nikkei report that Musk's Terafab project targets 1 million wafers a month by 2032, which would need many EUV tools. ([source](https://www.fool.com/investing/2026/11/09/why-asml-bounced-back-today/))
 - **2026-11-09** — 24/7 Wall St. found no ASML-specific catalyst for the gain, recalling its October raise of 2026 sales guidance to EUR 44-45B, and put its forward multiple near 24x earnings, the highest among the big equipment names. ([source](https://247wallst.com/investing/2026/11/09/applied-materials-jumps-11-ahead-of-earnings-lam-research-surges-9-asml-rises-6/))
@@ -33,7 +34,6 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 - **2026-11-02** — ASML disclosed it bought back 346,200 shares for about EUR 504 million during Oct 26-30. ([source](https://globenewswire.com/news-release/2026/11/02/3393071/0/en/asml-reports-transactions-under-its-current-share-buyback-program.html))
 - **2026-10-30** — US-listed shares closed down 6.55% at $1,565.90, a steeper final loss than intraday reports showed, as the chip-equipment group sold off. ([source](https://www.heygotrade.com/en/us-stock/asml/))
 - **2026-10-30** — US-listed shares fell about 4.8%, slightly worse than a 4.2% drop in tech-equipment stocks. ([source](https://www.tradingkey.com/news/market-movers/262260990-market-movers-asml-20261030))
-- **2026-10-30** — ASML slid about 5.4% in Europe as Intel's weak Q4 outlook triggered a global chip selloff that wiped roughly $1 trillion off semiconductor stocks and hit equipment makers on AI-capex doubts. ([source](https://finance.biggo.com/news/e843ba2b-1691-487d-b819-4b3f6dc2f1b9))
 
 ## Coming up
 
@@ -41,5 +41,5 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (JPMorgan, Citi, UBS) cite AI-driven EUV demand; ASML says planned 2027-2028 supply won't fully cover demand, customer down payments rose to EUR 9.3B in Q3, 2026 sales guidance was raised to EUR 44-45B, buybacks run about EUR 500M a week, and coverage on Nov 9 flagged possible tool demand from Musk's Terafab plans (reported 1M wafers a month by 2032); TradingKey's average target is near $2,204.
+- **Bull:** Analysts (JPMorgan, Citi, UBS) cite AI-driven EUV demand; ASML says planned 2027-2028 supply won't fully cover demand, customer down payments rose to EUR 9.3B in Q3, 2026 sales guidance was raised to EUR 44-45B, buybacks run about EUR 500M a week, and coverage on Nov 9 flagged possible tool demand from Musk's Terafab plans (reported 1M wafers a month by 2032); TradingKey's average target is near $2,204 and it cited steady EUV orders as shares rose ~3.3% on Nov 11.
 - **Bear:** GuruFocus valuation models suggest modest overvaluation and 24/7 Wall St. puts its forward P/E (~24x) above other equipment peers; the Oct 30 and Nov 4-5 declines show sensitivity to AI-capex and data-center policy fears, and TIKR and TradingKey flag reliance on chipmaker spending, possible data-center delays and proposed limits on DUV sales to China (about 20% of revenue).

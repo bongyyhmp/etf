@@ -4,7 +4,7 @@ ticker: INTC
 company: Intel
 sector: Technology
 held_by: [XLK]
-updated: 2026-11-10
+updated: 2026-11-11
 tags: [stock]
 ---
 
@@ -22,6 +22,9 @@ Makes PC and server processors and is building a contract chip-manufacturing (fo
 
 ## Recent news
 
+- **2026-11-11** — Intel closed up 6.47% ($3.76) at $61.89 as CoreWeave's raised outlook sparked a broad chip rally; JKN also cited about $361M of net ETF buying on Nov 9. ([source](https://news.jkn.co.kr/editions/english/post/1087206))
+- **2026-11-11** — SoftBank's results showed it raised $7.4B through prepaid forward contracts backed by its Intel stake, which it valued at $10.5B at Sept. 30 vs. $3.8B at March 31. ([source](https://finance.yahoo.com/markets/stocks/articles/intel-stocks-climb-5-23-191018499.html))
+- **2026-11-11** — A UBS note estimated Intel's server CPU unit share fell about 240 basis points to 51.5% in Q3, as Arm gained and AMD held near 28%, even as total shipments rose about 31% year over year. ([source](https://www.investing.com/news/stock-market-news/server-cpu-strength-persists-as-amd-and-arm-gain-share-ubs-5018734))
 - **2026-11-10** — Intel gave back part of its rebound, down about 3.3% per TradingKey (about 2.5% in a KuCoin afternoon note), which cited the PC slump, the Fab 28 disruption, foundry losses and profit-taking after the chip bounce; it put the consensus at Hold with an average target near $92. ([source](https://www.tradingkey.com/news/market-movers/262299231-market-movers-intc-20261110))
 - **2026-11-09** — Intel rose about 6.1% to $59.72 late in the session, its second straight gain of 5% or more, as the chip rebound broadened; no company-specific catalyst was cited. ([source](https://www.asktraders.com/analysis/intel-shares-jump-in-wider-chip-bounce/))
 - **2026-11-09** — TradingKey put the gain at about 3.7%, citing improving sentiment on foundry and packaging progress and rotation into beaten-down chip turnarounds, while noting a Hold consensus with an average target near $92 and an ongoing securities class-action inquiry. ([source](https://www.tradingkey.com/news/market-movers/262296731-market-movers-intc-20261109))
@@ -31,9 +34,6 @@ Makes PC and server processors and is building a contract chip-manufacturing (fo
 - **2026-11-04** — Intel fell about 3.7% even as the broader market rallied; TradingKey cited the weak Q4 guide, the Fab 28 disruption in Israel (about $600M of lost revenue over two quarters), no expected positive free cash flow in 2027, and an average analyst target near $95. ([source](https://www.tradingkey.com/news/market-movers/262274882-market-movers-intc-20261104))
 - **2026-11-03** — Intel rose about 2.5% to around $61.46 in late morning as chip stocks recovered, though Q4 guidance still implies a roughly 6% sequential revenue decline. ([source](https://finance.yahoo.com/markets/stocks/articles/intel-stocks-rebound-2-5-181518569.html))
 - **2026-11-02** — Shares fell another 8.8% to $59.97, extending the post-earnings slide; data-center and AI revenue had grown 78% in Q3, but an Israel fab accident and PC inventory cuts weigh on Q4. ([source](https://www.fool.com/investing/2026/11/03/intel-is-down-31-as-data-center-sales-jump-78/))
-- **2026-10-30** — Intel finished the day down 28.6% at $65.76, its worst session since 1974; coverage also noted an early-October accident that forced an extended shutdown at its Israel factory, expected to trim about $300M from Q4 revenue. ([source](https://www.heygotrade.com/en/news/intel-intc-stock-news-november-2-2026/))
-- **2026-10-30** — With Friday's plunge, Intel lost about 45% in October, its worst month on record and the weakest S&P 500 performer for the month, per Barron's. ([source](https://pluang.com/en/news-feed/intel-terburuk-sp500-oktober-accenture-pemenang-terbesar))
-- **2026-10-30** — Intel plunged roughly 28-30% to around $65.76, on track for its largest one-day drop ever per Reuters, erasing more than $146B of market value and nearly $12B from the U.S. government's 10% stake; the selloff dragged chip stocks down 4%-12%. ([source](https://www.investing.com/news/stock-market-news/intel-warning-sparks-chip-rout-as-pc-weakness-clouds-turnaround-4987123))
 
 ## Coming up
 
@@ -42,5 +42,5 @@ Makes PC and server processors and is building a contract chip-manufacturing (fo
 
 ## Bull case / bear case
 
-- **Bull:** KeyBanc (Overweight, $140) and KGI (Outperform, $95) point to tight server-CPU supply and the Oracle cloud deal; Q3 data-center and AI revenue rose 78%, the CEO sees the server-CPU market growing about fivefold over five years, and insider buying preceded back-to-back gains of 5%+ on Nov 6 and Nov 9.
-- **Bear:** Jefferies called the Q4 outlook ($15B-$16B revenue, ~37-38% gross margin) a substantial reset amid memory costs, a PC slowdown expected into mid-2027 and an Israel fab disruption; BofA, Roth and Baird downgraded, TradingKey cites a Hold consensus (~$92 average target), foundry losses, negative free cash flow into 2027 and shareholder-firm investigations, and shares slipped again on Nov 10.
+- **Bull:** KeyBanc (Overweight, $140) and KGI (Outperform, $95) point to tight server-CPU supply and the Oracle cloud deal; Q3 data-center and AI revenue rose 78%, the CEO is prioritizing more Xeon supply amid rising server CPU shipments (up ~31% per UBS), and insider buying preceded a string of 5%+ gains, including 6.5% on Nov 11.
+- **Bear:** Jefferies called the Q4 outlook ($15B-$16B revenue, ~37-38% gross margin) a substantial reset amid memory costs, a PC slowdown expected into mid-2027 and an Israel fab disruption; UBS data show Intel losing server share to Arm and AMD, BofA, Roth and Baird downgraded, GuruFocus sees it far above its GF Value, and coverage cites a Hold consensus, foundry losses and negative free cash flow into 2027.

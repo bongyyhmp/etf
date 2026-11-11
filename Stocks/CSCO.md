@@ -4,7 +4,7 @@ ticker: CSCO
 company: Cisco Systems
 sector: Technology
 held_by: [XLK, VGT]
-updated: 2026-11-10
+updated: 2026-11-11
 tags: [stock]
 ---
 
@@ -23,6 +23,8 @@ Sells networking equipment, security and collaboration software to businesses.
 
 ## Recent news
 
+- **2026-11-11** — Shares rose about 3.4% the day before earnings, lagging a 4.3% gain in tech-equipment stocks; TradingKey cited enterprise AI-networking demand and Splunk-driven software growth, noted options imply about an 8% move on the report, and said the stock is down nearly 20% over the past month. ([source](https://tradingkey.com/news/market-movers/262300992-market-movers-csco-20261111))
+- **2026-11-11** — Ahead of the print, Cisco said every future product will ship integrated with its Cloud Control SaaS management platform (US-only now; EU, UK and Australia in February 2027) and will bundle ThousandEyes into some licenses, while previews flagged fiscal 2027 gross-margin guidance of 65%-66% (down from about 68%) and a $7.5B AI revenue target. ([source](https://ad-hoc-news.de/boerse/news/unternehmensnachrichten/cisco-bets-on-unified-cloud-control-as-analysts-turn-cautious-ahead-of-q1-print/70489278))
 - **2026-11-10** — 24/7 Wall St. said options price roughly an 8% move either way after Thursday's report; over the last eight reports the stock moved an average 6.2% the next day (four gains, four drops, including -8.4% in August), and the average target across 29 analysts is about $135.56. ([source](https://247wallst.com/investing/2026/11/10/cisco-just-jumped-5-into-an-earnings-report-that-has-moved-the-stock-8-or-more-three-times-running/))
 - **2026-11-09** — Shares closed up 3.75% ($3.52) at $97.37 as tech rebounded and investors positioned for the Nov 12 report; TradingKey (which put the gain near 4.9%) cited signs campus-network inventory digestion has stabilized and Splunk cross-selling. ([source](https://news.jkn.co.kr/editions/english/post/1081697))
 - **2026-11-09** — A TipRanks preview put consensus at $1.32 EPS (+32%) on about $18.11B revenue (+22%); Bernstein reiterated Hold ($110), calling Cisco less exposed to AI-spending fears because most revenue is enterprise, while the overall rating is Moderate Buy (11 Buy, 8 Hold) with an average target of $137.50. ([source](https://www.tipranks.com/news/cisco-q1-earnings-heres-what-analysts-expect-from-csco-stock-amid-ai-trade-concerns))
@@ -33,8 +35,6 @@ Sells networking equipment, security and collaboration software to businesses.
 - **2026-11-04** — A Trefis review noted Cisco is down 8.7% over the past month versus a 2.6% S&P 500 decline, though still up about 36% this year; historically it has fallen about 16% on average in market shocks. ([source](https://www.trefis.com/stock/csco/articles/622499/how-low-can-cisco-stock-go/2026-11-04))
 - **2026-11-03** — Cisco set its fiscal Q1 2027 report for Nov 12 after the close, with a conference call at 1:30 p.m. PT. ([source](https://rallies.ai/news/cisco-schedules-q1-fiscal-2027-results-conference-call-6bc72ce2719896b1))
 - **2026-11-03** — Bank of America reiterated Buy with a $150 target, expecting about 22% revenue growth in fiscal Q1 and saying roughly $6B of unconverted AI orders covers about 80% of Cisco's $7.5B fiscal 2027 AI revenue goal; it forecast gross margin easing to about 65.5%. ([source](https://ca.finance.yahoo.com/news/cisco-ai-backlog-core-demand-181100832.html))
-- **2026-10-30** — Shares fell about 4.1% (to roughly $104.50) in a broad tech selloff, with worries about margins from lower-margin AI networking gear and memory costs, plus competition from Arista and HPE, cited. ([source](https://www.tradingkey.com/news/market-movers/262260988-market-movers-csco-20261030))
-- **2026-10-30** — Shares opened at $108.59, down from $110.29 a day earlier and below the 50-day average of about $110.10; MarketBeat's consensus stayed Moderate Buy (16 Buy, 7 Hold, 3 Strong Buy) with an average target near $128.52. ([source](https://www.marketbeat.com/instant-alerts/filing-cisco-systems-inc-csco-stock-bought-by-choreo-llc-2026-10-30/))
 
 ## Coming up
 
@@ -42,5 +42,5 @@ Sells networking equipment, security and collaboration software to businesses.
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite hyperscaler AI networking orders (BofA: ~$6B AI backlog, Buy, $150), a campus-switch refresh as enterprise inventory digestion stabilizes, Splunk-driven software revenue, Morgan Stanley's view of multi-year double-digit earnings growth and an average target near $135.56 (29 analysts, per 24/7 Wall St.) heading into the Nov 12 report, where consensus expects about 22% revenue growth.
-- **Bear:** Morgan Stanley's downgrade to Equal-Weight ($120) argues the AI rerating is largely priced in and Bernstein holds at Hold ($110); coverage flags 30%-40% gross margins on hyperscaler AI sales, memory costs, Arista competition, possibly pulled-forward orders and insider selling, and options imply an ~8% post-earnings swing after big drops following two of the last three reports.
+- **Bull:** Analysts cite hyperscaler AI networking orders (BofA: ~$6B AI backlog, Buy, $150), a campus-switch refresh as enterprise inventory digestion stabilizes, Splunk-driven software revenue, a push to tie all new products to its Cloud Control platform, Morgan Stanley's view of multi-year double-digit earnings growth and an average target near $135.56 (29 analysts, per 24/7 Wall St.) heading into the Nov 12 report, where consensus expects about 22% revenue growth.
+- **Bear:** Morgan Stanley's downgrade to Equal-Weight ($120) argues the AI rerating is largely priced in and Bernstein holds at Hold ($110); coverage flags 30%-40% gross margins on hyperscaler AI sales, memory costs, Arista competition, possibly pulled-forward orders and insider selling, guided gross margin of 65%-66% vs. about 68% a year ago, and options imply an ~8% post-earnings swing after big drops following two of the last three reports; shares are down nearly 20% over the past month despite the Nov 9 and Nov 11 gains.

@@ -4,7 +4,7 @@ ticker: NVDA
 company: NVIDIA
 sector: Technology
 held_by: [SMH, VGT, XLK, VUG, SOXX, QQQ, IVV, SPY, VOO, VTI]
-updated: 2026-11-10
+updated: 2026-11-11
 tags: [stock]
 ---
 
@@ -31,6 +31,8 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 
 ## Recent news
 
+- **2026-11-11** — Nvidia closed up 2.92% at $173.73, snapping a two-day losing streak, as CoreWeave's raised outlook revived the AI trade and chips led a rally that lifted the S&P 500 1.31% and the Nasdaq 1.60%; Yahoo Finance noted the stock is still down roughly 12% for November. ([source](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html))
+- **2026-11-11** — Baird downgraded Nvidia to Neutral, citing uncertainty around possible U.S. government action and the CEO situation; TradingKey reported the target was cut to $200 from $500 and that Morgan Stanley removed the stock from its top-pick list. ([source](https://www.tradingkey.com/news/market-movers/262300988-market-movers-nvda-20261111))
 - **2026-11-10** — Nvidia closed down 5.47% at $168.89 after briefly falling about 6%, breaking below the $170 level and posting its lowest close since March 30; its RSI dropped to 23, the most oversold reading since June 2019. ([source](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html))
 - **2026-11-10** — The Information reported that at least $7.5B of Nvidia hardware has reached Chinese companies since 2023 through a network tied to the woman linked to Huang, with scrutiny on Singapore-based Megaspeed; House Democratic Leader Jeffries said Congress needs more answers, and Trump said the FBI is looking into it while voicing support for Huang. ([source](https://finance.yahoo.com/markets/article/nvidia-stock-drops-3-extending-decline-on-report-alleged-chinese-spy-linked-to-nvidia-ceo-aided-75-billion-in-china-chip-shipments-152654028.html))
 - **2026-11-10** — A shareholder lawsuit accuses Nvidia and Huang of misleading investors about the relationship, and Rep. John Moolenaar called for a thorough investigation. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026))
@@ -41,8 +43,6 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 - **2026-11-09** — Citi strategists cut U.S. equities and technology to neutral from overweight, citing AI-related turbulence; Nvidia was about 5% lower in the morning. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-09-202))
 - **2026-11-08** — Nvidia's board said a committee of independent directors, with outside counsel, will investigate Jensen Huang's relationship with a woman U.S. intelligence suspects of spying for China; in a memo to staff Huang admitted the affair and pledged cooperation, and the board said it sees no sign that company secrets or national security were compromised and still backs him. ([source](https://www.kucoin.com/news/flash/nvidia-shares-drop-amid-board-investigation-semiconductor-index-rises))
 - **2026-11-06** — Nvidia closed up 2.78% (about $186.65), recovering part of Thursday's 9% drop and edging back above its end-of-2025 level, as chip stocks bounced. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026))
-- **2026-11-06** — Three senior House Republicans (Mast, Moolenaar, Crawford) asked Jensen Huang to a closed-door briefing on Nov 18 about his reported contacts with an executive of Singapore-based Megaspeed alleged to have passed information to China; Nvidia did not say whether he would attend and said customers get only ordinary business information. ([source](https://www.thenationalnews.com/future/technology/2026/11/06/jensen-huang-nvidia-china-ai-congress/))
-- **2026-11-05** — Nvidia closed down 9.26% at $181.60, below its $186.50 close at the end of 2025 and erasing its 2026 gain, as the Philadelphia Semiconductor Index sank 12.25%. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026))
 
 ## Coming up
 
@@ -53,5 +53,5 @@ Designs the GPUs and networking gear that power most AI data centers, plus gamin
 
 ## Bull case / bear case
 
-- **Bull:** Goldman's James Schneider names Nvidia a top buy, calling chips oversold and the stock about 12x a no-growth 2028 baseline (RSI hit its most oversold level since 2019); supporters also cite AI demand ahead of the Nov 17 report (guide ~$108B), the board's statement that it sees no compromise of company secrets, Dan Ives' view that Huang is irreplaceable and Trump's expressed support.
-- **Bear:** The stock fell 5.5% on Nov 10 to its lowest close since March as reports tied at least $7.5B of China-bound shipments to a network linked to Huang's associate, a shareholder suit was filed, the FBI is reportedly looking into it and lawmakers want answers; coverage also cites AI-spending and data-center moratorium worries, Citi's tech downgrade to neutral and Melius' target cut.
+- **Bull:** Goldman's James Schneider names Nvidia a top buy, calling chips oversold and the stock about 12x a no-growth 2028 baseline; supporters also cite AI demand ahead of the Nov 17 report (guide ~$108B), CoreWeave's raised outlook that sparked a 2.9% rebound on Nov 11, the board's statement that it sees no compromise of company secrets, and Dan Ives' view that Huang is irreplaceable.
+- **Bear:** Baird cut the stock to Neutral on Nov 11 over government-action and CEO uncertainty, and TradingKey reports Morgan Stanley dropped it as a top pick; coverage also cites reports tying at least $7.5B of China-bound shipments to a network linked to Huang's associate, a shareholder suit, FBI and congressional scrutiny, possible tighter export limits, Citi's tech downgrade and a November loss of roughly 12%.

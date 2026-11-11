@@ -4,7 +4,7 @@ ticker: AMAT
 company: Applied Materials
 sector: Technology
 held_by: [SOXX, SMH, XLK, VGT]
-updated: 2026-11-10
+updated: 2026-11-11
 tags: [stock]
 ---
 
@@ -25,6 +25,8 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 
 ## Recent news
 
+- **2026-11-11** — Shares rallied the day before earnings as CoreWeave's beat-and-raise revived the AI trade: 24/7 Wall St. had the stock up about 8% at $403.44 in the afternoon (Lam +9%, KLA +7%), while TradingKey logged a 3.94% gain; a confirmed closing figure was not found. ([source](https://247wallst.com/investing/2026/11/11/applied-materials-rallies-8-ahead-of-earnings-as-chip-stocks-rebound-lam-research-jumps-9-kla-climbs-7/))
+- **2026-11-11** — Options expiring Friday price roughly an 8.8% post-earnings swing (about $32.59), above the 6.51% average move of the last eight reports; consensus is $10.30B revenue and ~$4.06 EPS, with fiscal Q1 seen at $10.83B and $4.23. B. Riley (Buy) cut its target to $475 from $700, flagging risk to the Q1 forecast, and Morgan Stanley (Equal Weight) trimmed to $538 from $563. ([source](https://finance.biggo.com/news/fd4b591a-afe6-4cbb-a905-090b01c0ffdd))
 - **2026-11-10** — Trefis noted that ahead of the Nov 12 report the stock was about half its $723 record close of June 30 and roughly 27% lower over the past month, while trading near 9.5x trailing sales vs. about 3.1x for the S&P 500; the key figure to watch is fiscal Q4 revenue against the $10.25B guide. ([source](https://www.trefis.com/stock/amat/articles/624081/what-is-driving-applied-materials-stock/2026-11-10))
 - **2026-11-09** — Shares closed up 8.51% ($28.31) at $361.02 after trading as much as about 11% higher, as chip-equipment stocks rebounded ahead of its Nov 12 report; JKN found no company-specific announcement. ([source](https://news.jkn.co.kr/editions/english/post/1081653))
 - **2026-11-09** — Into the report, consensus sits near $10.30B revenue and $4.06 adjusted EPS; UBS (Buy, $695) models $10.45B and a $10.95B fiscal Q1 guide vs. $10.83B expected, while Citi (Buy, reiterated Nov 6) said component shortages hitting equipment peers are a key question but Applied should handle them better. ([source](https://www.tipranks.com/news/applied-materials-amat-heads-into-q4-earnings-amid-supply-worries-heres-what-analysts-expect))
@@ -35,8 +37,6 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 - **2026-11-04** — Chip stocks such as Micron slid after Democrats' midterm wins pointed to tougher rules on data-center construction, raising questions about the long-term AI infrastructure build-out, though already-funded projects are expected to proceed. ([source](https://pluang.com/en/news-feed/micron-saham-chip-turun-hasil-pemilu-optimisme-data-center))
 - **2026-11-03** — Shares bounced about 2% to roughly $381 with the chip group but were still about 29% below a month earlier; company guidance for the Nov 12 report calls for about $10.25B revenue and $4.02 adjusted EPS, and China made up 28% of Q3 sales. ([source](https://247wallst.com/investing/2026/11/03/applied-materials-just-dropped-29-in-a-month-will-november-12-earnings-rescue-or-break-amat-stock))
 - **2026-11-02** — Shares fell about 3.1%, lagging a 2.1% drop in tech-equipment stocks, amid AI-spending worries and position trimming ahead of earnings. ([source](https://www.tradingkey.com/news/market-movers/262264886-market-movers-amat-20261102))
-- **2026-10-30** — Shares fell about 7.1%, underperforming a 4.3% drop in tech-equipment stocks, as chip names sold off ahead of its Nov 12 report. ([source](https://www.tradingkey.com/news/market-movers/262261067-market-movers-amat-20261030))
-- **2026-10-30** — Intel's weak fourth-quarter outlook (revenue of $15B-$16B vs. ~$17.1B expected) set off a global chip rout that erased about $1 trillion in value; equipment makers including Applied Materials and Lam Research fell on doubts about AI-capex growth. ([source](https://finance.biggo.com/news/e843ba2b-1691-487d-b819-4b3f6dc2f1b9))
 
 ## Coming up
 
@@ -44,5 +44,5 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 
 ## Bull case / bear case
 
-- **Bull:** Coverage cites a memory shortage SK Hynix expects to last toward 2030, fast-growing packaging and services revenue and the Besi stake; Citi and UBS (Buy, $695) stay positive into the Nov 12 report, with UBS modeling revenue and guidance above consensus, TipRanks shows 22 Buys vs. two Holds, and 24/7 Wall St. puts its forward P/E (~18x) lowest among big equipment peers.
-- **Bear:** Demand is cyclical and tied to customer capex; coverage flags China (28% of sales) export-control risk, component shortages that have hurt Lam and KLA, clean-room limits on shipments, a price GuruFocus puts above its GF Value estimate, and the risk customers pause orders after the data-center policy scare; the stock is still roughly a third below its level a month ago despite the Nov 6 and Nov 9 rebounds.
+- **Bull:** Coverage cites AI-driven capex for leading-edge logic and high-bandwidth memory, peer forecasts of $200B+ wafer-fab-equipment spending in 2027, fast-growing packaging and services revenue and management's talk of customer plans out to 2030; Citi and UBS (Buy, $695) stay positive into the Nov 12 report, the TipRanks consensus is Strong Buy (23 Buys, 2 Holds; average target ~$650), and its forward P/E (~18x) is the lowest among big equipment peers.
+- **Bear:** Demand is cyclical and tied to customer capex; coverage flags China (28% of sales) export-control risk, component shortages that have hurt Lam and KLA, clean-room limits on shipments, a price GuruFocus puts above its GF Value estimate, and the risk customers pause orders after the data-center policy scare; the stock is still roughly a third below its level a month ago despite the Nov 6, Nov 9 and Nov 11 rebounds; B. Riley and Morgan Stanley cut targets into the print, and options imply an ~8.8% move that 24/7 Wall St. says could reverse on a weak China outlook or order fatigue.

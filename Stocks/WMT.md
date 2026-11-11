@@ -4,7 +4,7 @@ ticker: WMT
 company: Walmart
 sector: Consumer Staples
 held_by: [QQQ, VTV]
-updated: 2026-11-10
+updated: 2026-11-11
 tags: [stock]
 ---
 
@@ -23,6 +23,7 @@ The world's largest retailer by revenue, with stores, Sam's Club and a growing e
 
 ## Recent news
 
+- **2026-11-11** — BofA analyst Christopher Nardone reiterated Buy and raised the target to $139 from $126, forecasting U.S. comps ex-fuel of about 2.8%, continued share gains, Q3 EPS of $0.63 and full-year guidance toward the top of its range, and lifting the target multiple to 44x from 40x on richer peer valuations; shares were about 1.2% lower premarket. ([source](https://stocktwits.com/news-articles/markets/equity/wmt-stock-gets-a-price-target-boost-from-bof-a-ahead-of-q3-earnings-analyst-sees-more-market-share-gains/cNGDY0tR9BZ), [ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/corporate-news/walmart-stock-bofa-lifts-target-to-139-dollars-before-earnings/70493234))
 - **2026-11-10** — Shares slipped even as more brokers lifted targets ahead of the Nov 19 report, per TipRanks: UBS to $149 from $130 (Buy) and Mizuho to $135 from $125 (Outperform), alongside JPMorgan's $145; consensus looks for Q3 EPS of $0.64 on about $187.2B of revenue, and options imply roughly a 6.4% post-earnings move. ([source](https://www.tipranks.com/news/walmart-stock-wmt-slips-despite-price-target-upgrades-ahead-of-q3-earnings-next-week))
 - **2026-11-09** — BMO kept Outperform and raised its target to $136 from $126, expecting in-line Q3 results with U.S. comps of about 2.8%, but cut its fiscal 2028 U.S. comp forecast to 2.1% from 3.5% on drug-pricing (Maximum Fair Price) headwinds to pharmacy sales. ([source](https://www.investing.com/news/analyst-ratings/bmo-raises-walmart-stock-price-target-on-business-strength-93CH-5015740))
 - **2026-11-09** — JPMorgan kept Overweight and lifted its target to $145 from $125; its preview pencils in U.S. comparable sales of +2.7% (consensus +2.9%) and Q3 EPS of $0.65 (Street $0.64). Shares were up about 0.2% near $125.79 on Monday after a $125.52 close on Nov 6. ([source](https://www.dailypolitical.com/2026/11/09/walmart-nasdaqwmt-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says.html), [Investrade](https://investrade.com/market-review-november-09-2026/))
@@ -34,7 +35,6 @@ The world's largest retailer by revenue, with stores, Sam's Club and a growing e
 - **2026-11-02** — Shares climbed about 3.4% to close near $127.69 (per MarketBeat's quote), outpacing a market where Amazon rebounded on an upgrade. ([source](https://247wallst.com/investing/2026/11/02/amazon-climbs-5-as-upgrade-fuels-post-earnings-rebound-on-aws-strength-walmart-rises-2-alphabet-edges-higher/))
 - **2026-10-31** — TD Cowen started research coverage of Walmart. ([source](https://www.marketbeat.com/instant-alerts/analyst-walmart-nasdaq-wmt-stock-picked-up-by-analysts-at-td-cowen-2026-10-31/))
 - **2026-10-30** — Walmart committed about $6 billion to expand its use of Symbotic's warehouse robotics; Walmart shares rose about 1.9% and Symbotic jumped. ([source](https://finance.yahoo.com/markets/stocks/articles/walmart-gains-commits-6-billion-111417597.html))
-- **2026-10-30** — Walmart signed a strategic agreement with Base Power to offer customers home backup power and energy savings. ([source](https://www.businesswire.com/news/home/20261030044950/en/walmart-and-base-power-announce-a-strategic-agreement-to-bring-affordable-home-backup-power-and-energy-savings-to-customers/))
 
 ## Coming up
 
@@ -45,5 +45,5 @@ The world's largest retailer by revenue, with stores, Sam's Club and a growing e
 
 ## Bull case / bear case
 
-- **Bull:** Commentators cite a strong Q2 beat, growth in ads, membership (fee revenue up 17%) and marketplace income, AI shopping tools such as Sparky and a roughly $6B Symbotic robotics expansion, with pre-earnings target raises from UBS ($149, Buy), JPMorgan ($145, Overweight), BMO ($136, Outperform) and Mizuho ($135, Outperform), plus Bernstein (Buy, $142).
-- **Bear:** Commentators flag a valuation of roughly 40-46x earnings against single-digit revenue growth, a sub-1% dividend yield, comp estimates near or below consensus (JPMorgan +2.7%) and BMO's cut to its fiscal 2028 comp forecast on drug-pricing headwinds, doubts over membership monetization (Morgan Stanley survey), FTC formal orders on personalized pricing, pressure on lower-income shoppers, and insider share sales.
+- **Bull:** Commentators cite a strong Q2 beat, growth in ads, membership (fee revenue up 17%) and marketplace income, AI shopping tools such as Sparky and a roughly $6B Symbotic robotics expansion, with pre-earnings target raises from UBS ($149, Buy), JPMorgan ($145, Overweight), BofA ($139, Buy), BMO ($136, Outperform) and Mizuho ($135, Outperform), plus Bernstein (Buy, $142); per Koyfin data cited by Stocktwits, 38 of 43 analysts rate it Buy or Strong Buy.
+- **Bear:** Commentators flag a valuation of roughly 40-46x earnings against single-digit revenue growth, a sub-1% dividend yield, an average analyst target (about $129, per Koyfin) roughly at the share price, comp estimates near or below consensus (JPMorgan +2.7%) and BMO's cut to its fiscal 2028 comp forecast on drug-pricing headwinds, doubts over membership monetization (Morgan Stanley survey), FTC formal orders on personalized pricing, pressure on lower-income shoppers, and insider share sales.

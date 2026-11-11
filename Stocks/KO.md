@@ -4,7 +4,7 @@ ticker: KO
 company: Coca-Cola
 sector: Consumer Staples
 held_by: [SCHD]
-updated: 2026-11-10
+updated: 2026-11-11
 tags: [stock]
 ---
 

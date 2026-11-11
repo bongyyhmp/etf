@@ -4,7 +4,7 @@ ticker: UNH
 company: UnitedHealth Group
 sector: Healthcare
 held_by: [SCHD]
-updated: 2026-11-10
+updated: 2026-11-11
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ The largest US health insurer, with the Optum health services and pharmacy busin
 
 ## Recent news
 
+- **2026-11-11** — Shares were about 0.1% lower in German trading (€358.90 on Lang & Schwarz in the afternoon); Ad-hoc News pointed to the raised 2026 adjusted EPS floor of at least $20.50 and the affirmed $2.32 quarterly dividend payable Dec 15, while flagging elevated commercial and Medicaid medical costs and Medicare-related legal actions as risks. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/unitedhealth-group-stock-faces-a-higher-earnings-bar-after-eps-lift/70493360))
 - **2026-11-09** — Surgery Partners reportedly turned down a $28-per-share takeover offer from UnitedHealth, according to a Bloomberg report carried by MT Newswires; UNH closed up about 0.9% at $397.62. ([source](https://marketscreener.com/news/surgery-partners-said-to-reject-28-share-bid-from-unitedhealth-bloomberg-reports-ce785fd3df8cf220))
 - **2026-11-09** — UnitedHealth added Madeline Bell, who recently retired as CEO of Children's Hospital of Philadelphia and also sits on Comcast's board, to its board of directors, effective immediately. ([source](https://www.sec.gov/Archives/edgar/data/0000731766/000073176626000274/exhibit9911.htm))
 - **2026-11-06** — Shares closed down 0.4% at $394.15, below the 20-day average of about $404.82, extending a five-day slide that a JournalArta technical recap could not tie to a specific catalyst. ([source](https://journalarta.com/en/2026/11/09/unitedhealth-unh-stock-falls-0-40-on-friday-momentum-weakens/))
@@ -33,13 +34,13 @@ The largest US health insurer, with the Optum health services and pharmacy busin
 - **2026-11-04** — UnitedHealth was reported to have expanded its buyback authorization by up to 50 million shares, on top of the remaining 2024 authorization. ([source](https://www.tokenpost.com/news/business/48291))
 - **2026-11-03** — Shares were down about 0.4% at roughly $399 in early-afternoon New York trading on Election Day. ([source](https://finanzen.ch/nachrichten/aktien/unitedhealth-aktie-kursbewegung-03-11-2026-1035061931))
 - **2026-11-02** — Sen. Elizabeth Warren criticized UnitedHealth's $3.3B Amedisys purchase and called for breaking up "Big Medicine" (she also co-sponsors a bill to separate PBMs from pharmacies), while investor nonprofit BetterInvesting named UNH its "Undervalued Stock"; shares fell about 1.7% to around $399.90, down 4.4% for the week but up about 24% year to date. ([source](https://247wallst.com/investing/2026/11/02/elizabeth-warren-wants-to-break-up-unitedhealth-and-one-day-later-a-nonprofit-called-it-undervalued/))
-- **2026-11-02** — Shares traded about 2% lower in European trading Monday after Mark Cuban criticized insurer pricing and opaque benefit contracts following reports of AI-driven contract reviews; the commentary was not a company announcement. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/unitedhealth-group-stock-faces-fresh-scrutiny-over-ai-audits/70446537))
 
 ## Coming up
 
+- **2026-12-15** — $2.32 quarterly dividend payable (per Ad-hoc News)
 - **Mid-January 2027** — Q4 2026 earnings (date not yet announced)
 
 ## Bull case / bear case
 
 - **Bull:** Bulls cite the Q3 beat (medical loss ratio 88.4%), 2026 guidance raised to at least $20.50, an expanded 50-million-share buyback, Wells Fargo's view that the fundamental recovery remains on track, Bernstein's expectation of no Medicare Advantage cuts after the midterms, easing medical costs reported across insurers such as Humana, and continued deal appetite (a reported, rejected $28/share bid for Surgery Partners).
-- **Bear:** Wells Fargo, Raymond James and others flag political risk, with a Democratic Congress expected to bring tougher PBM oversight (pressure on Optum Rx) and Sen. Warren's call to break up "Big Medicine"; JPMorgan projects fewer UnitedHealth members in 4-star-plus Medicare Advantage plans for 2027, TradingKey tied the Nov 5 drop to medical-cost trends and payment scrutiny, and several firms trimmed targets after Q3.
+- **Bear:** Wells Fargo, Raymond James and others flag political risk, with a Democratic Congress expected to bring tougher PBM oversight (pressure on Optum Rx) and Sen. Warren's call to break up "Big Medicine"; JPMorgan projects fewer UnitedHealth members in 4-star-plus Medicare Advantage plans for 2027, TradingKey tied the Nov 5 drop to medical-cost trends and payment scrutiny, Ad-hoc News flags elevated commercial and Medicaid costs and Medicare legal actions, and several firms trimmed targets after Q3.

@@ -4,7 +4,7 @@ ticker: JNJ
 company: Johnson & Johnson
 sector: Healthcare
 held_by: [VTV]
-updated: 2026-11-10
+updated: 2026-11-11
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Makes prescription drugs and medical devices.
 
 ## Recent news
 
+- **2026-11-11** — A Motley Fool review noted management sees a route to double-digit sales growth by 2030 and puts peak-sales potential above $5B each for Icotyde, Inlexzo, Lazcluze and Imaavy, while flagging Stelara's 56% drop, a possible Darzalex U.S. exclusivity loss by decade end and the proposed $5.5B talc settlement; shares were about $280. ([source](https://www.fool.com/investing/2026/11/11/johnson-johnson-sees-a-path-to-double-digit-growth/))
+- **2026-11-11** — Trefis put the stock at about $280.78, up 37.9% year to date versus 23.1% for the XLV health-care ETF, and at 42x trailing earnings against a 20.7x average over the past 12 quarter-ends; its own three-year scenario, which assumes faster revenue growth and a lower multiple, reaches about $392. ([source](https://www.trefis.com/stock/jnj/articles/624330/how-much-upside-is-left-in-johnson-johnson-stock/2026-11-11))
 - **2026-11-10** — J&J said Caplyta (lumateperone) met the primary endpoint of a second pivotal Phase 3 trial (Study 452) in bipolar I mania, cutting YMRS scores 3.7 points more than placebo at week 3 with benefit seen from day 3; it plans an FDA submission for this use, which is not yet approved. ([source](https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-caplyta-lumateperone-shows-significant-and-rapid-improvement-in-bipolar-mania-in-second-pivotal-phase-3-study))
 - **2026-11-10** — Trefis noted the Nov 9 close was a 52-week high, with shares up 38.5% year to date, while trailing net income fell about 36% on roughly $7B of Q3 talc and deal charges, lifting the P/E to about 42 from 18 a year ago. ([source](https://www.trefis.com/stock/jnj/articles/624058/what-usually-comes-after-a-new-high-in-johnson-johnson-stock/2026-11-10))
 - **2026-11-09** — Shares rose about 2.1-2.3% to an all-time high of about $282 in Monday trading, above MarketBeat's ~$275.92 consensus target (Moderate Buy); InvestingPro flagged the stock as trading above its fair value after a roughly 51% one-year gain. ([source](https://www.investing.com/news/company-news/johnson-and-johnson-stock-hits-alltime-high-of-28203-usd-93CH-5012972), [MarketBeat](https://www.thecerbatgem.com/2026/11/09/johnson-johnson-nysejnj-sets-new-52-week-high-heres-why.html))
@@ -32,8 +34,6 @@ Makes prescription drugs and medical devices.
 - **2026-11-04** — Trefis said J&J, up about 31% this year, trades near 23.6x 2026 and 22.7x 2027 consensus profit, but flagged deal dilution (the Firefly Bio and Cell BioMedicines deals cut 2027 adjusted EPS by $1.36) and MedTech slowing to 2.5% operational growth in Q3. ([source](https://www.trefis.com/stock/jnj/articles/622606/if-johnson-johnson-stock-looks-expensive-you-need-to-read-this/2026-11-04))
 - **2026-11-04** — After Democrats won Congress, analysts quoted by BioPharma Dive saw limited near-term drug-pricing risk for pharma, with Leerink's David Risinger saying Democrats likely have bigger priorities. ([source](https://www.biopharmadive.com/news/biotech-pharma-midterm-elections-impact/873667/))
 - **2026-11-03** — Shares slipped about 1.1% to roughly $267.59 in Tuesday trading with no company-specific news cited, extending a pullback from the Oct 30 high of about $282. ([source](https://www.marketbeat.com/instant-alerts/list-top-pharmaceutical-stocks-to-watch-today-november-3rd-2026-11-03/))
-- **2026-11-02** — New analyses presented at the TCT 2026 meeting tied J&J's Impella heart pumps to lower short-term mortality in high-risk coronary procedures; Simply Wall St noted the stock closed at $273.20 the prior session and is up about 32% year to date, while its most-followed fair-value estimate (~$241) sits below the price. ([source](https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-jnj-impella-data-190958944.html))
-- **2026-10-30** — Shares hit a new 12-month high of about $282 intraday and traded near $278, up roughly 1%, above MarketBeat's ~$275.92 consensus target (Moderate Buy). ([source](https://www.marketbeat.com/instant-alerts/price-johnson-johnson-nyse-jnj-reaches-new-12-month-high-still-a-buy-2026-10-30/))
 
 ## Coming up
 
@@ -42,5 +42,5 @@ Makes prescription drugs and medical devices.
 
 ## Bull case / bear case
 
-- **Bull:** Bernstein, RBC and Citi cite 6.1% Q3 organic growth, a 3% EPS beat and Innovative Medicine strength (Tremfya up 68%, per Trefis), including positive Phase 3 data for Icotyde in psoriatic arthritis and for Caplyta in bipolar mania; the accelerated FDA approval of Rybrevant Faspro in head and neck cancer, Impella heart pump data and Leerink's view of J&J as the best-funded likely acquirer add to interest.
+- **Bull:** Bernstein, RBC and Citi cite 6.1% Q3 organic growth, a 3% EPS beat and Innovative Medicine strength (Tremfya up 68%, per Trefis), including positive Phase 3 data for Icotyde in psoriatic arthritis and for Caplyta in bipolar mania; the accelerated FDA approval of Rybrevant Faspro in head and neck cancer, Impella heart pump data and Leerink's view of J&J as the best-funded likely acquirer add to interest, and the Motley Fool notes management's target of double-digit growth by 2030 with four launches each seen above $5B at peak.
 - **Bear:** Wells Fargo, BofA and Leerink flag 2027 pressure from deal dilution (Trefis: $1.36 of 2027 EPS), MedTech slowing and loss-of-exclusivity headwinds; Erste, InvestingPro and Simply Wall St see a full valuation, with shares above MarketBeat's ~$276 consensus target and a trailing P/E near 42 after charges (Trefis), and the Smith & Nephew orthopaedics talks reportedly collapsed.

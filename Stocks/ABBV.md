@@ -4,7 +4,7 @@ ticker: ABBV
 company: AbbVie
 sector: Healthcare
 held_by: [VTV]
-updated: 2026-11-10
+updated: 2026-11-11
 tags: [stock]
 ---
 
@@ -22,7 +22,9 @@ Drugmaker known for immunology drugs (Skyrizi, Rinvoq) and Botox.
 
 ## Recent news
 
+- **2026-11-11** — Ad-hoc News pointed to AbbVie's submitted FDA biologics application for etentamig in multiple myeloma (not yet approved) and positive Phase 3 migraine-prevention data for Qulipta; shares were about 0.3% lower in German trading at €261.80 around midday. ([source](https://ad-hoc-news.de/boerse/news/corporate-news/abbvie-aktie-qulipta-daten-und-etentamig-antrag-staerken-pipeline/70491613))
 - **2026-11-10** — An Investing.com feature argued AbbVie has weathered the Humira patent cliff, citing about $14B of operating cash flow in the first nine months and a median analyst target of about $306 versus a recent price near $291, while noting Skyrizi and Rinvoq now make up nearly half of revenue and Skyrizi's first U.S. patents start expiring in 2033; shares edged up about 0.5% in European trading. ([source](https://www.investing.com/news/stock-market-news/while-pharma-peers-stumble-abbvie-defeated-the-patent-cliff-5014492), [ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbvie-stock-gains-late-stage-support-from-migraine-and-oncology-pipeline/70486789))
+- **2026-11-09** — BMO Capital Markets said J&J's oral Icotyde psoriatic arthritis data do not show an efficacy edge over Skyrizi (about 17% vs. 23% placebo-adjusted response, across separate trials) and expect continued near-term Skyrizi growth, though it sees the pill's convenience winning share over time. ([source](https://www.biospace.com/drug-development/j-j-and-protagonists-icotyde-improves-psoriatic-arthritis-but-abbvies-skyrizi-likely-to-reign))
 - **2026-11-08** — At the ASDS dermatologic surgery meeting, AbbVie's Allergan Aesthetics unit presented interim Phase 4 data (Harmony In Diversity and Halo studies), including improved facial-aesthetic and well-being scores among GLP-1 weight-loss patients treated with fillers and neurotoxins. ([source](https://www.gurufocus.com/news/9184206/abbvie-abbv-reports-positive-phase-4-trial-results-in-aesthetic-treatments))
 - **2026-11-06** — Shares recovered about $1.84 (roughly 0.6%) to around $290.08 at midday Friday, per DailyPolitical, after closing Thursday at $288.24, down 2.24%. ([source](https://www.dailypolitical.com/2026/11/06/best-biotech-stocks-to-watch-today-november-6th.html), [Nov 5 close](https://journalarta.com/en/2026/11/06/abbvie-abbv-stock-falls-2-24-momentum-weakens-in-focus/))
 - **2026-11-05** — Shares opened at $298.90 but turned lower with the market, down about 0.8% at $292.38 in the afternoon, per finanzen.ch. ([source](https://finanzen.ch/nachrichten/aktien/abbvie-aktie-kursbewegung-05-11-2026-1035062883))
@@ -32,8 +34,6 @@ Drugmaker known for immunology drugs (Skyrizi, Rinvoq) and Botox.
 - **2026-11-03** — Shares were little changed at about $288.79 in Tuesday trading, still below the post-earnings 52-week high of $298.74. ([source](https://www.marketbeat.com/instant-alerts/list-top-pharmaceutical-stocks-to-watch-today-november-3rd-2026-11-03/))
 - **2026-11-03** — 24/7 Wall St. called the stock fairly valued after its post-earnings high, with a Hold view and a $291.77 target, about 21x forward earnings, and flagged Humira (-31%) and Imbruvica (-26%) erosion and drug-pricing risk. ([source](https://247wallst.com/investing/2026/11/03/abbvie-hit-a-new-high-after-earnings-theres-more-upside-left/))
 - **2026-11-02** — Brokers raised targets after Q3: Morgan Stanley to $346 from $310 (Overweight), Wells Fargo to $340 from $300 (Overweight, citing pipeline additions and Skyrizi/Rinvoq), Canaccord to $338, RBC to $330, Cantor to $325 and Guggenheim to $322 (Buy). ([source](https://www.marketbeat.com/instant-alerts/analyst-abbvie-nyse-abbv-given-new-34600-price-target-at-morgan-stanley-2026-11-02/))
-- **2026-11-02** — Despite the upgrades, shares were down about 2.1% at roughly $288.74 in Monday trading, per MarketBeat. ([source](https://www.marketbeat.com/instant-alerts/analyst-abbvie-nyse-abbv-given-new-34600-price-target-at-morgan-stanley-2026-11-02/))
-- **2026-10-30** — Q3 revenue rose 10.3% to $17.40B, a bit above the ~$17.36B consensus, and adjusted EPS of $3.82 beat the $3.74 estimate; Skyrizi grew 22.7% to $5.78B and Rinvoq 23.9% to $2.71B while Humira fell 31.2% to $683M. AbbVie raised 2026 adjusted EPS guidance to $13.95-$13.99 from $13.76-$13.96 and lifted the quarterly dividend 5.2% to $1.82. ([source](https://finance.biggo.com/news/48db2777-ec7c-46a8-a0ff-13c6b1f6413a))
 
 ## Coming up
 
@@ -43,5 +43,5 @@ Drugmaker known for immunology drugs (Skyrizi, Rinvoq) and Botox.
 
 ## Bull case / bear case
 
-- **Bull:** Supporters point to the Q3 beat with Skyrizi and Rinvoq each growing 20%+, another 2026 EPS guidance raise, a 5.2% dividend increase and pipeline additions like the etentamig filing, the Nov 4 Nxera IBD licensing deal and an expanded Oxford R&D site; Morgan Stanley ($346) and Wells Fargo ($340) raised targets on Nov 2, and Investing.com cites a ~$306 median target.
-- **Bear:** 24/7 Wall St. (Hold, $291.77 target, Nov 3) and others flag a full valuation (about 21x forward earnings) with shares near that target, heavy reliance on Skyrizi and Rinvoq (nearly half of Q3 revenue, per Investing.com), a 31% Humira decline and 26% Imbruvica decline, a modest lutikizumab readout and EPS dilution from the Apogee deal.
+- **Bull:** Supporters point to the Q3 beat with Skyrizi and Rinvoq each growing 20%+, another 2026 EPS guidance raise, a 5.2% dividend increase and pipeline additions like the etentamig filing, the Nov 4 Nxera IBD licensing deal and an expanded Oxford R&D site; Morgan Stanley ($346) and Wells Fargo ($340) raised targets on Nov 2, Investing.com cites a ~$306 median target, and BMO (Nov 9) expects Skyrizi's efficacy edge over J&J's oral Icotyde to support near-term growth.
+- **Bear:** 24/7 Wall St. (Hold, $291.77 target, Nov 3) and others flag a full valuation (about 21x forward earnings) with shares near that target, heavy reliance on Skyrizi and Rinvoq (nearly half of Q3 revenue, per Investing.com), a 31% Humira decline and 26% Imbruvica decline, a modest lutikizumab readout, EPS dilution from the Apogee deal, and BMO's view that oral rival Icotyde should gain psoriatic arthritis share over time.

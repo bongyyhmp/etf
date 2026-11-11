@@ -41,6 +41,7 @@ tags: [etf]
 
 ## News log
 
+- **2026-11-11** — Chip stocks surged after CoreWeave raised its outlook, with the PHLX Semiconductor index up about 5.7%: top holdings Micron (+11.9%), Broadcom (+6.0%), AMD (+3.6%), TSMC ADRs (+3.2%) and Nvidia (+2.9%) closed higher, and Analog Devices was up about 5% late in the session. ([source](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html))
 - **2026-11-09** — Chip stocks led the market's best day since April: holdings AMD (about +13%), Broadcom (about +9%), Applied Materials (+8.5%) and Micron (+5.2%) rallied, while Nvidia fell 4.3% on its board's probe of CEO Jensen Huang; the fund's year-to-date total return moved back above 46%. ([source](https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html))
 - **2026-11-06** — Chip stocks rebounded a day after their worst selloff since 2020 but recovered only part of the losses: holdings AMD (+11.0%), Intel (+7.7%), Marvell (+5.7%), Micron (+5.1%) and Nvidia (+2.8%) closed higher, while Broadcom added just 0.7%. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026))
 - **2026-11-06** — A fund-flow report published today showed about $513M of net new money coming in on Nov 4, the day of the post-election rally, with the fund adding to 28 positions. ([source](https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semi-sector-110502951.html))

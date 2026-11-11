@@ -4,7 +4,7 @@ ticker: XOM
 company: Exxon Mobil
 sector: Energy
 held_by: [VTV]
-updated: 2026-11-10
+updated: 2026-11-11
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Integrated oil and gas company: drilling, refining and chemicals.
 
 ## Recent news
 
+- **2026-11-11** — Crude bounced after two days of losses: December WTI settled up about 0.6% at $86.53 and January Brent up about 1.4% at $92.76, as an Iranian official said no enriched nuclear material would leave the country and peace talks showed little progress, while OPEC data showed Saudi output up 26% in October and the API reported a roughly 9M-barrel U.S. crude build. ([source](https://www.rigzone.com/news/oil_rebounds_amid_mixed_iran_war_signals-11-nov-2026-185062-article))
+- **2026-11-11** — 24/7 Wall St. noted Exxon closed at $164.47 on Nov 10, down about 7.3% over the past week but still up roughly 37% in 2026, and cited Q3 adjusted EPS of $4.23 versus a $3.98 consensus, a ~2.6% dividend yield and a planned $20B of 2027 buybacks. ([source](https://247wallst.com/investing/2026/11/11/a-1000-exxon-stake-from-five-years-ago-is-now-worth-3231-and-shares-are-up-more-than-a-third-in-2026/))
 - **2026-11-10** — Crude kept sliding after President Trump said he would hold off on new strikes on Iran: TheStreet's live coverage had WTI down about 1.5% at $85.53 and Brent down about 1.9% at $90.82, with Brent briefly dipping under $90 for the first time since August, on a day the S&P 500 lost 0.4% after a hotter-than-expected October CPI (+0.4% headline, +0.3% core) pushed the 10-year yield to about 5%. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026), [oilprice.com](https://oilprice.com/Energy/Crude-Oil/Oil-Falls-to-Lowest-Level-Since-August.html))
 - **2026-11-10** — Trefis said Exxon fell about 6.5% in election week to around $165, roughly 12% below its Oct 30 high and near 17x earnings, but argued the business is unchanged and the stocks are not priced for perfection. ([source](https://www.trefis.com/stock/xom/articles/623846/buy-or-sell-energy-stocks-after-their-worst-election-week/2026-11-10))
 - **2026-11-09** — Exxon signed a non-binding memorandum of understanding with Venezuela's PDVSA to assess upstream opportunities, nearly two decades after its assets there were expropriated; the company called it a first step, saying any investment would depend on stable rules, investment protections and competitive returns (its $1.6B 2014 arbitration award remains unresolved). ([source](https://www.marinelink.com/news/exxonmobil-takes-first-step-toward-544247))
@@ -32,8 +34,6 @@ Integrated oil and gas company: drilling, refining and chemicals.
 - **2026-11-05** — Exxon barely moved as WTI rebounded about 2% after its worst three-day drop since late 2021, while the Energy Select Sector SPDR (XLE) slipped toward its lowest close since Oct. 7, about 9% below its Oct. 30 high. ([source](https://www.aol.com/articles/oil-bounces-worst-3-day-184905000.html))
 - **2026-11-04** — Analysts were split after Q3: DZ Bank cut the stock to Sell from Hold ($170 target), Citi kept Neutral while lifting its target to $175 from $155, and TD Cowen kept Buy with a $193 target (from $180), citing larger LNG stakes; shares closed down about 4.6% at $169.27. ([source](https://finance.yahoo.com/markets/stocks/articles/xom-stock-43-2026-wall-042310069.html), [close](https://www.heygotrade.com/en/us-stock/xom/))
 - **2026-11-04** — Shares fell as energy was the market's weakest sector and physical crude markets shifted to discounting; one report put the close at $171.62 (down about 3.3%), while AP's wrap cited a 4.6% drop. ([source](https://news.jkn.co.kr/editions/english/post/1070775), [AP](https://www.boston.com/news/business/2026/11/04/us-stocks-surge-and-the-dow-soars-more-than-1500-points-as-oil-prices-tumble-following-us-midterms/))
-- **2026-11-04** — Brent slid about 8.5% to roughly $94.83 (WTI about $88.88), down more than 15% for the week, as Democrats' midterm sweep and resumed U.S.-Iran talks fed hopes of de-escalation. ([source](https://www.thenationalnews.com/business/energy/2026/11/04/brent-oil-slides-to-94-on-iran-uncertainty-after-us-midterms/))
-- **2026-11-03** — Shares eased about 0.9% to roughly $178.07 at midday, extending Monday's slide as oil prices swung on Iran headlines. ([source](https://www.marketbeat.com/instant-alerts/list-best-oil-stocks-to-follow-today-november-3rd-2026-11-03/))
 
 ## Coming up
 
@@ -46,4 +46,4 @@ Integrated oil and gas company: drilling, refining and chemicals.
 ## Bull case / bear case
 
 - **Bull:** After the Q3 beat, coverage cites refining strength, $9.4B of quarterly shareholder returns against about $19B of free cash flow, a planned $20B buyback for 2027, falling net debt ($22.1B, per GuruFocus), top U.S. output among the majors (Rigzone), LNG stake increases and a first step back toward Venezuela (PDVSA MoU); UBS ($213), Evercore, Barclays and Jefferies ($200) and TD Cowen ($193, Buy) are among the bullish views.
-- **Bear:** Commentators note earnings remain tied to volatile, conflict-driven oil prices (Brent fell about 16% in the week to Nov 6 and slid toward $90 by Nov 10 as Iran strike fears eased), GuruFocus flags that Q4 cash flow will be tested at lower crude, Q3 revenue missed and output dipped, the Venezuela MoU is non-binding, DZ Bank cut to Sell on Nov 4, Citi stays Neutral, and most covering analysts rate the stock Hold.
+- **Bear:** Commentators note earnings remain tied to volatile, conflict-driven oil prices (Brent fell about 16% in the week to Nov 6 and slid toward $90 by Nov 10 as Iran strike fears eased, with only a modest rebound on Nov 11 amid rising Saudi output and a reported U.S. crude build), GuruFocus flags that Q4 cash flow will be tested at lower crude, Q3 revenue missed and output dipped, the Venezuela MoU is non-binding, DZ Bank cut to Sell on Nov 4, Citi stays Neutral, and most covering analysts rate the stock Hold.
