@@ -4,7 +4,7 @@ ticker: ABT
 company: Abbott Laboratories
 sector: Healthcare
 held_by: [SCHD]
-updated: 2026-11-11
+updated: 2026-11-12
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Makes medical devices (heart rhythm, structural heart and glucose monitors), lab
 
 ## Recent news
 
+- **2026-11-12** — No new company announcements were found; shares were about 0.3% higher in German trading at midday (€99.17 vs. the prior €98.88 Xetra close) but slipped to about €97.94 by evening as U.S. markets and the health-care sector weakened, while Ad-hoc News recapped the UltiSynq approvals (based on the ASCEND-CSP-IDE study) and the Amulet 360 VERITAS data. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-stock-weighs-amulet-360-data-as-approval-remains-ahead/70497725), [evening](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-aktie-erhaelt-neue-impulse-aus-der-herztechnik/70500268), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-036-5023324))
 - **2026-11-11** — Shares opened Wednesday at $110.58, per a MarketBeat-syndicated note that listed no new rating changes since Argus's Oct 27 downgrade, and were little changed (about +0.1%) in German trading at €98.99 that evening as the UltiSynq approvals stayed in focus. ([source](https://www.dailypolitical.com/2026/11/11/abbott-laboratories-abt-investment-analysts-weekly-ratings-changes.html), [Ad-hoc News](https://ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-aktie-herztechnik-erhaelt-neue-zulassungen/70493647))
 - **2026-11-10** — Abbott said its UltiSynq defibrillation lead, which combines conduction system pacing with defibrillation, received FDA approval and a CE Mark for sale in the U.S. and EU. ([source](https://rallies.ai/news/abbott-wins-fda-approval-for-ultisynq-defibrillation-lead-5526b5648f37e987))
 - **2026-11-07** — Simply Wall St reported FDA approval of the Amplatzer Paraclose PVL Occluder and the commercial launch of a next-generation Oncodetect cancer MRD test, while flagging litigation, nutrition legal exposure and debt as risks. ([source](https://finance.yahoo.com/healthcare/articles/does-fda-device-approval-change-201239684.html))

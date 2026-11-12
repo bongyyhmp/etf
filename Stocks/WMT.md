@@ -4,7 +4,7 @@ ticker: WMT
 company: Walmart
 sector: Consumer Staples
 held_by: [QQQ, VTV]
-updated: 2026-11-11
+updated: 2026-11-12
 tags: [stock]
 ---
 
@@ -23,6 +23,8 @@ The world's largest retailer by revenue, with stores, Sam's Club and a growing e
 
 ## Recent news
 
+- **2026-11-12** — Walmart said it will release fiscal Q3 results at 6 a.m. CT on Nov 19, before the US open, with an investor call at 7 a.m. CT led by CEO John Furner and CFO John David Rainey; shares were about 2% higher in Lang & Schwarz trading in Germany. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/walmart-stock-gets-fixed-timetable-for-november-19-q3-report/70499311))
+- **2026-11-12** — 24/7 Wall St. noted that only one of 43 analysts rates Walmart a Sell, on valuation (about 45x trailing and 38x forward earnings), and cited over $2B of extra fuel-related costs and management's warning that higher diesel prices into 2027 could offset tariff-refund benefits; it quoted shares at about $126.02 against a ~$129.38 consensus target. ([source](https://247wallst.com/investing/2026/11/12/the-lone-bear-on-walmart-stock-raises-a-question-wall-street-cant-ignore/))
 - **2026-11-11** — BofA analyst Christopher Nardone reiterated Buy and raised the target to $139 from $126, forecasting U.S. comps ex-fuel of about 2.8%, continued share gains, Q3 EPS of $0.63 and full-year guidance toward the top of its range, and lifting the target multiple to 44x from 40x on richer peer valuations; shares were about 1.2% lower premarket. ([source](https://stocktwits.com/news-articles/markets/equity/wmt-stock-gets-a-price-target-boost-from-bof-a-ahead-of-q3-earnings-analyst-sees-more-market-share-gains/cNGDY0tR9BZ), [ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/corporate-news/walmart-stock-bofa-lifts-target-to-139-dollars-before-earnings/70493234))
 - **2026-11-10** — Shares slipped even as more brokers lifted targets ahead of the Nov 19 report, per TipRanks: UBS to $149 from $130 (Buy) and Mizuho to $135 from $125 (Outperform), alongside JPMorgan's $145; consensus looks for Q3 EPS of $0.64 on about $187.2B of revenue, and options imply roughly a 6.4% post-earnings move. ([source](https://www.tipranks.com/news/walmart-stock-wmt-slips-despite-price-target-upgrades-ahead-of-q3-earnings-next-week))
 - **2026-11-09** — BMO kept Outperform and raised its target to $136 from $126, expecting in-line Q3 results with U.S. comps of about 2.8%, but cut its fiscal 2028 U.S. comp forecast to 2.1% from 3.5% on drug-pricing (Maximum Fair Price) headwinds to pharmacy sales. ([source](https://www.investing.com/news/analyst-ratings/bmo-raises-walmart-stock-price-target-on-business-strength-93CH-5015740))
@@ -33,17 +35,15 @@ The world's largest retailer by revenue, with stores, Sam's Club and a growing e
 - **2026-11-04** — Shares rose about 3.5-4% to roughly $129 as investors rotated toward economy-linked and defensive names after the midterms; TradingKey also pointed to new holiday features in Walmart's Sparky AI shopping assistant ahead of fiscal Q3 results. ([source](https://www.tradingkey.com/news/market-movers/262274724-market-movers-wmt-20261104))
 - **2026-11-03** — Shares slid about 2.2% to roughly $124.87 midday despite a rising market, as a Strong Sell note questioned a ~46x P/E, a Morgan Stanley survey raised membership-monetization doubts and investors took profits; Bernstein kept Buy with a $142 target. ([source](https://www.investing.com/news/stock-market-news/why-is-walmart-stock-sliding-today-93CH-4996170))
 - **2026-11-02** — Shares climbed about 3.4% to close near $127.69 (per MarketBeat's quote), outpacing a market where Amazon rebounded on an upgrade. ([source](https://247wallst.com/investing/2026/11/02/amazon-climbs-5-as-upgrade-fuels-post-earnings-rebound-on-aws-strength-walmart-rises-2-alphabet-edges-higher/))
-- **2026-10-31** — TD Cowen started research coverage of Walmart. ([source](https://www.marketbeat.com/instant-alerts/analyst-walmart-nasdaq-wmt-stock-picked-up-by-analysts-at-td-cowen-2026-10-31/))
-- **2026-10-30** — Walmart committed about $6 billion to expand its use of Symbotic's warehouse robotics; Walmart shares rose about 1.9% and Symbotic jumped. ([source](https://finance.yahoo.com/markets/stocks/articles/walmart-gains-commits-6-billion-111417597.html))
 
 ## Coming up
 
-- **2026-11-12** — Early Black Friday deals event begins (runs through Nov 15, per company)
-- **2026-11-19** — Q3 FY2027 earnings (expected; Motley Fool also cites Nov 19, timing of release not specified)
+- **2026-11-15** — Early Black Friday deals event ends (began Nov 12, per company)
+- **2026-11-19** — Q3 FY2027 earnings, 6 a.m. CT before the open; investor call 7 a.m. CT (confirmed by company, per ad-hoc-news)
 - **2026-11-23** — Black Friday deals event begins (runs through Nov 29); Cyber Monday offers follow Nov 30-Dec 2
 - **2026-12-11** — Record date for the $0.24 quarterly dividend (payable 2027-01-04, per Motley Fool)
 
 ## Bull case / bear case
 
 - **Bull:** Commentators cite a strong Q2 beat, growth in ads, membership (fee revenue up 17%) and marketplace income, AI shopping tools such as Sparky and a roughly $6B Symbotic robotics expansion, with pre-earnings target raises from UBS ($149, Buy), JPMorgan ($145, Overweight), BofA ($139, Buy), BMO ($136, Outperform) and Mizuho ($135, Outperform), plus Bernstein (Buy, $142); per Koyfin data cited by Stocktwits, 38 of 43 analysts rate it Buy or Strong Buy.
-- **Bear:** Commentators flag a valuation of roughly 40-46x earnings against single-digit revenue growth, a sub-1% dividend yield, an average analyst target (about $129, per Koyfin) roughly at the share price, comp estimates near or below consensus (JPMorgan +2.7%) and BMO's cut to its fiscal 2028 comp forecast on drug-pricing headwinds, doubts over membership monetization (Morgan Stanley survey), FTC formal orders on personalized pricing, pressure on lower-income shoppers, and insider share sales.
+- **Bear:** Commentators flag a valuation of roughly 40-46x earnings against single-digit revenue growth, a sub-1% dividend yield, an average analyst target (about $129, per Koyfin) roughly at the share price, comp estimates near or below consensus (JPMorgan +2.7%) and BMO's cut to its fiscal 2028 comp forecast on drug-pricing headwinds, doubts over membership monetization (Morgan Stanley survey), FTC formal orders on personalized pricing, pressure on lower-income shoppers, more than $2B of added fuel-related costs with diesel a risk into 2027 (24/7 Wall St., which notes one Sell rating among 43 analysts), and insider share sales.

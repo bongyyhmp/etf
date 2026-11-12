@@ -4,7 +4,7 @@ ticker: CSCO
 company: Cisco Systems
 sector: Technology
 held_by: [XLK, VGT]
-updated: 2026-11-11
+updated: 2026-11-12
 tags: [stock]
 ---
 
@@ -23,6 +23,8 @@ Sells networking equipment, security and collaboration software to businesses.
 
 ## Recent news
 
+- **2026-11-12** — Fiscal Q1 2027 beat: revenue rose 24% to $18.5B (vs. ~$18.1B expected) with product revenue up 32%, adjusted EPS was $1.40 (vs. ~$1.32-$1.33) and non-GAAP gross margin was 65.6%. Cisco lifted fiscal 2027 guidance to $74.8-$75.8B revenue (from $72.2-$73.4B) and $5.47-$5.53 adjusted EPS, raised its hyperscaler AI infrastructure revenue goal to $9B (from $7.5B, more than double fiscal 2026), and guided Q2 to $18.0-$18.2B and $1.34-$1.36; it bought back $2.0B of stock and declared a $0.42 dividend. ([source](https://www.prnewswire.com/news-releases/cisco-reports-first-quarter-earnings-302938394.html))
+- **2026-11-12** — Shares gained about 1.2% to roughly $102 in the regular session before the report; Seeking Alpha had them up about 2% in early extended trading after the beat-and-raise, while 24/7 Wall St. noted an initial jump of as much as 8%, so the after-hours move was still unsettled. ([source](https://seekingalpha.com/news/4671741-cisco-edges-up-after-surpassing-q1-estimates-and-raising-full-year-guidance))
 - **2026-11-11** — Shares rose about 3.4% the day before earnings, lagging a 4.3% gain in tech-equipment stocks; TradingKey cited enterprise AI-networking demand and Splunk-driven software growth, noted options imply about an 8% move on the report, and said the stock is down nearly 20% over the past month. ([source](https://tradingkey.com/news/market-movers/262300992-market-movers-csco-20261111))
 - **2026-11-11** — Ahead of the print, Cisco said every future product will ship integrated with its Cloud Control SaaS management platform (US-only now; EU, UK and Australia in February 2027) and will bundle ThousandEyes into some licenses, while previews flagged fiscal 2027 gross-margin guidance of 65%-66% (down from about 68%) and a $7.5B AI revenue target. ([source](https://ad-hoc-news.de/boerse/news/unternehmensnachrichten/cisco-bets-on-unified-cloud-control-as-analysts-turn-cautious-ahead-of-q1-print/70489278))
 - **2026-11-10** — 24/7 Wall St. said options price roughly an 8% move either way after Thursday's report; over the last eight reports the stock moved an average 6.2% the next day (four gains, four drops, including -8.4% in August), and the average target across 29 analysts is about $135.56. ([source](https://247wallst.com/investing/2026/11/10/cisco-just-jumped-5-into-an-earnings-report-that-has-moved-the-stock-8-or-more-three-times-running/))
@@ -33,14 +35,14 @@ Sells networking equipment, security and collaboration software to businesses.
 - **2026-11-05** — Cisco fell about 5.9%, slightly less than its sector, as chip and AI-hardware stocks slid on data-center slowdown fears; TradingKey cited margin pressure from AI hardware and memory costs, Arista competition and pre-earnings trimming. ([source](https://www.tradingkey.com/news/market-movers/262283067-market-movers-csco-20261105))
 - **2026-11-05** — TradingKey reported that Morgan Stanley cut Cisco to Equal-Weight from Overweight and lowered its target to $120 from $135, citing a 43% 12-month rally and a valuation near the market's (~19x forward earnings). ([source](https://www.tradingkey.com/news/market-movers/262283067-market-movers-csco-20261105))
 - **2026-11-04** — A Trefis review noted Cisco is down 8.7% over the past month versus a 2.6% S&P 500 decline, though still up about 36% this year; historically it has fallen about 16% on average in market shocks. ([source](https://www.trefis.com/stock/csco/articles/622499/how-low-can-cisco-stock-go/2026-11-04))
-- **2026-11-03** — Cisco set its fiscal Q1 2027 report for Nov 12 after the close, with a conference call at 1:30 p.m. PT. ([source](https://rallies.ai/news/cisco-schedules-q1-fiscal-2027-results-conference-call-6bc72ce2719896b1))
-- **2026-11-03** — Bank of America reiterated Buy with a $150 target, expecting about 22% revenue growth in fiscal Q1 and saying roughly $6B of unconverted AI orders covers about 80% of Cisco's $7.5B fiscal 2027 AI revenue goal; it forecast gross margin easing to about 65.5%. ([source](https://ca.finance.yahoo.com/news/cisco-ai-backlog-core-demand-181100832.html))
 
 ## Coming up
 
-- **2026-11-12** — Q1 FY2027 earnings after the close; conference call 1:30 p.m. PT (confirmed by Cisco on Nov 3); company guidance $18.0-$18.2B revenue, $1.32-$1.34 adjusted EPS
+- **2027-01-04** — record date for the $0.42 quarterly dividend
+- **2027-01-20** — dividend payment date
+- **Mid-February 2027** — fiscal Q2 2027 earnings (estimated; date not yet announced); company guidance $18.0-$18.2B revenue, $1.34-$1.36 adjusted EPS
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite hyperscaler AI networking orders (BofA: ~$6B AI backlog, Buy, $150), a campus-switch refresh as enterprise inventory digestion stabilizes, Splunk-driven software revenue, a push to tie all new products to its Cloud Control platform, Morgan Stanley's view of multi-year double-digit earnings growth and an average target near $135.56 (29 analysts, per 24/7 Wall St.) heading into the Nov 12 report, where consensus expects about 22% revenue growth.
-- **Bear:** Morgan Stanley's downgrade to Equal-Weight ($120) argues the AI rerating is largely priced in and Bernstein holds at Hold ($110); coverage flags 30%-40% gross margins on hyperscaler AI sales, memory costs, Arista competition, possibly pulled-forward orders and insider selling, guided gross margin of 65%-66% vs. about 68% a year ago, and options imply an ~8% post-earnings swing after big drops following two of the last three reports; shares are down nearly 20% over the past month despite the Nov 9 and Nov 11 gains.
+- **Bull:** The Nov 12 report beat on revenue ($18.5B, +24%) and EPS ($1.40), with networking up about 43%; Cisco raised fiscal 2027 revenue and EPS guidance and lifted its hyperscaler AI revenue target to $9B, and analysts had cited AI networking orders (BofA, Buy, $150), a campus refresh, Splunk-driven software and an average target near $135-$137.
+- **Bear:** Morgan Stanley (Equal-Weight, $120) and Bernstein (Hold, $110) argued before the print that the AI rerating is largely priced in and that some orders may have been pulled ahead of price hikes; non-GAAP gross margin of 65.6% and the 65%-66% Q2 guide sit below last year's ~68% as lower-margin hyperscaler hardware grows, services rose only 1%, and the stock was still well below its October level heading into the report.

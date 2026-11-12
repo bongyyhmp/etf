@@ -4,36 +4,36 @@ ticker: QQQ
 issuer: Invesco
 aum: $490B
 expense_ratio: 0.18%
-return_ytd: 10.2
-return_1y: 8.8
-data_as_of: 2026-11-10
+return_ytd: 12.8
+return_1y: 11.6
+data_as_of: 2026-11-11
 tags: [etf]
 ---
 
 # QQQ — Invesco QQQ Trust
 
-> [!info] Snapshot (as of Nov 10, 2026)
+> [!info] Snapshot (as of Nov 11, 2026)
 > **Tracks:** Nasdaq-100 (100 largest non-financial Nasdaq companies)  
 > **Issuer:** Invesco · **Assets:** $490B · **Expense ratio:** 0.18%  
-> **Return:** +10.2% this year · +8.8% over 1 year (dividends reinvested)  
-> **Holdings:** 101 stocks · top 10 ≈ 51% of the fund
+> **Return:** +12.8% this year · +11.6% over 1 year (dividends reinvested)  
+> **Holdings:** 101 stocks · top 10 ≈ 50% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[AAPL]] — Apple | 8.9% |
-| 2 | [[NVDA]] — NVIDIA | 8.0% |
-| 3 | [[MSFT]] — Microsoft | 7.0% |
-| 4 | [[GOOGL]] — Alphabet (Google) | 5.6% |
-| 5 | [[AMZN]] — Amazon | 4.9% |
-| 6 | [[MU]] — Micron Technology | 3.8% |
-| 7 | [[AMD]] — Advanced Micro Devices | 3.6% |
-| 8 | [[META]] — Meta Platforms | 3.2% |
-| 9 | [[TSLA]] — Tesla | 3.2% |
-| 10 | [[WMT]] — Walmart | 3.0% |
+| 1 | [[AAPL]] — Apple | 8.7% |
+| 2 | [[NVDA]] — NVIDIA | 7.1% |
+| 3 | [[MSFT]] — Microsoft | 6.5% |
+| 4 | [[GOOGL]] — Alphabet (Google) | 5.5% |
+| 5 | [[AMZN]] — Amazon | 4.8% |
+| 6 | [[MU]] — Micron Technology | 4.2% |
+| 7 | [[AMD]] — Advanced Micro Devices | 4.2% |
+| 8 | [[TSLA]] — Tesla | 3.3% |
+| 9 | [[META]] — Meta Platforms | 3.1% |
+| 10 | [[WMT]] — Walmart | 2.8% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 6, 2026 prices.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 11, 2026 prices.*
 
 ## Sector mix
 

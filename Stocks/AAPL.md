@@ -4,7 +4,7 @@ ticker: AAPL
 company: Apple
 sector: Technology
 held_by: [VGT, XLK, VUG, QQQ, IVV, SPY, VOO, VTI]
-updated: 2026-11-11
+updated: 2026-11-12
 tags: [stock]
 ---
 
@@ -29,6 +29,7 @@ Makes the iPhone, Mac, iPad and wearables, and earns a growing share from servic
 
 ## Recent news
 
+- **2026-11-12** — Apple ended roughly flat, down about 0.15% near $354.88 per Investing.com's closing quotes, a day after its record close, as the S&P 500 slipped 0.35% and the Nasdaq 0.39% while Nvidia sank on CEO Jensen Huang's resignation. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-036-5023324))
 - **2026-11-11** — Apple gained about 2% to a record close near $355.3 after touching an all-time high of $355.4, lifting market value to roughly $5.16 trillion. ([source](https://www.investing.com/news/company-news/apple-stock-hits-alltime-high-at-3554-usd-93CH-5019808))
 - **2026-11-11** — China Renaissance upgraded Apple to Buy from Hold with a Street-high $425 target, reversing its August downgrade after record fiscal Q4 revenue of $114.5B, per Finbold. ([source](https://finbold.com/analyst-sets-street-high-apple-stock-price-target/))
 - **2026-11-10** — Apple traded about 0.9% lower near $347.51 around midday as hot October CPI data pulled the Nasdaq down. ([source](https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-midday-nov-10-stocks-slide-on-hot-inflation-data/))
@@ -40,15 +41,13 @@ Makes the iPhone, Mac, iPad and wearables, and earns a growing share from servic
 - **2026-11-06** — Apple traded about 1.1% lower during Friday's session, lagging as the Nasdaq rebounded roughly 1.1% after Thursday's rout, per a KuCoin market flash. ([source](https://www.kucoin.com/news/flash/nasdaq-rebounds-after-19-month-largest-drop-amid-ai-sector-volatility))
 - **2026-11-06** — CNBC reported that Daiwa Capital Markets thinks Apple's recent stretch of outperforming the market is unlikely to last much longer. ([source](https://www.cnbc.com/2026/11/06/apple-is-on-a-tear-but-it-wont-be-for-long-per-daiwa-capital-markets.html))
 - **2026-11-05** — Apple slipped 1.53% to $344.17, a far milder loss than the Nasdaq's 5.5% slide, giving back part of Wednesday's post-election surge. ([source](https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/))
-- **2026-11-05** — Per Bloomberg (via TradingKey), Apple marketed about $7B of investment-grade bonds in seven tranches maturing in 2-10 years, drawing roughly $31B of orders; it is its first bond sale since a $4.5B deal in May 2025, with proceeds earmarked for general purposes including buybacks and dividends. ([source](https://www.tradingkey.com/analysis/stocks/us-stocks/262283411-apple-stock-forecast-7-billion-bond-sale-31-billion-demand-share-buybacks-tradingkey))
-
 ## Coming up
 
-- **2026-11-12** — Record date for $0.27 quarterly dividend, payable 2026-11-16 (per Apple)
+- **2026-11-16** — $0.27 quarterly dividend payable to holders of record on Nov 12 (per Apple)
 - **Late January 2027** — Fiscal Q1 earnings (estimated, not yet confirmed)
 - **2027-03-01** — Australian court deadline to allow rival app stores; Apple plans to appeal
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (China Renaissance, upgrading to Buy with a Street-high $425 target; Bernstein, Argus, Evercore ISI and Redburn in the $360-$400 range; Wedbush $400; BofA's Wamsi Mohan reiterating Buy) cite the fiscal Q4 beat (iPhone +17%, record Services), December-quarter revenue guidance of 7%-10% growth, strong cash generation and possible AI upside from a reworked Siri; shares set another record close near $355 on Nov 11.
+- **Bull:** Analysts (China Renaissance, upgrading to Buy with a Street-high $425 target; Bernstein, Argus, Evercore ISI and Redburn in the $360-$400 range; Wedbush $400; BofA's Wamsi Mohan reiterating Buy) cite the fiscal Q4 beat (iPhone +17%, record Services), December-quarter revenue guidance of 7%-10% growth, strong cash generation and possible AI upside from a reworked Siri; shares set another record close near $355 on Nov 11 and held near that level on Nov 12 as Nvidia's CEO exit hit chip stocks.
 - **Bear:** Critics point to 45%-46% December-quarter gross margin guidance hurt by memory costs, a Greater China miss and a rich valuation, with shares above the ~$341 average target (24/7 Wall St.); DZ Bank, Loop Capital and MoffettNathanson cut ratings or targets toward ~$280-$300, JPMorgan trimmed to $355, and Daiwa (per CNBC) expects Apple's outperformance to fade.

@@ -4,36 +4,36 @@ ticker: SCHD
 issuer: Schwab
 aum: $112B
 expense_ratio: 0.06%
-return_ytd: 33.8
-return_1y: 38.5
-data_as_of: 2026-11-10
+return_ytd: 34.5
+return_1y: 37.1
+data_as_of: 2026-11-11
 tags: [etf]
 ---
 
 # SCHD — Schwab U.S. Dividend Equity ETF
 
-> [!info] Snapshot (as of Nov 10, 2026)
+> [!info] Snapshot (as of Nov 11, 2026)
 > **Tracks:** Dow Jones U.S. Dividend 100 (quality dividend payers)  
 > **Issuer:** Schwab · **Assets:** $112B · **Expense ratio:** 0.06%  
-> **Return:** +33.8% this year · +38.5% over 1 year (dividends reinvested)  
-> **Holdings:** 99 stocks · top 10 ≈ 43% of the fund
+> **Return:** +34.5% this year · +37.1% over 1 year (dividends reinvested)  
+> **Holdings:** 99 stocks · top 10 ≈ 42% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[AMGN]] — Amgen | 5.0% |
-| 2 | [[MRK]] — Merck & Co. | 4.7% |
+| 1 | [[AMGN]] — Amgen | 4.9% |
+| 2 | [[MRK]] — Merck & Co. | 4.6% |
 | 3 | [[ABT]] — Abbott Laboratories | 4.6% |
 | 4 | [[KO]] — Coca-Cola | 4.4% |
 | 5 | [[PG]] — Procter & Gamble | 4.3% |
-| 6 | [[CVX]] — Chevron | 4.1% |
-| 7 | [[HD]] — Home Depot | 4.0% |
-| 8 | [[COP]] — ConocoPhillips | 4.0% |
-| 9 | [[ACN]] — Accenture | 3.9% |
-| 10 | [[UNH]] — UnitedHealth Group | 3.8% |
+| 6 | [[HD]] — Home Depot | 4.0% |
+| 7 | [[CVX]] — Chevron | 4.0% |
+| 8 | [[COP]] — ConocoPhillips | 3.9% |
+| 9 | [[UNH]] — UnitedHealth Group | 3.9% |
+| 10 | [[ACN]] — Accenture | 3.8% |
 
-*Holdings from the fund's Aug 31, 2026 SEC filing; weights rolled forward to current prices by the source. Texas Instruments and Qualcomm dropped out of the top 10 in this filing; Abbott and Home Depot moved in.*
+*Holdings from the fund's Aug 31, 2026 SEC filing; weights rolled forward to Nov 11, 2026 prices by the source. Texas Instruments and Qualcomm dropped out of the top 10 in this filing; Abbott and Home Depot moved in.*
 
 ## Sector mix
 

@@ -4,7 +4,7 @@ ticker: AMD
 company: Advanced Micro Devices
 sector: Technology
 held_by: [SOXX, SMH, XLK, QQQ, VGT, VUG]
-updated: 2026-11-11
+updated: 2026-11-12
 tags: [stock]
 ---
 
@@ -27,6 +27,9 @@ Designs CPUs and GPUs for PCs, servers and AI data centers; Nvidia's main AI chi
 
 ## Recent news
 
+- **2026-11-12** — AMD closed up about 5.9% as investors bet Nvidia's leadership crisis could help its closest GPU rival, while the S&P 500 and Nasdaq each fell about 0.4%. ([source](https://www.kiplinger.com/investing/stocks/stocks-slip-as-wall-street-weighs-nvidias-ceo-crisis-stock-market-today))
+- **2026-11-12** — William Blair upgraded AMD to Outperform from Market Perform without a target, seeing room for Instinct GPUs to gain share and EPYC CPUs to win more custom-chip work as Nvidia faces scrutiny and Intel is supply-constrained. ([source](https://www.tikr.com/blog/amd-is-up-127-in-a-year-william-blair-just-upgraded-it-as-nvidia-loses-its-ceo))
+- **2026-11-12** — BofA's Vivek Arya raised his AMD target to $700 from $650 (Buy) and named it his top CPU pick, citing its product breadth, Zen 6 execution and supply visibility. ([source](https://finance.biggo.com/news/ffa6d837-4926-4879-8c08-924d4259f7f8))
 - **2026-11-11** — AMD closed up 3.58% at $533.64 per JKN, after rising as much as about 8% intraday (high $559.80), as Supermicro began shipping AI servers with AMD processors and CoreWeave's raised outlook lifted AI chips. ([source](https://news.jkn.co.kr/editions/english/post/1087224))
 - **2026-11-11** — UBS analyst Timothy Arcuri said Q3 server CPU shipments rose about 31% year over year, with AMD's unit share roughly flat at 28.4% while Intel lost about 240 basis points to 51.5% and Arm gained about 250 to 20.1%. ([source](https://www.investing.com/news/stock-market-news/server-cpu-strength-persists-as-amd-and-arm-gain-share-ubs-5018734))
 - **2026-11-10** — AMD closed up 5.01% at $534.08, extending Monday's 13% jump as money kept rotating within AI chips while Nvidia fell. ([source](https://news.jkn.co.kr/editions/english/post/1084494))
@@ -36,9 +39,6 @@ Designs CPUs and GPUs for PCs, servers and AI data centers; Nvidia's main AI chi
 - **2026-11-09** — Oppenheimer's Rick Schafer upgraded AMD to Outperform with a $600 target, calling its server and data-center success undeniable and modeling about 135% data-center growth in 2027 as AMD ships about 3 gigawatts of compute. ([source](https://finance.yahoo.com/markets/stocks/articles/amd-soars-12-undeniable-data-160850436.html))
 - **2026-11-09** — AMD said its 5th Gen EPYC processors serve as host CPUs for Google Cloud's newest TPU system. ([source](https://247wallst.com/investing/2026/11/09/nvidia-falls-5-as-board-probes-jensen-huangs-ties-to-alleged-chinese-spy-amd-rises-4-intel-holds-steady/))
 - **2026-11-06** — AMD closed up 11.04% at $449.04, the biggest gain among large chip stocks, recovering part of Thursday's 17% drop but still roughly 32% below its $658.52 52-week high. ([source](https://news.jkn.co.kr/editions/english/post/1075844))
-- **2026-11-06** — JKN tallied post-earnings target moves: JPMorgan raised to $575 from $550 (Neutral), Morgan Stanley to $550 (Equal Weight), Goldman Sachs trimmed to $675 from $700 (Buy) and Barclays reiterated Overweight at $665. ([source](https://news.jkn.co.kr/editions/english/post/1075844))
-- **2026-11-05** — AMD sank 17.26% to $404.40, erasing its post-earnings gains and more as AI chip stocks were sold after the Democratic sweep. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026))
-- **2026-11-05** — CEO Lisa Su said markets can be short-sighted at times and that she still sees AI chip demand holding up; the stock was down about 22% over the past month. ([source](https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html))
 
 ## Coming up
 
@@ -48,5 +48,5 @@ Designs CPUs and GPUs for PCs, servers and AI data centers; Nvidia's main AI chi
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (Oppenheimer Outperform at $600, Goldman Sachs top pick, Stifel, Barclays, Bernstein) cite AI data-center demand, the MI450 ramp and OpenAI/Meta GPU deals; Q3 data-center revenue nearly doubled to $8.5B, the ~$17B Q4 guide implies ~66% growth, Lisa Su targets 2027 growth above 80%, and UBS data show AMD holding about 28% of rising server CPU shipments while Intel loses share.
-- **Bear:** Goldman calls the valuation less compelling, the Motley Fool notes it trades near 110x earnings and GuruFocus puts it well above its GF Value; commentators also flag slightly lower gross-margin guidance (~55%), Gaming down 40%, an expected PC decline in 2027, HBM supply limits and target trims from BofA and Goldman, and the stock has swung sharply day to day since Nov 5, giving back much of a midday gain on Nov 11.
+- **Bull:** Analysts (William Blair upgrade to Outperform, BofA Buy at $700 and top CPU pick, Oppenheimer Outperform at $600, Goldman Sachs top pick) cite AI data-center demand, the MI450 ramp, OpenAI/Meta GPU deals and a possible share opening from Nvidia's CEO turmoil; Q3 data-center revenue nearly doubled to $8.5B, the ~$17B Q4 guide implies ~66% growth, and UBS data show AMD holding about 28% of rising server CPU shipments.
+- **Bear:** Goldman calls the valuation less compelling and TIKR notes about 37x forward earnings, above the five-year average; commentators also flag slightly lower gross-margin guidance (~55%), Gaming down 40%, an expected 2027 PC decline, HBM and supply limits that Lisa Su says cap how fast customers can shift orders, and sharp day-to-day swings since Nov 5.

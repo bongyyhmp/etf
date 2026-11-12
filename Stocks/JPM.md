@@ -4,7 +4,7 @@ ticker: JPM
 company: JPMorgan Chase
 sector: Financials
 held_by: [VTV]
-updated: 2026-11-11
+updated: 2026-11-12
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ The largest US bank: consumer banking, credit cards, investment banking and asse
 
 ## Recent news
 
+- **2026-11-12** — Shares were up $0.78 at about $344.17 in midday trading Thursday, per a MarketBeat-syndicated report, on a day the Dow, S&P 500 and Nasdaq each finished about 0.4% lower as an Nvidia slide weighed on tech. ([source](https://www.dailypolitical.com/2026/11/12/bank-stocks-to-keep-an-eye-on-november-12th.html), [Investing.com](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-036-5023324))
 - **2026-11-10** — JPMorgan is taking a lead role in Anthropic's planned IPO, handling domestic retail marketing and share allocations, and CEO Jamie Dimon is slated to join Anthropic co-founder Dario Amodei for a live-streamed discussion of the offering (no date given), per Simply Wall St. ([source](https://finance.yahoo.com/technology/ai/articles/jpmorgan-chase-jpm-takes-lead-031258403.html))
 - **2026-11-09** — Reuters reported, via Ad-hoc News, that JPMorgan's loans backed by other income-producing properties, a category including data centers, reached $29B at the end of Q3, or 12% of its commercial real estate book versus 8% three years earlier, as lenders tighten scrutiny of AI infrastructure financing. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-chase-stock-faces-ai-lending-test-as-data-center-loans-reach-usd-29-billion/70487192))
 - **2026-11-09** — Shares rose about 2% to around $342.80 in Monday trading as banks joined a broad rebound led by AI and growth stocks, lagging Goldman Sachs (+5%) and Morgan Stanley (+4%); 24/7 Wall St. tied the smaller gain to JPMorgan's universal-bank model being less dependent on IPO and deal fees. ([source](https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-climbs-4-vinyl-190218879.html))
@@ -33,7 +34,6 @@ The largest US bank: consumer banking, credit cards, investment banking and asse
 - **2026-11-02** — UBS raised its target to $400 from $395 and kept Buy; shares rose $3.71 to about $340.75 Monday, below MarketBeat's ~$368 average target (Moderate Buy: 15 Buy/Strong Buy, 13 Hold). ([source](https://www.marketbeat.com/instant-alerts/analyst-ubs-group-forecasts-strong-price-appreciation-for-jpmorgan-chase-co-nyse-jpm-stock-2026-11-02/))
 - **2026-10-30** — Shares opened at $343.63, below MarketBeat's ~$368.10 average target (Moderate Buy: 15 Buy/Strong Buy, 13 Hold); MarketBeat also noted reports of a possible lead role for JPMorgan in retail share sales for Anthropic's planned IPO. ([source](https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-citizens-financial-group-inc-ri-boosts-holdings-2026-10-30/))
 - **2026-10-27** — JPMorgan published its 2027 earnings calendar: Q1 on Apr 13, Q2 on Jul 13, Q3 on Oct 12, and Q4 2027 on Jan 13, 2028. ([source](https://www.stocktitan.net/news/JPM/jp-morgan-chase-updates-2027-earnings-release-date-6d2o05tl434y.html))
-- **2026-10-13** — Q3 2026: managed revenue up about 8% to roughly $50.9B; EPS $5.57, about 10% higher than a year earlier. ([source](https://stockhub.kr/insights/jpm-cy2026-q3-earnings-20261013))
 
 ## Coming up
 

@@ -6,20 +6,20 @@ Your ETF and stock research vault. Open **Graph view** (left sidebar, or Ctrl/Cm
 
 | ETF | What it holds | Assets | Fee | This year | 1 year |
 |---|---|---|---|---|---|
-| [[SOXX]] | NYSE Semiconductor Index | $48B | 0.33% | +46.5% | +50.0% |
-| [[SMH]] | MVIS US Listed Semiconductor 25 | $77B | 0.35% | +34.3% | +35.2% |
-| [[SCHD]] | Dow Jones U.S. Dividend 100 | $112B | 0.06% | +33.8% | +38.5% |
-| [[VTV]] | CRSP US Large Cap Value | $194B | 0.04% | +21.0% | +24.3% |
-| [[VGT]] | MSCI US IMI Information Technology 25/50 | $171B | 0.09% | +19.3% | +18.2% |
-| [[XLK]] | Technology Select Sector Index | $124B | 0.08% | +17.7% | +14.9% |
-| [[VTI]] | CRSP US Total Market | $665B | 0.03% | +11.2% | +11.6% |
-| [[IVV]] | S&P 500 | $888B | 0.03% | +10.9% | +11.3% |
-| [[VOO]] | S&P 500 | $986B | 0.03% | +10.9% | +11.3% |
-| [[SPY]] | S&P 500 | $781B | 0.0945% | +10.8% | +11.2% |
-| [[QQQ]] | Nasdaq-100 | $490B | 0.18% | +10.2% | +8.8% |
-| [[VUG]] | CRSP US Large Cap Growth | $211B | 0.04% | +4.2% | +5.0% |
+| [[SOXX]] | NYSE Semiconductor Index | $48B | 0.33% | +55.1% | +58.5% |
+| [[SMH]] | MVIS US Listed Semiconductor 25 | $77B | 0.35% | +40.9% | +44.9% |
+| [[SCHD]] | Dow Jones U.S. Dividend 100 | $112B | 0.06% | +34.5% | +37.1% |
+| [[VTV]] | CRSP US Large Cap Value | $196B | 0.04% | +22.3% | +24.5% |
+| [[XLK]] | Technology Select Sector Index | $124B | 0.08% | +21.6% | +19.6% |
+| [[VGT]] | MSCI US IMI Information Technology 25/50 | $171B | 0.09% | +21.2% | +18.2% |
+| [[QQQ]] | Nasdaq-100 | $490B | 0.18% | +12.8% | +11.6% |
+| [[VTI]] | CRSP US Total Market | $671B | 0.03% | +12.6% | +12.8% |
+| [[VOO]] | S&P 500 | $996B | 0.03% | +12.3% | +12.5% |
+| [[IVV]] | S&P 500 | $888B | 0.03% | +12.3% | +12.5% |
+| [[SPY]] | S&P 500 | $781B | 0.0945% | +12.3% | +12.4% |
+| [[VUG]] | CRSP US Large Cap Growth | $213B | 0.04% | +5.2% | +3.8% |
 
-*Returns as of the Nov 10, 2026 close for most funds; [[SOXX]], [[VGT]] and [[VUG]] figures are from Nov 9 (newer ones weren't yet published). The S&P 500 rose 1.31% and the Nasdaq 1.60% on Nov 11. Returns include reinvested dividends. Past returns don't predict future ones.*
+*Returns as of the Nov 11, 2026 close (the latest published). The S&P 500 fell 0.35% and the Nasdaq 0.39% on Nov 12. Returns include reinvested dividends. Past returns don't predict future ones.*
 
 ## Stocks held by the most of your ETFs
 
@@ -36,6 +36,7 @@ Your ETF and stock research vault. Open **Graph view** (left sidebar, or Ctrl/Cm
 
 ## Market scans
 
+- [[2026-11-12 Market Scan]]
 - [[2026-11-11 Market Scan]]
 - [[2026-11-10 Market Scan]]
 - [[2026-11-09 Market Scan]]

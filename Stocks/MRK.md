@@ -4,7 +4,7 @@ ticker: MRK
 company: Merck & Co.
 sector: Healthcare
 held_by: [SCHD, VTV]
-updated: 2026-11-11
+updated: 2026-11-12
 tags: [stock]
 ---
 
@@ -23,6 +23,8 @@ Drugmaker known for the cancer drug Keytruda and vaccines.
 
 ## Recent news
 
+- **2026-11-12** — Shares were up about 0.3% at $147.66 in morning New York trading (high about $148.64) and about 1.4% higher in German trading that afternoon, with Ad-hoc News recapping the efinopegdutide Phase 2b MASH data (published in The Lancet; Fast Track designation; 3-11% adverse-event discontinuations vs. 1% on placebo). ([source](https://www.finanzen.ch/nachrichten/aktien/merck_co-aktie-kursbewegung-12-11-2026-1035061903), [Ad-hoc News](https://www.ad-hoc-news.de/boerse/news/corporate-news/merck-und-co-stock-gains-as-efinopegdutide-clears-phase-2b-goal/70499066))
+- **2026-11-12** — Forbes detailed CMS's recently finalized Medicare drug-price negotiation rule, which sets permanent policy from 2027 and says adding an ingredient only to enable a new delivery route, such as a subcutaneous version, no longer changes a drug's negotiation timing; CMS picks the next 20 drugs in February 2027. The article did not name specific companies. ([source](https://forbes.com/sites/joshuacohen/2026/11/12/trump-administration-reinforces-medicare-drug-price-negotiation-rules))
 - **2026-11-11** — Shares were about 0.7% higher in German trading (€131.84 on Lang & Schwarz at midday); Ad-hoc News noted Merck aims to move 30-40% of U.S. Keytruda patients to subcutaneous Keytruda Qlex by end-2027 ahead of the 2028 exclusivity loss, plans with Moderna to file the intismeran cancer vaccine in 2027, and carries an average analyst target near $161.53 (via Yahoo Finance). ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/merck-und-co-aktie-42-3-prozent-plus-trotz-keytruda-risiko/70492064))
 - **2026-11-10** — Ad-hoc News reported that the FDA accepted two supplemental applications for HIV pill Idvynso (doravirine/islatravir), one for treatment-naive adults and one adding 96-week data in virologically suppressed adults, with an April 22, 2027 target date; shares were about 0.7% lower in German trading. ([source](https://ad-hoc-news.de/boerse/news/corporate-news/merck-und-co-stock-slips-as-hiv-pipeline-stays-in-focus/70487142))
 - **2026-11-09** — Merck said once-weekly efinopegdutide (GLP-1/glucagon co-agonist) met the primary endpoint of a 381-patient Phase 2b MASH trial presented at AASLD: 56-63% of patients reached MASH resolution at 52 weeks vs. 13% on placebo, with fibrosis improvement up to 52% (7 mg) vs. 21%; shares were up about 1.4% midday. ([source](https://www.hcplive.com/view/efinopegdutide-improves-mash-resolution-fibrosis-in-phase-2b-trial), [stock](https://www.investing.com/news/company-news/mercks-efinopegdutide-shows-positive-results-in-mash-trial-93CH-5012973))
@@ -33,16 +35,15 @@ Drugmaker known for the cancer drug Keytruda and vaccines.
 - **2026-11-02** — Freedom Broker raised its target to $140 from $125 but kept Hold, noting Q3 beat even excluding a ~$550M purchase-timing benefit it expects to partly reverse in Q4, and flagging Keytruda dependence. ([source](https://investing.com/news/analyst-ratings/freedom-broker-raises-merck-stock-price-target-to-140-on-results-93CH-4992285))
 - **2026-11-02** — Cantor Fitzgerald raised its target to $155 from $145 but kept a Neutral rating; shares opened Monday at $149.75. ([source](https://www.marketbeat.com/instant-alerts/analyst-merck-co-inc-nyse-mrk-stock-price-target-raised-at-cantor-fitzgerald-2026-11-02/))
 - **2026-10-30** — JPMorgan lifted its Merck target to $175 from $165 and reiterated Overweight. ([source](https://www.marketbeat.com/instant-alerts/analyst-merck-co-inc-nyse-mrk-stock-gets-price-target-increase-from-jpmorgan-chase-co-2026-10-30/))
-- **2026-10-30** — Shares rose $3.77 (about 2.6%) to $150.10 on Friday even as RBC trimmed its target to $140 from $145 (Sector Perform) and Guggenheim edged its target to $171 from $170 (Buy); MarketBeat's consensus target is about $152.96. ([source](https://www.marketbeat.com/instant-alerts/analyst-merck-co-inc-nyse-mrk-stock-gets-price-target-cut-from-royal-bank-of-canada-2026-10-30/))
-- **2026-10-30** — BofA raised its target to $165 from $163 (Buy), citing a 4.5% sales beat and pipeline hopes for a 2027 Lipfendra launch, while noting management flagged slower 2027 growth from exclusivity losses and higher expenses. ([source](https://www.investing.com/news/analyst-ratings/bofa-raises-merck-stock-price-target-to-165-on-pipeline-strength-93CH-4986574))
 
 ## Coming up
 
 - **February 2027** — Q4 2026 earnings and 2027 guidance (TIKR cites 2027-02-02; not confirmed by company)
+- **February 2027** — CMS selects the next 20 drugs for Medicare price negotiation (industry-wide; per Forbes)
 - **2027-04-22** — FDA target action date for two Idvynso supplemental applications (HIV)
 - **2027-06-15** — FDA decision date for sac-TMT in endometrial cancer
 
 ## Bull case / bear case
 
 - **Bull:** Q3 beat with a raised 2026 EPS outlook, a goal of shifting 30-40% of U.S. Keytruda patients to Keytruda Qlex by end-2027, a planned 2027 filing for intismeran with Moderna, Keytruda Qlex ahead of estimates, Winrevair up 93% with nearly 1,600 new U.S. patients, positive Phase 2b MASH data for efinopegdutide on Nov 9, two new FDA filings accepted for HIV pill Idvynso, and brokers (JPMorgan $175, BofA, Guggenheim, Barclays) citing pipeline assets such as sac-TMT, intismeran and Lipfendra.
-- **Bear:** IV Keytruda sales fell 5% ahead of its December 2028 U.S. patent expiry, management flagged slower 2027 growth with over $2B of generic headwinds (Trefis), some Q3 growth came from purchase timing (TIKR), and DZ Bank (Hold), RBC (target cut to $140), Cantor (Neutral) and Freedom Broker (Hold) question valuation, which Trefis puts at about 5.5x sales.
+- **Bear:** IV Keytruda sales fell 5% ahead of its December 2028 U.S. patent expiry, management flagged slower 2027 growth with over $2B of generic headwinds (Trefis), some Q3 growth came from purchase timing (TIKR), CMS's final negotiation rule (per Forbes) says subcutaneous reformulations no longer change negotiation timing, and DZ Bank (Hold), RBC (target cut to $140), Cantor (Neutral) and Freedom Broker (Hold) question valuation, which Trefis puts at about 5.5x sales.

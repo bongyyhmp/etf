@@ -4,7 +4,7 @@ ticker: TSM
 company: Taiwan Semiconductor (TSMC)
 sector: Technology
 held_by: [SMH, SOXX]
-updated: 2026-11-11
+updated: 2026-11-12
 tags: [stock]
 ---
 
@@ -23,6 +23,7 @@ The world's largest contract chipmaker; manufactures chips for Apple, Nvidia, AM
 
 ## Recent news
 
+- **2026-11-12** — TSMC ADRs fell about 3.5% premarket and were down 2.21% at $404.22 shortly after the open as Nvidia's CEO resignation hit the AI supply chain, two days after record October sales (closing figure not found); GuruFocus put the ADR about 6% above its GF Value. ([source](https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-2-21-180251979.html))
 - **2026-11-11** — TSMC ADRs closed up 3.20% ($12.69) at $409.28 as CoreWeave's results lifted AI hardware names. ([source](https://news.jkn.co.kr/editions/english/post/1087229))
 - **2026-11-11** — In Taipei, shares rose about 4.2% to NT$2,380, with Investing.com citing the record October sales, the board's approved Anthropic and OpenAI stakes and a third straight 1,000-point intraday rally in the Taiex. ([source](https://www.investing.com/news/stock-market-news/why-is-tsmc-stock-rallying-today-93CH-5017738))
 - **2026-11-10** — October revenue hit a record NT$586.89B, up 14.7% from September and 59.7% from a year earlier; January-October revenue rose 43.3% to NT$4.49 trillion. ([source](https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000796/tsm-revenue20261110.htm))
@@ -34,7 +35,6 @@ The world's largest contract chipmaker; manufactures chips for Apple, Nvidia, AM
 - **2026-11-06** — TSMC ADRs closed up 7.50% at $379.57 as chip stocks rebounded; unconfirmed chatter that TSMC may explore advanced memory production was also cited. ([source](https://news.jkn.co.kr/editions/english/post/1075704))
 - **2026-11-06** — Taiwan regulators cut the intraday short-sale cap to 3% of a stock's 30-day average volume (from 30%) and raised the short-sale margin to 130% from 90%, effective Nov 9, and the Finance Ministry said a NT$500B stabilization fund is available. ([source](https://www.tradingview.com/news/gurufocus:422141255094b:0-taiwan-semiconductor-stocks-jump-7-45-as-taiwan-slashes-short-selling-after-rout/))
 - **2026-11-06** — In Taipei, TSMC closed down 4.69% at NT$2,135, catching up to Thursday's U.S. rout, as the Taiex lost 1,873 points (4.51%) to 39,701.64. ([source](https://ts2.tech/en/tsmc-rebound-recovers-57-of-chipmakers-thursday-loss/))
-- **2026-11-05** — TSMC ADRs sank roughly 9-10% with no company-specific news as the chip rout deepened after Democrats' midterm wins; Qualcomm's memory-cost warning and a Bloomberg report that Micron paused a $4.5B Taiwan plant added pressure, leaving the stock near 15x forward earnings. ([source](https://finance.yahoo.com/markets/stocks/articles/tsmc-sinks-10-umc-down-182304636.html))
 
 ## Coming up
 
@@ -44,5 +44,5 @@ The world's largest contract chipmaker; manufactures chips for Apple, Nvidia, AM
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (Barclays, Needham) and Moody's cite manufacturing leadership and AI demand; October revenue hit a record, up 59.7% year over year, Q4 guidance implies about 14% sequential growth, the chairman has said demand far exceeds supply, TradingKey reports Buy ratings with an average target near $574, and shares rose in both Taipei and New York on Nov 11.
-- **Bear:** Coverage flags heavy capex (another ~$40.9B of appropriations approved), overseas fabs diluting gross margins, Taiwan concentration and geopolitical risk that Anthropic's own filing cites, dependence on a few AI customers and sensitivity to AI-spending scares; GuruFocus sees the ADR near fair value and TradingKey notes memory-entry reports could muddy its pure-play logic model.
+- **Bull:** Analysts (Barclays, Needham) and Moody's cite manufacturing leadership and AI demand; October revenue hit a record, up 59.7% year over year, Q4 guidance implies about 14% sequential growth, the chairman has said demand far exceeds supply, TradingKey reports Buy ratings with an average target near $574, and GuruFocus gives it a 98/100 GF Score.
+- **Bear:** Coverage flags heavy capex (another ~$40.9B of appropriations approved), overseas fabs diluting gross margins, Taiwan concentration and geopolitical risk that Anthropic's own filing cites, dependence on a few AI customers such as Nvidia, whose CEO exit weighed on the ADR on Nov 12, and sensitivity to AI-spending scares; GuruFocus sees the ADR near fair value.
