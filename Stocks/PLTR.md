@@ -4,7 +4,7 @@ ticker: PLTR
 company: Palantir Technologies
 sector: Technology
 held_by: [XLK, VGT]
-updated: 2026-11-12
+updated: 2026-11-13
 tags: [stock]
 ---
 
@@ -23,6 +23,7 @@ Builds data-analysis and AI software for governments and large companies.
 
 ## Recent news
 
+- **2026-11-13** — Ad-hoc-news, citing a Nov 12 Simply Wall St analysis, flagged European competition from Helsing, whose Clarity AI platform the German military is testing for mission planning and battlefield intelligence and which is pitched as a European-controlled, NATO-interoperable option; it said Palantir's US commercial business is not directly affected. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/palantir-stock-faces-new-european-defense-ai-rival/70505597))
 - **2026-11-12** — Trefis calculated that at about $172 Palantir trades near 44.8x annualized sales, roughly 2.2-2.4 times the 18.6x-20.7x implied for Anthropic at its $70-$78 IPO range, even though Anthropic's latest quarterly revenue ($16.96B) was 7.3 times Palantir's. ([source](https://www.trefis.com/stock/pltr/articles/624610/palantir-stock-at-172-pricier-than-the-anthropic-ipo/2026-11-12))
 - **2026-11-11** — Palantir rose about 2.1% to close at $172.40, still about 17.5% below its Oct 9 closing high of $209.05 and down about 3% for the year. ([source](https://finance.yahoo.com/markets/stocks/articles/palantir-tech-chief-wants-sell-144716097.html))
 - **2026-11-10** — CTO Shyam Sankar filed a Form 144 notice to sell 300,000 shares (about $50.8M at the Nov 9 close) under a 10b5-1 plan adopted Aug 10; the notice does not confirm a sale, which a later Form 4 would show (24/7 Wall St.). ([source](https://finance.yahoo.com/markets/stocks/articles/palantir-tech-chief-wants-sell-144716097.html))
@@ -34,7 +35,6 @@ Builds data-analysis and AI software for governments and large companies.
 - **2026-11-06** — 24/7 Wall St. set a $209.79 target (consensus about $212.50) and tied the post-earnings slide to only 6% contract-value growth, remaining performance obligations flat at $4.9B and shorter durations on some large deals; shares were down about 14.5% over the past week. ([source](https://247wallst.com/investing/2026/11/06/palantir-grew-revenue-96-and-the-stock-still-fell-heres-where-the-price-target-goes/))
 - **2026-11-05** — Palantir fell about 10%, losing roughly $40B of market value at the lows, as investors dumped software's AI winners; TIKR tied the drop to a deepening AI and defense selloff after Democrats won Congress, putting the requested $1.5T Pentagon budget at risk (Jefferies expects about $1.15T). ([source](https://www.tikr.com/blog/palantir-sinks-10-as-democratic-sweep-deepens-ai-and-defense-stock-sell-off))
 - **2026-11-04** — Shares fell more than 6% early, then pared losses (down about 3% near $170 in late morning), extending a losing streak as a Democratic Congress raised doubts about the requested $1.5T defense budget; Bank of America reiterated Buy with a $255 target. ([source](https://www.fool.com/investing/2026/11/04/why-palantir-technologies-stock-dropped-today/))
-- **2026-11-03** — Barclays kept Overweight and raised its target to $273 from $265. ([source](https://www.tradingview.com/news/tradingview:8c1dfaa7328b5:0-barclays-maintains-palantir-technologies-at-overweight-raises-price-target-to-273-from-265/))
 ## Coming up
 
 - **Early February 2027** — Q4 2026 earnings (estimated, not yet confirmed)
@@ -42,4 +42,4 @@ Builds data-analysis and AI software for governments and large companies.
 ## Bull case / bear case
 
 - **Bull:** Bulls (Barclays $273, BofA $255, Rosenblatt $260; Morgan Stanley and Piper Sandler raising targets) point to 96% Q3 revenue growth, US commercial revenue now larger than government, a raised 2026 outlook of about $8.53B, 47% operating margins and US business customers up 29% (Trefis), and a rebound to $172.40 by Nov 11; hiring Jon Tester may help it navigate a Democratic Congress.
-- **Bear:** Bears (RBC, Underperform, $90; Michael Burry's short) cite a valuation of roughly 56x sales and 111x earnings (Trefis), new contract value growing only about 6%, commercial bookings growth slowing to 11% (TradingKey), flat RPO at $4.9B, sharply higher stock-based pay and a CTO plan to sell up to ~$51M of stock; Trefis says it is priced at more than twice Anthropic's IPO sales multiple, and shares remain about 17.5% below the Oct 9 high and 41% of revenue comes from the US government as Democrats plan closer scrutiny.
+- **Bear:** Bears (RBC, Underperform, $90; Michael Burry's short) cite a valuation of roughly 56x sales and 111x earnings (Trefis), new contract value growing only about 6%, commercial bookings growth slowing to 11% (TradingKey), flat RPO at $4.9B, sharply higher stock-based pay and a CTO plan to sell up to ~$51M of stock; Trefis says it is priced at more than twice Anthropic's IPO sales multiple, and shares remain about 17.5% below the Oct 9 high and 41% of revenue comes from the US government as Democrats plan closer scrutiny; in Europe, Germany's military is testing Helsing's rival Clarity platform (ad-hoc-news, citing Simply Wall St).

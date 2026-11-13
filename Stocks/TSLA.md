@@ -4,7 +4,7 @@ ticker: TSLA
 company: Tesla
 sector: Consumer Discretionary
 held_by: [QQQ, VUG, IVV, SPY, VOO, VTI]
-updated: 2026-11-12
+updated: 2026-11-13
 tags: [stock]
 ---
 
@@ -27,6 +27,7 @@ Makes electric vehicles and energy storage systems, and is developing self-drivi
 
 ## Recent news
 
+- **2026-11-12** — Trefis counted five straight gains through Thursday's $397.45 close, a 15.6% run that added about $174B in market value (to roughly $1.29T); the stock is still about 19% below its 52-week high of $489.88 and down about 11.6% year to date. ([source](https://www.trefis.com/stock/tsla/articles/624895/5-green-days-in-a-row-tesla-stock-is-up-16/2026-11-13))
 - **2026-11-12** — Bloomberg reported that SpaceX-Tesla merger talks are progressing, with boards and advisers working through the share exchange ratio and governance; an announcement could come as soon as December or in early 2027, no agreement has been reached, and open issues include Tesla's China operations and scrutiny from a Democratic Congress (via Investing.com). ([source](https://www.investing.com/news/stock-market-news/musks-spacextesla-empire-moves-closer-but-china-and-washington-loom-large-5023095))
 - **2026-11-12** — Tesla rose about 1.7% to roughly $397.45 per Investing.com's closing quotes, gaining while the S&P 500 fell 0.35% as the merger report circulated. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-036-5023324))
 - **2026-11-11** — Musk posted on X that Cybertruck production will now run through the end of summer 2027 to work through more of the order backlog, reversing the earlier plan to wind it down by mid-2027. ([source](https://www.tradingview.com/news/seekingalpha:ca92069f6094b:0-musk-says-tesla-to-extend-cybertruck-production-through-summer-2027/))
@@ -38,7 +39,6 @@ Makes electric vehicles and energy storage systems, and is developing self-drivi
 - **2026-11-09** — Shares traded near $376.68 in the afternoon despite the refund comments, which coverage tied mainly to a return of risk appetite; the stock was still down about 6% over the past week. ([source](https://finance.yahoo.com/markets/stocks/articles/tesla-rises-5-despite-musk-190434224.html))
 - **2026-11-09** — Drone footage showed site preparation under way at Tesla's planned $10.1B Project Crystal Sun solar-cell plant in Fort Bend County, Texas, which filings target for operations in Q1 2029; Musk posted the project name on X. ([source](https://teslanorth.com/2026/11/09/tesla-crystal-sun-solar-factory-site-work-drone-video/))
 - **2026-11-06** — Tesla rebounded, with CryptoTimes reporting a gain of about 3.7% for the day after the prior session's 10.8% plunge. ([source](https://www.cryptotimes.io/2026/11/07/tesla-stock-gains-3-7-as-musk-plans-to-wind-down-cybertruck-production/))
-- **2026-11-06** — Musk said Cybertruck production at Gigafactory Texas will wind down around mid-2027 to free capacity for the Cybercab; Tesla does not break out Cybertruck sales, but its Other Models deliveries fell 48% in Q3, and shares were up about 3% shortly after the open. ([source](https://www.tradingview.com/news/gurufocus:cea7e5ac8094b:0-tesla-stocks-rise-3-as-musk-sets-cybertruck-wind-down-for-cybercab/))
 ## Coming up
 
 - **November 2026** — Cybercab launch in Dallas (expected per company, no exact date)
@@ -50,5 +50,5 @@ Makes electric vehicles and energy storage systems, and is developing self-drivi
 
 ## Bull case / bear case
 
-- **Bull:** Barclays and ARK Invest cite SpaceX-combination optionality and robotaxi potential, and Dan Ives still expects a merger, which Bloomberg reported on Nov 12 is advancing (combined value above $3.4T, per Investing.com); supporters also point to a Q3 delivery beat, a new robotaxi city (San Antonio) on Nov 9, Musk extending Cybertruck production through summer 2027 because orders exceed output, and construction starting on a $10.1B Texas solar plant.
-- **Bear:** Reports cite a 56% drop in Q3 operating income, a 28.9% month-on-month fall in October China-made sales, Cybertruck deposit refunds and weak sales history, sparse disclosure on robotaxi fleets and falling Q2 paid miles (GuruFocus), a harder path for a SpaceX deal given unresolved China and governance issues and Democratic pledges to investigate Musk (Investing.com, Ives), a P/E above 400 (GuruFocus) and Scottish Mortgage's reported exit.
+- **Bull:** Barclays and ARK Invest cite SpaceX-combination optionality and robotaxi potential, and Dan Ives still expects a merger, which Bloomberg reported on Nov 12 is advancing (combined value above $3.4T, per Investing.com); supporters also point to a Q3 delivery beat, a new robotaxi city (San Antonio) on Nov 9, Musk extending Cybertruck production through summer 2027 because orders exceed output, and construction starting on a $10.1B Texas solar plant; Trefis tallied a five-day, 15.6% winning streak through Nov 12.
+- **Bear:** Reports cite a 56% drop in Q3 operating income, a 28.9% month-on-month fall in October China-made sales, Cybertruck deposit refunds and weak sales history, sparse disclosure on robotaxi fleets and falling Q2 paid miles (GuruFocus), a harder path for a SpaceX deal given unresolved China and governance issues and Democratic pledges to investigate Musk (Investing.com, Ives), a P/E above 400 (GuruFocus), a 3.5% operating margin far below the sector median and a stock still down about 11.6% this year (Trefis), and Scottish Mortgage's reported exit.

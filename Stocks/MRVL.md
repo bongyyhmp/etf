@@ -4,7 +4,7 @@ ticker: MRVL
 company: Marvell Technology
 sector: Technology
 held_by: []
-updated: 2026-11-12
+updated: 2026-11-13
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Designs data-infrastructure chips: custom AI chips, networking and storage contr
 
 ## Recent news
 
+- **2026-11-13** — Marvell closed down 5.33% ($8.76) at $155.69 per JKN, with no newly confirmed negative catalyst; JKN pointed to profit-taking after the rally alongside Lumentum and attention on the deal spread, which had reportedly widened to about 19.7%. ([source](https://news.jkn.co.kr/editions/english/post/1091943))
 - **2026-11-12** — Marvell fell with other Nvidia-backed partners after Jensen Huang's resignation, down about 3.4% early and about 2.5% later in the session (closing figure not found); William Blair's Sebastien Naji said existing contracts should survive a CEO change but the next round of deals is at risk. Nvidia's Marvell stake was worth $2B when made, and Bloomberg had reported Huang backed the Lumentum deal. ([source](https://blockonomi.com/what-jensen-huangs-exit-means-for-nvidias-stakes-in-intel-and-marvell/))
 - **2026-11-12** — Marvell added three independent directors, Walmart's Donna Morris, Lam Research CFO Douglas Bettinger and Intuit CEO Sasan Goodarzi, expanding its board to ten. ([source](https://www.sec.gov/Archives/edgar/data/0001835632/000183563226000026/a20261112pressrelease.htm))
 - **2026-11-11** — Marvell closed up 6.44% ($9.94) at $164.33 as CoreWeave's beat-and-raise quarter revived buying across AI chip suppliers. ([source](https://news.jkn.co.kr/editions/english/post/1087207))
@@ -33,7 +34,6 @@ Designs data-infrastructure chips: custom AI chips, networking and storage contr
 - **2026-11-09** — KuCoin's market note put Marvell up 9.23% at $154.24 during the session but still well below its 20-, 50- and 200-day moving averages, flagging $171 as resistance and $147 as support. ([source](https://www.kucoin.com/news/flash/marvell-technology-stock-surges-9-23-amid-broader-tech-recovery))
 - **2026-11-06** — Marvell closed up 5.73% as chip stocks rebounded, after Thursday's 16.43% drop. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026))
 - **2026-11-06** — A Motley Fool analysis calculated that at Marvell's Nov 5 close of $133.55 the 4.5-share Lumentum offer (no collar) is worth about $601 per Lumentum share vs. about $1,132 at signing; it noted the long China-inclusive review that BofA flagged and a $3.2B termination fee. ([source](https://www.fool.com/investing/2026/11/06/marvell-agreed-to-pay-usd1-132-a-share-for-lumentum-the-stock-trades-near-usd510-here-s-why-it-s-not-as-good-as-it-looks/))
-- **2026-11-05** — Marvell closed down 16.43% in the AI chip selloff tied to fears of slower data-center buildout after the midterms. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026))
 
 ## Coming up
 
@@ -43,4 +43,4 @@ Designs data-infrastructure chips: custom AI chips, networking and storage contr
 ## Bull case / bear case
 
 - **Bull:** Analysts (Piper Sandler, Jefferies; MarketBeat consensus Moderate Buy) and Morningstar cite AI custom-chip and optical demand and a strong fit with Lumentum's lasers; management promises first-year EPS accretion, over $1B in cost synergies, a $70-90B fiscal-2031 revenue goal and fiscal Q3 revenue tracking guidance, and it added three seasoned directors on Nov 12.
-- **Bear:** BofA and TD Cowen downgraded and several firms (including Cantor) cut targets over dilution from the all-stock Lumentum deal, which analysts cited by Bloomberg give roughly coin-flip odds of closing; William Blair warns Nvidia's CEO change could slow future partner deals, the Motley Fool flags data-center moratorium risk and a long review including China, and GuruFocus calls the stock modestly overvalued.
+- **Bear:** BofA and TD Cowen downgraded and several firms (including Cantor) cut targets over dilution from the all-stock Lumentum deal, which analysts cited by Bloomberg give roughly coin-flip odds of closing; William Blair warns Nvidia's CEO change could slow future partner deals, the Motley Fool flags data-center moratorium risk and a long review including China, and GuruFocus calls the stock modestly overvalued; TradingKey also cites roughly 49% share-count expansion from the deal and insider sales under trading plans as the stock fell 5.3% on Nov 13.

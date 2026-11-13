@@ -4,7 +4,7 @@ ticker: MSFT
 company: Microsoft
 sector: Technology
 held_by: [XLK, VGT, VUG, QQQ, IVV, SPY, VOO, VTI]
-updated: 2026-11-12
+updated: 2026-11-13
 tags: [stock]
 ---
 
@@ -29,6 +29,8 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 
 ## Recent news
 
+- **2026-11-13** — Shares were down about 0.8% near $519 in morning trading as the outage dragged on, while security names CrowdStrike and Palo Alto Networks rose about 3% (24/7 Wall St.; intraday, no close found). ([source](https://247wallst.com/investing/2026/11/13/crowdstrike-and-palo-alto-networks-climb-3-as-microsoft-outage-disrupts-outlook-and-teams/))
+- **2026-11-12** — A widespread Microsoft 365 outage hit Outlook, Teams and Copilot, with more than 130,000 Downdetector reports for Outlook at Thursday's peak; Microsoft said it saw no sign of malicious activity, and by Friday morning recovery was still under way with capacity not fully restored (CBS News). ([source](https://www.cbsnews.com/news/microsoft-battling-major-outage/))
 - **2026-11-12** — Microsoft traded higher after Wednesday's drop (24/7 Wall St. put it up about 2% near $529 at one point; its later quote showed about +0.4% near $523) as investors leaned toward cloud platforms with in-house chips after Nvidia CEO Jensen Huang resigned; the outlet said Microsoft depends more on Nvidia hardware than Alphabet or Amazon, so it lagged Alphabet's gain. ([source](https://247wallst.com/investing/2026/11/12/alphabet-climbs-3-as-nvidias-leadership-shake-up-puts-googles-ai-chips-in-the-spotlight-microsoft-gains-2-amazon-ticks-up/))
 - **2026-11-12** — Ahead of next week's Ignite conference, Citi's Tyler Radke kept a Buy rating and $680 target, looking for Copilot to grow into an enterprise agent platform, and Morgan Stanley's Adam Wood kept Overweight with a $650 target, wanting proof Microsoft can improve the economics of serving AI demand; shares sat more than 6% below the Nov 4 record close. ([source](https://blockonomi.com/microsoft-msft-stock-citi-and-morgan-stanley-bet-on-an-ignite-rebound-heres-why/))
 - **2026-11-11** — Microsoft closed down about 2.3% at $521.13 even as the Nasdaq gained 1.6% in a chip-led AI rebound, one of the weaker megacaps on the day. ([source](https://gokhshtein.com/news/2026-11-11-nasdaq-rises-159-as-nvidia-apple-alphabet-rally-microsoft))
@@ -39,8 +41,6 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 - **2026-11-09** — TradingKey (which put the gain at 3.24%) attributed the move to optimism about Copilot seat deployments, Azure consumption and easing compute constraints, while flagging capex above $39B a quarter and a valuation near 66x free cash flow; average analyst target about $629. ([source](https://www.tradingkey.com/news/market-movers/262296988-market-movers-msft-20261109))
 - **2026-11-08** — A Motley Fool column revisited Nov 5 Bloomberg and FT reports that Microsoft tightened oversight of neocloud projects (Nebius, IREN, Nscale) and passed on an option to more than double its Nscale Texas deal; Microsoft has not confirmed the reports, and shares were near $535. ([source](https://finance.yahoo.com/markets/stocks/articles/microsoft-reportedly-getting-pickier-ai-175802004.html))
 - **2026-11-06** — Bloomberg reported Microsoft is winding down a 2023 arrangement to rent Oracle-built AI servers used for Bing, opting not to renew because the Nvidia GPUs no longer meet its specs; Oracle shares fell nearly 3%. ([source](https://startupfortune.com/microsoft-winds-down-oracle-deal-to-rent-ai-cloud-capacity/))
-- **2026-11-06** — Microsoft was down about 0.4% at midday Friday, lagging the Nasdaq's 1.1% rebound (TheStreet). ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026))
-- **2026-11-05** — Microsoft fell 3.58% to $535.93 as the AI selloff spread to megacap software, reversing roughly half of Wednesday's 7% jump. ([source](https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/))
 ## Coming up
 
 - **2026-11-17** — Microsoft Ignite conference opens (runs through Nov 20, San Francisco); Citi and Morgan Stanley expect enterprise AI and Copilot agents to headline
@@ -49,4 +49,4 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 ## Bull case / bear case
 
 - **Bull:** Analysts (UBS, Wells Fargo, Citi, BofA, TD Cowen) raised targets after 48% Azure growth and ~49% Azure guidance, with management saying demand still exceeds supply; Anthropic's $44.9B spending commitment plus a ~$1B stake in its IPO placement add visibility, and TradingKey cites Copilot adoption and an average target near $629; Citi ($680, Buy) and Morgan Stanley ($650, Overweight) reiterated ahead of Ignite, joining UBS ($700) and TD Cowen ($650), and 24/7 Wall St. notes its own Maia chips give it a mixed "fungible" fleet as Nvidia's leadership changes.
-- **Bear:** Skeptics cite a 12% drop in commercial bookings, capex heading toward ~$170B a year, free cash flow down about 23% over four quarters (Motley Fool), a valuation near 66x free cash flow (TradingKey), reported pullbacks from neocloud and Oracle capacity deals, and new Anthropic office tools seen as a challenge to Microsoft 365, which helped push shares down ~2% on Nov 10; on Nov 11 the stock fell another ~2.3% as Benzinga also flagged a proposed US ban on Chinese-made data-center optical transceivers, and 24/7 Wall St. notes it leans more on Nvidia hardware than Alphabet or Amazon.
+- **Bear:** Skeptics cite a 12% drop in commercial bookings, capex heading toward ~$170B a year, free cash flow down about 23% over four quarters (Motley Fool), a valuation near 66x free cash flow (TradingKey), reported pullbacks from neocloud and Oracle capacity deals, and new Anthropic office tools seen as a challenge to Microsoft 365, which helped push shares down ~2% on Nov 10; on Nov 11 the stock fell another ~2.3% as Benzinga also flagged a proposed US ban on Chinese-made data-center optical transceivers, and 24/7 Wall St. notes it leans more on Nvidia hardware than Alphabet or Amazon; a Microsoft 365 outage that began Nov 12 and was still being fixed on Nov 13 (CBS News) raises reliability questions ahead of Ignite.

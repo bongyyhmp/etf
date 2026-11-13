@@ -4,7 +4,7 @@ ticker: GOOGL
 company: Alphabet (Google)
 sector: Communication Services
 held_by: [VUG, QQQ, IVV, SPY, VOO, VTI]
-updated: 2026-11-12
+updated: 2026-11-13
 tags: [stock]
 ---
 
@@ -27,6 +27,7 @@ Owns Google Search, YouTube, Android and Google Cloud; most revenue comes from a
 
 ## Recent news
 
+- **2026-11-13** — Alphabet raised about US$3.8B in its first Asian-currency bond sale, upsized from US$3B: seven tranches in Hong Kong and Singapore dollars (two to 30 years) priced at yields of 2.50%-5.20%, all inside initial guidance, on combined orders above US$7B; settlement is set for Nov 19. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/alphabet-stock-google-parent-raises-3-8-billion-in-asia-bonds/70505323))
 - **2026-11-12** — Alphabet rose about 1.8% to roughly $298.70 (up as much as about 3% near $302 intraday) after Nvidia CEO Jensen Huang resigned, as investors bet Google's in-house TPUs could capture more AI chip spending; Broadcom, which helps design the TPUs, gained about 5%. ([source](https://247wallst.com/investing/2026/11/12/alphabet-climbs-3-as-nvidias-leadership-shake-up-puts-googles-ai-chips-in-the-spotlight-microsoft-gains-2-amazon-ticks-up/))
 - **2026-11-12** — Trefis estimated Google will own about 1.79B Anthropic shares (roughly 9.9% fully diluted) after its $10B IPO purchase, worth $126B-$139B across the price range, with each $1 change in the IPO price shifting the value by about $1.65B; it expects pricing around Nov 18. ([source](https://www.trefis.com/stock/googl/articles/624608/what-does-the-anthropic-ipo-mean-for-alphabet-stock/2026-11-12))
 - **2026-11-11** — Alphabet closed up about 2.1% at $293.45, one of the three megacaps (with Nvidia and Apple) that led the Nasdaq's 1.6% gain. ([source](https://gokhshtein.com/news/2026-11-11-nasdaq-rises-159-as-nvidia-apple-alphabet-rally-microsoft))
@@ -38,16 +39,15 @@ Owns Google Search, YouTube, Android and Google Cloud; most revenue comes from a
 - **2026-11-09** — Alphabet closed up about 1.2%, trailing the Nasdaq’s 2.7% rebound, per Finnhub data cited by MarketAlleys. ([source](https://www.marketalleys.com/post/apple-rises-2-43-to-350-69-on-nov-9-2026-11-09))
 - **2026-11-09** — Google introduced two more eighth-generation TPU systems: TPU 8tx, aimed at confidential inference for governments and regulated firms using AMD EPYC hosts, and TPU 8i Max, which packs two TPU 8i chips together for double the compute and HBM bandwidth for long-context work. ([source](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/))
 - **2026-11-09** — Shares rose about 2.3% premarket after Bloomberg reported the chips; Amin Vahdat said both arrive next year, and Bloomberg Intelligence expects TPU sales to top $135B by 2028 from about $12B this year (via GuruFocus). ([source](https://uk.finance.yahoo.com/news/alphabet-stock-rises-google-adds-160513423.html))
-- **2026-11-06** — Alphabet was up about 1.4% during Friday's session as the Nasdaq rebounded about 1.1%, per a KuCoin market flash. ([source](https://www.kucoin.com/news/flash/nasdaq-rebounds-after-19-month-largest-drop-amid-ai-sector-volatility))
 ## Coming up
 
 - **2026-11-18** — Anthropic IPO expected to price around this date at $70-$78 a share (per Trefis); Google buys $10B more Class N shares at the IPO price
-- **2026-11-19** — Anthropic (Nasdaq: ANT) expected to begin trading Nov 19 or 20 (per WSJ)
+- **2026-11-19** — Anthropic (Nasdaq: ANT) expected to begin trading Nov 19 or 20 (per WSJ); settlement of Alphabet's ~US$3.8B Hong Kong- and Singapore-dollar bond sale
 - Next earnings date: not found in sources (Q3 was reported Oct 28; Q4 likely early February 2027, unconfirmed)
 - **2026-12-01** — Lead-plaintiff deadline in a securities class action alleging Alphabet misled investors about Gemini 3.5 Pro training results and delays (class period May 19-July 16, 2026), per a Kaplan Fox press release; allegations are unproven
 - **2027** — TPU 8tx and TPU 8i Max availability (per Google's Amin Vahdat, via GuruFocus)
 
 ## Bull case / bear case
 
-- **Bull:** Bulls (Yorkville's Dan Ives, CFRA, TD Cowen and Guggenheim at Buy; Benzinga cites a ~$398 average target) cite Google Cloud revenue more than doubling, a growing external TPU business (Bloomberg Intelligence sees TPU sales above $135B by 2028), a ~$121B minimum Anthropic commitment and a stake in Anthropic the Motley Fool values near $132B at the IPO midpoint (about $139B at the top of the range, per a Reuters calculation); after Nvidia's CEO resigned, 24/7 Wall St. said investors saw TPUs gaining AI chip spending, and shares rose about 2% on both Nov 11 and Nov 12.
-- **Bear:** Bears cite the large Q3 EPS miss, ad revenue below forecasts, signs AI may erode search (Pivotal), negative free cash flow on rising capex (plus new commitments such as $15B in Malaysia and $10B more into Anthropic), possible data-center curbs from a Democratic Congress, target cuts (JPMorgan, Scotiabank, TD Cowen and others) and weak technicals, with shares below their 20- and 200-day averages (Benzinga), plus a pending securities class action over Gemini 3.5 Pro disclosures; Anthropic's filing also shows a $104B nine-month net loss (GuruFocus) and names Google as a primary competitor (Trefis), and 24/7 Wall St. notes Q3 free cash flow of about -$9.1B on $51.4B of capex, funded partly with debt and at-the-market share sales.
+- **Bull:** Bulls (Yorkville's Dan Ives, CFRA, TD Cowen and Guggenheim at Buy; Benzinga cites a ~$398 average target) cite Google Cloud revenue more than doubling, a growing external TPU business (Bloomberg Intelligence sees TPU sales above $135B by 2028), a ~$121B minimum Anthropic commitment and a stake in Anthropic the Motley Fool values near $132B at the IPO midpoint (about $139B at the top of the range, per a Reuters calculation); after Nvidia's CEO resigned, 24/7 Wall St. said investors saw TPUs gaining AI chip spending, and shares rose about 2% on both Nov 11 and Nov 12; a debut Asian bond sale drew orders of more than twice the ~US$3.8B raised (ad-hoc-news).
+- **Bear:** Bears cite the large Q3 EPS miss, ad revenue below forecasts, signs AI may erode search (Pivotal), negative free cash flow on rising capex (plus new commitments such as $15B in Malaysia and $10B more into Anthropic), possible data-center curbs from a Democratic Congress, target cuts (JPMorgan, Scotiabank, TD Cowen and others) and weak technicals, with shares below their 20- and 200-day averages (Benzinga), plus a pending securities class action over Gemini 3.5 Pro disclosures; Anthropic's filing also shows a $104B nine-month net loss (GuruFocus) and names Google as a primary competitor (Trefis), and 24/7 Wall St. notes Q3 free cash flow of about -$9.1B on $51.4B of capex, funded partly with debt (including a new ~US$3.8B Asian bond deal) and at-the-market share sales.

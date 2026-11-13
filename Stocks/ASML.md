@@ -4,7 +4,7 @@ ticker: ASML
 company: ASML Holding
 sector: Technology
 held_by: [SMH]
-updated: 2026-11-12
+updated: 2026-11-13
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 
 ## Recent news
 
+- **2026-11-13** — The union representing workers at ASML's Korean unit asked Samsung Electronics for direct talks on safety and working conditions (not pay) at the sites where ASML staff install and service tools, and may seek a ruling from the Labor Relations Commission if Samsung doesn't respond within seven days; euro-quoted shares were near EUR 1,365 on Lang & Schwarz mid-morning. A US closing figure was not found. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/asml-holding-stock-faces-korea-labor-test-as-union-seeks-samsung-talks/70505803))
 - **2026-11-12** — European chip stocks slipped after Nvidia CEO Jensen Huang resigned: ASML was down about 2.8% in Amsterdam in early afternoon per Euronews and later quoted near EUR 1,366 (-1.4%); a US closing figure was not found. ([source](https://www.euronews.com/2026/11/12/nvidia-shares-tumble-as-jensen-huang-steps-down-as-ceo))
 - **2026-11-09** — ASML disclosed buying back 422,800 shares for about EUR 563 million during Nov 2-6 under its 2026-2028 program of up to EUR 12B. ([source](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/asml-s-buyback-firepower-meets-a-fragile-chip-recovery/70498729))
 - **2026-11-11** — ASML rose about 3.3% but trailed a 4.3% gain in technology-equipment stocks; TradingKey cited steady EUV and High-NA orders from foundries and memory makers, risk-on sentiment in chip equipment and signs of steadier export rules, with an average analyst target near $2,204. ([source](https://www.tradingkey.com/news/market-movers/262300989-market-movers-asml-20261111))
@@ -33,7 +34,6 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 - **2026-11-04** — Shares traded about 3.5% lower at roughly EUR 1,336 in late European trading as chip stocks lagged the post-midterm rally; the EUR 1.88 interim dividend was scheduled for payment the same day. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/asml-holding-stock-slips-as-dividend-date-meets-ai-demand-debate/70458415))
 - **2026-11-03** — Shares rose about 2.1% as memory and equipment names led a chip rebound; coverage tied the move to sector sentiment rather than company news. ([source](https://ad-hoc-news.de/boerse/news/unternehmensnachrichten/asml-rises-with-the-chip-sector-but-its-own-numbers-hold-the-real-verdict/70452762))
 - **2026-11-02** — US-listed shares closed down 2.54% at $1,526.14 in another weak session for chips. ([source](https://www.heygotrade.com/en/us-stock/asml/))
-- **2026-11-02** — ASML disclosed it bought back 346,200 shares for about EUR 504 million during Oct 26-30. ([source](https://globenewswire.com/news-release/2026/11/02/3393071/0/en/asml-reports-transactions-under-its-current-share-buyback-program.html))
 
 ## Coming up
 
@@ -41,5 +41,5 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (JPMorgan, Citi, UBS) cite AI-driven EUV demand; ASML says planned 2027-2028 supply won't fully cover demand, customer down payments rose to EUR 9.3B in Q3, 2026 sales guidance was raised to EUR 44-45B, buybacks continue at roughly EUR 500-560M a week under a EUR 12B program, and coverage flagged possible tool demand from Musk's Terafab plans; TradingKey's average target is near $2,204.
+- **Bull:** Analysts (JPMorgan, Citi, UBS) cite AI-driven EUV demand; ASML says planned 2027-2028 supply won't fully cover demand, customer down payments rose to EUR 9.3B in Q3, 2026 sales guidance was raised to EUR 44-45B, buybacks continue at roughly EUR 500-560M a week under a EUR 12B program, and coverage flagged possible tool demand from Musk's Terafab plans; Summit Insights, downgrading [[AMAT]] on Nov 13, said 2027 chipmaker budgets may favor ASML lithography, and TradingKey's average target is near $2,204.
 - **Bear:** GuruFocus valuation models suggest modest overvaluation and 24/7 Wall St. puts its forward P/E (~24x) above other equipment peers; the Oct 30, Nov 4-5 and Nov 12 declines (the last after Nvidia's CEO exit) show sensitivity to AI-ecosystem and data-center policy fears, and TIKR and TradingKey flag reliance on chipmaker spending, possible data-center delays and proposed limits on DUV sales to China (about 20% of revenue).

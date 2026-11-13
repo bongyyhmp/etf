@@ -4,7 +4,7 @@ ticker: ABT
 company: Abbott Laboratories
 sector: Healthcare
 held_by: [SCHD]
-updated: 2026-11-12
+updated: 2026-11-13
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Makes medical devices (heart rhythm, structural heart and glucose monitors), lab
 
 ## Recent news
 
+- **2026-11-13** — Zacks kept a #3 (Hold) rank in a post-Q3 review, noting shares are up 6.7% since the Oct 21 report and 28.4% over six months, trade at about 18.2x forward earnings versus a 22.9x five-year median, and that the nutrition spin-off is targeted by end-2027; it flagged the trimmed sales outlook tied to electrophysiology (LAA) and diabetes care. Shares were about 0.4% lower in German trading at midday (€97.50). ([source](https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-abbott-stock-151500928.html), [German trading](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-stock-weighs-amulet-360-data-ahead-of-u-s-review/70504432))
 - **2026-11-12** — No new company announcements were found; shares were about 0.3% higher in German trading at midday (€99.17 vs. the prior €98.88 Xetra close) but slipped to about €97.94 by evening as U.S. markets and the health-care sector weakened, while Ad-hoc News recapped the UltiSynq approvals (based on the ASCEND-CSP-IDE study) and the Amulet 360 VERITAS data. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-stock-weighs-amulet-360-data-as-approval-remains-ahead/70497725), [evening](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-aktie-erhaelt-neue-impulse-aus-der-herztechnik/70500268), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-036-5023324))
 - **2026-11-11** — Shares opened Wednesday at $110.58, per a MarketBeat-syndicated note that listed no new rating changes since Argus's Oct 27 downgrade, and were little changed (about +0.1%) in German trading at €98.99 that evening as the UltiSynq approvals stayed in focus. ([source](https://www.dailypolitical.com/2026/11/11/abbott-laboratories-abt-investment-analysts-weekly-ratings-changes.html), [Ad-hoc News](https://ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-aktie-herztechnik-erhaelt-neue-zulassungen/70493647))
 - **2026-11-10** — Abbott said its UltiSynq defibrillation lead, which combines conduction system pacing with defibrillation, received FDA approval and a CE Mark for sale in the U.S. and EU. ([source](https://rallies.ai/news/abbott-wins-fda-approval-for-ultisynq-defibrillation-lead-5526b5648f37e987))
@@ -41,5 +42,5 @@ Makes medical devices (heart rhythm, structural heart and glucose monitors), lab
 
 ## Bull case / bear case
 
-- **Bull:** Coverage points to 14.5% revenue growth with margin expansion, electrophysiology growing about 15%, the Exact Sciences cancer diagnostics boost, a string of heart-device approvals and trial wins (UltiSynq, Paraclose, SonicForce, Amulet 360), and JPMorgan's view that the nutrition spin could unlock value (Zacks, Reuters, Simply Wall St).
-- **Bear:** Critics cite the cut to 2026 sales growth guidance (RBC said it could weigh on 2027), a slight adjusted EPS miss versus Zacks consensus, sharply lower GAAP earnings, Argus's downgrade on reimbursement and competition concerns, and ongoing infant formula litigation and settlements (Reuters, Zacks, Argus).
+- **Bull:** Coverage points to 14.5% revenue growth with margin expansion, electrophysiology growing about 15%, the Exact Sciences cancer diagnostics boost, a string of heart-device approvals and trial wins (UltiSynq, Paraclose, SonicForce, Amulet 360), JPMorgan's view that the nutrition spin could unlock value, and a forward P/E (about 18.2x) below its five-year median (Zacks, Reuters, Simply Wall St).
+- **Bear:** Critics cite the cut to 2026 sales growth guidance on electrophysiology (LAA) and diabetes care headwinds (RBC said it could weigh on 2027; Zacks rates it Hold), a slight adjusted EPS miss versus Zacks consensus, sharply lower GAAP earnings, Argus's downgrade on reimbursement and competition concerns, and ongoing infant formula litigation and settlements (Reuters, Zacks, Argus).

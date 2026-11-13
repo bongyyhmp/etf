@@ -4,7 +4,7 @@ ticker: AMZN
 company: Amazon
 sector: Consumer Discretionary
 held_by: [VUG, QQQ, IVV, SPY, VOO, VTI]
-updated: 2026-11-12
+updated: 2026-11-13
 tags: [stock]
 ---
 

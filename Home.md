@@ -19,7 +19,7 @@ Your ETF and stock research vault. Open **Graph view** (left sidebar, or Ctrl/Cm
 | [[SPY]] | S&P 500 | $781B | 0.0945% | +12.3% | +12.4% |
 | [[VUG]] | CRSP US Large Cap Growth | $213B | 0.04% | +5.2% | +3.8% |
 
-*Returns as of the Nov 11, 2026 close (the latest published). The S&P 500 fell 0.35% and the Nasdaq 0.39% on Nov 12. Returns include reinvested dividends. Past returns don't predict future ones.*
+*Returns as of the Nov 11, 2026 close (fund data could not be refreshed on Nov 12–13). The S&P 500 fell 0.40% and the Nasdaq 0.91% on Nov 13. Returns include reinvested dividends. Past returns don't predict future ones.*
 
 ## Stocks held by the most of your ETFs
 
@@ -36,6 +36,7 @@ Your ETF and stock research vault. Open **Graph view** (left sidebar, or Ctrl/Cm
 
 ## Market scans
 
+- [[2026-11-13 Market Scan]]
 - [[2026-11-12 Market Scan]]
 - [[2026-11-11 Market Scan]]
 - [[2026-11-10 Market Scan]]

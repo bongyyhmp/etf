@@ -4,7 +4,7 @@ ticker: MU
 company: Micron Technology
 sector: Technology
 held_by: [SOXX, SMH, QQQ, XLK, VGT, VTV]
-updated: 2026-11-12
+updated: 2026-11-13
 tags: [stock]
 ---
 
@@ -27,6 +27,7 @@ Makes memory chips (DRAM, NAND), including high-bandwidth memory used in AI serv
 
 ## Recent news
 
+- **2026-11-13** — Micron closed down 3.18% ($25.38) at $773.07 per JKN, with no company-specific catalyst, as investors repositioned in memory and chip stocks during the sector's Friday slide. ([source](https://news.jkn.co.kr/editions/english/post/1091959))
 - **2026-11-12** — Micron closed down about 1.6%, as investors worried a disruption at Nvidia, a major memory customer, could weigh on its sales after Jensen Huang's resignation. ([source](https://www.kiplinger.com/investing/stocks/stocks-slip-as-wall-street-weighs-nvidias-ceo-crisis-stock-market-today))
 - **2026-11-12** — Shares were down about 4% before the open alongside SK hynix and fell 3.24% to $785 shortly after the bell, pausing the prior day's 11.9% jump; GuruFocus put the stock about 35% below its June 25 record close and roughly at its GF Value. ([source](https://www.gurufocus.com/news/9194940/micron-stocks-fall-324-as-nvidia-exit-tests-memory-rally-after-119-jump))
 - **2026-11-11** — Micron closed up 11.9% at $811.30, leading big chip names as CoreWeave's raised outlook and higher capex plans eased AI-spending worries; the Philadelphia Semiconductor Index rose 5.7%. ([source](https://fourweekmba.com/ai-stocks-add-253b-coreweave-has-best-day-since-june-2025/))
@@ -38,7 +39,6 @@ Makes memory chips (DRAM, NAND), including high-bandwidth memory used in AI serv
 - **2026-11-09** — TSMC told Barron's it remains focused on being a logic-chip provider, easing worries raised by a Nov 6 report that it was exploring 3D DRAM at Nvidia's request; TIKR noted Micron still trades near 4x forward earnings, similar to 2017-18 peak levels. ([source](https://www.tikr.com/blog/micron-soars-5-as-tsmc-sticks-to-the-global-logic-ic-industry-not-memory))
 - **2026-11-09** — Blockonomi cited a Moderate Buy consensus with an average target near $1,408, about $78M of insider sales over three months, and Jefferies' expectation that TSMC enters memory by 2035. ([source](https://blockonomi.com/micron-mu-stock-gets-a-tsmc-reprieve-but-washington-worries-remain/))
 - **2026-11-06** — Micron closed up 5.12% (about $690), after trading as high as roughly $725, recouping part of Thursday's 17% plunge; a stronger-than-expected October jobs report (165,000 jobs) also helped sentiment. ([source](https://www.fool.com/investing/2026/11/06/why-micron-stock-is-up-today/))
-- **2026-11-06** — TIKR linked the bounce to AI cloud provider IREN's revenue beat and $20.3B backlog, which eased AI-spending fears, while noting a Bloomberg report that Micron paused a $4.5B Taiwan plant and citing UBS's warning that construction pauses could threaten about 30% of 2028 U.S. data-center additions. ([source](https://www.tikr.com/blog/micron-soars-6-as-memory-stocks-bounce-back-from-thursdays-17-crash))
 
 ## Coming up
 
@@ -49,4 +49,4 @@ Makes memory chips (DRAM, NAND), including high-bandwidth memory used in AI serv
 ## Bull case / bear case
 
 - **Bull:** Analysts (Morgan Stanley's Joseph Moore, Wedbush, RBC, Fubon, Rosenblatt) cite AI-driven memory demand, FQ1 revenue guidance of about $61.5B with ~86% gross margin and more than 75% of fiscal 2027 output committed; Morgan Stanley says lower valuations improve the risk-reward, 24/7 Wall St. counts 45 of 49 analysts at Buy, GuruFocus calls it fairly valued near 10.6x earnings, and buybacks may accelerate after Dec 9.
-- **Bear:** 24/7 Wall St. and a Motley Fool contributor flag cycle risk, citing the CFO's comment that price gains will moderate, capped pricing in long-term deals and new capacity from Micron, Samsung, SK Hynix and China's CXMT; coverage also notes exposure to Nvidia, whose CEO exit hit the stock on Nov 12, a paused $4.5B Taiwan plant, insider selling, post-midterm data-center moratoria and a price about 35% below its June record.
+- **Bear:** 24/7 Wall St. and a Motley Fool contributor flag cycle risk, citing the CFO's comment that price gains will moderate, capped pricing in long-term deals and new capacity from Micron, Samsung, SK Hynix and China's CXMT; coverage also notes exposure to Nvidia, whose CEO exit hit the stock on Nov 12 and 13 (the Motley Fool notes Nvidia is Micron's biggest customer and backstops neoclouds whose stumbles could sour sentiment), a paused $4.5B Taiwan plant, insider selling, post-midterm data-center moratoria and a price about 35% below its June record.
