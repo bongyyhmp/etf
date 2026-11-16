@@ -4,7 +4,7 @@ ticker: JNJ
 company: Johnson & Johnson
 sector: Healthcare
 held_by: [VTV]
-updated: 2026-11-13
+updated: 2026-11-16
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Makes prescription drugs and medical devices.
 
 ## Recent news
 
+- **2026-11-16** — J&J agreed to acquire Ollin Biosciences for $2.2B upfront plus up to about $1.125B in milestones, gaining OLN324, a Phase 3 VEGF/Ang2 bispecific antibody for wet AMD and diabetic macular edema originally discovered by Innovent; Blackstone Life Sciences will pay J&J $750M to fund the Phase 3 program in return for milestones and single-digit royalties, and closing is expected before the end of 2026. Shares edged higher to about $286.06 in late-morning trading as investors rotated into defensive names during the tech selloff. ([source](https://www.investor.jnj.com/investor-news/news-details/2026/Johnson--Johnson-to-acquire-Ollin-Biosciences-and-late-stage-bispecific-antibody-with-best-in-class-potential-in-ophthalmology/default.aspx), [BioSpace](https://www.biospace.com/deals/j-j-pays-2-2b-upfront-for-ollin-taps-blackstone-to-fund-eye-disease-trial), [stock](https://www.tradingview.com/news/gurufocus:c1bbde8ec094b:0-johnson-johnson-stocks-edge-higher-on-2-2-billion-ollin-eye-deal/))
 - **2026-11-13** — Shares opened Friday at $283.69, near Thursday's record close and above MarketBeat's ~$275.92 consensus target (Moderate Buy: 1 Strong Buy, 17 Buy, 8 Hold), and were little changed in German trading at midday (€256.90, +0.1%); health care was among the day's leading sectors. ([source](https://www.dailypolitical.com/2026/11/13/2810-johnson-johnson-jnj-shares-sold-by-svb-wealth-llc.html), [German trading](https://www.ad-hoc-news.de/boerse/news/corporate-news/johnson-und-johnson-stock-advances-as-prostate-drug-combo-enters-phase-3/70504710), [market](https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-5026559))
 - **2026-11-12** — Shares rose 1.11% to close at a record $283.52, among the Dow's best performers on a day when the index fell 0.36% and health care was among the weakest sectors; no single catalyst was cited, though the stock was already up about 1.9% in German trading that afternoon. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-036-5023324), [German trading](https://www.ad-hoc-news.de/boerse/news/corporate-news/johnson-und-johnson-stock-advances-as-prostate-drug-combo-enters-phase-3/70498365))
 - **2026-11-11** — A Motley Fool review noted management sees a route to double-digit sales growth by 2030 and puts peak-sales potential above $5B each for Icotyde, Inlexzo, Lazcluze and Imaavy, while flagging Stelara's 56% drop, a possible Darzalex U.S. exclusivity loss by decade end and the proposed $5.5B talc settlement; shares were about $280. ([source](https://www.fool.com/investing/2026/11/11/johnson-johnson-sees-a-path-to-double-digit-growth/))
@@ -33,16 +34,16 @@ Makes prescription drugs and medical devices.
 - **2026-11-07** — At ACR Convergence 2026, J&J said its oral peptide Icotyde (icotrokinra) met the primary endpoint of the Phase 3 ICONIC-PsA 1 study in biologic-naive psoriatic arthritis, with 58% reaching ACR20 at week 16 vs. 41% on placebo and much higher skin clearance; it is not yet approved for this use. ([source](https://www.prnewswire.com/news-releases/johnson--johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide-302932455.html))
 - **2026-11-05** — The FDA granted accelerated approval to Rybrevant Faspro (subcutaneous amivantamab) as a single agent for recurrent or metastatic head and neck squamous cell cancer after platinum chemo and anti-PD-(L)1 therapy, excluding HPV-linked oropharyngeal cases; the 102-patient OrigAMI-4 cohort showed a 42% confirmed response rate, and full approval may depend on the Phase 3 OrigAMI-5 trial. ([source](https://www.biopharminternational.com/view/fda-accelerated-approval-rybrevant-faspro-amivantamab-head-neck-cancer))
 - **2026-11-05** — Shares held up better than the market, slipping about $0.59 (roughly 0.2%) to about $275.73 at midday as the broad selloff hit tech. ([source](https://www.dailypolitical.com/2026/11/05/healthcare-stocks-to-keep-an-eye-on-november-5th.html))
-- **2026-11-04** — Shares rose about 3.5% as drugmakers rallied after the midterms, per TradingKey. ([source](https://www.tradingkey.com/news/market-movers/262274958-market-movers-jnj-20261104))
 
 ## Coming up
 
 - **2026-11-24** — Ex-dividend date for the $1.34 quarterly dividend (per MarketBeat)
 - **2026-12-08** — Enterprise Business Review investor event, 8:30 a.m. ET (confirmed)
 - **2026-12-08** — $1.34 quarterly dividend payable (per MarketBeat)
+- **By end of 2026** — Ollin Biosciences acquisition expected to close
 - **Mid/late January 2027** — Q4 2026 earnings (date not yet announced)
 
 ## Bull case / bear case
 
-- **Bull:** Bernstein, RBC and Citi cite 6.1% Q3 organic growth, a 3% EPS beat and Innovative Medicine strength (Tremfya up 68%, per Trefis), including positive Phase 3 data for Icotyde in psoriatic arthritis and for Caplyta in bipolar mania and a prostate-cancer bispecific combination moving into Phase 3; the accelerated FDA approval of Rybrevant Faspro in head and neck cancer, Impella heart pump data and Leerink's view of J&J as the best-funded likely acquirer add to interest, and the Motley Fool notes management's target of double-digit growth by 2030 with four launches each seen above $5B at peak.
-- **Bear:** Wells Fargo, BofA and Leerink flag 2027 pressure from deal dilution (Trefis: $1.36 of 2027 EPS), MedTech slowing and loss-of-exclusivity headwinds; Erste, InvestingPro and Simply Wall St see a full valuation, with shares at a record close of $283.52 on Nov 12, above MarketBeat's ~$276 consensus target and a trailing P/E near 42 after charges (Trefis), and the Smith & Nephew orthopaedics talks reportedly collapsed.
+- **Bull:** Bernstein, RBC and Citi cite 6.1% Q3 organic growth, a 3% EPS beat and Innovative Medicine strength (Tremfya up 68%, per Trefis), including positive Phase 3 data for Icotyde in psoriatic arthritis and for Caplyta in bipolar mania and a prostate-cancer bispecific combination moving into Phase 3; the accelerated FDA approval of Rybrevant Faspro, the Nov 16 Ollin deal adding a Phase 3 eye-disease antibody with Blackstone funding the trial, and Leerink's view of J&J as a well-funded acquirer add to interest, while the Motley Fool notes management's target of double-digit growth by 2030 and CNBC's Jim Cramer held J&J up as an example of defensive demand on Nov 16.
+- **Bear:** Wells Fargo, BofA and Leerink flag 2027 pressure from deal dilution (Trefis: $1.36 of 2027 EPS), MedTech slowing and loss-of-exclusivity headwinds, with the Ollin purchase adding to deal spending; Erste, InvestingPro and Simply Wall St see a full valuation, with shares near records around $283-286, above MarketBeat's ~$276 consensus target and a trailing P/E near 42 after charges (Trefis), and the Smith & Nephew orthopaedics talks reportedly collapsed.

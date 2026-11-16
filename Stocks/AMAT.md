@@ -4,7 +4,7 @@ ticker: AMAT
 company: Applied Materials
 sector: Technology
 held_by: [SOXX, SMH, XLK, VGT]
-updated: 2026-11-13
+updated: 2026-11-16
 tags: [stock]
 ---
 
@@ -25,6 +25,8 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 
 ## Recent news
 
+- **2026-11-16** — Shares closed at $352.42, down 4.88% per JKN (TradingKey put the drop at 4.44%), extending the post-earnings slide as chip-equipment stocks fell; JKN found no company-specific news and pointed to scrutiny of chipmaker capex and rich hardware valuations. ([source](https://news.jkn.co.kr/editions/english/post/1099800))
+- **2026-11-16** — TradingKey tied the drop to management's view that China will fall below 25% of sales (from peaks near 30%) on export controls and local competitors, clean-room and supply limits on tool installs, and worries that budgets may shift toward lithography; it put the past-month average target near $625 (range $308-$900). ([source](https://www.tradingkey.com/news/market-movers/262307269-market-movers-amat-20261116))
 - **2026-11-13** — Shares fell 4.25% ($16.19) to close at $364.76 the day after the beat-and-raise, as chip and Nasdaq stocks retreated and brokers trimmed targets; JKN also cited valuation worries and caution about the capex cycle, and the stock is below its 200-day average. ([source](https://news.jkn.co.kr/editions/english/post/1091946))
 - **2026-11-13** — At least 10 firms cut price targets while most kept Buy-type ratings; Jefferies went to $580 from $770 (Buy). Coverage said the fiscal Q1 guide's $11.1B midpoint, for a 14-week quarter held back by supply limits, fell short of the $11.41B analyst figure TIKR cited (other outlets had consensus near $10.85-10.89B), while Morningstar lifted its fair value to $570 from $520 and called AI worries overblown. ([source](https://www.tikr.com/blog/applied-materials-sinks-6-after-record-quarter-as-10-analysts-cut-targets-morningstar-calls-ai-worries-overblown))
 - **2026-11-13** — Summit Insights (Kinngai Chan) cut the stock to Hold from Buy, arguing that limited clean-room space will cap tool installs and that 2027 budgets may tilt toward ASML lithography rather than Applied's etch and deposition gear; it did not cite weaker demand. ([source](https://www.tikr.com/blog/applied-materials-is-47-off-its-high-summit-insights-downgraded-it-and-its-not-about-demand))
@@ -35,8 +37,6 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 - **2026-11-10** — Trefis noted that ahead of the Nov 12 report the stock was about half its $723 record close of June 30 and roughly 27% lower over the past month, while trading near 9.5x trailing sales vs. about 3.1x for the S&P 500; the key figure to watch is fiscal Q4 revenue against the $10.25B guide. ([source](https://www.trefis.com/stock/amat/articles/624081/what-is-driving-applied-materials-stock/2026-11-10))
 - **2026-11-09** — Shares closed up 8.51% ($28.31) at $361.02 after trading as much as about 11% higher, as chip-equipment stocks rebounded ahead of its Nov 12 report; JKN found no company-specific announcement. ([source](https://news.jkn.co.kr/editions/english/post/1081653))
 - **2026-11-09** — Into the report, consensus sits near $10.30B revenue and $4.06 adjusted EPS; UBS (Buy, $695) models $10.45B and a $10.95B fiscal Q1 guide vs. $10.83B expected, while Citi (Buy, reiterated Nov 6) said component shortages hitting equipment peers are a key question but Applied should handle them better. ([source](https://www.tipranks.com/news/applied-materials-amat-heads-into-q4-earnings-amid-supply-worries-heres-what-analysts-expect))
-- **2026-11-06** — Shares jumped 7.87% ($25.14) to close at $344.39 in a broad chip-equipment relief rally after the prior day's rout, helped by Lam Research's new buyback; JKN found no company-specific filing or update. ([source](https://news.jkn.co.kr/editions/english/post/1075679))
-- **2026-11-06** — GuruFocus, noting the stock up 4.7% to about $334 mid-morning as Lam unveiled a $25B repurchase, said the Nov 12 outlook will show whether customers are pausing orders after the midterm data-center scare. ([source](https://www.tradingview.com/news/gurufocus:8b212079f094b:0-applied-materials-stocks-rise-4-7-as-chip-equipment-rallies-ahead-of-earnings/))
 
 ## Coming up
 
@@ -44,5 +44,5 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 
 ## Bull case / bear case
 
-- **Bull:** Fiscal Q4 beat on revenue ($10.41B, +53%) and EPS ($4.16), the fiscal Q1 guide ($11.10B, $4.35) topped published consensus, and management expects wafer-fab equipment spending to grow more than 30% in 2027, with record free cash flow and heavy buybacks; most brokers that cut targets on Nov 13 kept Buy-type ratings (Jefferies $580), and Morningstar raised its fair value to $570, calling AI worries overblown.
-- **Bear:** Shares fell 4.25% on Nov 13 to $364.76 after the report as at least 10 firms cut targets, JPMorgan and others citing severe valuation compression and Wells Fargo saying expectations demanded a bigger beat; Summit Insights downgraded to Hold on clean-room limits and a possible 2027 budget tilt toward ASML lithography, management said supply constraints held back the guide, and coverage flags China export-control and tariff risk with the stock roughly half its June record.
+- **Bull:** Fiscal Q4 beat on revenue ($10.41B, +53%) and EPS ($4.16), the fiscal Q1 guide ($11.10B, $4.35) topped published consensus, and management expects wafer-fab equipment spending to grow more than 30% in 2027, with record free cash flow and heavy buybacks; most brokers that cut targets on Nov 13 kept Buy-type ratings (Jefferies $580), Morningstar raised its fair value to $570 calling AI worries overblown, and TradingKey puts the past-month average target near $625.
+- **Bear:** Shares fell 4.25% on Nov 13 and another ~4.4%-4.9% on Nov 16 (to $352.42 per JKN) as at least 10 firms cut targets, JPMorgan and others citing valuation compression and Wells Fargo saying expectations demanded a bigger beat; Summit Insights downgraded to Hold on clean-room limits and a possible budget tilt toward ASML lithography, management sees China dropping below 25% of sales on export controls, supply constraints held back the guide, and the stock sits roughly half its June record.

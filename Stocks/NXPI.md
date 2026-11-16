@@ -4,7 +4,7 @@ ticker: NXPI
 company: NXP Semiconductors
 sector: Technology
 held_by: [SOXX]
-updated: 2026-11-13
+updated: 2026-11-16
 tags: [stock]
 ---
 
@@ -44,4 +44,4 @@ Dutch chipmaker focused on automotive and industrial chips.
 ## Bull case / bear case
 
 - **Bull:** Q3 delivered about 19% revenue growth, record auto revenue and a $5B buyback; Cantor (Overweight, $400) and Truist (Buy, $300) stay positive, MarketBeat's consensus is Moderate Buy (average target about $296), software-defined-vehicle revenue is tracking toward a $2B 2027 goal and 2026 data-center sales are expected to top $500M, with physical-AI robotics and the new Lattice industrial-edge pairing adding optionality.
-- **Bear:** Q4 revenue guidance (about $3.85B midpoint) landed slightly under consensus, Stifel, Morgan Stanley and Truist trimmed targets, a shrinking mobile business was flagged, shares sit below their 200-day average after the Nov 5 chip selloff, and peer Microchip's weak Nov 6 outlook revived questions about industrial and auto demand; coverage called the robotics launch strategic rather than a near-term revenue driver, insiders (Foxx, Hardy) sold small stakes in November, and euro-quoted shares fell about 4% on Nov 13 in the chip selloff.
+- **Bear:** Q4 revenue guidance (about $3.85B midpoint) landed slightly under consensus, Stifel, Morgan Stanley and Truist trimmed targets, a shrinking mobile business was flagged, shares sit below their 200-day average after the Nov 5 chip selloff, and peer Microchip's weak Nov 6 outlook revived questions about industrial and auto demand; coverage called the robotics launch strategic rather than a near-term revenue driver, insiders (Foxx, Hardy) sold small stakes in November, and chip stocks kept sliding on Nov 13 and Nov 16 ahead of Nvidia's results.

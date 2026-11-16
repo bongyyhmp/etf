@@ -4,7 +4,7 @@ ticker: TXN
 company: Texas Instruments
 sector: Technology
 held_by: [SMH, SOXX]
-updated: 2026-11-13
+updated: 2026-11-16
 tags: [stock]
 ---
 
@@ -23,6 +23,7 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 
 ## Recent news
 
+- **2026-11-16** — Shares fell 3.21%, slightly worse than a 3.07% drop in tech-equipment stocks; TradingKey cited weak chip sentiment, customer destocking and slow factory-automation and auto demand, depreciation from the 300mm fab build, Asian price competition in standard analog parts and a valuation near 40x trailing earnings, with a past-month average target near $326 (range $188-$400). Closing price not found. ([source](https://www.tradingkey.com/news/market-movers/262307368-market-movers-txn-20261116))
 - **2026-11-13** — Shares fell 3.45% ($10.79) to close at $301.69 as chip stocks retreated; JKN said investors viewed the stock as fully valued after its recent embedded-AI product news and cited lingering inventory adjustments at industrial customers and macro uncertainty. ([source](https://news.jkn.co.kr/editions/english/post/1091956))
 - **2026-11-11** — Shares rose about 3.7% in an afternoon chip rally after CoreWeave lifted its 2026 sales outlook, easing worries about AI hardware demand; euro-quoted shares were about 4.6% above Tuesday's Xetra close, and ad-hoc-news framed the stock as facing a valuation test while its multiyear 300mm US fab build weighs on free cash flow. ([source](https://stockstory.org/us/stocks/nasdaq/qcom/news/why-up-down/qualcomm-texas-instruments-nova-allegro-microsystems-and-kulicke-and-soffa-stocks-trade-up-what-you-need-to-know))
 - **2026-11-10** — TI broadened agentic-AI features in its free CCStudio embedded-software tools (IDE and VS Code versions): agents can now write code, set up peripherals, build, flash and help debug across its microcontroller, wireless and radar chips, plus a new skill to port projects from rival chips to TI parts; demos run at electronica in Munich through Nov 13. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/texas-instruments-stock-gains-ai-angle-with-ccstudio-upgrade/70487459))
@@ -34,7 +35,6 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 - **2026-11-05** — TI introduced industrial-networking products: the TICS100MOD multiprotocol module (EtherCAT, EtherNet/IP, Profinet; expected by end of 2026) and the TIOM2212 dual-channel IO-Link master, now in preproduction. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/texas-instruments-stock-adds-industrial-networking-products/70464042))
 - **2026-11-03** — TI said it will show analog and embedded-processing products at electronica in Munich (Nov 10-13), marking 70 years in Europe and naming customers including ABB Robotics, Porsche and Schneider Electric. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/texas-instruments-stock-highlights-europe-ties-ahead-of-electronica/70457840))
 - **2026-11-03** — Shares gained about 4.7%, beating a 1.6% rise in tech-equipment stocks as chips rebounded; TradingKey cites an average analyst target near $325. ([source](https://www.tradingkey.com/news/market-movers/262267908-market-movers-txn-20261103))
-- **2026-10-30** — Shares fell about 4.2% (to roughly $301) as the stock went ex-dividend, investors took profits after the post-earnings run, and NXP's outlook and the broad chip selloff weighed. ([source](https://www.tradingkey.com/news/market-movers/262261184-market-movers-txn-20261030))
 
 ## Coming up
 
@@ -43,5 +43,5 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite an analog-chip recovery, AI data-center and industrial demand, improving margins and free cash flow, the planned Silicon Labs acquisition and new factory-networking products shown at electronica (customers include ABB Robotics, Porsche and Schneider Electric); TradingKey cites an average target near $325, and shares rose about 4.5% on Nov 9 and 3.7% on Nov 11 as chip sentiment improved.
-- **Bear:** Critics point to a P/E above 35x, heavy capex on new 300mm fabs that weighs on free cash flow, new acquisition debt, flat sequential Q4 guidance, auto-chip worries and insider selling; Goldman Sachs rates it Sell ($250), shares fell nearly 11% on Nov 5 in the post-midterm chip rout and another 3.5% on Nov 13 amid fully-valued concerns, and peer Microchip's weak outlook on Nov 6 raised questions about industrial demand.
+- **Bull:** Analysts cite an analog-chip recovery, AI data-center and industrial demand, improving margins and free cash flow once fab spending eases, the planned Silicon Labs acquisition and new factory-networking and agentic-AI software tools shown at electronica (customers include ABB Robotics, Porsche and Schneider Electric); TradingKey puts the past-month average target near $326 (range $188-$400).
+- **Bear:** Critics point to a valuation near 40x trailing earnings, heavy 300mm fab capex that weighs on free cash flow and margins, about $13.65B of debt plus new acquisition debt, flat sequential Q4 guidance, slow auto and industrial demand, Asian price competition and insider selling; Goldman Sachs rates it Sell ($250), and shares fell nearly 11% on Nov 5, 3.5% on Nov 13 and 3.2% on Nov 16 amid chip-sector selling.

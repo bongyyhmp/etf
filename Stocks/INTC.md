@@ -4,7 +4,7 @@ ticker: INTC
 company: Intel
 sector: Technology
 held_by: [XLK]
-updated: 2026-11-13
+updated: 2026-11-16
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Makes PC and server processors and is building a contract chip-manufacturing (fo
 
 ## Recent news
 
+- **2026-11-16** — Intel closed down 7.02% ($4.19) at $55.47 per JKN, among the day's weakest chip names as the sector sold off on new U.S. export-rule worries and Nvidia uncertainty. ([source](https://news.jkn.co.kr/editions/english/post/1100029))
+- **2026-11-16** — JKN reported a proposed securities class action in federal court in San Jose naming Intel, CEO Lip-Bu Tan and CFO David Zinsner, alleging that statements from July 23 to Oct 29 hid the depth of the PC slump and substrate shortages limiting data-center CPU output. ([source](https://news.jkn.co.kr/editions/english/post/1100029))
 - **2026-11-13** — Intel closed down 4.13% ($2.53) at $58.67 per JKN, from a $61.20 close on Nov 12, as Nvidia's leadership change dragged chip stocks lower; JKN cited no Intel-specific news, pointing instead to sector selling and the stock slipping below key moving averages. ([source](https://news.jkn.co.kr/editions/english/post/1091947))
 - **2026-11-12** — Intel fell 3.49% to $60.32 shortly after the open, giving back part of Wednesday's 7.52% gain, as investors questioned what Nvidia's CEO change means for their partnership; Nvidia's 214.78M-share stake bought at $23.28 was worth about $13B (closing figure not found). ([source](https://finance.yahoo.com/markets/stocks/articles/intel-stocks-fall-3-49-194340237.html))
 - **2026-11-12** — Intel slid about 3% in overnight trading after reports noted Megaspeed, the Singapore firm that formerly employed the alleged spy linked to Huang, lists Intel as a partner on its website. ([source](https://finance.yahoo.com/markets/stocks/articles/intc-baba-shares-slide-over-080446999.html))
@@ -32,8 +34,6 @@ Makes PC and server processors and is building a contract chip-manufacturing (fo
 - **2026-11-10** — Intel gave back part of its rebound, down about 3.3% per TradingKey (about 2.5% in a KuCoin afternoon note), which cited the PC slump, the Fab 28 disruption, foundry losses and profit-taking after the chip bounce; it put the consensus at Hold with an average target near $92. ([source](https://www.tradingkey.com/news/market-movers/262299231-market-movers-intc-20261110))
 - **2026-11-09** — Intel rose about 6.1% to $59.72 late in the session, its second straight gain of 5% or more, as the chip rebound broadened; no company-specific catalyst was cited. ([source](https://www.asktraders.com/analysis/intel-shares-jump-in-wider-chip-bounce/))
 - **2026-11-09** — TradingKey put the gain at about 3.7%, citing improving sentiment on foundry and packaging progress and rotation into beaten-down chip turnarounds, while noting a Hold consensus with an average target near $92 and an ongoing securities class-action inquiry. ([source](https://www.tradingkey.com/news/market-movers/262296731-market-movers-intc-20261109))
-- **2026-11-06** — Intel closed up 7.71% as chip stocks bounced, recovering most of Thursday's 10.33% slide with no company-specific news cited. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026))
-- **2026-11-06** — TradingKey cited reported open-market share purchases by top executives and an oversold setup as support, while noting shareholder-rights firms such as Levi & Korsinsky have opened investigations after the post-earnings drop. ([source](https://www.tradingkey.com/news/market-movers/262292658-market-movers-intc-20261106))
 
 ## Coming up
 
@@ -42,5 +42,5 @@ Makes PC and server processors and is building a contract chip-manufacturing (fo
 
 ## Bull case / bear case
 
-- **Bull:** KeyBanc (Overweight, $140) and KGI (Outperform, $95) point to tight server-CPU supply and the Oracle cloud deal; Q3 data-center and AI revenue rose 78%, the CEO is prioritizing more Xeon supply amid rising server CPU shipments (up ~31% per UBS), insider buying preceded a string of 5%+ gains, and William Blair says existing Nvidia contracts should survive Nvidia's CEO change.
-- **Bear:** Jefferies called the Q4 outlook ($15B-$16B revenue, ~37-38% gross margin) a substantial reset amid memory costs, a PC slowdown and an Israel fab disruption; BofA cut its target to $80 (Hold), UBS data show share loss to Arm and AMD, GuruFocus sees the stock far above its GF Value, and coverage flags foundry losses, negative free cash flow into 2027 and uncertainty over the Nvidia partnership after Huang's exit (Nvidia's stake was worth about $13.1B at the Nov 12 close, and Finwire says Nvidia is under no pressure to sell); the stock fell about 4% on Nov 13, and RBC and Barclays also rate it Hold.
+- **Bull:** KeyBanc (Overweight, $140) and KGI (Outperform, $95) point to tight server-CPU supply and the Oracle cloud deal; Q3 data-center and AI revenue rose 78%, the CEO is prioritizing more Xeon supply amid rising server CPU shipments (up ~31% per UBS), insider buying preceded a string of 5%+ gains in early November, and William Blair says existing Nvidia contracts should survive Nvidia's CEO change.
+- **Bear:** Jefferies called the Q4 outlook ($15B-$16B revenue, ~37-38% gross margin) a substantial reset amid memory costs, a PC slowdown and an Israel fab disruption; BofA cut its target to $80 (Hold), RBC and Barclays rate it Hold, UBS data show share loss to Arm and AMD, GuruFocus sees the stock far above its GF Value, and coverage flags foundry losses, negative free cash flow into 2027, uncertainty over the Nvidia partnership and a new securities class action over PC and supply disclosures; the stock fell about 4% on Nov 13 and 7% on Nov 16.

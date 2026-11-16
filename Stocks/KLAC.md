@@ -4,7 +4,7 @@ ticker: KLAC
 company: KLA
 sector: Technology
 held_by: [SOXX]
-updated: 2026-11-13
+updated: 2026-11-16
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Sells inspection and measurement equipment that chipmakers use to find defects a
 
 ## Recent news
 
+- **2026-11-16** — Shares fell 5.25% ($7.99) to close at $144.10 as chip-equipment stocks slid again; JKN found no KLA-specific catalyst and cited profit-taking, capex-cycle sensitivity and valuation multiples. ([source](https://news.jkn.co.kr/editions/english/post/1099798))
 - **2026-11-13** — Shares fell 3.76% ($5.92) to close at $151.38 as chip-equipment names retreated after the lukewarm reaction to [[AMAT]]'s results and swings in Lam Research; JKN found no KLA-specific filing or news and pointed to profit-taking, rich valuations and sensitivity to chipmaker capex. ([source](https://news.jkn.co.kr/editions/english/post/1091951))
 - **2026-11-12** — Shares were up about 1.6% in afternoon trading even as [[AMAT]] fell about 3.6% before its report and many chipmakers slid after Nvidia CEO Jensen Huang resigned; 24/7 Wall St. read the split as AMAT-specific selling rather than an exit from chip equipment. CoinCentral later put KLA's session decline at about 2.3%, so the gain appears to have faded by the close. ([source](https://247wallst.com/cards/applied-materials-amat-enriched-price-move-01m78n0tsyn7x51bf5rrec3d99))
 - **2026-11-11** — Shares climbed about 7% to roughly $163.49 by early afternoon as chip-equipment stocks rallied on CoreWeave's results and ahead of [[AMAT]]'s report; the group had fallen sharply over the prior month (KLA about 16%). ([source](https://247wallst.com/investing/2026/11/11/applied-materials-rallies-8-ahead-of-earnings-as-chip-stocks-rebound-lam-research-jumps-9-kla-climbs-7/))
@@ -39,5 +40,5 @@ Sells inspection and measurement equipment that chipmakers use to find defects a
 
 ## Bull case / bear case
 
-- **Bull:** Trefis cites accelerating sales tied to leading-edge AI chips and advanced packaging, roughly 12-month lead times and its best operating margin since 2017 (45% in the September quarter) and December-quarter revenue guided to about $4.7B; S&P Global upgraded its credit rating to A on AI demand and low leverage, forecasting ~39% fiscal 2027 revenue growth.
-- **Bear:** Trefis notes management's warning that high memory costs are squeezing margins, some customers delaying deliveries until fabs are ready, a gross margin that has barely moved in five quarters with the 63%-64% target not expected until mid-2027 or later, a roughly 30% slide from Aug 8 to Nov 6 and a valuation (~38x trailing earnings) still well above the S&P 500's; chip stocks also face fresh uncertainty after Nvidia's abrupt CEO change on Nov 12, and KLA fell 3.8% on Nov 13 as brokers cited valuation compression across equipment names after Applied's report.
+- **Bull:** Trefis cites accelerating sales tied to leading-edge AI chips and advanced packaging, roughly 12-month lead times, its best operating margin since 2017 (45% in the September quarter) and December-quarter revenue guided to about $4.7B; S&P Global upgraded its credit rating to A on AI demand and low leverage, forecasting ~39% fiscal 2027 revenue growth.
+- **Bear:** Trefis notes high memory costs squeezing margins, some customers delaying deliveries until fabs are ready, a gross margin barely moved in five quarters with the 63%-64% target not expected until mid-2027 or later, and a valuation (~38x trailing earnings) well above the S&P 500's; chip stocks face uncertainty around Nvidia's leadership change and Nov 17 results, and KLA fell 3.8% on Nov 13 and 5.3% on Nov 16 (to $144.10) as equipment names sold off after Applied's report.
