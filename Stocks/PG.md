@@ -4,7 +4,7 @@ ticker: PG
 company: Procter & Gamble
 sector: Consumer Staples
 held_by: [SCHD, VTV]
-updated: 2026-11-16
+updated: 2026-11-17
 tags: [stock]
 ---
 
@@ -18,11 +18,12 @@ Makes household brands such as Tide, Pampers, Gillette and Crest.
 
 | ETF | Weight |
 |---|---|
-| [[SCHD]] | 4.3% |
-| [[VTV]] | 1.4% |
+| [[SCHD]] | 4.4% |
+| [[VTV]] | 1.5% |
 
 ## Recent news
 
+- **2026-11-17** — Raymond James raised its price target to $185 from $180 (a Nov 16 note, per Marketscreener via Ad-hoc News), above the ~$174.57 FactSet mean target; shares were quoted at €157.62 in Lang & Schwarz trading Tuesday, two days before the Nov 19 Investor Day in Cincinnati. No U.S. close was found as the Dow fell 1.64%. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/procter-und-gamble-stock-raymond-james-lifts-target-to-usd-185/70527689), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
 - **2026-11-16** — P&G was the Dow's best performer, rising about 1.9% ($3.22) to close at $173.02, a new 52-week high, on a day the Dow fell 1.4% and the Nasdaq 2.5%, per Investing.com, three days before its Nov 19 Investor Day. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-141-5030993))
 - **2026-11-13** — Shares touched a 52-week high of $170.57 in morning trading, up about 1%, per Investing.com, ahead of the Nov 19 Investor Day; 24/7 Wall St. put the consensus target near $174 and counted 14 Buy or Strong Buy ratings against 11 Holds. ([source](https://ca.investing.com/news/stock-market-news/procter--gamble-stock-hits-52week-high-at-17057-usd-93CH-4957407), [24/7 Wall St.](https://247wallst.com/investing/2026/11/13/procter-gamble-has-raised-its-dividend-for-70-straight-years-wheres-the-price-target-now/))
 - **2026-11-12** — Shares were about 1.1% higher in Lang & Schwarz trading in Germany ahead of the Nov 19 Investor Day, as Ad-hoc News recapped the fiscal Q1 beat (sales $23.28B, core EPS $2.00), maintained guidance (core EPS about $7) and the CFO's warning that cost pressure could build over the next two quarters. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/procter-und-gamble-stock-faces-1-4-billion-usd-cost-headwind/70498245))
@@ -34,7 +35,6 @@ Makes household brands such as Tide, Pampers, Gillette and Crest.
 - **2026-11-05** — MarketBeat reported that P&G's CFO sold 33,624 shares; in European trading the stock held near its record, up about 0.5% in Lang & Schwarz quotes, as investors weighed the $1.4B fiscal 2027 commodity-cost hit against maintained guidance. ([source](https://www.marketbeat.com/instant-alerts/insider-procter-gamble-nyse-pg-cfo-sells-33624-shares-of-company-stock-2026-11-05/), [ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/corporate-news/procter-und-gamble-stock-holds-near-record-as-cost-risks-persist/70464278))
 - **2026-11-04** — Shares rose about 3.4% to roughly $167.51 in afternoon trading and set a 52-week high, as investors favored defensive staples after Democrats' midterm sweep pointed to a divided government. ([source](https://www.fool.com/investing/2026/11/04/heres-why-dividend-kings-coca-cola-procter-gamble-and-colgate-palmolive-are-hitting-52-week-highs-following-midterm-election-results/))
 - **2026-11-03** — Shares fell about 1% to roughly $161.97 at midday as staples lagged; a filing showed executive Sundar Raman sold 38,253 shares on Oct 30 at about $165 (roughly $6.3M), cutting his direct stake by about 44%. ([source](https://www.marketbeat.com/instant-alerts/insider-procter-gamble-nyse-pg-stock-insider-sundar-raman-sells-38253-shares-2026-11-03/))
-- **2026-11-02** — Shares rose about 1.5% to close near $163.99, per MarketBeat's quote page, as staples gained. ([source](https://www.marketbeat.com/stocks/NYSE/pg/news))
 
 ## Coming up
 
@@ -43,5 +43,5 @@ Makes household brands such as Tide, Pampers, Gillette and Crest.
 
 ## Bull case / bear case
 
-- **Bull:** Commentators cite 4% organic growth with all 10 categories growing, a core EPS beat ($2.00 vs. ~$1.89), maintained fiscal 2027 guidance ($6.89-7.11 core EPS), restructuring savings, 70 straight years of dividend increases (Motley Fool), defensive appeal that lifted shares to a new 52-week high close of $173.02 on Nov 16 as the Dow's top gainer in a falling market (Investing.com), a planned $15B of shareholder returns this fiscal year (24/7 Wall St.), and targets such as Morgan Stanley's $185 and Wells Fargo's $180 Overweight, with a Nov 19 Investor Day ahead to lay out long-term strategy.
+- **Bull:** Commentators cite 4% organic growth with all 10 categories growing, a core EPS beat ($2.00 vs. ~$1.89), maintained fiscal 2027 guidance ($6.89-7.11 core EPS), restructuring savings, 70 straight years of dividend increases (Motley Fool), defensive appeal that lifted shares to a new 52-week high close of $173.02 on Nov 16 as the Dow's top gainer in a falling market (Investing.com), a planned $15B of shareholder returns this fiscal year (24/7 Wall St.), and targets such as Morgan Stanley's $185, Raymond James's $185 (raised Nov 16) and Wells Fargo's $180 Overweight, with a Nov 19 Investor Day ahead to lay out long-term strategy.
 - **Bear:** Commentators flag a $1.4B after-tax commodity-cost hit for fiscal 2027 (about 11% of core EPS), margin compression (core operating margin down 80 bp), revenue that Trefis called a miss (Ad-hoc News says it topped the LSEG estimate), materially higher costs expected over the next two quarters, a valuation slightly above its five-year average, a share price now at or just below the ~$171-174 average target with 11 analysts at Hold (24/7 Wall St.), and a run of executive share sales, including by the CEO, the chief accounting officer, the CFO and the Grooming CEO.

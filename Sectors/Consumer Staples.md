@@ -8,5 +8,6 @@ tags: [sector]
 ## Stocks in your vault
 
 - [[KO]] — Coca-Cola
+- [[PEP]] — PepsiCo
 - [[PG]] — Procter & Gamble
 - [[WMT]] — Walmart

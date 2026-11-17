@@ -4,7 +4,7 @@ ticker: KO
 company: Coca-Cola
 sector: Consumer Staples
 held_by: [SCHD]
-updated: 2026-11-16
+updated: 2026-11-17
 tags: [stock]
 ---
 
@@ -18,10 +18,11 @@ Sells soft drinks, water, sports drinks and coffee brands worldwide.
 
 | ETF | Weight |
 |---|---|
-| [[SCHD]] | 4.4% |
+| [[SCHD]] | 4.5% |
 
 ## Recent news
 
+- **2026-11-17** — TD Cowen raised its price target to $112 from $104, above the ~$99.43 FactSet mean target, per Ad-hoc News citing MT Newswires (no rationale given; MarketBeat also flagged the move); shares were quoted near €89.98 in German trading, and no U.S. close was found as the Dow fell 1.64%. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/coca-cola-stock-td-cowen-raises-price-target-to-usd-112/70526429), [MarketBeat](https://www.marketbeat.com/instant-alerts/analyst-coca-cola-nyse-ko-stock-gets-price-target-bump-from-td-cowen-2026-11-17/), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
 - **2026-11-16** — Shares pushed above $100 for the first time, reaching a record of about $100.56 in early trading, as investors sought safety while the Nasdaq fell 2.5% and the Dow 1.4%; TipRanks noted the stock is up about 42% in 2026 and now sits slightly above the ~$99.40 average analyst target (Strong Buy consensus, 13 Buy and 3 Hold). ([source](https://www.tipranks.com/news/coca-cola-stock-ko-rises-above-100-as-investors-seek-safety-in-a-volatile-market), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-141-5030993))
 - **2026-11-16** — Berkshire Hathaway's Q3 13F showed its Coca-Cola stake unchanged during the quarter, still among its five largest holdings, per 24/7 Wall St. ([source](https://247wallst.com/investing/2026/11/16/warren-buffetts-berkshire-just-revealed-a-new-stock-and-sold-more-bank-of-america-heres-what-a-68-year-old-with-400-shares-owns/))
 - **2026-11-13** — Shares rose about 1.9% ($1.81) to close at $99.25, the Dow's top performer on a day the Nasdaq fell 0.9%, per Investing.com, after touching an intraday record near $99.28; the stock had slipped about 0.1% to $97.44 on Nov 12 after a record close of $97.57 on Nov 11. ([source](https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-5026559), [intraday record](https://www.tokenpost.com/news/investing/56942), [Motley Fool](https://www.fool.com/investing/2026/11/12/3-warren-buffett-stocks-just-closed-at-record-highs-here-s-the-one-i-d-still-buy-now/))
@@ -33,7 +34,6 @@ Sells soft drinks, water, sports drinks and coffee brands worldwide.
 - **2026-11-09** — Shares rose about 0.4% to close at $96.03, near the top of a 52-week range of roughly $67-$97, per a JournalArta technical recap. ([source](https://journalarta.com/en/2026/11/10/coca-cola-ko-stock-technicals-rises-0-38-on-monday-testing-key-resistance/))
 - **2026-11-09** — A Motley Fool column argued the rally has run ahead of earnings: guidance now calls for 2026 comparable EPS growth of at least 11% (up from 7-8% in February), yet the stock has gained about 25% since then and trades near 29x 2026 earnings versus a ~24x five-year average; the stock closed at $95.67 on Nov 6. ([source](https://www.fool.com/investing/2026/11/09/coca-cola-stock-keeps-setting-records-i-m-still-not-buying-it/))
 - **2026-11-09** — A filing showed EVP Nancy Quan sold 20,585 shares on Nov 5 for about $1.97M, keeping roughly 229,000 shares. ([source](https://www.marketscreener.com/news/coca-cola-insider-sold-shares-worth-1-968-406-according-to-a-recent-sec-filing-ce785fd3df80fe23))
-- **2026-11-06** — Shares rose about 3.3% to roughly $96.14 by early afternoon from a $93.09 open, as beverage peers such as Monster and Keurig Dr Pepper also gained in what 24/7 Wall St. described as a sector-wide rotation into staples, with no company-specific catalyst identified. ([source](https://247wallst.com/cards/coca-cola-company-ko-enriched-price-move-01m6s0c83425dw7csht3yceeh3))
 
 ## Coming up
 
@@ -43,5 +43,5 @@ Sells soft drinks, water, sports drinks and coffee brands worldwide.
 
 ## Bull case / bear case
 
-- **Bull:** Coverage cites a seventh straight EPS beat, 5% unit-case volume growth, guidance raised to at least 11% comparable EPS growth for 2026, post-results target raises from JPMorgan, UBS, Wells Fargo, Citi and TD Cowen, 22 straight quarters of value-share gains, an unchanged Berkshire stake (Q3 13F), and a run of records (a $99.25 close on Nov 13, then a first move above $100 on Nov 16, up about 42% in 2026) as investors rotated into defensive staples; targets cited include UBS ($106, Buy), TD Cowen ($104) and Morgan Stanley ($103) (Motley Fool, 24/7 Wall St., Zacks, Investing.com, TipRanks).
+- **Bull:** Coverage cites a seventh straight EPS beat, 5% unit-case volume growth, guidance raised to at least 11% comparable EPS growth for 2026, post-results target raises from JPMorgan, UBS, Wells Fargo, Citi and TD Cowen (lifted again to $112 on Nov 17), 22 straight quarters of value-share gains, an unchanged Berkshire stake (Q3 13F), and a run of records (a first move above $100 on Nov 16, up about 42% in 2026) as investors rotated into defensive staples; other targets cited include UBS ($106, Buy) and Morgan Stanley ($103) (Motley Fool, 24/7 Wall St., Zacks, TipRanks, Ad-hoc News).
 - **Bear:** Commentators flag a valuation near 28-29x earnings, well above its ~24x five-year average (a Nov 9 Motley Fool column says the price already bakes in years of growth), flat North America volume, a shorter Q4 with destocking and the pending CCBA sale, an unresolved IRS tax case (Trefis), tougher 2027 comparisons (UBS; Zacks notes consensus sees 2027 revenue slightly lower), a price now above the ~$97-99 average analyst target (MarketBeat, TipRanks) and Bernstein's $95 (Neutral, reiterated Nov 13), a dividend yield (~2.1%) well below the 10-year Treasury's ~5% (24/7 Wall St.), a Zacks Hold rank and recent executive share sales.

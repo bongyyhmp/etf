@@ -4,7 +4,7 @@ ticker: BRK-B
 company: Berkshire Hathaway
 sector: Financials
 held_by: [VTV, IVV, SPY, VOO, VTI]
-updated: 2026-11-16
+updated: 2026-11-17
 tags: [stock]
 ---
 
@@ -18,7 +18,7 @@ Conglomerate owning insurance (GEICO), BNSF railroad, utilities and a large stoc
 
 | ETF | Weight |
 |---|---|
-| [[VTV]] | 3.9% |
+| [[VTV]] | 4.0% |
 | [[IVV]] | 1.7% |
 | [[SPY]] | 1.7% |
 | [[VOO]] | 1.7% |
@@ -26,6 +26,7 @@ Conglomerate owning insurance (GEICO), BNSF railroad, utilities and a large stoc
 
 ## Recent news
 
+- **2026-11-17** — A 24/7 Wall St. piece (via AOL) put Class B shares near $591.45, up about 18% this year in Greg Abel's first year as CEO and above a ~$565 average target from four analysts (two Buy, two Hold); a Motley Fool column noted Apple (21.9%) and Alphabet (8.3%) make up about 30% of the roughly $367B stock portfolio. The Fool's page showed Class B about 0.35% lower intraday; no close was found as the Dow fell 1.64%. ([source](https://www.aol.com/articles/berkshire-hathaway-18-first-without-200736000.html), [Motley Fool](https://www.fool.com/investing/2026/11/17/warren-buffett-s-successor-greg-abel-has-30-2-of-berkshire-s-usd367-billion-portfolio-in-just-2-monster-artificial-intelligence-ai-stocks-here-s-the-one-i-d-buy-without-hesitation/), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
 - **2026-11-16** — Berkshire's Q3 13F (holdings as of Sept 30) showed a new stake of about 20.7M Bending Spoons shares (about $689M), a nearly doubled Lennar position (about 26.0M shares) and a 12% larger Delta Air Lines stake, while it trimmed Bank of America by 5.7% (to about 455.9M shares) and cut VeriSign (about 34%), Capital One (about 62%), Kroger and Nucor; Apple, American Express, Coca-Cola and Alphabet were unchanged, per 24/7 Wall St. ([source](https://247wallst.com/investing/2026/11/16/warren-buffetts-berkshire-just-revealed-a-new-stock-and-sold-more-bank-of-america-heres-what-a-68-year-old-with-400-shares-owns/))
 - **2026-11-16** — Warren Buffett converted 6,150 Class A shares into 9.225M Class B shares worth about $5.47B and gave them to four family foundations (40% to the Susan Thompson Buffett Foundation, 20% each to the Sherwood, Howard G. Buffett and NoVo foundations), keeping 182,140 A and 1,162 B shares; his Thanksgiving letter urged kindness. Opening Bell Daily noted Class B shares set record closes four days in a row through Friday and are up 18.0% this year versus 10.5% for the S&P 500; no Monday close was found as the S&P fell 1.92%. ([source](https://finance.yahoo.com/markets/stocks/articles/warren-buffett-donates-5-47-174714585.html), [CBS](https://www.cbsnews.com/news/warren-buffett-donation-berkshire-hathaway-kindness/), [records](https://www.openingbelldailynews.com/p/berkshire-hathaway-stock-up-18-percent-2026-nov-16-2026))
 - **2026-11-13** — Class B shares were up about 0.5% at roughly $592.96 mid-morning Friday, just below the $596.92 52-week high, on a day financials led the sectors; a Motley Fool column pitched Berkshire as a counterweight to mega-cap tech, noting it is up about 16% this year versus about 2.8% for the Roundhill Magnificent Seven ETF. ([source](https://www.fool.com/investing/2026/11/13/forget-the-magnificent-seven-berkshire-hathaway-could-be-the-better-long-term-bet/), [market](https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-5026559))
@@ -37,7 +38,6 @@ Conglomerate owning insurance (GEICO), BNSF railroad, utilities and a large stoc
 - **2026-11-07** — Q3 2026: operating earnings fell 5.8% to about $12.7B (from $13.5B) and net earnings dropped to $22.1B from $30.8B on smaller investment gains; insurance underwriting profit fell 43% to about $1.35B (GEICO pre-tax underwriting $982M vs. $1.77B) and insurance investment income fell 14%, while BNSF after-tax earnings rose to about $1.73B from $1.45B. ([source](https://www.stocktitan.net/articles/berkshire-hathaway-q3-2026-earnings-abel-cash-pile))
 - **2026-11-07** — Berkshire repurchased about $9.6B of stock in Q3 (vs. about $4.5B in Q2, at roughly 1.4x book), while cash and equivalents stood near $377B; Forbes' Bill Stone said non-insurance businesses grew operating earnings about 18% excluding currency effects and Greg Abel warned the insurance market is getting tougher. ([source](https://www.forbes.com/sites/bill_stone/2026/11/07/berkshire-hathaway-q3-earnings-miss-on-insurance-not-on-strategy/))
 - **2026-11-06** — Bloomberg (via Claims Journal) said Greg Abel's first-year tilt toward AI-linked bets, including about $10B tied to Alphabet and $930M in Bending Spoons, faces an early test, with Alphabet now below Berkshire's purchase price after falling more than 24% since June; analysts will watch GEICO and BNSF in Saturday's report. ([source](https://www.claimsjournal.com/news/national/2026/11/06/341172.htm))
-- **2026-11-06** — A TradingKey preview cited Zacks estimates of $5.91 Q3 EPS (down 5.6%) on about $97.3B revenue and Morningstar's view that weak insurance underwriting will be partly offset by rail and energy; the average analyst target of about $555.67 sits roughly 3% below the Nov 5 close of $572.33, with UBS's $628 the high. ([source](https://www.tradingkey.com/analysis/stocks/us-stocks/262288450-berkshire-hathaway-q3-earnings-preview-insurance-profit-cash-allocation-ubs-class-b-shares-target-tradingkey))
 
 ## Coming up
 
@@ -46,4 +46,4 @@ Conglomerate owning insurance (GEICO), BNSF railroad, utilities and a large stoc
 ## Bull case / bear case
 
 - **Bull:** Commentators cite Q3's roughly $9.6B buyback (more than double Q2's), about $2B more in October (Reuters) and roughly $14.4B year to date (24/7 Wall St.), four straight record closes through Nov 13 and an 18% gain this year versus 10.5% for the S&P 500 (Opening Bell Daily), BNSF earnings up about 19% and non-insurance operating earnings up about 18% ex-currency (Forbes), a cash pile near $377B, Greg Abel's capital deployment shown in the Q3 13F (a new Bending Spoons stake, a doubled Lennar position, more Delta) and UBS's Street-high $628 target.
-- **Bear:** Q3 operating earnings fell 5.8% with insurance underwriting down 43% on weaker GEICO results and investment income down 14%, Abel expects insurance pricing to keep softening, KBW stays Underperform and Morningstar's ~$510 fair value sits below the share price, shares trade above the ~$556 average target (TradingKey) and at about 1.6x book, above the levels where Q3 buybacks were done (Motley Fool), the 13F showed continued trimming of Bank of America and other financials, and Bloomberg flags that Abel's AI-linked bets, notably Alphabet, are under water.
+- **Bear:** Q3 operating earnings fell 5.8% with insurance underwriting down 43% on weaker GEICO results and investment income down 14%, Abel expects insurance pricing to keep softening, KBW stays Underperform and Morningstar's ~$510 fair value sits below the share price, shares trade above average analyst targets (about $556 per TradingKey, about $565 per 24/7 Wall St.) and at about 1.6x book, above the levels where Q3 buybacks were done (Motley Fool), roughly 30% of the stock portfolio sits in Apple and Alphabet (Motley Fool), the 13F showed continued trimming of Bank of America and other financials, and Bloomberg flags that Abel's AI-linked bets, notably Alphabet, are under water.

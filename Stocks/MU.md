@@ -4,7 +4,7 @@ ticker: MU
 company: Micron Technology
 sector: Technology
 held_by: [SOXX, SMH, QQQ, XLK, VGT, VTV]
-updated: 2026-11-16
+updated: 2026-11-17
 tags: [stock]
 ---
 
@@ -18,15 +18,17 @@ Makes memory chips (DRAM, NAND), including high-bandwidth memory used in AI serv
 
 | ETF | Weight |
 |---|---|
-| [[SOXX]] | 7.8% |
-| [[SMH]] | 4.7% |
-| [[QQQ]] | 3.8% |
-| [[XLK]] | 3.7% |
-| [[VGT]] | 3.3% |
-| [[VTV]] | 2.9% |
+| [[SOXX]] | 7.9% |
+| [[SMH]] | 5.0% |
+| [[QQQ]] | 3.9% |
+| [[XLK]] | 3.8% |
+| [[VGT]] | 3.5% |
+| [[VTV]] | 3.0% |
 
 ## Recent news
 
+- **2026-11-17** — Micron slipped about 0.9% to $712.42 per Investing.com's closing quotes, as the Dow fell 1.6% and the S&P 500 about 1% ahead of Nvidia's results. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
+- **2026-11-17** — The Motley Fool, with the stock down about 3.5% at midday (low near $667) and about 22% in November, linked the slide to Nvidia's CEO turmoil and to SemiAnalysis cutting its AI-chip capex forecasts by 19% for 2027, 28% for 2028 and 41% for 2029, though it said the revised path still implies roughly 24% annual growth. ([source](https://www.fool.com/investing/2026/11/17/why-micron-stock-keeps-on-going-down/))
 - **2026-11-16** — Micron closed down 6.37% ($49.61) at $728.70 per JKN, as memory and AI-hardware stocks sold off ahead of Nvidia's results and on worries about tighter U.S. chip restrictions. ([source](https://news.jkn.co.kr/editions/english/post/1099785))
 - **2026-11-16** — Ad-hoc-news reported that a federal court in Northern California denied a joint bid by Samsung, SK hynix and Micron to dismiss a proposed class action alleging DRAM price collusion, letting the case proceed; no liability has been found. ([source](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/micron-s-legal-and-market-crosswinds-a-stock-under-pressure-from-two-directions/70521717))
 - **2026-11-13** — Micron closed down 3.18% ($25.38) at $773.07 per JKN, with no company-specific catalyst, as investors repositioned in memory and chip stocks during the sector's Friday slide. ([source](https://news.jkn.co.kr/editions/english/post/1091959))
@@ -37,16 +39,14 @@ Makes memory chips (DRAM, NAND), including high-bandwidth memory used in AI serv
 - **2026-11-10** — Anthropic's amended IPO filing confirmed Micron as a $1.0B buyer in its private placement (about 13.5M nonvoting shares at the $74 midpoint); GuruFocus called the stake a signal rather than a driver, at roughly 0.12% of Micron's market value, as shares slipped about 1.3% early after the hot CPI report. ([source](https://www.tradingview.com/news/gurufocus:e8082f9dc094b:0-micron-technology-stocks-slip-1-27-as-hot-cpi-overshadows-1-billion-anthropic-bet/))
 - **2026-11-10** — Micron was down about 3.3% near $709 in early-afternoon trading; a Motley Fool contributor noted it traded above $855 before the midterms and called it riskier than Nvidia because its case rests on a lasting memory shortage. ([source](https://www.fool.com/investing/2026/11/10/midterm-meltdowns-3-top-tech-stocks-down-big-since-the-election-results/))
 - **2026-11-10** — A 24/7 Wall St. analysis warned of another cyclical turn, citing the CFO's remark that price increases will eventually moderate, pricing ceilings in long-term deals and new capacity (Micron's Idaho fab from mid-2027, plus Samsung and SK Hynix), against an average target near $1,562 and about 4x forward earnings. ([source](https://247wallst.com/investing/2026/11/10/micron-supposedly-outgrew-its-boom-bust-commodity-pricing-now-it-faces-another-cyclical-cliff/))
-- **2026-11-09** — Micron closed at $725.60, up 5.16%, with no company-specific announcement, as investors rotated back into chip names that had sold off. ([source](https://news.jkn.co.kr/editions/english/post/1081667))
-- **2026-11-09** — TSMC told Barron's it remains focused on being a logic-chip provider, easing worries raised by a Nov 6 report that it was exploring 3D DRAM at Nvidia's request; TIKR noted Micron still trades near 4x forward earnings, similar to 2017-18 peak levels. ([source](https://www.tikr.com/blog/micron-soars-5-as-tsmc-sticks-to-the-global-logic-ic-industry-not-memory))
 
 ## Coming up
 
-- **2026-11-19** — Anthropic's IPO expected to begin trading on Nasdaq under ticker ANT (Thursday Nov 19 per Nov 16 coverage); Micron ($1.0B) is buying shares in the concurrent private placement
+- **2026-11-18** — Anthropic IPO pricing, with Nasdaq trading under ticker ANT expected **2026-11-19**; Micron ($1.0B) is buying shares in the concurrent private placement
 - **2026-12-09** — CHIPS Act restrictions on buybacks expire, after which Micron may expand repurchases (per Barron's report)
 - **2026-12-16** — fiscal Q1 2027 earnings (date per TIKR; company guided revenue of about $61.5B)
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (Morgan Stanley's Joseph Moore, Wedbush, RBC, Fubon, Rosenblatt) cite AI-driven memory demand, FQ1 revenue guidance of about $61.5B with ~86% gross margin and more than 75% of fiscal 2027 output committed; Morgan Stanley says lower valuations improve the risk-reward, 24/7 Wall St. counts 45 of 49 analysts at Buy, GuruFocus calls it fairly valued near 10.6x earnings, and buybacks may accelerate after Dec 9.
-- **Bear:** 24/7 Wall St. and a Motley Fool contributor flag cycle risk, citing the CFO's comment that price gains will moderate, capped pricing in long-term deals and new capacity from Micron, Samsung, SK Hynix and China's CXMT; coverage also notes exposure to Nvidia, its biggest customer, whose CEO exit has weighed on the stock, a DRAM price-fixing class action now allowed to proceed, new U.S. export-license rules, a paused $4.5B Taiwan plant, insider selling and a 6.4% drop on Nov 16 that leaves it well below its June record.
+- **Bull:** Analysts (Morgan Stanley's Joseph Moore, Wedbush, RBC, Fubon, Rosenblatt; KeyBanc Overweight at $1,750, Bernstein Buy at $1,300) cite AI-driven memory demand, FQ1 revenue guidance of about $61.5B with ~86% gross margin and more than 75% of fiscal 2027 output committed; Morgan Stanley says lower valuations improve the risk-reward, most covering analysts rate it Buy, Nvidia's Q3 beat signals continued AI demand, and buybacks may accelerate after Dec 9.
+- **Bear:** 24/7 Wall St. and Motley Fool contributors flag cycle risk, citing moderating price gains, capped pricing in long-term deals and new capacity from Micron, Samsung, SK Hynix and CXMT; coverage also notes heavy exposure to Nvidia, its biggest HBM customer, SemiAnalysis's lower AI capex forecasts, a DRAM price-fixing class action allowed to proceed, new U.S. export-license rules, insider selling and a roughly 22% November decline that leaves it far below its June record.

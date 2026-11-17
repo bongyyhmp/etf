@@ -4,36 +4,36 @@ ticker: SOXX
 issuer: BlackRock iShares
 aum: $48B
 expense_ratio: 0.33%
-return_ytd: 55.1
-return_1y: 58.5
-data_as_of: 2026-11-11
+return_ytd: 40.9
+return_1y: 47.3
+data_as_of: 2026-11-16
 tags: [etf]
 ---
 
 # SOXX — iShares Semiconductor ETF
 
-> [!info] Snapshot (as of Nov 11, 2026)
+> [!info] Snapshot (as of Nov 16, 2026)
 > **Tracks:** NYSE Semiconductor Index (30 US-listed chip companies)  
 > **Issuer:** BlackRock iShares · **Assets:** $48B · **Expense ratio:** 0.33%  
-> **Return:** +55.1% this year · +58.5% over 1 year (dividends reinvested)  
-> **Holdings:** 30 stocks · top 10 ≈ 61% of the fund
+> **Return:** +40.9% this year · +47.3% over 1 year (dividends reinvested)  
+> **Holdings:** 30 stocks · top 10 ≈ 62% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[NVDA]] — NVIDIA | 9.7% |
-| 2 | [[AMD]] — Advanced Micro Devices | 9.5% |
-| 3 | [[MU]] — Micron Technology | 7.8% |
-| 4 | [[AVGO]] — Broadcom | 7.2% |
-| 5 | [[TSM]] — Taiwan Semiconductor (TSMC) | 5.2% |
-| 6 | [[TXN]] — Texas Instruments | 5.0% |
-| 7 | [[ADI]] — Analog Devices | 4.8% |
-| 8 | [[NXPI]] — NXP Semiconductors | 4.8% |
-| 9 | [[AMAT]] — Applied Materials | 4.0% |
-| 10 | [[KLAC]] — KLA | 3.9% |
+| 1 | [[AMD]] — Advanced Micro Devices | 10.4% |
+| 2 | [[AVGO]] — Broadcom | 8.0% |
+| 3 | [[NVDA]] — NVIDIA | 7.9% |
+| 4 | [[MU]] — Micron Technology | 7.9% |
+| 5 | [[TXN]] — Texas Instruments | 5.1% |
+| 6 | [[TSM]] — Taiwan Semiconductor (TSMC) | 5.0% |
+| 7 | [[ADI]] — Analog Devices | 4.9% |
+| 8 | [[NXPI]] — NXP Semiconductors | 4.2% |
+| 9 | [[MPWR]] — Monolithic Power Systems | 4.2% |
+| 10 | [[AMAT]] — Applied Materials | 4.1% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 6, 2026 prices; NXP's weight is its filed value (the source has no price data for it).*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 16, 2026 prices. In these estimates Monolithic Power Systems (4.2%) moved into the top 10 and KLA (4.0%) slipped to #11.*
 
 ## Sector mix
 
@@ -41,6 +41,9 @@ tags: [etf]
 
 ## News log
 
+- **2026-11-17** — Holding Nvidia (about 8% of the fund) reported after the close: revenue of $115.8B vs. about $108.8B expected, EPS of $2.68 vs. $2.47, and a Q4 revenue guide of $130B (±3%); its shares, down 0.4% in the regular session, were up about 1.6% after hours. ([source](https://www.kiplinger.com/news/live/nvidia-earnings-live-updates-and-commentary-november-2026))
+- **2026-11-16** — Closed down 5.4% at $141.22 as its chip holdings sold off again a day before Nvidia's report; its year-to-date total return dropped to about 40.9%, from about 55% on Nov 11. ([source](https://chartrow.com/quote/soxx))
+- **2026-11-13** — Investors pulled about $3.9B in the week ended Nov 6, per TD Securities data cited by InvestmentNews. ([source](https://www.investmentnews.com/etfs/etf-flows-surge-54bn-as-stocks-sell-off-and-markets-go-247/268997))
 - **2026-11-11** — Chip stocks surged after CoreWeave raised its outlook, with the PHLX Semiconductor index up about 5.7%: top holdings Micron (+11.9%), Broadcom (+6.0%), AMD (+3.6%), TSMC ADRs (+3.2%) and Nvidia (+2.9%) closed higher, and Analog Devices was up about 5% late in the session. ([source](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html))
 - **2026-11-09** — Chip stocks led the market's best day since April: holdings AMD (about +13%), Broadcom (about +9%), Applied Materials (+8.5%) and Micron (+5.2%) rallied, while Nvidia fell 4.3% on its board's probe of CEO Jensen Huang; the fund's year-to-date total return moved back above 46%. ([source](https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html))
 - **2026-11-06** — Chip stocks rebounded a day after their worst selloff since 2020 but recovered only part of the losses: holdings AMD (+11.0%), Intel (+7.7%), Marvell (+5.7%), Micron (+5.1%) and Nvidia (+2.8%) closed higher, while Broadcom added just 0.7%. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026))

@@ -3,8 +3,8 @@ type: stock
 ticker: KLAC
 company: KLA
 sector: Technology
-held_by: [SOXX]
-updated: 2026-11-16
+held_by: []
+updated: 2026-11-17
 tags: [stock]
 ---
 
@@ -18,10 +18,12 @@ Sells inspection and measurement equipment that chipmakers use to find defects a
 
 | ETF | Weight |
 |---|---|
-| [[SOXX]] | 3.9% |
+| — | not in any top 10 right now |
 
 ## Recent news
 
+- **2026-11-17** — Shares edged up about 0.3% to roughly $144.44 in regular trading on a down day for the major indexes, then rose about 1.8% after hours following Nvidia's report, per StockMarketWatch's index quote page (data may be delayed). ([source](https://stockmarketwatch.com/indices/sp500/today))
+- **2026-11-17** — Nvidia, whose AI-chip demand drives much of the leading-edge capex KLA's tools serve, reported after the close: EPS of $2.68 vs. $2.47 expected, revenue of $115.8B vs. $108.8B, and a Q4 revenue guide of $130B (±3%); its shares were up about 1.6% after hours, per Kiplinger. ([source](https://www.kiplinger.com/news/live/nvidia-earnings-live-updates-and-commentary-november-2026))
 - **2026-11-16** — Shares fell 5.25% ($7.99) to close at $144.10 as chip-equipment stocks slid again; JKN found no KLA-specific catalyst and cited profit-taking, capex-cycle sensitivity and valuation multiples. ([source](https://news.jkn.co.kr/editions/english/post/1099798))
 - **2026-11-13** — Shares fell 3.76% ($5.92) to close at $151.38 as chip-equipment names retreated after the lukewarm reaction to [[AMAT]]'s results and swings in Lam Research; JKN found no KLA-specific filing or news and pointed to profit-taking, rich valuations and sensitivity to chipmaker capex. ([source](https://news.jkn.co.kr/editions/english/post/1091951))
 - **2026-11-12** — Shares were up about 1.6% in afternoon trading even as [[AMAT]] fell about 3.6% before its report and many chipmakers slid after Nvidia CEO Jensen Huang resigned; 24/7 Wall St. read the split as AMAT-specific selling rather than an exit from chip equipment. CoinCentral later put KLA's session decline at about 2.3%, so the gain appears to have faded by the close. ([source](https://247wallst.com/cards/applied-materials-amat-enriched-price-move-01m78n0tsyn7x51bf5rrec3d99))
@@ -34,11 +36,10 @@ Sells inspection and measurement equipment that chipmakers use to find defects a
 
 ## Coming up
 
-- **2026-11-16** — record date for the $0.23 quarterly dividend
 - **2026-12-01** — dividend payment date
 - **January 2027** — Fiscal Q2 earnings (expected per Trefis; date not yet announced)
 
 ## Bull case / bear case
 
-- **Bull:** Trefis cites accelerating sales tied to leading-edge AI chips and advanced packaging, roughly 12-month lead times, its best operating margin since 2017 (45% in the September quarter) and December-quarter revenue guided to about $4.7B; S&P Global upgraded its credit rating to A on AI demand and low leverage, forecasting ~39% fiscal 2027 revenue growth.
-- **Bear:** Trefis notes high memory costs squeezing margins, some customers delaying deliveries until fabs are ready, a gross margin barely moved in five quarters with the 63%-64% target not expected until mid-2027 or later, and a valuation (~38x trailing earnings) well above the S&P 500's; chip stocks face uncertainty around Nvidia's leadership change and Nov 17 results, and KLA fell 3.8% on Nov 13 and 5.3% on Nov 16 (to $144.10) as equipment names sold off after Applied's report.
+- **Bull:** Trefis cites accelerating sales tied to leading-edge AI chips and advanced packaging, roughly 12-month lead times, its best operating margin since 2017 (45% in the September quarter) and December-quarter revenue guided to about $4.7B; S&P Global upgraded its credit rating to A on AI demand and low leverage, forecasting ~39% fiscal 2027 revenue growth, and Nvidia's Nov 17 beat-and-raise ($115.8B revenue, $130B Q4 guide) supported AI-capex sentiment, with KLA up about 1.8% after hours.
+- **Bear:** Trefis notes high memory costs squeezing margins, some customers delaying deliveries until fabs are ready, a gross margin barely moved in five quarters with the 63%-64% target not expected until mid-2027 or later, and a valuation (~38x trailing earnings) well above the S&P 500's; KLA fell 3.8% on Nov 13 and 5.3% on Nov 16 (to $144.10) as equipment names sold off after Applied's report, and chip stocks remain sensitive to Nvidia's leadership uncertainty and new US export curbs.

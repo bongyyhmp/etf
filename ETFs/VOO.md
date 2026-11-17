@@ -2,38 +2,38 @@
 type: etf
 ticker: VOO
 issuer: Vanguard
-aum: $996B
+aum: $970B
 expense_ratio: 0.03%
-return_ytd: 12.3
-return_1y: 12.5
-data_as_of: 2026-11-11
+return_ytd: 9.4
+return_1y: 11.4
+data_as_of: 2026-11-16
 tags: [etf]
 ---
 
 # VOO — Vanguard S&P 500 ETF
 
-> [!info] Snapshot (as of Nov 11, 2026)
+> [!info] Snapshot (as of Nov 16, 2026)
 > **Tracks:** S&P 500 (about 500 of the largest US companies)  
-> **Issuer:** Vanguard · **Assets:** $996B · **Expense ratio:** 0.03%  
-> **Return:** +12.3% this year · +12.5% over 1 year (dividends reinvested)  
+> **Issuer:** Vanguard · **Assets:** $970B · **Expense ratio:** 0.03%  
+> **Return:** +9.4% this year · +11.4% over 1 year (dividends reinvested)  
 > **Holdings:** 504 stocks · top 10 ≈ 39% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[AAPL]] — Apple | 8.0% |
-| 2 | [[NVDA]] — NVIDIA | 6.5% |
-| 3 | [[MSFT]] — Microsoft | 5.9% |
+| 1 | [[AAPL]] — Apple | 8.1% |
+| 2 | [[MSFT]] — Microsoft | 6.1% |
+| 3 | [[NVDA]] — NVIDIA | 6.0% |
 | 4 | [[GOOGL]] — Alphabet (Google) | 4.7% |
-| 5 | [[AMZN]] — Amazon | 4.0% |
+| 5 | [[AMZN]] — Amazon | 3.9% |
 | 6 | [[AVGO]] — Broadcom | 2.5% |
-| 7 | [[META]] — Meta Platforms | 2.1% |
-| 8 | [[LLY]] — Eli Lilly | 1.7% |
-| 9 | [[TSLA]] — Tesla | 1.7% |
-| 10 | [[BRK-B]] — Berkshire Hathaway | 1.6% |
+| 7 | [[META]] — Meta Platforms | 2.2% |
+| 8 | [[LLY]] — Eli Lilly | 1.8% |
+| 9 | [[BRK-B]] — Berkshire Hathaway | 1.7% |
+| 10 | [[TSLA]] — Tesla | 1.7% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 11, 2026 prices.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 16, 2026 prices.*
 
 ## Sector mix
 
@@ -48,6 +48,7 @@ tags: [etf]
 
 ## News log
 
+- **2026-11-13** — Took in about $17.6B in the week ended Nov 6, the largest inflow of any single ETF that week, as investors added to broad funds during the selloff, per TD Securities data cited by InvestmentNews. ([source](https://www.investmentnews.com/etfs/etf-flows-surge-54bn-as-stocks-sell-off-and-markets-go-247/268997))
 - **2026-11-06** — Reported fund assets fell back below $1 trillion, to about $961B, after the Nov 5 selloff. ([source](https://chartrow.com/lists/biggest-etfs))
 - **2026-11-05** — Reported fund assets moved back to about $1.00 trillion after the Nov 4 post-election rally (data before the Nov 5 selloff). ([source](https://chartrow.com/lists/biggest-etfs))
 - **2026-10-30** — Reported assets slipped back under the $1 trillion mark, to about $991B, as the market fell. ([source](https://chartrow.com/lists/biggest-etfs))

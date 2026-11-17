@@ -3,8 +3,8 @@ type: stock
 ticker: MRK
 company: Merck & Co.
 sector: Healthcare
-held_by: [SCHD, VTV]
-updated: 2026-11-16
+held_by: [SCHD]
+updated: 2026-11-17
 tags: [stock]
 ---
 
@@ -18,11 +18,12 @@ Drugmaker known for the cancer drug Keytruda and vaccines.
 
 | ETF | Weight |
 |---|---|
-| [[SCHD]] | 4.7% |
-| [[VTV]] | 1.3% |
+| [[SCHD]] | 4.5% |
 
 ## Recent news
 
+- **2026-11-17** — After the close, Merck said it is ending development of nemtabrutinib, its investigational oral non-covalent BTK inhibitor for CLL/SLL and other blood cancers, including the Phase 3 BELLWAVE-008, -010 and -011 studies, after an independent data monitoring committee reviewing BELLWAVE-011 suggested the benefits may not outweigh the risks; no financial impact was given. ([source](https://stocktitan.net/news/MRK/merck-announces-update-on-bellwave-clinical-development-program-pkqiu0famqp6.html))
+- **2026-11-17** — Merck declared a first-quarter 2027 dividend of $0.88 a share (a 3.5% increase, per GuruFocus), payable Jan 8, 2027 to holders of record on Dec 15; shares were down about 1.1% at $142.94 in the afternoon (opened at $143.21), among the Dow's decliners, per finanzen.ch. ([source](https://finance.yahoo.com/healthcare/articles/merck-announces-first-quarter-2027-150100485.html), [GuruFocus](https://www.gurufocus.com/news/9205541/merck-mrk-raises-quarterly-dividend-by-35-yielding-247), [stock](https://www.finanzen.ch/nachrichten/aktien/merck_co-aktie-kursbewegung-17-11-2026-1035061903))
 - **2026-11-16** — Shares opened Monday at $147.74, after closing Friday at $147.76 (+0.55%), and traded about 1.9% above Friday's Xetra level in German trading that afternoon (€135.06); MarketBeat's consensus remains Moderate Buy with a ~$155.74 target. ([source](https://www.dailypolitical.com/2026/11/16/merck-co-inc-mrk-shares-bought-by-ibex-wealth-advisors.html), [Friday close](https://stockanalysis.com/stocks/mrk/), [German trading](https://www.ad-hoc-news.de/boerse/news/corporate-news/merck-und-co-stock-eu-panel-backs-welireg-combo/70521567))
 - **2026-11-13** — The CHMP also issued a positive opinion for Welireg (belzutifan) plus lenvatinib in adults with advanced clear cell renal cell carcinoma previously treated with anti-PD-1 or anti-PD-L1 therapy; a European Commission decision is expected within about two months. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/merck-und-co-stock-eu-panel-backs-welireg-combo/70521567))
 - **2026-11-13** — The EMA's CHMP recommended approving an expanded use of RSV antibody Enflonsia (clesrovimab) to protect children up to 24 months old at higher risk through their second RSV season; a European Commission decision is expected in about two months, and the FDA's target date for the same expansion is March 22, 2027. Shares were about 1.3% lower in German trading that afternoon. ([source](https://finance.yahoo.com/healthcare/articles/merck-announces-european-chmp-recommends-194539730.html), [German trading](https://www.ad-hoc-news.de/boerse/news/corporate-news/merck-und-co-stock-efinopegdutide-trial-enrolled-386-patients/70505434))
@@ -33,14 +34,14 @@ Drugmaker known for the cancer drug Keytruda and vaccines.
 - **2026-11-10** — Ad-hoc News reported that the FDA accepted two supplemental applications for HIV pill Idvynso (doravirine/islatravir), one for treatment-naive adults and one adding 96-week data in virologically suppressed adults, with an April 22, 2027 target date; shares were about 0.7% lower in German trading. ([source](https://ad-hoc-news.de/boerse/news/corporate-news/merck-und-co-stock-slips-as-hiv-pipeline-stays-in-focus/70487142))
 - **2026-11-09** — Merck said once-weekly efinopegdutide (GLP-1/glucagon co-agonist) met the primary endpoint of a 381-patient Phase 2b MASH trial presented at AASLD: 56-63% of patients reached MASH resolution at 52 weeks vs. 13% on placebo, with fibrosis improvement up to 52% (7 mg) vs. 21%; shares were up about 1.4% midday. ([source](https://www.hcplive.com/view/efinopegdutide-improves-mash-resolution-fibrosis-in-phase-2b-trial), [stock](https://www.investing.com/news/company-news/mercks-efinopegdutide-shows-positive-results-in-mash-trial-93CH-5012973))
 - **2026-11-05** — Trefis argued Winrevair ($694M in Q3, about 3.8% of revenue) is not yet big enough to replace Keytruda, which management says is nearing peak sales in some uses, and noted over $2B of 2027 generic headwinds (Bridion, Januvia family, Adempas) and a valuation of about 5.5x sales after an 85% one-year gain. ([source](https://www.trefis.com/stock/mrk/articles/622887/is-mercks-next-big-thing-already-here/2026-11-05))
-- **2026-11-04** — Shares opened at $144.50 Wednesday after Tuesday's roughly 2.6% drop; MarketBeat's consensus stays Moderate Buy with a ~$155.74 target. No new company announcements were found. ([source](https://www.marketbeat.com/instant-alerts/filing-8663-merck-co-inc-mrk-shares-sold-by-factory-mutual-insurance-co-2026-11-04/))
-- **2026-11-03** — DZ Bank cut Merck to Hold from Buy with a $153 target; shares opened at $148.58, and MarketBeat's consensus target is about $155.74 (Moderate Buy). ([source](https://marketbeat.com/instant-alerts/analyst-merck-co-inc-nyse-mrk-stock-rating-lowered-by-dz-bank-2026-11-03))
 
 ## Coming up
 
+- **2026-12-15** — Record date for the $0.88 first-quarter 2027 dividend
 - **January 2027** — European Commission decisions on Enflonsia's second-season RSV expansion and Welireg plus lenvatinib in kidney cancer (about two months after the Nov 13 CHMP opinions)
 - **2027-01-01** — Government-set price for Janumet takes effect (per Trefis)
-- **February 2027** — Q4 2026 earnings and 2027 guidance (TIKR cites 2027-02-02; not confirmed by company)
+- **2027-01-08** — $0.88 dividend payable
+- **February 2027** — Q4 2026 earnings and 2027 guidance (TIKR and finanzen.ch cite 2027-02-02; not confirmed by company)
 - **February 2027** — CMS selects the next 20 drugs for Medicare price negotiation (industry-wide; per Forbes)
 - **2027-03-22** — FDA target action date for Enflonsia's expanded second-season RSV indication
 - **2027-04-22** — FDA target action date for two Idvynso supplemental applications (HIV)
@@ -48,5 +49,5 @@ Drugmaker known for the cancer drug Keytruda and vaccines.
 
 ## Bull case / bear case
 
-- **Bull:** Q3 beat with a raised 2026 EPS outlook, a goal of shifting 30-40% of U.S. Keytruda patients to Keytruda Qlex by end-2027, a planned 2027 filing for intismeran with Moderna, Winrevair up 93% with nearly 1,600 new U.S. patients, positive Phase 2b MASH data for efinopegdutide, two new FDA filings accepted for HIV pill Idvynso, positive CHMP opinions on Nov 13 for an Enflonsia RSV expansion and for Welireg plus lenvatinib in kidney cancer, and brokers (JPMorgan $175, BMO $170, Jefferies $175, BofA, Guggenheim, Barclays) citing pipeline assets such as sac-TMT, intismeran and Lipfendra.
-- **Bear:** IV Keytruda sales fell 5% ahead of its December 2028 U.S. patent expiry, management flagged slower 2027 growth with over $2B of generic headwinds and Trefis (Nov 13) sees Q4 sales below last year's and a possible Keytruda price-setting selection in 2027, some Q3 growth came from purchase timing (TIKR), CMS's final negotiation rule (per Forbes) says subcutaneous reformulations no longer change negotiation timing, and DZ Bank (Hold), RBC (target cut to $140), Cantor (Neutral) and Freedom Broker (Hold) question valuation, which Trefis puts at about 5.5x sales.
+- **Bull:** Q3 beat with a raised 2026 EPS outlook, a 3.5% dividend increase declared Nov 17, a goal of shifting 30-40% of U.S. Keytruda patients to Keytruda Qlex by end-2027, a planned 2027 filing for intismeran with Moderna, Winrevair up 93%, positive Phase 2b MASH data for efinopegdutide, two FDA filings accepted for HIV pill Idvynso, positive CHMP opinions on Nov 13 for an Enflonsia RSV expansion and for Welireg plus lenvatinib, and brokers (JPMorgan $175, BMO $170, Jefferies $175, BofA, Guggenheim, Barclays) citing pipeline assets such as sac-TMT, intismeran and Lipfendra.
+- **Bear:** IV Keytruda sales fell 5% ahead of its December 2028 U.S. patent expiry, management flagged slower 2027 growth with over $2B of generic headwinds and Trefis (Nov 13) sees Q4 sales below last year's and a possible Keytruda price-setting selection in 2027, the Nov 17 discontinuation of the Phase 3 nemtabrutinib program removes a blood-cancer candidate, CMS's final negotiation rule (per Forbes) says subcutaneous reformulations no longer change negotiation timing, and DZ Bank (Hold), RBC (target cut to $140), Cantor (Neutral) and Freedom Broker (Hold) question valuation, which Trefis puts at about 5.5x sales.

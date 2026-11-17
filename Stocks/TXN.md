@@ -3,8 +3,8 @@ type: stock
 ticker: TXN
 company: Texas Instruments
 sector: Technology
-held_by: [SMH, SOXX]
-updated: 2026-11-16
+held_by: [SMH, SOXX, VGT, XLK]
+updated: 2026-11-17
 tags: [stock]
 ---
 
@@ -18,11 +18,15 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 
 | ETF | Weight |
 |---|---|
-| [[SMH]] | 5.4% |
-| [[SOXX]] | 5.0% |
+| [[SMH]] | 5.8% |
+| [[SOXX]] | 5.1% |
+| [[VGT]] | 1.2% |
+| [[XLK]] | 1.7% |
 
 ## Recent news
 
+- **2026-11-17** — Shares rose about 0.5% to roughly $295.79 in regular trading even as the Dow fell 1.6%, and added about 0.6% after hours after Nvidia's results, per StockMarketWatch's index quote page (data may be delayed). ([source](https://stockmarketwatch.com/indices/sp500/today))
+- **2026-11-16** — Investing.com tied Monday's ~3.2% morning slide (session low $289.59) mainly to a new Commerce Department interim rule restricting remote access to advanced AI chips and requiring licenses for some reexports, plus de-risking before Nvidia's results, a weak Empire State manufacturing reading (7.8 vs. 16.7 expected) and Aberdeen's ~70% cut to its stake in Q3. ([source](https://www.investing.com/news/stock-market-news/why-is-texas-instruments-stock-sliding-today-93CH-5030476))
 - **2026-11-16** — Shares fell 3.21%, slightly worse than a 3.07% drop in tech-equipment stocks; TradingKey cited weak chip sentiment, customer destocking and slow factory-automation and auto demand, depreciation from the 300mm fab build, Asian price competition in standard analog parts and a valuation near 40x trailing earnings, with a past-month average target near $326 (range $188-$400). Closing price not found. ([source](https://www.tradingkey.com/news/market-movers/262307368-market-movers-txn-20261116))
 - **2026-11-13** — Shares fell 3.45% ($10.79) to close at $301.69 as chip stocks retreated; JKN said investors viewed the stock as fully valued after its recent embedded-AI product news and cited lingering inventory adjustments at industrial customers and macro uncertainty. ([source](https://news.jkn.co.kr/editions/english/post/1091956))
 - **2026-11-11** — Shares rose about 3.7% in an afternoon chip rally after CoreWeave lifted its 2026 sales outlook, easing worries about AI hardware demand; euro-quoted shares were about 4.6% above Tuesday's Xetra close, and ad-hoc-news framed the stock as facing a valuation test while its multiyear 300mm US fab build weighs on free cash flow. ([source](https://stockstory.org/us/stocks/nasdaq/qcom/news/why-up-down/qualcomm-texas-instruments-nova-allegro-microsystems-and-kulicke-and-soffa-stocks-trade-up-what-you-need-to-know))
@@ -33,8 +37,6 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 - **2026-11-05** — Shares ended the session down nearly 11% in the broad tech selloff, a far deeper drop than the morning decline. ([source](https://www.gurufocus.com/news/9177010/texas-instruments-txn-shares-drop-nearly-11-amid-broad-tech-selloff-on-november-5-2026))
 - **2026-11-05** — Shares fell about 7.6% to $287.85 in morning trade amid the sector-wide chip rout after the midterms and Qualcomm's weak outlook; Investing.com also cited about $8M of insider sales last quarter and valuation questions after the $2B notes sale. ([source](https://www.investing.com/news/stock-market-news/why-is-texas-instruments-stock-sliding-today-93CH-5005160))
 - **2026-11-05** — TI introduced industrial-networking products: the TICS100MOD multiprotocol module (EtherCAT, EtherNet/IP, Profinet; expected by end of 2026) and the TIOM2212 dual-channel IO-Link master, now in preproduction. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/texas-instruments-stock-adds-industrial-networking-products/70464042))
-- **2026-11-03** — TI said it will show analog and embedded-processing products at electronica in Munich (Nov 10-13), marking 70 years in Europe and naming customers including ABB Robotics, Porsche and Schneider Electric. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/texas-instruments-stock-highlights-europe-ties-ahead-of-electronica/70457840))
-- **2026-11-03** — Shares gained about 4.7%, beating a 1.6% rise in tech-equipment stocks as chips rebounded; TradingKey cites an average analyst target near $325. ([source](https://www.tradingkey.com/news/market-movers/262267908-market-movers-txn-20261103))
 
 ## Coming up
 
@@ -43,5 +45,5 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 
 ## Bull case / bear case
 
-- **Bull:** Analysts cite an analog-chip recovery, AI data-center and industrial demand, improving margins and free cash flow once fab spending eases, the planned Silicon Labs acquisition and new factory-networking and agentic-AI software tools shown at electronica (customers include ABB Robotics, Porsche and Schneider Electric); TradingKey puts the past-month average target near $326 (range $188-$400).
-- **Bear:** Critics point to a valuation near 40x trailing earnings, heavy 300mm fab capex that weighs on free cash flow and margins, about $13.65B of debt plus new acquisition debt, flat sequential Q4 guidance, slow auto and industrial demand, Asian price competition and insider selling; Goldman Sachs rates it Sell ($250), and shares fell nearly 11% on Nov 5, 3.5% on Nov 13 and 3.2% on Nov 16 amid chip-sector selling.
+- **Bull:** Analysts cite an analog-chip recovery, AI data-center and industrial demand, improving margins and free cash flow once fab spending eases, the planned Silicon Labs acquisition and new factory-networking and agentic-AI software tools shown at electronica (customers include ABB Robotics, Porsche and Schneider Electric); TradingKey puts the past-month average target near $326 (range $188-$400), and the stock held up on Nov 17 (about +0.5%) as the broader market fell.
+- **Bear:** Critics point to a valuation near 40x trailing earnings, heavy 300mm fab capex that weighs on free cash flow and margins, about $13.65B of debt plus new acquisition debt, flat sequential Q4 guidance, slow auto and industrial demand, Asian price competition and institutional and insider selling; Goldman Sachs rates it Sell ($250), new US AI-chip export rules and a weak Empire State reading weighed on Nov 16, and shares fell nearly 11% on Nov 5, 3.5% on Nov 13 and 3.2% on Nov 16 amid chip-sector selling.

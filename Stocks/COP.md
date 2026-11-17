@@ -4,7 +4,7 @@ ticker: COP
 company: ConocoPhillips
 sector: Energy
 held_by: [SCHD]
-updated: 2026-11-16
+updated: 2026-11-17
 tags: [stock]
 ---
 
@@ -18,10 +18,11 @@ The largest US oil and gas producer focused purely on exploration and production
 
 | ETF | Weight |
 |---|---|
-| [[SCHD]] | 4.0% |
+| [[SCHD]] | 4.1% |
 
 ## Recent news
 
+- **2026-11-17** — Shares opened Tuesday at $140.40, per a MarketBeat-syndicated note that puts the consensus at Moderate Buy with an average target near $145.31. Crude was mixed: Oilprice.com said rising Gulf exports were being offset by heavy tanker attacks in the Strait of Hormuz and an Iranian strike on a U.S. radar site in Bahrain, and near the stock-market close January Brent was up about 0.5% at $92.90 while January WTI was down about 0.2% at $84.27, per Investing.com, as the Dow fell 1.64% to a three-month low. ([source](https://www.dailypolitical.com/2026/11/17/conocophillips-cop-shares-sold-by-cullen-capital-management-llc.html), [Oilprice.com](https://oilprice.com/Energy/Energy-General/Brent-Stuck-Near-93-as-Hormuz-Tanker-Attacks-Offset-Gulf-Export-Surge.html), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
 - **2026-11-16** — Crude fell sharply as investors bet Hormuz exports keep recovering (January Brent about -4% to $91.96, WTI about -3.9% to $83.92, per Investing.com), with oil & gas among the sectors leading a broad market selloff; ConocoPhillips traded near €126.75 in Germany during the session. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-141-5030993), [Ad-hoc News](https://www.ad-hoc-news.de/boerse/news/corporate-news/conocophillips-stock-bernstein-cuts-rating-and-price-target/70521396))
 - **2026-11-13** — Barclays kept Overweight and raised its target to $165 from $150; shares were up $2.19 at $142.25 in Friday trading, per a MarketBeat-syndicated report that puts the consensus at "Moderate Buy" with an average target near $145. ([source](https://www.dailypolitical.com/2026/11/13/conocophillips-nysecop-stock-gets-price-target-bump-from-barclays.html))
 - **2026-11-13** — Crude was roughly flat on Friday (Investrade had December WTI settling about 0.2% lower near $88.56 and Brent near $95.84) as Reuters said both benchmarks were on course for a second weekly drop of about 2.5%, with Trump signaling he will keep the Iran blockade rather than seek a deal, reported tanker explosions in Hormuz and Houthi strikes on Saudi facilities, and a U.S. crude build; energy (XLE, about +5.4%) still led the S&P sectors for the week. ([source](https://investrade.com/market-review-november-13-2026/), [Reuters via Investing.com](https://www.investing.com/news/commodities-news/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade-5024008))
@@ -33,16 +34,14 @@ The largest US oil and gas producer focused purely on exploration and production
 - **2026-11-10** — Trefis noted ConocoPhillips lost about 5.6% in election week to around $134, roughly 13% below its Oct 30 high but still up about 60% over 12 months, and argued the energy names are not priced for perfection. ([source](https://www.trefis.com/stock/xom/articles/623846/buy-or-sell-energy-stocks-after-their-worst-election-week/2026-11-10))
 - **2026-11-09** — Truist raised its target to $142 from $136, keeping a Hold rating, per a roundup of the day's analyst changes. ([source](https://www.dailypolitical.com/2026/11/09/investment-analysts-price-target-changes-for-november-9th-aap-abg-acdc-acre-aesi-afg-afl-afrm-agnt-aig.html))
 - **2026-11-09** — Crude fell again after President Trump said renewed U.S. strikes on Iran were "highly unlikely" while talks progress: December WTI settled about 4.4% lower at $86.85 and Brent about 5.9% lower at $92.57, and energy was the weakest of the S&P sectors on a day when all 11 rose. ([source](https://investrade.com/market-review-november-09-2026/), [Offshore Technology](https://www.offshore-technology.com/news/oil-prices-fall-trump-no-strikes-iran/))
-- **2026-11-09** — Rigzone put ConocoPhillips third among U.S. majors by Q3 output at 2.302M boe/d, up from Q2 but below 2.399M a year earlier, with Lower 48 production at 1.5M boe/d. ([source](https://rigzone.com/news/which_usa_oil_major_produced_the_most_in_q3_2026-09-nov-2026-185040-article))
 
 ## Coming up
 
-- **2026-11-16** — Record date for the raised $0.93 quarterly dividend (payable 2026-12-01)
 - **2026-11-29** — Next monthly meeting of the seven OPEC+ producers (per OPEC+ statement)
-- **2026-12-01** — $0.93 dividend paid
+- **2026-12-01** — Raised $0.93 quarterly dividend paid
 - Next earnings (Q4 2026): date not yet announced
 
 ## Bull case / bear case
 
-- **Bull:** Coverage of the Nov 5 report cites a Q3 EPS and revenue beat, $4.0B of free cash flow, an 11% dividend increase, the 45% cash-return target, a reaffirmed $7B free-cash-flow inflection by 2029, Lower 48 output at 1.5M boe/d (Rigzone) and targets of $149 (Mizuho, Outperform), $165 (Barclays, Overweight, raised from $150 on Nov 13), $174 (Jefferies), $175 (Susquehanna) and $185 (Wells Fargo, Overweight).
-- **Bear:** Commentators note the beat came from higher prices rather than volume (output fell year over year with Qatar disrupted), leaving the pure producer exposed to crude, which fell about 16% (Brent) in the week to Nov 6, bounced toward $96 on Nov 12 and then dropped about 4% to near $92 on Nov 16 as Hormuz flows recovered; Trefis (Nov 13) says dividend growth beyond 2029 rests largely on management's word; Bernstein downgraded to Market-Perform on Nov 12 with a $122 target, expecting Iran de-escalation and warning that an ~$80 oil world would not reward shareholders; Willow and LNG execution risk, Wells Fargo's trimmed target, and Hold ratings from Truist ($142), Piper Sandler and Freedom Broker (downgraded Nov 11 on valuation, $138 target) are also cited.
+- **Bull:** Coverage of the Nov 5 report cites a Q3 EPS and revenue beat, $4.0B of free cash flow, an 11% dividend increase, the 45% cash-return target, a reaffirmed $7B free-cash-flow inflection by 2029 and Lower 48 output at 1.5M boe/d (Rigzone); bullish targets include $149 (Mizuho, Outperform), $156 (Goldman, Buy, reiterated Nov 11), $165 (Barclays, Overweight, raised Nov 13), $174 (Jefferies), $175 (Susquehanna) and $185 (Wells Fargo, Overweight), and Oilprice.com notes Hormuz tanker attacks keep a supply risk premium in crude.
+- **Bear:** Commentators note the beat came from higher prices rather than volume (output fell year over year with Qatar disrupted), leaving the pure producer exposed to crude, which fell about 16% (Brent) in the week to Nov 6 and was stuck near $93 on Nov 17 as Gulf exports recover; Bernstein downgraded to Market-Perform on Nov 12 with a $122 target, expecting Iran de-escalation and warning that an ~$80 oil world would not reward shareholders; Trefis (Nov 13) says dividend growth beyond 2029 rests largely on management's word, and Willow and LNG execution risk plus Hold ratings from Truist ($142), Piper Sandler and Freedom Broker ($138, on valuation) are also cited.

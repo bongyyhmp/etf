@@ -18,6 +18,7 @@ tags: [sector]
 - [[INTC]] — Intel
 - [[KLAC]] — KLA
 - [[MRVL]] — Marvell Technology
+- [[MPWR]] — Monolithic Power Systems
 - [[MSFT]] — Microsoft
 - [[MU]] — Micron Technology
 - [[NVDA]] — NVIDIA

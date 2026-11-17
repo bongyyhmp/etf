@@ -4,7 +4,7 @@ ticker: AVGO
 company: Broadcom
 sector: Technology
 held_by: [SOXX, SMH, XLK, VGT, VUG, IVV, SPY, VOO, VTI]
-updated: 2026-11-16
+updated: 2026-11-17
 tags: [stock]
 ---
 
@@ -18,18 +18,21 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 
 | ETF | Weight |
 |---|---|
-| [[SOXX]] | 7.2% |
-| [[SMH]] | 5.8% |
-| [[XLK]] | 4.8% |
-| [[VGT]] | 3.6% |
-| [[VUG]] | 3.5% |
-| [[IVV]] | 2.2% |
-| [[SPY]] | 2.2% |
-| [[VOO]] | 2.2% |
-| [[VTI]] | 2.0% |
+| [[SOXX]] | 8.0% |
+| [[SMH]] | 6.6% |
+| [[XLK]] | 5.4% |
+| [[VGT]] | 4.1% |
+| [[VUG]] | 4.0% |
+| [[IVV]] | 2.5% |
+| [[SPY]] | 2.5% |
+| [[VOO]] | 2.5% |
+| [[VTI]] | 2.2% |
 
 ## Recent news
 
+- **2026-11-17** — Broadcom rose 2.46% to $341.60 per Investing.com's closing quotes, gaining while the S&P 500 fell about 1% and the Dow 1.6%. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
+- **2026-11-17** — Benzinga tied the gain to investors favoring alternatives to Nvidia amid its leadership uncertainty, quoting a Manulife strategist on openings for other chipmakers; it put consensus at Buy with an average target near $508 and Dec 9 estimates at about $34.89B revenue and $3.81 EPS. ([source](https://www.tradingview.com/news/benzinga:eec55a403094b:0-broadcom-stock-is-up-tuesday-ai-chip-diversification-dec-9-earnings-analyst-targets/))
+- **2026-11-17** — BigGo Finance said reports that Anthropic's IPO could price above its $70-78 range helped lift Broadcom, Marvell and Arm in early trading. ([source](https://finance.biggo.com/news/e0c1bf46-a63f-48e9-81f9-b54a392cd4d5))
 - **2026-11-16** — Broadcom closed down 4.84% ($16.78) at $330.23 per JKN, a second straight drop, as reports of tighter U.S. chip-export rules hit the sector; JKN noted little company-specific news. ([source](https://news.jkn.co.kr/editions/english/post/1099801))
 - **2026-11-16** — Rothschild & Co Redburn's Mike Harrison downgraded Broadcom to Neutral and cut his target to $398 from $595 on valuation, noting guidance implies about 11x fiscal 2028 EPS. ([source](https://www.ibtimes.com.au/broadcom-shares-fall-ai-chip-selloff-downgrade-1878706))
 - **2026-11-13** — Broadcom closed down 5.40% ($19.66) at $344.70 per JKN, snapping a four-day winning streak in a broad chip selloff with no company-specific news. ([source](https://news.jkn.co.kr/editions/english/post/1091941))
@@ -39,16 +42,13 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 - **2026-11-11** — Broadcom closed up 5.96% ($19.78) at $351.77, a third straight gain, in the chip rally sparked by CoreWeave's results. ([source](https://news.jkn.co.kr/editions/english/post/1087208))
 - **2026-11-11** — GuruFocus noted Anthropic's amended filing allots Broadcom a $1B slice of the placement (about 13.5M shares at the $74 midpoint) and put its GF Value near $448, while flagging concentration risk from a handful of AI labs. ([source](https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-climb-5-18-165920759.html))
 - **2026-11-10** — Broadcom closed up 3.72% ($11.88) at $331.36, gaining for a second day as investors favored chipmakers other than Nvidia. ([source](https://news.jkn.co.kr/editions/english/post/1084495))
-- **2026-11-10** — Goldman Sachs' James Schneider named Broadcom one of his top chip buys, saying it trades at about 13x a no-growth 2028 earnings baseline after the selloff. ([source](https://finance.yahoo.com/markets/article/goldman-sachs-calls-chip-stocks-oversold-here-are-the-names-it-says-to-buy-165654250.html))
-- **2026-11-10** — Broadcom is among seven companies set to buy a combined $26B of Anthropic's nonvoting shares at the IPO price, per Anthropic's updated filing. ([source](https://finance.yahoo.com/markets/article/anthropic-seeks-14-trillion-valuation-in-ipo-130300928.html))
-- **2026-11-09** — Broadcom closed at $319.48, up nearly 9% ($25.79), in a broad rebound in AI and chip stocks. ([source](https://www.tokenpost.com/news/investing/52579))
 
 ## Coming up
 
-- **2026-11-19** — Anthropic's IPO expected to begin trading on Nasdaq under ticker ANT (Thursday Nov 19 per Nov 16 coverage); Broadcom is buying shares in the concurrent private placement
-- **2026-12-09** — Fiscal Q4 and full-year 2026 earnings (date set by Broadcom, per GuruFocus and the Motley Fool); guidance about $34.8B revenue, $21.7B AI semiconductor revenue
+- **2026-11-18** — Anthropic IPO pricing, with Nasdaq trading under ticker ANT expected **2026-11-19**; Broadcom is buying shares in the concurrent private placement
+- **2026-12-09** — Fiscal Q4 and full-year 2026 earnings (date set by Broadcom, per GuruFocus and the Motley Fool); guidance about $34.8B revenue, $21.7B AI semiconductor revenue; consensus about $34.89B revenue and $3.81 EPS (per Benzinga)
 
 ## Bull case / bear case
 
-- **Bull:** Goldman Sachs names Broadcom a top pick at about 13x a no-growth 2028 baseline and GuruFocus sees it below its GF Value; analysts also cite surging AI semiconductor revenue (fiscal Q4 guide ~$21.7B, up ~236%), the $1B Anthropic share purchase, Google's new TPUs and the view that Nvidia's leadership turmoil could push hyperscalers toward custom ASICs, a view Michael Burry also voiced while betting against chip ETFs.
-- **Bear:** Rothschild & Co Redburn cut to Neutral ($398 target) on Nov 16 and William Blair's earlier downgrade also flags valuation; reports cite heavy reliance on a few AI labs, up to ~$43B of financing backstop exposure tied to Anthropic, gross margin guided down to about 73%, VMware transition friction, new U.S. export-license rules and post-midterm data-center restrictions; the stock fell about 5% on both Nov 13 and Nov 16 and sits well below its June record of $481.57.
+- **Bull:** Goldman Sachs names Broadcom a top pick at about 13x a no-growth 2028 baseline, GuruFocus sees it below its GF Value and Benzinga cites a Buy consensus near $508; analysts point to surging AI semiconductor revenue (fiscal Q4 guide ~$21.7B), the $1B Anthropic share purchase, Google's TPUs and the view that Nvidia's leadership turmoil could push customers toward custom ASICs, which helped the stock rise 2.5% on Nov 17.
+- **Bear:** Rothschild & Co Redburn cut to Neutral ($398 target) and William Blair's earlier downgrade also flags valuation; reports cite heavy reliance on a few AI labs, up to ~$43B of financing backstop exposure tied to Anthropic, gross margin guided down to about 73%, VMware transition friction, new U.S. export-license rules and post-midterm data-center restrictions; Benzinga notes a Death Cross in October, and the stock sits well below its June record of $481.57.

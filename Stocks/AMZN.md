@@ -4,7 +4,7 @@ ticker: AMZN
 company: Amazon
 sector: Consumer Discretionary
 held_by: [VUG, QQQ, IVV, SPY, VOO, VTI]
-updated: 2026-11-16
+updated: 2026-11-17
 tags: [stock]
 ---
 
@@ -19,14 +19,16 @@ Runs the largest US online store and AWS, the biggest cloud computing business.
 | ETF | Weight |
 |---|---|
 | [[VUG]] | 5.0% |
-| [[QQQ]] | 4.9% |
-| [[IVV]] | 4.0% |
-| [[SPY]] | 4.0% |
-| [[VOO]] | 4.0% |
+| [[QQQ]] | 4.8% |
+| [[IVV]] | 3.9% |
+| [[SPY]] | 3.9% |
+| [[VOO]] | 3.9% |
 | [[VTI]] | 3.5% |
 
 ## Recent news
 
+- **2026-11-17** — Amazon finished roughly flat, up about 0.05% at $257.89 per Investing.com's closing quotes, after Monday's 3% drop, while the S&P 500 fell 1.02% ahead of Nvidia's results. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
+- **2026-11-17** — UBS's Karl Keirstead started coverage at Buy with a $340 target, calling AWS's model- and chip-agnostic approach a defensive AI play, though he trimmed AWS growth estimates to 41% for Q4 2026 and 43% for 2027 (from 48%) and cut his 2027 AWS margin forecast to 40% from 45%. ([source](https://www.investing.com/news/analyst-ratings/ubs-initiates-amazon-stock-coverage-with-buy-rating-on-ai-outlook-93CH-5032606))
 - **2026-11-16** — Amazon fell about 3.2% (24/7 Wall St.'s quote: about $257.75) as the Nasdaq dropped 2.49% on chip and AI worries; TradingKey also cited rising Treasury yields, AWS capex and free-cash-flow concerns and holiday-spending caution, with an average analyst target near $323. ([source](https://www.tradingkey.com/news/market-movers/262307587-market-movers-amzn-20261116))
 - **2026-11-16** — A Seeking Alpha summary of Corvex Management's latest 13F said the fund increased its Amazon holdings while exiting Microsoft. ([source](https://seekingalpha.com/news/4673271-corvex-exits-microsoft-raises-holdings-in-amazoncom-cuts-stake-in-walt-disney))
 - **2026-11-15** — A United Launch Alliance Vulcan rocket failed about 10 minutes after liftoff, destroying 40 Amazon Leo satellites on the first of 38 Vulcan launches Amazon has booked; with Blue Origin's New Glenn also grounded, the next Leo launch is an Ariane 6 targeted for Nov 23 at the earliest, and 24/7 Wall St. said the bigger risk is the July 2029 deadline to deploy 3,232 first-generation satellites. ([source](https://247wallst.com/investing/2026/11/16/amazon-just-lost-40-leo-satellites-the-bigger-problem-is-the-rocket-it-booked-38-launches-on/))
@@ -37,8 +39,6 @@ Runs the largest US online store and AWS, the biggest cloud computing business.
 - **2026-11-10** — Amazon was up about 0.7% at $268.77 at midday, bucking a Nasdaq decline driven by hot inflation data. ([source](https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-midday-nov-10-stocks-slide-on-hot-inflation-data/))
 - **2026-11-10** — Anthropic's updated S-1, which set a $70-$78 IPO price range, shows Amazon holding about 1.92B Class N shares, more than Google's stake, per the Motley Fool. ([source](https://www.fool.com/investing/2026/11/10/alphabet-is-set-to-become-an-even-bigger-anthropic/))
 - **2026-11-09** — Amazon announced its Black Friday Week and Cyber Monday events will run from 12:01 a.m. PST on Nov 19 through Nov 30, with themed daily deal drops and up to 35% off its own devices. ([source](https://aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026))
-- **2026-11-09** — Amazon finished about 2.9% higher in the broad tech rally, per Finnhub data cited by MarketAlleys. ([source](https://www.marketalleys.com/post/apple-rises-2-43-to-350-69-on-nov-9-2026-11-09))
-- **2026-11-09** — JPMorgan's Doug Anmuth named Amazon a top AI pick on the bank's focus list, citing guidance for 40%+ AWS growth in 2027-2028, a path to $1T of AWS revenue in five to ten years and improving capex payback; shares were up 4.05% at $269.79 mid-morning (GuruFocus). ([source](https://www.gurufocus.com/news/9185505/amazon-stocks-rise-405-as-jpmorgan-adds-it-to-focus-list-on-aws))
 ## Coming up
 
 - **2026-11-19** — Black Friday Week and Cyber Monday deals begin (through Nov 30); Anthropic, in which Amazon is a large holder, is expected to start trading Nov 19 (per Yahoo Finance)
@@ -48,5 +48,5 @@ Runs the largest US online store and AWS, the biggest cloud computing business.
 
 ## Bull case / bear case
 
-- **Bull:** Bulls (JPMorgan's Doug Anmuth naming it a top AI pick, Phillip Securities upgrading to Buy with a $330 target, plus UBS, Mizuho, MoffettNathanson, TD Cowen and Evercore; TradingKey cites a ~$323 average target) point to AWS growth accelerating to 39%, a $578B AWS backlog, Anthropic's $110B minimum AWS commitment and an Anthropic stake a Reuters calculation values near $272B at the top of the IPO range, guidance for AWS growth above 40% in 2027-2028 and in-house Trainium chips; Corvex added to its stake, and 24/7 Wall St. calls the lost Leo satellites small next to Amazon's size.
-- **Bear:** Critics point to the Q3 EPS and advertising misses, a $42.4B trailing free-cash-flow outflow with capex near $220B, the ongoing FTC and state ad-pricing lawsuit, possible tougher data-center rules after the midterms, target cuts from Citizens, Baird and BofA, and a 3.2% drop on Nov 16 amid rising yields and AI worries; the Nov 15 Vulcan failure destroyed 40 Leo satellites and, with New Glenn also grounded, raises schedule risk for the 2029 deployment deadline (24/7 Wall St.).
+- **Bull:** Bulls (UBS initiating at Buy with a $340 target, JPMorgan's Doug Anmuth naming it a top AI pick, Phillip Securities at Buy with $330, plus Mizuho, MoffettNathanson, TD Cowen and Evercore; TradingKey cites a ~$323 average target) point to AWS growth accelerating to 39%, a $578B AWS backlog, Anthropic's $110B minimum AWS commitment and an Anthropic stake a Reuters calculation values near $272B at the top of the IPO range, guidance for AWS growth above 40% in 2027-2028 and in-house Trainium chips; UBS calls AWS's model-agnostic stance a defensive AI play, and shares held flat on Nov 17 as the market fell.
+- **Bear:** Critics point to the Q3 EPS and advertising misses, a $42.4B trailing free-cash-flow outflow with capex near $220B, the ongoing FTC and state ad-pricing lawsuit, possible tougher data-center rules after the midterms, target cuts from Citizens, Baird and BofA, and UBS trimming its AWS growth and margin estimates; shares fell about 3% on Nov 16 amid rising yields and AI worries, and the Nov 15 Vulcan failure destroyed 40 Leo satellites and, with New Glenn also grounded, raises schedule risk for the 2029 deployment deadline (24/7 Wall St.).

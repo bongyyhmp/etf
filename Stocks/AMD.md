@@ -4,7 +4,7 @@ ticker: AMD
 company: Advanced Micro Devices
 sector: Technology
 held_by: [SOXX, SMH, XLK, QQQ, VGT, VUG]
-updated: 2026-11-16
+updated: 2026-11-17
 tags: [stock]
 ---
 
@@ -18,15 +18,17 @@ Designs CPUs and GPUs for PCs, servers and AI data centers; Nvidia's main AI chi
 
 | ETF | Weight |
 |---|---|
-| [[SOXX]] | 9.5% |
-| [[SMH]] | 6.1% |
-| [[XLK]] | 4.6% |
-| [[QQQ]] | 3.6% |
-| [[VGT]] | 3.1% |
-| [[VUG]] | 2.1% |
+| [[SOXX]] | 10.4% |
+| [[SMH]] | 6.9% |
+| [[XLK]] | 5.2% |
+| [[QQQ]] | 4.0% |
+| [[VGT]] | 3.5% |
+| [[VUG]] | 2.4% |
 
 ## Recent news
 
+- **2026-11-17** — AMD finished nearly flat, down about 0.2% at $503.41 per Investing.com's closing quotes, while the S&P 500 fell about 1% and the Dow 1.6% ahead of Nvidia's after-hours report. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
+- **2026-11-17** — A 24/7 Wall St. piece revisited Lisa Su's Nov 3 call outlook that server revenue should double in 2027 and total revenue rise more than 80%, framing Nvidia's turmoil as a possible opening; its own model rates the stock Hold with a ~$541 target and notes about 83x trailing earnings. ([source](https://247wallst.com/investing/2026/11/17/amd-expects-its-cpu-revenue-to-double-in-2027-is-nvidias-turmoil-amds-opening/))
 - **2026-11-16** — AMD closed down 3.73% ($19.90) at $514.16 per JKN, falling with the chip group on new U.S. export-rule worries and Nvidia's leadership turmoil, after trading down about 6% in the morning. ([source](https://news.jkn.co.kr/editions/english/post/1099810))
 - **2026-11-16** — AMD completed its acquisition of World Labs (announced in September as an $8.2B all-stock deal), and founder Fei-Fei Li joined as executive vice president and chief scientist reporting to Lisa Su; World Labs builds models that generate and simulate interactive 3D worlds. ([source](https://ir.amd.com/news-events/press-releases/detail/1306/amd-completes-acquisition-of-world-labs))
 - **2026-11-13** — AMD fell 8.75% to $534.06, the S&P 500's worst performer per Investing.com's closing tally (JKN's earlier snapshot showed -7.63% at $540.67), reversing its gains from the Nvidia rotation trade as chip and AI-hardware stocks retreated; JKN cited Nvidia's leadership change, reports of hedge funds adding short bets on chipmakers and stretched valuations. ([source](https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-5026559))
@@ -37,16 +39,14 @@ Designs CPUs and GPUs for PCs, servers and AI data centers; Nvidia's main AI chi
 - **2026-11-11** — AMD closed up 3.58% at $533.64 per JKN, after rising as much as about 8% intraday (high $559.80), as Supermicro began shipping AI servers with AMD processors and CoreWeave's raised outlook lifted AI chips. ([source](https://news.jkn.co.kr/editions/english/post/1087224))
 - **2026-11-11** — UBS analyst Timothy Arcuri said Q3 server CPU shipments rose about 31% year over year, with AMD's unit share roughly flat at 28.4% while Intel lost about 240 basis points to 51.5% and Arm gained about 250 to 20.1%. ([source](https://www.investing.com/news/stock-market-news/server-cpu-strength-persists-as-amd-and-arm-gain-share-ubs-5018734))
 - **2026-11-10** — AMD closed up 5.01% at $534.08, extending Monday's 13% jump as money kept rotating within AI chips while Nvidia fell. ([source](https://news.jkn.co.kr/editions/english/post/1084494))
-- **2026-11-10** — Goldman Sachs' James Schneider listed AMD among his top chip picks after calling the group oversold, finding it very attractive on growth but less compelling on valuation. ([source](https://finance.yahoo.com/markets/article/goldman-sachs-calls-chip-stocks-oversold-here-are-the-names-it-says-to-buy-165654250.html))
-- **2026-11-10** — Anthropic's updated IPO filing named AMD among the companies buying a combined $26B of nonvoting shares at the IPO price in a private placement. ([source](https://finance.yahoo.com/markets/article/anthropic-seeks-14-trillion-valuation-in-ipo-130300928.html))
 
 ## Coming up
 
-- **2026-11-19** — Anthropic's IPO expected to begin trading on Nasdaq under ticker ANT (Thursday Nov 19 per Nov 16 coverage); AMD is buying shares in the concurrent private placement
+- **2026-11-18** — Anthropic IPO pricing, with Nasdaq trading under ticker ANT expected **2026-11-19**; AMD is buying shares in the concurrent private placement
 - **December 2026** — two investor events announced alongside the earnings date (exact dates not found)
 - **Early February 2027** — Q4 2026 earnings (estimated, not yet confirmed)
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (William Blair upgrade to Outperform, BofA Buy at $700 and top CPU pick, Oppenheimer Outperform at $600, Goldman Sachs top pick) cite AI data-center demand, the MI450 ramp, OpenAI/Meta GPU deals and a possible share opening from Nvidia's CEO turmoil; Q3 data-center revenue nearly doubled to $8.5B, the ~$17B Q4 guide implies ~66% growth, UBS data show AMD holding about 28% of rising server CPU shipments, and the newly closed World Labs deal adds Fei-Fei Li as chief scientist.
-- **Bear:** Goldman calls the valuation less compelling and TIKR notes about 37x forward earnings, above the five-year average; commentators also flag slightly lower gross-margin guidance (~55%), Gaming down 40%, an expected 2027 PC decline, HBM and supply limits, a new U.S. export-license rule for several Asian markets and Brazil, and sharp swings since Nov 5, including an 8.75% drop on Nov 13 and a 3.7% fall on Nov 16 as Michael Burry added bearish chip-ETF bets.
+- **Bull:** Analysts (William Blair upgrade to Outperform, BofA Buy at $700 and top CPU pick, Oppenheimer Outperform at $600, Goldman Sachs top pick) cite AI data-center demand, the MI450 ramp, OpenAI/Meta/Anthropic GPU deals and a possible share opening from Nvidia's CEO turmoil; Q3 data-center revenue nearly doubled to $8.5B, the ~$17B Q4 guide implies ~66% growth, Lisa Su expects server revenue to double in 2027, and UBS data show AMD holding about 28% of rising server CPU shipments.
+- **Bear:** Goldman calls the valuation less compelling, TIKR notes about 37x forward earnings and 24/7 Wall St. (Hold, ~$541 model target) flags roughly 83x trailing earnings, rising inventory and weaker free cash flow; commentators also cite slightly lower gross-margin guidance (~55%), an expected double-digit 2027 PC decline, HBM and supply limits, new U.S. export-license rules and sharp swings, including an 8.75% drop on Nov 13, as Michael Burry added bearish chip-ETF bets.

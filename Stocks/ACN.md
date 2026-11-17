@@ -3,8 +3,8 @@ type: stock
 ticker: ACN
 company: Accenture
 sector: Technology
-held_by: [SCHD]
-updated: 2026-11-16
+held_by: []
+updated: 2026-11-17
 tags: [stock]
 ---
 
@@ -18,10 +18,11 @@ Global IT consulting and outsourcing firm helping companies adopt technology and
 
 | ETF | Weight |
 |---|---|
-| [[SCHD]] | 3.9% |
+| — | not in any top 10 right now |
 
 ## Recent news
 
+- **2026-11-16** — A Simply Wall St note (via Yahoo Finance) highlighted a run of new AI-led outsourcing deals in manufacturing, life sciences and financial services and with clients such as Qantas and Mondelez, and put the shares, last at $247.70 and down about 25% over five years, at about 17.5x earnings with roughly $11.7B of trailing free cash flow. ([source](https://finance.yahoo.com/markets/stocks/articles/accenture-acn-stock-may-trade-020729980.html))
 - **2026-11-16** — A Trefis risk review said Accenture's Nov 13 close was about 32.5% below its February 2025 peak (shares about -3.4% year to date despite a 48.5% three-month gain), noted debt up to $13.4B and acquisitions supplying 2-2.5 points of the 3%-6% FY27 growth guide, and flagged a ~$1B Middle East business expected to stay weak. ([source](https://www.trefis.com/stock/acn/articles/625145/are-you-sure-you-understand-accenture-stocks-risk/2026-11-16))
 - **2026-11-12** — Accenture told the Financial Times its review of the flawed AI research paper found human error and no sign of AI hallucinations, and said the report will be corrected and republished; co-author IE University is checking sources and adding safeguards (recapped by ad-hoc-news). ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/accenture-stock-faces-ai-research-credibility-test-after-citation-errors/70496818))
 - **2026-11-11** — Trefis said the next six months hinge on fiscal Q1 revenue (due in December) against a 2%-6% guide, whether the thin margin-expansion target holds amid lower pricing, and clients' 2027 tech budgets, with IBM and Cognizant results as early reads; it noted a 55% six-month gain but shares roughly flat year to date, and $5.5B of planned FY27 buybacks. ([source](https://www.trefis.com/stock/acn/articles/624400/what-will-decide-accenture-stock-over-the-next-six-months/2026-11-11))
@@ -33,12 +34,11 @@ Global IT consulting and outsourcing firm helping companies adopt technology and
 - **2026-11-04** — Zacks named Accenture the strongest one-month performer among three relative-strength picks, citing Q4 revenue up 6% to $18.7B and $22.2B in new bookings easing AI-disruption fears. ([source](https://finance.yahoo.com/markets/stocks/articles/3-stocks-showing-impressive-relative-153000357.html))
 - **2026-11-03** — Accenture's CIO Pulse survey of 300 tech leaders found 64% are scaling enterprise AI but only 7% are optimizing it at scale, with workforce adoption (53%) and governance (54%) cited as top barriers; ad-hoc-news framed it as a proof test for Accenture's AI growth story. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/accenture-stock-faces-ai-execution-test-as-cio-survey-flags-gaps/70465322))
 - **2026-11-03** — Shares fell nearly 3.9% to about $250.81 in morning trade while the S&P 500 and Nasdaq edged up; Investing.com pointed to roughly $560M of net ETF selling on Oct 30 (mostly SDY), valuation after the rally from a $118.15 low, and AI worries for IT consulting. ([source](https://www.investing.com/news/stock-market-news/why-is-accenture-stock-sliding-today-93CH-4995743))
-- **2026-10-30** — Shares closed up about 4.5% (near $258) while software and IT-services stocks fell, with record bookings, insider buying and defense task orders cited. ([source](https://www.tradingkey.com/news/market-movers/262262106-market-movers-acn-20261030))
 ## Coming up
 
 - **2026-12-17** — Q1 FY2027 earnings (date cited by ad-hoc-news; confirm with company)
 
 ## Bull case / bear case
 
-- **Bull:** Bulls cite a valuation below its own average and the S&P 500 median (Trefis), record Q4 bookings of $22.2B and $84.5B for fiscal 2026 (book-to-bill 1.1), fiscal 2026 operating margin rising to 15.8%, more than 400 clients starting advanced AI projects, new federal defense work and agentic-AI projects such as Mondelez, a new Data-as-a-Service line, a $3M CEO share purchase and $5.5B of planned FY27 buybacks; shares are up about 48% over three months (Trefis).
+- **Bull:** Bulls cite a valuation below its own average (about 17.5x earnings per Simply Wall St, 18.3x per Trefis), record Q4 bookings of $22.2B and $84.5B for fiscal 2026 (book-to-bill 1.1), fiscal 2026 operating margin rising to 15.8%, more than 400 clients starting advanced AI projects, new AI-led outsourcing deals (Qantas, Mondelez), federal defense work, a new Data-as-a-Service line, ~$11.7B of free cash flow, a $3M CEO share purchase and $5.5B of planned FY27 buybacks.
 - **Bear:** Bears flag lower pricing in many areas in Q4, roughly 3% organic growth, acquisition-dependent revenue and debt up to $13.4B, a 3%-6% FY27 outlook, a weak Middle East business and a stock still about 32% below its 2025 peak (Trefis), the risk AI shrinks client spend (Trefis, Baird), possible compliance scrutiny after a reported AI-agent incident on a DoD network, and reputational questions after outside checks found citation errors in its research (Accenture blames human error and is correcting the paper).

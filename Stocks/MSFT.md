@@ -4,7 +4,7 @@ ticker: MSFT
 company: Microsoft
 sector: Technology
 held_by: [XLK, VGT, VUG, QQQ, IVV, SPY, VOO, VTI]
-updated: 2026-11-16
+updated: 2026-11-17
 tags: [stock]
 ---
 
@@ -18,17 +18,20 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 
 | ETF | Weight |
 |---|---|
-| [[XLK]] | 13.6% |
-| [[VGT]] | 13.1% |
-| [[VUG]] | 11.3% |
-| [[QQQ]] | 7.0% |
-| [[IVV]] | 6.2% |
-| [[SPY]] | 6.2% |
-| [[VOO]] | 6.2% |
-| [[VTI]] | 5.6% |
+| [[XLK]] | 13.3% |
+| [[VGT]] | 12.9% |
+| [[VUG]] | 11.1% |
+| [[QQQ]] | 6.7% |
+| [[IVV]] | 6.1% |
+| [[SPY]] | 6.1% |
+| [[VOO]] | 6.1% |
+| [[VTI]] | 5.4% |
 
 ## Recent news
 
+- **2026-11-17** — Microsoft fell about 2.3% to $506.24 per Investing.com's closing quotes as software stocks sold off (Salesforce -9.5%, ServiceNow -6.5%, Intuit -7.2%) and the Dow dropped 1.64% ahead of Nvidia's earnings after the bell. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
+- **2026-11-17** — TradingKey (which put the drop at 3.35%) cited risk-off selling in megacap tech and higher yields, doubts that cloud growth will justify AI data-center spending, questions over how fast Copilot will make money, the recent outages and rival workplace AI tools; it put the average analyst target near $629. ([source](https://www.tradingkey.com/news/market-movers/262309335-market-movers-msft-20261117))
+- **2026-11-17** — As Ignite opened, Microsoft made its combined Copilot Home (Chat and Cowork) and Office in Copilot generally available, began rolling out the Autopilot agent to Frontier customers, added Dynamics 365 and Salesforce plugins, and unveiled Agent 365 cost-management controls; it kept per-seat plus usage-based pricing and cited a GigaOm report saying Copilot costs less than Claude and ChatGPT for similar quality. ([source](https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/))
 - **2026-11-16** — Microsoft held up better than most tech names, trading about 0.3% lower near $522.27 at midday while the Nasdaq slid (it later closed down 2.49%; Microsoft close not found); Vanda Research said bullish options positioning in the stock fell last week to its lowest since December 2022. ([source](https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html))
 - **2026-11-16** — A Seeking Alpha summary of Corvex Management's latest 13F said the fund exited its Microsoft position while adding to Amazon. ([source](https://seekingalpha.com/news/4673271-corvex-exits-microsoft-raises-holdings-in-amazoncom-cuts-stake-in-walt-disney))
 - **2026-11-16** — The Daily Upside said last week's Outlook outage hit more than 430 million users, including UK NHS hospitals and Maersk, with Morningstar DBRS estimating insured losses could reach $500M; it framed this week's Ignite as a chance to reassure investors, citing upbeat views from Wedbush's Dan Ives, Morgan Stanley and Citi. ([source](https://www.thedailyupside.com/technology/artificial-intelligence/microsofts-big-annual-event-comes-just-in-time/))
@@ -38,17 +41,14 @@ Sells Windows, Office/Microsoft 365 and Azure cloud services; a major AI investo
 - **2026-11-12** — Microsoft traded higher after Wednesday's drop (24/7 Wall St. put it up about 2% near $529 at one point; its later quote showed about +0.4% near $523) as investors leaned toward cloud platforms with in-house chips after Nvidia CEO Jensen Huang resigned; the outlet said Microsoft depends more on Nvidia hardware than Alphabet or Amazon, so it lagged Alphabet's gain. ([source](https://247wallst.com/investing/2026/11/12/alphabet-climbs-3-as-nvidias-leadership-shake-up-puts-googles-ai-chips-in-the-spotlight-microsoft-gains-2-amazon-ticks-up/))
 - **2026-11-12** — Ahead of next week's Ignite conference, Citi's Tyler Radke kept a Buy rating and $680 target, looking for Copilot to grow into an enterprise agent platform, and Morgan Stanley's Adam Wood kept Overweight with a $650 target, wanting proof Microsoft can improve the economics of serving AI demand; shares sat more than 6% below the Nov 4 record close. ([source](https://blockonomi.com/microsoft-msft-stock-citi-and-morgan-stanley-bet-on-an-ignite-rebound-heres-why/))
 - **2026-11-11** — Microsoft closed down about 2.3% at $521.13 even as the Nasdaq gained 1.6% in a chip-led AI rebound, one of the weaker megacaps on the day. ([source](https://gokhshtein.com/news/2026-11-11-nasdaq-rises-159-as-nvidia-apple-alphabet-rally-microsoft))
-- **2026-11-11** — Benzinga linked the decline to a proposed US ban on some Chinese-made optical transceivers used in AI data centers, which Microsoft and industry groups have urged the administration to reconsider over cost and delay worries, and to Anthropic's new Claude Sheets and Meetings tools competing with Copilot and Microsoft 365. ([source](https://www.tradingview.com/news/benzinga:e387a7c16094b:0-what-s-going-on-with-microsoft-stock-wednesday/))
-- **2026-11-10** — Shares fell about 2% (Motley Fool's midday quote: -2.6% near $531) after Anthropic introduced Claude Sheets, Claude Whiteboards and Claude Data, tools seen as competing with Microsoft Office, amid a broad tech slide on hot CPI data. ([source](https://uk.finance.yahoo.com/news/microsoft-stock-drops-anthropic-unveils-191336293.html))
-- **2026-11-10** — Anthropic's amended IPO filing listed Microsoft as one of seven companies buying into a $26B private placement of nonvoting Class N shares at the IPO price ($70-$78 range); GuruFocus put Microsoft's share at about $1.0B, small next to Anthropic's Azure compute commitments. ([source](https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-move-lower-despite-173936237.html))
 ## Coming up
 
-- **2026-11-17** — Microsoft Ignite conference opens (runs through Nov 20, San Francisco), with Satya Nadella giving the opening keynote; Citi and Morgan Stanley expect enterprise AI and Copilot agents to headline
+- **Through 2026-11-20** — Microsoft Ignite continues in San Francisco (opened Nov 17); Copilot's Code feature is due to reach general availability in the coming weeks (per Microsoft)
 - **2026-11-18** — Morgan Stanley investor meeting with CFO Amy Hood and investor relations (per Gotrade)
 - **2026-11-19** — Anthropic, in which Microsoft is buying about $1B of shares in the IPO placement, expected to begin trading
 - **2027-01-27** — Fiscal Q2 earnings (projected by TheStreet, not confirmed by Microsoft; fiscal Q1 was reported Oct 28)
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (UBS $700, Citi $680, TD Cowen and Morgan Stanley $650, plus Wells Fargo and BofA) cite 48% Azure growth, ~49% Azure guidance and demand still exceeding supply, Anthropic's $44.9B spending commitment plus a ~$1B stake in its IPO placement, and Copilot adoption (TradingKey's average target near $629; GuruFocus puts fair value near $603); Wedbush's Dan Ives calls Azure a clean read on enterprise AI demand, Citi and Morgan Stanley expect Ignite to bolster confidence, and the stock held up better than most tech on Nov 13 and Nov 16.
-- **Bear:** Skeptics cite a 12% drop in commercial bookings, capex heading toward ~$170B a year, falling free cash flow and a valuation near 66x free cash flow (TradingKey), reported pullbacks from neocloud and Oracle capacity deals, new Anthropic office tools seen as a challenge to Microsoft 365, a proposed US ban on Chinese-made data-center optical transceivers (Benzinga) and heavier reliance on Nvidia hardware than Alphabet or Amazon (24/7 Wall St.); last week's Outlook outage hit 430M+ users with possible insured losses up to $500M (Daily Upside), bullish options positioning hit its lowest since December 2022 (Vanda), and Corvex exited its stake.
+- **Bull:** Analysts (UBS $700, Citi $680, TD Cowen and Morgan Stanley $650, plus Wells Fargo and BofA; TradingKey's average target near $629) cite 48% Azure growth, ~49% Azure guidance and demand still exceeding supply, Anthropic's $44.9B spending commitment plus a ~$1B stake in its IPO placement, and Copilot adoption; at Ignite Microsoft widened Copilot (general availability of Office in Copilot, Autopilot agents, Dynamics 365 and Salesforce plugins, Agent 365 cost controls) and argued it is cheaper than rival assistants, while Wedbush's Dan Ives calls Azure a clean read on enterprise AI demand.
+- **Bear:** Skeptics cite a 12% drop in commercial bookings, capex heading toward ~$170B a year, falling free cash flow and a valuation near 66x free cash flow (TradingKey), doubts about how fast Copilot will make money, new Anthropic office tools seen as a challenge to Microsoft 365, a proposed US ban on Chinese-made data-center optical transceivers (Benzinga) and heavier reliance on Nvidia hardware than Alphabet or Amazon (24/7 Wall St.); last week's Outlook outage hit 430M+ users, bullish options positioning hit its lowest since December 2022 (Vanda), Corvex exited its stake, and shares fell about 2.3% to $506 as Ignite opened amid a software selloff.

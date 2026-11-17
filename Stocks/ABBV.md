@@ -4,7 +4,7 @@ ticker: ABBV
 company: AbbVie
 sector: Healthcare
 held_by: [VTV]
-updated: 2026-11-16
+updated: 2026-11-17
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Drugmaker known for immunology drugs (Skyrizi, Rinvoq) and Botox.
 
 ## Recent news
 
+- **2026-11-17** — Shares eased about 0.7% to around $292.35 by mid-afternoon (opened at $291.50), per finanzen.ch, as health care was among the sectors leading the market lower; Ad-hoc News reported no new company news beyond Barclays' Nov 16 target increase to $335 (Overweight), which analyst Emily Field tied to a derisked earnings profile. ([source](https://www.finanzen.ch/nachrichten/aktien/abbvie-aktie-kursbewegung-17-11-2026-1035062883), [Ad-hoc News](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbvie-stock-barclays-raises-price-target-to-usd-335/70527449), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
 - **2026-11-16** — Barclays raised its price target to $335 from $325 and kept an Overweight rating; shares were up $3.19 at about $298.22 in midday trading on light volume, above MarketBeat's ~$297.85 consensus target (Moderate Buy), after closing Friday at $295.03 (+0.2%). ([source](https://www.dailypolitical.com/2026/11/16/barclays-issues-positive-forecast-for-abbvie-nyseabbv-stock-price.html), [Friday close](https://stockanalysis.com/stocks/abbv/))
 - **2026-11-13** — Shares traded around €266.70 in German trading at midday Friday, up from about €261.80 on Nov 11, with no new company announcement found; Ad-hoc News revisited Qulipta's head-to-head Phase 3 TEMPLE results versus topiramate (12% vs. 30% stopping for side effects). Health care was among the day's leading U.S. sectors. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbvie-stock-in-focus-after-positive-qulipta-migraine-trial/70504463), [market](https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-5026559))
 - **2026-11-12** — Shares edged up about 0.3% to around $295.76 in mid-afternoon New York trading (intraday high about $299.97) but closed at $294.45, down 0.18%, per Gotrade. A Trefis note the same day said Skyrizi and Rinvoq made up about 42% of 2025 revenue and are expected to supply about $6B of the roughly $6.6B revenue gain forecast for 2026, and flagged 7.9x sales valuation and about $70B of net debt as risks if growth slows. ([source](https://www.finanzen.ch/nachrichten/aktien/abbvie-aktie-kursbewegung-12-11-2026-1035062883), [close](https://www.heygotrade.com/en/us-stock/abbv/), [Trefis](https://www.trefis.com/stock/abbv/articles/624675/could-abbvie-stock-survive-a-skyrizi-and-rinvoq-slowdown/2026-11-12))
@@ -33,7 +34,6 @@ Drugmaker known for immunology drugs (Skyrizi, Rinvoq) and Botox.
 - **2026-11-05** — Shares opened at $298.90 but turned lower with the market, down about 0.8% at $292.38 in the afternoon, per finanzen.ch. ([source](https://finanzen.ch/nachrichten/aktien/abbvie-aktie-kursbewegung-05-11-2026-1035062883))
 - **2026-11-04** — AbbVie announced an expanded 12,000 sq ft R&D site in Oxford for immunology, neuroscience and oncology research, part of a more than GBP 120M UK life-sciences commitment; it employs over 1,100 people in the UK. ([source](https://ad-hoc-news.de/boerse/news/corporate-news/abbvie-stock-gains-as-oxford-r-und-d-expansion-deepens-uk-footprint/70464623))
 - **2026-11-04** — AbbVie licensed global rights to Nxera Pharma's oral EP4 agonist NXE0033744 for inflammatory bowel disease, paying $100M upfront with up to $1.37B more in milestones plus tiered royalties; the gut-targeted drug has finished Phase 1. ([source](https://www.biospace.com/deals/abbvie-bets-up-to-1-47b-for-nxeras-discarded-ibd-program))
-- **2026-11-04** — Shares gained about $5 (roughly 1.8%) to near $291 midday on lighter-than-usual volume, still below the $298.74 high. ([source](https://www.marketbeat.com/instant-alerts/list-pharmaceutical-stocks-to-research-november-4th-2026-11-04/))
 
 ## Coming up
 
@@ -43,5 +43,5 @@ Drugmaker known for immunology drugs (Skyrizi, Rinvoq) and Botox.
 
 ## Bull case / bear case
 
-- **Bull:** Supporters point to the Q3 beat with Skyrizi and Rinvoq each growing 20%+, another 2026 EPS guidance raise, a 5.2% dividend increase and pipeline additions like the etentamig filing, Qulipta's tolerability edge over topiramate in the TEMPLE study, the Nxera IBD licensing deal and an expanded Oxford R&D site; Barclays ($335, Overweight, raised Nov 16), Morgan Stanley ($346) and Wells Fargo ($340) have lifted targets, and BMO (Nov 9) expects Skyrizi's efficacy edge over J&J's oral Icotyde to support near-term growth.
+- **Bull:** Supporters point to the Q3 beat with Skyrizi and Rinvoq each growing 20%+, another 2026 EPS guidance raise, a 5.2% dividend increase and pipeline additions like the etentamig filing, Qulipta's tolerability edge over topiramate in the TEMPLE study, the Nxera IBD licensing deal and an expanded Oxford R&D site; Barclays ($335, Overweight, raised Nov 16 citing a derisked earnings profile), Morgan Stanley ($346) and Wells Fargo ($340) have lifted targets, and BMO (Nov 9) expects Skyrizi's efficacy edge over J&J's oral Icotyde to support near-term growth.
 - **Bear:** 24/7 Wall St. (Hold, $291.77 target) and others flag a full valuation (about 21x forward earnings) with shares around MarketBeat's ~$298 consensus target, heavy reliance on Skyrizi and Rinvoq (nearly half of Q3 revenue, per Investing.com; Trefis noted they drive almost all of 2026's expected revenue growth and flagged ~7.9x sales and ~$70B net debt), a 31% Humira decline and 26% Imbruvica decline, a modest lutikizumab readout, EPS dilution from the Apogee deal, and BMO's view that oral rival Icotyde should gain psoriatic arthritis share over time.

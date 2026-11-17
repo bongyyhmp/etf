@@ -4,36 +4,36 @@ ticker: QQQ
 issuer: Invesco
 aum: $490B
 expense_ratio: 0.18%
-return_ytd: 12.8
-return_1y: 11.6
-data_as_of: 2026-11-11
+return_ytd: 8.1
+return_1y: 9.2
+data_as_of: 2026-11-16
 tags: [etf]
 ---
 
 # QQQ — Invesco QQQ Trust
 
-> [!info] Snapshot (as of Nov 11, 2026)
+> [!info] Snapshot (as of Nov 16, 2026)
 > **Tracks:** Nasdaq-100 (100 largest non-financial Nasdaq companies)  
 > **Issuer:** Invesco · **Assets:** $490B · **Expense ratio:** 0.18%  
-> **Return:** +12.8% this year · +11.6% over 1 year (dividends reinvested)  
+> **Return:** +8.1% this year · +9.2% over 1 year (dividends reinvested)  
 > **Holdings:** 101 stocks · top 10 ≈ 50% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[AAPL]] — Apple | 8.7% |
-| 2 | [[NVDA]] — NVIDIA | 7.1% |
-| 3 | [[MSFT]] — Microsoft | 6.5% |
-| 4 | [[GOOGL]] — Alphabet (Google) | 5.5% |
+| 1 | [[AAPL]] — Apple | 9.1% |
+| 2 | [[MSFT]] — Microsoft | 6.7% |
+| 3 | [[NVDA]] — NVIDIA | 6.6% |
+| 4 | [[GOOGL]] — Alphabet (Google) | 5.6% |
 | 5 | [[AMZN]] — Amazon | 4.8% |
-| 6 | [[MU]] — Micron Technology | 4.2% |
-| 7 | [[AMD]] — Advanced Micro Devices | 4.2% |
+| 6 | [[AMD]] — Advanced Micro Devices | 4.0% |
+| 7 | [[MU]] — Micron Technology | 3.9% |
 | 8 | [[TSLA]] — Tesla | 3.3% |
-| 9 | [[META]] — Meta Platforms | 3.1% |
-| 10 | [[WMT]] — Walmart | 2.8% |
+| 9 | [[META]] — Meta Platforms | 3.3% |
+| 10 | [[WMT]] — Walmart | 3.0% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 11, 2026 prices.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 16, 2026 prices.*
 
 ## Sector mix
 
@@ -46,6 +46,7 @@ tags: [etf]
 
 ## News log
 
+- **2026-11-13** — Took in about $3.6B in the week ended Nov 6 despite the tech selloff, per TD Securities data cited by InvestmentNews. ([source](https://www.investmentnews.com/etfs/etf-flows-surge-54bn-as-stocks-sell-off-and-markets-go-247/268997))
 - **2026-11-06** — Closed up about 1.4% as chip stocks bounced, winning back only about a fifth of Thursday's drop. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026))
 - **2026-11-05** — Closed down about 6.5% as AI and chip stocks sold off for a second day on fears that the new Democratic Congress could slow data-center building; the Nasdaq slipped into correction territory. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026))
 
