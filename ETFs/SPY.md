@@ -4,18 +4,18 @@ ticker: SPY
 issuer: State Street SPDR
 aum: $781B
 expense_ratio: 0.0945%
-return_ytd: 9.4
-return_1y: 11.3
-data_as_of: 2026-11-16
+return_ytd: 8.2
+return_1y: 11.2
+data_as_of: 2026-11-17
 tags: [etf]
 ---
 
 # SPY — SPDR S&P 500 ETF Trust
 
-> [!info] Snapshot (as of Nov 16, 2026)
+> [!info] Snapshot (as of Nov 17, 2026)
 > **Tracks:** S&P 500 (the oldest US ETF, launched 1993)  
 > **Issuer:** State Street SPDR · **Assets:** $781B · **Expense ratio:** 0.0945%  
-> **Return:** +9.4% this year · +11.3% over 1 year (dividends reinvested)  
+> **Return:** +8.2% this year · +11.2% over 1 year (dividends reinvested)  
 
 
 This fund tracks the same index as [[VOO]], so its holdings are the same; the weights below are VOO's.

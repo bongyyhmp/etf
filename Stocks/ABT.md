@@ -4,7 +4,7 @@ ticker: ABT
 company: Abbott Laboratories
 sector: Healthcare
 held_by: [SCHD]
-updated: 2026-11-17
+updated: 2026-11-18
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Makes medical devices (heart rhythm, structural heart and glucose monitors), lab
 
 ## Recent news
 
+- **2026-11-18** — No new company announcement was found; shares were indicated about 1% lower before the U.S. open in German trading (€95.30 vs. Tuesday's €96.28 Xetra close), and no U.S. closing move was found on a day health-care stocks lagged and the Dow fell 1.11%. ([source](https://www.ad-hoc-news.de/boerse/news/vorboerse/abbott-laboratories-stock-at-eur-95-30-down-1-02-prozent-premarket/70529956), [market](https://www.finanzen.net/nachricht/aktien/boerse-new-york-dow-jones-verbucht-zum-ende-des-mittwochshandels-abschlaege-16074567))
 - **2026-11-17** — Geneoscopy said its patent and false-advertising litigation with Abbott unit Exact Sciences over the ColoSense RNA stool test has been settled on confidential terms, with all claims and counterclaims dismissed in Delaware federal court; Abbott shares were roughly flat in German trading that evening (€96.35), and no U.S. price move was found on a day health care was among the sectors leading the market lower. ([source](https://mugglehead.com/geneoscopy-exact-sciences-delaware-litigation-settlement/), [Ad-hoc News](https://ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-aktie-exact-sciences-beendet-patentstreit/70528141), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
 - **2026-11-16** — The $0.63 quarterly dividend was payable; shares traded at about €99.78 in German trading that afternoon, roughly 1.3% above Ad-hoc News's Nov 14 reference price, with no new company announcement found as Ad-hoc News recapped the Canadian launch of the Panbio COVID-19 and flu A/B at-home self-test and the UltiSynq approvals. The broader U.S. market fell sharply, led by tech. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-stock-quote-update-after-pipeline-report/70521502), [dividend](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbott-schedules-a-usd-0-63-dividend-payable-november-16-2026-for-abbott-laboratories-stock/70415236), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-141-5030993))
 - **2026-11-13** — Zacks kept a #3 (Hold) rank in a post-Q3 review, noting shares are up 6.7% since the Oct 21 report and 28.4% over six months, trade at about 18.2x forward earnings versus a 22.9x five-year median, and that the nutrition spin-off is targeted by end-2027; it flagged the trimmed sales outlook tied to electrophysiology (LAA) and diabetes care. Shares were about 0.4% lower in German trading at midday (€97.50). ([source](https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-abbott-stock-151500928.html), [German trading](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-stock-weighs-amulet-360-data-ahead-of-u-s-review/70504432))
@@ -33,7 +34,6 @@ Makes medical devices (heart rhythm, structural heart and glucose monitors), lab
 - **2026-11-02** — One-year VERITAS data for the investigational Amulet 360 left atrial appendage device showed complete closure in about 96% of patients and over 98% free of ischemic stroke or embolism; the device has a CE Mark but no U.S. approval yet. ([source](https://ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-stock-weighs-amulet-360-heart-device-data/70485787))
 - **2026-11-01** — The TECTONIC study of the investigational SonicForce coronary lithotripsy system met its primary endpoints (0.3% 30-day target lesion failure, 97% procedural success) in 335 patients; it is not yet FDA approved and no filing timeline was given. ([source](https://www.hmpgloballearningnetwork.com/site/cathlab/press-release/abbotts-tectonic-clinical-trial-demonstrates-strong-30-day-outcomes-and))
 - **2026-10-27** — Argus cut its 12-month rating to Hold from Buy, citing reimbursement uncertainty, tougher competition in a key business, unclear effects of the nutrition spin-off and the lower 2026 sales outlook. ([source](https://goldesel.de/aktien/news/abbott-laboratories-aktie-argus-senkt-rating-wegen-gegenwind-auf-hold))
-- **2026-10-21** — Q3 revenue rose 14.5% to $13.01B (7% comparable), helped by the March 2026 Exact Sciences deal; adjusted EPS of $1.42 roughly matched estimates. Abbott trimmed 2026 comparable sales growth to about 6% (from 6.5-7.5%), narrowed adjusted EPS guidance to $5.50-$5.55, and shares fell about 4% in morning trading. ([source](https://kfgo.com/2026/10/21/abbott-lowers-2026-sales-growth-forecast-on-medical-device-weakness/))
 
 ## Coming up
 

@@ -4,7 +4,7 @@ ticker: ABBV
 company: AbbVie
 sector: Healthcare
 held_by: [VTV]
-updated: 2026-11-17
+updated: 2026-11-18
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Drugmaker known for immunology drugs (Skyrizi, Rinvoq) and Botox.
 
 ## Recent news
 
+- **2026-11-18** — Shares fell about 2.0% to roughly $286.84 by mid-afternoon (opened at $290.00, low about $286.64), among the S&P 500's decliners and about 5% below the Nov 6 52-week high of $302.91, per finanzen.ch, as pharma stocks lagged the market (TradingKey put the sector down about 1.3%); no new company announcement was found. finanzen.ch lists Feb 3, 2027 for the next quarterly report. ([source](https://www.finanzen.ch/nachrichten/aktien/abbvie-aktie-kursbewegung-18-11-2026-1035062883), [sector](https://www.tradingkey.com/news/market-movers/262311572-market-movers-mrk-20261118))
 - **2026-11-17** — Shares eased about 0.7% to around $292.35 by mid-afternoon (opened at $291.50), per finanzen.ch, as health care was among the sectors leading the market lower; Ad-hoc News reported no new company news beyond Barclays' Nov 16 target increase to $335 (Overweight), which analyst Emily Field tied to a derisked earnings profile. ([source](https://www.finanzen.ch/nachrichten/aktien/abbvie-aktie-kursbewegung-17-11-2026-1035062883), [Ad-hoc News](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbvie-stock-barclays-raises-price-target-to-usd-335/70527449), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
 - **2026-11-16** — Barclays raised its price target to $335 from $325 and kept an Overweight rating; shares were up $3.19 at about $298.22 in midday trading on light volume, above MarketBeat's ~$297.85 consensus target (Moderate Buy), after closing Friday at $295.03 (+0.2%). ([source](https://www.dailypolitical.com/2026/11/16/barclays-issues-positive-forecast-for-abbvie-nyseabbv-stock-price.html), [Friday close](https://stockanalysis.com/stocks/abbv/))
 - **2026-11-13** — Shares traded around €266.70 in German trading at midday Friday, up from about €261.80 on Nov 11, with no new company announcement found; Ad-hoc News revisited Qulipta's head-to-head Phase 3 TEMPLE results versus topiramate (12% vs. 30% stopping for side effects). Health care was among the day's leading U.S. sectors. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbvie-stock-in-focus-after-positive-qulipta-migraine-trial/70504463), [market](https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-5026559))
@@ -33,15 +34,14 @@ Drugmaker known for immunology drugs (Skyrizi, Rinvoq) and Botox.
 - **2026-11-06** — Shares recovered about $1.84 (roughly 0.6%) to around $290.08 at midday Friday, per DailyPolitical, after closing Thursday at $288.24, down 2.24%. ([source](https://www.dailypolitical.com/2026/11/06/best-biotech-stocks-to-watch-today-november-6th.html), [Nov 5 close](https://journalarta.com/en/2026/11/06/abbvie-abbv-stock-falls-2-24-momentum-weakens-in-focus/))
 - **2026-11-05** — Shares opened at $298.90 but turned lower with the market, down about 0.8% at $292.38 in the afternoon, per finanzen.ch. ([source](https://finanzen.ch/nachrichten/aktien/abbvie-aktie-kursbewegung-05-11-2026-1035062883))
 - **2026-11-04** — AbbVie announced an expanded 12,000 sq ft R&D site in Oxford for immunology, neuroscience and oncology research, part of a more than GBP 120M UK life-sciences commitment; it employs over 1,100 people in the UK. ([source](https://ad-hoc-news.de/boerse/news/corporate-news/abbvie-stock-gains-as-oxford-r-und-d-expansion-deepens-uk-footprint/70464623))
-- **2026-11-04** — AbbVie licensed global rights to Nxera Pharma's oral EP4 agonist NXE0033744 for inflammatory bowel disease, paying $100M upfront with up to $1.37B more in milestones plus tiered royalties; the gut-targeted drug has finished Phase 1. ([source](https://www.biospace.com/deals/abbvie-bets-up-to-1-47b-for-nxeras-discarded-ibd-program))
 
 ## Coming up
 
 - **2H 2026** — Phase 3 hidradenitis suppurativa readouts for Rinvoq (expected)
+- **2027-02-03** — Q4 2026 earnings (per finanzen.ch; not confirmed by company)
 - **2027-02-16** — Raised $1.82 quarterly dividend payable (per Q3 release coverage)
-- Next earnings (Q4 2026): date not found in sources
 
 ## Bull case / bear case
 
 - **Bull:** Supporters point to the Q3 beat with Skyrizi and Rinvoq each growing 20%+, another 2026 EPS guidance raise, a 5.2% dividend increase and pipeline additions like the etentamig filing, Qulipta's tolerability edge over topiramate in the TEMPLE study, the Nxera IBD licensing deal and an expanded Oxford R&D site; Barclays ($335, Overweight, raised Nov 16 citing a derisked earnings profile), Morgan Stanley ($346) and Wells Fargo ($340) have lifted targets, and BMO (Nov 9) expects Skyrizi's efficacy edge over J&J's oral Icotyde to support near-term growth.
-- **Bear:** 24/7 Wall St. (Hold, $291.77 target) and others flag a full valuation (about 21x forward earnings) with shares around MarketBeat's ~$298 consensus target, heavy reliance on Skyrizi and Rinvoq (nearly half of Q3 revenue, per Investing.com; Trefis noted they drive almost all of 2026's expected revenue growth and flagged ~7.9x sales and ~$70B net debt), a 31% Humira decline and 26% Imbruvica decline, a modest lutikizumab readout, EPS dilution from the Apogee deal, and BMO's view that oral rival Icotyde should gain psoriatic arthritis share over time.
+- **Bear:** 24/7 Wall St. (Hold, $291.77 target) and others flag a full valuation (about 21x forward earnings) with shares (about $287 on Nov 18, down 2% with the pharma group) near MarketBeat's ~$298 consensus target, heavy reliance on Skyrizi and Rinvoq (nearly half of Q3 revenue, per Investing.com; Trefis noted they drive almost all of 2026's expected revenue growth and flagged ~7.9x sales and ~$70B net debt), a 31% Humira decline and 26% Imbruvica decline, a modest lutikizumab readout, EPS dilution from the Apogee deal, and BMO's view that oral rival Icotyde should gain psoriatic arthritis share over time.

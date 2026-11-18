@@ -4,7 +4,7 @@ ticker: MRVL
 company: Marvell Technology
 sector: Technology
 held_by: []
-updated: 2026-11-17
+updated: 2026-11-18
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Designs data-infrastructure chips: custom AI chips, networking and storage contr
 
 ## Recent news
 
+- **2026-11-18** — Marvell fell about 2.2% the day after Nvidia's report, missing the lift that AMD and Broadcom got, per Techi's tally of AI-hardware moves. ([source](https://www.techi.com/nvidia-stock-falls-day-after-earnings-ten-report-record/))
+- **2026-11-18** — Investing.com tied the morning slide (down 3.5% to $143.50 at one point) to dilution worries over the all-stock Lumentum deal and a filing showing CEO Matt Murphy sold 7,500 shares on Nov 16 for about $1.1M at roughly $144-149. ([source](https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-sliding-today-93CH-5036476))
 - **2026-11-17** — Marvell rose 2.33% to $148.74 per Investing.com's closing quotes, recovering part of Monday's 7.4% drop while the broader market fell. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
 - **2026-11-17** — 24/7 Wall St. noted Lumentum, Marvell's pending all-stock acquisition target, rose about 5% after a Reuters report that the U.S. is moving ahead with curbs on imports of new Chinese optical transceivers; a 13F showed Citadel sharply raised its Marvell stake, though as of Sept. 30. ([source](https://247wallst.com/investing/2026/11/17/marvell-rises-3-after-mondays-7-drop-is-the-lumentum-deal-still-worth-the-dilution-risk/))
 - **2026-11-17** — BigGo Finance said Marvell was up about 2% early, alongside Arm and Broadcom, on reports that Anthropic's IPO may price above its target range. ([source](https://finance.biggo.com/news/e0c1bf46-a63f-48e9-81f9-b54a392cd4d5))
@@ -32,8 +34,6 @@ Designs data-infrastructure chips: custom AI chips, networking and storage contr
 - **2026-11-12** — Marvell added three independent directors, Walmart's Donna Morris, Lam Research CFO Douglas Bettinger and Intuit CEO Sasan Goodarzi, expanding its board to ten. ([source](https://www.sec.gov/Archives/edgar/data/0001835632/000183563226000026/a20261112pressrelease.htm))
 - **2026-11-11** — Marvell closed up 6.44% ($9.94) at $164.33 as CoreWeave's beat-and-raise quarter revived buying across AI chip suppliers. ([source](https://news.jkn.co.kr/editions/english/post/1087207))
 - **2026-11-11** — Shares were up as much as about 12% in late morning, with GuruFocus framing it as a partial recovery from the post-Lumentum-deal slide but rating the stock modestly overvalued versus a GF Value near $128. ([source](https://finance.yahoo.com/markets/stocks/articles/marvell-technology-stocks-surge-12-190144170.html))
-- **2026-11-10** — Marvell fell about 2.9% in afternoon trading, leading declines among chip names such as Intel, Micron and Qualcomm. ([source](https://www.kucoin.com/news/flash/chip-stocks-drop-in-u-s-trading-marvell-tech-falls-2-9))
-- **2026-11-09** — Bloomberg reported that analysts see roughly even odds that the $115B Lumentum acquisition closes, as the AI trade wobbles. ([source](https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders))
 
 ## Coming up
 
@@ -43,4 +43,4 @@ Designs data-infrastructure chips: custom AI chips, networking and storage contr
 ## Bull case / bear case
 
 - **Bull:** Analysts (Piper Sandler, Jefferies, Arete at $323; MarketBeat consensus Moderate Buy) and Morningstar cite AI custom-chip and optical demand and a strong fit with Lumentum's lasers; management promises first-year EPS accretion, over $1B in cost synergies and a $70-90B fiscal-2031 revenue goal, the CFO plans buybacks to manage dilution, and deal target Lumentum rose on Nov 17 after a Reuters report of planned U.S. curbs on imports of Chinese optical transceivers.
-- **Bear:** BofA and TD Cowen downgraded and several firms cut targets over dilution from the all-stock Lumentum deal, which analysts cited by Bloomberg give roughly coin-flip odds of closing; 24/7 Wall St. lists dilution, regulatory review and integration risk, William Blair warns Nvidia's CEO change could slow partner deals, a WSJ report says Nvidia's interim CEO may pull back on AI financing, and GuruFocus calls the stock modestly overvalued after a steep monthly decline.
+- **Bear:** BofA and TD Cowen downgraded and several firms cut targets over dilution from the all-stock Lumentum deal, which analysts cited by Bloomberg give roughly coin-flip odds of closing; 24/7 Wall St. lists dilution, regulatory review and integration risk, William Blair warns Nvidia's CEO change could slow partner deals, a WSJ report says Nvidia's interim CEO may pull back on AI financing, GuruFocus calls the stock modestly overvalued after a steep monthly decline, and the shares lagged peers after Nvidia's report as the CEO's small Nov 16 share sale drew attention.

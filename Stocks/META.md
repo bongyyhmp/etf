@@ -4,7 +4,7 @@ ticker: META
 company: Meta Platforms
 sector: Communication Services
 held_by: [VUG, QQQ, IVV, SPY, VOO, VTI]
-updated: 2026-11-17
+updated: 2026-11-18
 tags: [stock]
 ---
 
@@ -27,6 +27,8 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 
 ## Recent news
 
+- **2026-11-18** — Bloomberg reported that Meta has paused the share plan benefiting Mark Zuckerberg while shareholders challenge it in court (the suit, filed in late October, targets the non-voting share restructuring); details beyond the headline were not accessible. ([source](https://www.bloomberg.com/news/articles/2026-11-18/meta-pauses-zuckerberg-share-plan-during-investor-legal-fight))
+- **2026-11-18** — Meta slipped about 0.4% to $616.38 per the Motley Fool's quote bar, a third straight loss, as the Dow fell 1.11% while the Nasdaq rose 0.42%; 24/7 Wall St. put the stock about 22% below its record close and down roughly 6% this year. ([source](https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-midday-nov-18-nvidia-doubles-revenue-but-wall-street-s-sell-off-continues/))
 - **2026-11-17** — Meta fell about 1.2% to $618.87 per Investing.com's closing quotes as the S&P 500 dropped 1.02% ahead of Nvidia's results after the bell. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
 - **2026-11-16** — Meta sold $15B of senior notes in five dollar tranches (about $14.9B expected net proceeds, Citigroup and Morgan Stanley as joint bookrunners) for general purposes including data centers and AI model training, per an Adalytica report cited by ad-hoc-news; underwriters also fully exercised an option on 6M more Class A shares, taking forward sales to 40M shares. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/meta-platforms-stock-company-raises-15-billion-in-bonds/70527516))
 - **2026-11-16** — Meta fell about 2.4% to roughly $626.41 by the 4 p.m. quote shown by the Motley Fool, about 18% below its Sept. 24 closing high; the outlet tallied about $25B of new bonds sold Nov 3-4 (dollar and debut euro deals), lifting total notes to roughly $109B, with Q3 free cash flow near -$2.1B. ([source](https://fool.com/investing/2026/11/15/is-meta-stock-still-a-buy-after-borrowing-about-usd25-billion-this-month))
@@ -37,17 +39,16 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 - **2026-11-12** — UK regulator Ofcom fined Meta £450,000 (cut by 25% from £600,000 under a settlement) for repeatedly inaccurate WhatsApp Business messaging-volume and revenue data supplied for its review of the bulk business SMS market; Meta said it cooperated fully. ([source](https://analyticsinsight.net/news/meta-hit-with-gbp-450000-ofcom-fine-whatsapp-data-errors-exposed))
 - **2026-11-11** — Meta fell about 2% to $628.77 as advertising-exposed names lagged the Nasdaq's 1.6% rally. ([source](https://gokhshtein.com/news/2026-11-11-nasdaq-rises-159-as-nvidia-apple-alphabet-rally-microsoft))
 - **2026-11-11** — The Wall Street Journal tied the drop to United Airlines changing its contract of carriage to bar AI agents from booking, changing or servicing tickets, a rule that covers assistants built into social and search platforms. ([source](https://www.heygotrade.com/en/news/meta-meta-stock-news-november-12-2026/))
-- **2026-11-11** — Bloomberg reported, per The Next Web, that infrastructure head Santosh Janardhan will hand the infrastructure team to Dave Brown, a former AWS executive who joined Meta this year, in early 2027; Janardhan stays through Q1 2027 and then becomes CTO of Meta Compute. ([source](https://thenextweb.com/news/meta-infrastructure-chief-santosh-janardhan-steps-down))
-- **2026-11-10** — Shares were roughly flat near $641.5 at midday as hot inflation data pulled the Nasdaq lower, holding Monday's 5% gain. ([source](https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-midday-nov-10-stocks-slide-on-hot-inflation-data/))
 ## Coming up
 
 - **2027-01-19** — Restated preferred-stock certificate and amended charter take effect (per 8-K)
 - **2027-02-15** — First quarterly dividend on the 6.50% mandatory convertible preferred (per 8-K)
 - **Q1 2027** — Infrastructure leadership handover from Santosh Janardhan to Dave Brown (per Bloomberg)
-- **Q1 2027** — Planned launch of $60B at-the-market stock program once new Class C shares begin trading (company plan)
+- **January 2027** — Court hearing on a preliminary injunction in the shareholder suit over the Zuckerberg share plan (per a Law360 headline; exact date not found)
+- **Q1 2027** — Planned launch of $60B at-the-market stock program once new Class C shares begin trading (company plan; timing may depend on the paused share plan and litigation)
 - Next earnings date: not found in sources (Q3 was reported Oct 21)
 
 ## Bull case / bear case
 
 - **Bull:** Analysts (JPMorgan, which added Meta to its focus list with a $940 target, plus KeyBanc, Cantor, Guggenheim, BofA, Goldman, Pivotal) cite core ad strength, Q4 revenue guidance of $73B-$76B, above consensus, and early Muse AI traction (Citi sees $27B of Muse revenue by 2030); repeated large bond sales (including $15B on Nov 16) and Moody's stable Aa3 rating show strong credit demand, and the stock sits well below its September high (Motley Fool).
-- **Bear:** Analysts (Needham, Scotiabank) cite dilution from equity raises (forward sales now cover 40M shares) and unproven Muse profitability; another $15B bond sale on Nov 16 on top of about $25B earlier this month, negative Q3 free cash flow, capex of $135B-$145B in 2026 and S&P's negative outlook point to rising leverage, which Investing.com linked to AI-debt worries; regulators keep pressing (an €805M Italian privacy fine, a £450,000 Ofcom fine, EU orders on WhatsApp AI access, Canada's Bill C-22), and shares slipped again on Nov 17 to about $619.
+- **Bear:** Analysts (Needham, Scotiabank) cite dilution from equity raises (forward sales now cover 40M shares) and unproven Muse profitability; another $15B bond sale on Nov 16 on top of about $25B earlier this month, negative Q3 free cash flow, capex of $135B-$145B in 2026 and S&P's negative outlook point to rising leverage, which Investing.com linked to AI-debt worries; regulators keep pressing (an €805M Italian privacy fine, a £450,000 Ofcom fine, EU orders on WhatsApp AI access, Canada's Bill C-22), a shareholder suit has led Meta to pause the Zuckerberg share plan (Bloomberg), and shares fell for a third day on Nov 18 to about $616, roughly 22% below their record (24/7 Wall St.).
