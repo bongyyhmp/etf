@@ -4,7 +4,7 @@ ticker: TSM
 company: Taiwan Semiconductor (TSMC)
 sector: Technology
 held_by: [SMH, SOXX]
-updated: 2026-11-18
+updated: 2026-11-19
 tags: [stock]
 ---
 
@@ -18,11 +18,14 @@ The world's largest contract chipmaker; manufactures chips for Apple, Nvidia, AM
 
 | ETF | Weight |
 |---|---|
-| [[SMH]] | 10.4% |
-| [[SOXX]] | 5.0% |
+| [[SMH]] | 10.0% |
+| [[SOXX]] | 4.8% |
 
 ## Recent news
 
+- **2026-11-19** — The Financial Times reported (via Stocktwits) that TSMC and Samsung told some Chinese customers that shipments of certain chips are on hold while they seek U.S. licenses under the new Commerce rule; TSMC builds phone processors for Xiaomi, Oppo and Vivo, and an insider expects phone-chip licenses to be granted but with possible delays. ([source](https://stocktwits.com/news-articles/markets/equity/tsmc-samsung-reportedly-suspend-some-chip-deliveries-to-chinese-customers-amid-new-us-export-rules/cNbi7d3R9i6))
+- **2026-11-19** — In Taipei, TSMC fell 3.45% to NT$2,100 as the Taiex slid 4.4% to 38,426.89, its seventh-largest point drop on record, on U.S. tech weakness, AI financing concerns and fears Nvidia may push suppliers on costs; foreign investors were net sellers of NT$24.31B. ([source](https://focustaiwan.tw/business/202611190016))
+- **2026-11-19** — TSMC's filing showed subsidiary TSMC Partners bought 6,024,096 Anthropic shares at the $83 IPO price, about $500M or roughly a 0.03% stake; the ADR was down about 1.8% at $356.13 in early afternoon New York trading (closing figure not found). ([source](https://focustaiwan.tw/business/202611190023)) ([source](https://stockanalysis.com/stocks/tsm/))
 - **2026-11-18** — TSMC ADRs edged up about 0.8% the day after top customer Nvidia's beat-and-raise report, trailing bigger gains in AMD and Broadcom, per Techi's tally. ([source](https://www.techi.com/nvidia-stock-falls-day-after-earnings-ten-report-record/))
 - **2026-11-17** — TSMC ADRs closed down 3.68% at $359.69 (range $353.50-$373.10) on heavy volume of about 25.2M shares, roughly 1.8x the 30-day average, as the new Commerce foundry-screening rule weighed. ([source](https://www.heygotrade.com/en/news/tsmc-tsm-stock-news-november-18-2026/))
 - **2026-11-17** — In Taipei, TSMC fell 2.03% to NT$2,170 as the Taiex dropped 2.31% to 40,092.11, with foreign investors net sellers of NT$38.09B; dealers suspected stabilization-fund buying of big tech names near the 40,000 mark. ([source](https://www.ad-hoc-news.de/boerse/news/marktberichte/taiex-closes-2-31-prozent-lower-after-volatile-ai-driven-session/70526473))
@@ -32,18 +35,13 @@ The world's largest contract chipmaker; manufactures chips for Apple, Nvidia, AM
 - **2026-11-13** — TSMC ADRs were down about 2.6% at midday (Yahoo Finance's text said more than 3%) as the chip selloff accelerated after Nvidia's CEO exit, alongside steeper drops in AMD, Broadcom and Micron; closing figure not found. ([source](https://finance.yahoo.com/markets/article/nvidia-stock-slips-as-investors-digest-ceo-exit-rest-of-chip-sector-falls-144818245.html))
 - **2026-11-12** — TSMC ADRs closed down 1.90% ($7.86) at $405.49 after Nvidia's CEO resignation. ([source](https://www.heygotrade.com/en/news/tsmc-tsm-stock-news-november-13-2026/))
 - **2026-11-12** — TSMC ADRs fell about 3.5% premarket and were down 2.21% at $404.22 shortly after the open as Nvidia's CEO resignation hit the AI supply chain, two days after record October sales; GuruFocus put the ADR about 6% above its GF Value. ([source](https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-2-21-180251979.html))
-- **2026-11-11** — TSMC ADRs closed up 3.20% ($12.69) at $409.28 as CoreWeave's results lifted AI hardware names. ([source](https://news.jkn.co.kr/editions/english/post/1087229))
-- **2026-11-11** — In Taipei, shares rose about 4.2% to NT$2,380, with Investing.com citing the record October sales, the board's approved Anthropic and OpenAI stakes and a third straight 1,000-point intraday rally in the Taiex. ([source](https://www.investing.com/news/stock-market-news/why-is-tsmc-stock-rallying-today-93CH-5017738))
-- **2026-11-10** — October revenue hit a record NT$586.89B, up 14.7% from September and 59.7% from a year earlier; January-October revenue rose 43.3% to NT$4.49 trillion. ([source](https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000796/tsm-revenue20261110.htm))
 
 ## Coming up
 
-- **2026-11-19** — Anthropic's Nasdaq debut under ticker ANT after pricing at $83 (above its $70-78 range, per a Reuters source); TSMC (up to $500M, approved by its board) is buying shares in the concurrent private placement
-- **2026-11-19** — Commerce Department interim rule on foundry checks and advanced-chip licensing takes effect on publication (scheduled date per GuruFocus)
 - **~2026-12-10** — November monthly revenue report (expected timing per GuruFocus)
 - **Mid-January 2027** — Q4 2026 earnings (expected; date not yet announced); Q4 guidance $52.3-54.3B
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (Barclays, Needham) and Moody's cite manufacturing leadership and AI demand; October revenue hit a record, up 59.7% year over year, Q4 guidance implies about 14% sequential growth, top customer Nvidia beat Q3 forecasts and guided higher, TradingKey reports Buy ratings with an average target near $574, and GuruFocus (GF Score 99/100) sees the new U.S. rule costing screening time rather than leading-edge demand.
-- **Bear:** Coverage flags heavy capex (another ~$40.9B of appropriations approved), overseas fabs and N2 costs diluting margins, Taiwan concentration and geopolitical risk, a new U.S. rule adding foundry licensing checks, heavy dependence on Nvidia (about 22% of 2026 revenue per TradingKey) amid its CEO turmoil, and persistent foreign selling in Taipei, where the stock fell another 2% on Nov 17 after a 5.7% drop on Nov 16, while the ADR dropped 3.7% on Nov 17 and rebounded only about 0.8% after Nvidia's report.
+- **Bull:** Analysts (Barclays, Needham) and Moody's cite manufacturing leadership and AI demand; October revenue hit a record, up 59.7% year over year, Q4 guidance implies about 14% sequential growth, top customer Nvidia beat Q3 forecasts and guided higher, TradingKey reports Buy ratings with an average target near $574, GuruFocus (GF Score 99/100) sees the new U.S. rule costing screening time rather than leading-edge demand, and an industry insider expects phone-chip licenses for China to be approved.
+- **Bear:** Coverage flags heavy capex (another ~$40.9B of appropriations approved), overseas fabs and N2 costs diluting margins, Taiwan concentration and geopolitical risk, a new U.S. rule that has paused some shipments to Chinese customers pending licenses, heavy dependence on Nvidia (about 22% of 2026 revenue per TradingKey) amid its CEO turmoil and possible cost pressure on suppliers, and persistent foreign selling in Taipei, where the stock fell 3.45% on Nov 19 as the Taiex dropped below 40,000.

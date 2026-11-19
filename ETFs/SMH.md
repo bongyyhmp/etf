@@ -4,18 +4,18 @@ ticker: SMH
 issuer: VanEck
 aum: $77B
 expense_ratio: 0.35%
-return_ytd: 27.8
-return_1y: 35.6
-data_as_of: 2026-11-17
+return_ytd: 27.6
+return_1y: 38.3
+data_as_of: 2026-11-18
 tags: [etf]
 ---
 
 # SMH — VanEck Semiconductor ETF
 
-> [!info] Snapshot (as of Nov 17, 2026)
+> [!info] Snapshot (as of Nov 18, 2026)
 > **Tracks:** MVIS US Listed Semiconductor 25  
 > **Issuer:** VanEck · **Assets:** $77B · **Expense ratio:** 0.35%  
-> **Return:** +27.8% this year · +35.6% over 1 year (dividends reinvested)  
+> **Return:** +27.6% this year · +38.3% over 1 year (dividends reinvested)  
 > **Holdings:** 25 stocks · top 10 ≈ 73% of the fund
 
 ## Top 10 holdings
@@ -23,17 +23,17 @@ tags: [etf]
 | # | Stock | Weight |
 |---|---|---|
 | 1 | [[NVDA]] — NVIDIA | 19.4% |
-| 2 | [[TSM]] — Taiwan Semiconductor (TSMC) | 10.4% |
+| 2 | [[TSM]] — Taiwan Semiconductor (TSMC) | 10.0% |
 | 3 | [[AMD]] — Advanced Micro Devices | 6.9% |
-| 4 | [[AVGO]] — Broadcom | 6.6% |
-| 5 | [[TXN]] — Texas Instruments | 5.8% |
+| 4 | [[AVGO]] — Broadcom | 6.8% |
+| 5 | [[TXN]] — Texas Instruments | 5.9% |
 | 6 | [[ADI]] — Analog Devices | 5.4% |
 | 7 | [[ASML]] — ASML Holding | 5.0% |
 | 8 | [[MU]] — Micron Technology | 5.0% |
 | 9 | [[QCOM]] — Qualcomm | 4.7% |
 | 10 | [[AMAT]] — Applied Materials | 3.9% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 16, 2026 prices.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 17, 2026 prices (the source had not yet posted Nov 18 estimates).*
 
 ## Sector mix
 

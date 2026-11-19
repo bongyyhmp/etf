@@ -4,36 +4,36 @@ ticker: SOXX
 issuer: BlackRock iShares
 aum: $48B
 expense_ratio: 0.33%
-return_ytd: 41.2
-return_1y: 50.1
-data_as_of: 2026-11-17
+return_ytd: 41.6
+return_1y: 54.1
+data_as_of: 2026-11-18
 tags: [etf]
 ---
 
 # SOXX — iShares Semiconductor ETF
 
-> [!info] Snapshot (as of Nov 17, 2026)
+> [!info] Snapshot (as of Nov 18, 2026)
 > **Tracks:** NYSE Semiconductor Index (30 US-listed chip companies)  
 > **Issuer:** BlackRock iShares · **Assets:** $48B · **Expense ratio:** 0.33%  
-> **Return:** +41.2% this year · +50.1% over 1 year (dividends reinvested)  
+> **Return:** +41.6% this year · +54.1% over 1 year (dividends reinvested)  
 > **Holdings:** 30 stocks · top 10 ≈ 62% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[AMD]] — Advanced Micro Devices | 10.4% |
-| 2 | [[AVGO]] — Broadcom | 8.0% |
-| 3 | [[NVDA]] — NVIDIA | 7.9% |
-| 4 | [[MU]] — Micron Technology | 7.9% |
+| 1 | [[AMD]] — Advanced Micro Devices | 10.9% |
+| 2 | [[AVGO]] — Broadcom | 8.4% |
+| 3 | [[MU]] — Micron Technology | 7.7% |
+| 4 | [[NVDA]] — NVIDIA | 7.6% |
 | 5 | [[TXN]] — Texas Instruments | 5.1% |
-| 6 | [[TSM]] — Taiwan Semiconductor (TSMC) | 5.0% |
-| 7 | [[ADI]] — Analog Devices | 4.9% |
+| 6 | [[ADI]] — Analog Devices | 4.9% |
+| 7 | [[TSM]] — Taiwan Semiconductor (TSMC) | 4.8% |
 | 8 | [[NXPI]] — NXP Semiconductors | 4.2% |
-| 9 | [[MPWR]] — Monolithic Power Systems | 4.2% |
+| 9 | [[MPWR]] — Monolithic Power Systems | 4.1% |
 | 10 | [[AMAT]] — Applied Materials | 4.1% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 16, 2026 prices. In these estimates Monolithic Power Systems (4.2%) moved into the top 10 and KLA (4.0%) slipped to #11.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 18, 2026 prices. KLA (4.0%) remains just outside the top 10 at #11.*
 
 ## Sector mix
 

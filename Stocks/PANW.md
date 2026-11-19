@@ -3,8 +3,8 @@ type: stock
 ticker: PANW
 company: Palo Alto Networks
 sector: Technology
-held_by: []
-updated: 2026-11-18
+held_by: [XLK, VGT]
+updated: 2026-11-19
 tags: [stock]
 ---
 
@@ -16,10 +16,15 @@ Sells cybersecurity products: firewalls, cloud security and security operations 
 
 ## Held by your ETFs
 
-*Not currently in the top 10 of any of your ETFs (in Nov 16, 2026 estimates it ranks #12 in [[VGT]] and #13 in [[XLK]]).*
+| ETF | Weight |
+|---|---|
+| [[XLK]] | 1.8% |
+| [[VGT]] | 1.3% |
 
 ## Recent news
 
+- **2026-11-19** — Shares rose about 6.4%, the best gain in the S&P 500 as the index fell 2%, per Rock & Turner's close recap, after trading roughly 10% higher premarket near $371.62 (StockStory) and about 4% higher near $353 in the morning (Beinsure), from a $339.92 prior close. ([source](https://rockandturner.substack.com/p/thur-nov-19-2026-the-market-today), [premarket](https://stockstory.org/us/stocks/nasdaq/panw/news/why-up-down/why-is-palo-alto-networks-stock-soaring-today), [morning](https://beinsure.com/news/palo-alto-networks-panw-stock-analysts-raise-price-targets/))
+- **2026-11-19** — Most brokers lifted targets: Goldman Sachs to $440 from $390 (Buy), Baird to $465 from $420, Rosenblatt to $460 from $415, KeyBanc to $450 from $380, Citi to $445 from $440, Mizuho to $440 from $415, BofA to $430 from $420, JPMorgan to $415 from $384, UBS to $400 from $390 (Neutral), Barclays to $385 from $375 and Bernstein to $368 from $351 (Market Perform), with RBC at $475; Wells Fargo trimmed to $510 from $525 and Jefferies to $400 from $450. Baird called the quarter stellar but said Applied Compute's monetization and integration remain open questions, and TradingKey put the stock near 87x guided EPS at $371. ([source](https://beinsure.com/news/palo-alto-networks-panw-stock-analysts-raise-price-targets/), [Baird](https://www.tipranks.com/news/palo-alto-stock-panw-soars-on-4-5b-applied-compute-deal-and-solid-q1-beat), [TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/262312701-palo-alto-networks-raises-outlook-applied-compute-deal-panw-389-93-november-19-2026-tradingkey))
 - **2026-11-18** — Fiscal Q1 beat: revenue rose 39% to $3.44B (vs. ~$3.31B consensus and a $3.30-3.31B guide), adjusted EPS was $1.05 (vs. ~$0.97), Next-Gen Security ARR grew 66% to $9.73B and RPO 35% to $21.0B; GAAP operating income fell to about $96M from $309M on higher stock comp and deal costs. Full-year guidance rose to $14.52-14.57B revenue (from $14.1-14.2B; ~$14.16B consensus), $4.26-4.30 EPS (from $4.16-4.19) and $11.475-11.525B NGS ARR, with fiscal Q2 guided to $3.53-3.55B and $1.01-1.03. ([source](https://www.sec.gov/Archives/edgar/data/0001327567/000132756726000030/ex991q127earningsrelease.htm))
 - **2026-11-18** — Palo Alto agreed to buy Applied Compute, a startup for post-training and running open-weight AI models (recently valued at $3.25B, backed by Nvidia and others), in an all-stock deal valued around $4.5B; CEO Yash Patil is to become co-chief AI officer, and closing is expected in fiscal Q3 2027 pending regulatory approval. ([source](https://www.calcalistech.com/ctechnews/article/8eqgzc6t6))
 - **2026-11-18** — Shares jumped about 9.9% to roughly $339.77 in regular trading before the report (TradingKey, at 6.77% intraday, cited short covering and a rebound in oversold software), then added roughly 6.5%-9% after hours on the beat-and-raise, per StockTitan and StockMarketWatch (data may be delayed). ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026))
@@ -30,8 +35,6 @@ Sells cybersecurity products: firewalls, cloud security and security operations 
 - **2026-11-16** — TD Cowen reiterated Buy with a $440 target, expecting in-line fiscal Q1 results (revenue +34% to $3.3B) and saying its checks show demand gaining steam, with room for fiscal 2027 revenue estimates to rise. ([source](https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-palo-alto-networks-stock-rating-on-demand-strength-93CH-5030080))
 - **2026-11-15** — BigGo Finance said the stock, near $322, had slipped into bear-market territory, roughly a quarter below its Oct 6 peak of $431, though still up about 75% for the year; TipRanks' consensus is Strong Buy with a mean target near $412, and options imply about an 11% post-earnings move. ([source](https://finance.biggo.com/news/046583ae-0bf9-46d8-9f87-545e4664d195))
 - **2026-11-13** — KeyBanc (Eric Heath) upgraded the stock to Overweight from Sector Weight with a $380 target, expecting security budgets to accelerate through 2027 and calling the roughly 20% one-month pullback a buying opportunity, helped by positive fiscal Q1 checks; shares rose about 3% to near $333 premarket. Other recent calls include Deutsche Bank Buy ($430), Evercore Outperform ($415) and BofA Buy ($420). A confirmed close was not found. ([source](https://finance.biggo.com/news/f621b8af-c338-4a7f-9490-0a18d77eaef6))
-- **2026-11-13** — Options price roughly an 11% move either way after the Nov 18 report; consensus is about $0.97 EPS on $3.31B revenue, per TipRanks. ([source](https://www.tipranks.com/news/palo-alto-networks-stock-panw-set-for-11-move-after-q1-earnings-next-week-say-options-traders))
-- **2026-11-12** — Stifel reiterated Buy ($415) after checks with five large resellers (over $2B in combined annual Palo Alto spending): three reported above-plan October quarters and two in line, with optimism on the platform, CyberArk and early Prisma AIRS traction, though two saw firewall demand cool as fewer orders were pulled forward. ([source](https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-palo-alto-networks-stock-ahead-of-results-93CH-5021365))
 
 ## Coming up
 
@@ -40,5 +43,5 @@ Sells cybersecurity products: firewalls, cloud security and security operations 
 
 ## Bull case / bear case
 
-- **Bull:** Fiscal Q1 topped estimates (revenue +39% to $3.44B, EPS $1.05 vs. ~$0.97) with a rare Next-Gen Security ARR beat ($9.73B, +66%), and management raised full-year revenue, EPS and ARR guidance above consensus while adding open-weight AI model tools via Applied Compute; pre-report, TD Cowen ($440), KeyBanc (Overweight, $380), Stifel ($415) and Wells Fargo ($525) were positive, TipRanks' consensus was Strong Buy (mean ~$412), and the stock rose ~10% on Nov 18 and again after hours.
-- **Bear:** Critics flag a rich valuation (75x+ forward earnings per TradingKey before the jump), GAAP operating income down about 69% to $96M on stock comp and deal costs, a lower adjusted free-cash-flow margin (56% vs. 69%), dilution from the ~$4.5B all-stock Applied Compute deal (a premium to its recent $3.25B valuation) on top of other M&A, platformization discounts, Fortinet and reseller hints of cooling firewall demand, and a record of falling after six of the prior eight reports; the shares were in bear-market territory, about a quarter below October's peak, before the report.
+- **Bull:** Fiscal Q1 topped estimates (revenue +39% to $3.44B, EPS $1.05 vs. ~$0.97) with a rare Next-Gen Security ARR beat ($9.73B, +66%), and management raised full-year revenue, EPS and ARR guidance above consensus while adding open-weight AI model tools via Applied Compute; on Nov 19 most brokers raised targets (Baird $465, Rosenblatt $460, KeyBanc $450, Citi $445, Goldman Sachs and Mizuho $440, BofA $430, with RBC at $475 and Wells Fargo at $510), Baird called the quarter stellar, and the stock rose about 6.4% to lead the S&P 500 on a 2% down day after a ~10% gain on Nov 18.
+- **Bear:** Critics flag a rich valuation (about 87x guided fiscal 2027 EPS at $371, per TradingKey), Jefferies' target cut to $400 from $450 and Wells Fargo's trim to $510, holds from UBS (Neutral, $400) and Bernstein (Market Perform, $368), Baird's view that Applied Compute's monetization and integration are unproven, GAAP operating income down about 69% to $96M on stock comp and deal costs, a lower adjusted free-cash-flow margin (56% vs. 69%), dilution from the ~$4.5B all-stock Applied Compute deal (a premium to its recent $3.25B valuation) on top of other M&A, platformization discounts, Fortinet and reseller hints of cooling firewall demand, and a record of falling after six of the prior eight reports; even after the rally the shares sit about 14% below their 52-week high (TradingKey).

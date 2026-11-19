@@ -2,20 +2,20 @@
 type: etf
 ticker: VTV
 issuer: Vanguard
-aum: $191B
+aum: $189B
 expense_ratio: 0.04%
-return_ytd: 19.0
-return_1y: 23.5
-data_as_of: 2026-11-17
+return_ytd: 17.6
+return_1y: 22.0
+data_as_of: 2026-11-18
 tags: [etf]
 ---
 
 # VTV — Vanguard Value ETF
 
-> [!info] Snapshot (as of Nov 17, 2026)
+> [!info] Snapshot (as of Nov 18, 2026)
 > **Tracks:** CRSP US Large Cap Value  
-> **Issuer:** Vanguard · **Assets:** $191B · **Expense ratio:** 0.04%  
-> **Return:** +19.0% this year · +23.5% over 1 year (dividends reinvested)  
+> **Issuer:** Vanguard · **Assets:** $189B · **Expense ratio:** 0.04%  
+> **Return:** +17.6% this year · +22.0% over 1 year (dividends reinvested)  
 > **Holdings:** 306 stocks · top 10 ≈ 23% of the fund
 
 ## Top 10 holdings
@@ -23,17 +23,17 @@ tags: [etf]
 | # | Stock | Weight |
 |---|---|---|
 | 1 | [[BRK-B]] — Berkshire Hathaway | 4.0% |
-| 2 | [[JPM]] — JPMorgan Chase | 3.1% |
+| 2 | [[JPM]] — JPMorgan Chase | 3.0% |
 | 3 | [[MU]] — Micron Technology | 3.0% |
 | 4 | [[XOM]] — Exxon Mobil | 2.5% |
 | 5 | [[JNJ]] — Johnson & Johnson | 2.4% |
-| 6 | [[WMT]] — Walmart | 2.0% |
+| 6 | [[WMT]] — Walmart | 2.1% |
 | 7 | [[ABBV]] — AbbVie | 1.9% |
-| 8 | [[CVX]] — Chevron | 1.5% |
-| 9 | [[PG]] — Procter & Gamble | 1.5% |
-| 10 | [[UNH]] — UnitedHealth Group | 1.4% |
+| 8 | [[PG]] — Procter & Gamble | 1.5% |
+| 9 | [[CVX]] — Chevron | 1.4% |
+| 10 | [[CSCO]] — Cisco Systems | 1.3% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 16, 2026 prices. In these estimates UnitedHealth Group (1.35%) moved into the top 10 and Merck (1.29%) slipped to #11.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 18, 2026 prices. In these estimates Cisco Systems (1.29%) moved into the top 10 and UnitedHealth Group slipped out after its share price fell; Merck (1.26%) is #11.*
 
 ## Sector mix
 

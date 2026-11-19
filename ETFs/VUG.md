@@ -2,38 +2,38 @@
 type: etf
 ticker: VUG
 issuer: Vanguard
-aum: $204B
+aum: $205B
 expense_ratio: 0.04%
-return_ytd: 0.5
-return_1y: 2.4
-data_as_of: 2026-11-17
+return_ytd: 0.9
+return_1y: 4.1
+data_as_of: 2026-11-18
 tags: [etf]
 ---
 
 # VUG — Vanguard Growth ETF
 
-> [!info] Snapshot (as of Nov 17, 2026)
+> [!info] Snapshot (as of Nov 18, 2026)
 > **Tracks:** CRSP US Large Cap Growth  
-> **Issuer:** Vanguard · **Assets:** $204B · **Expense ratio:** 0.04%  
-> **Return:** +0.5% this year · +2.4% over 1 year (dividends reinvested)  
+> **Issuer:** Vanguard · **Assets:** $205B · **Expense ratio:** 0.04%  
+> **Return:** +0.9% this year · +4.1% over 1 year (dividends reinvested)  
 > **Holdings:** 146 stocks · top 10 ≈ 67% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[AAPL]] — Apple | 14.8% |
-| 2 | [[MSFT]] — Microsoft | 11.1% |
-| 3 | [[NVDA]] — NVIDIA | 10.3% |
+| 1 | [[AAPL]] — Apple | 14.9% |
+| 2 | [[MSFT]] — Microsoft | 10.9% |
+| 3 | [[NVDA]] — NVIDIA | 10.4% |
 | 4 | [[GOOGL]] — Alphabet (Google) | 8.5% |
-| 5 | [[AMZN]] — Amazon | 5.0% |
-| 6 | [[META]] — Meta Platforms | 4.0% |
-| 7 | [[AVGO]] — Broadcom | 4.0% |
-| 8 | [[LLY]] — Eli Lilly | 3.5% |
+| 5 | [[AMZN]] — Amazon | 5.1% |
+| 6 | [[AVGO]] — Broadcom | 4.1% |
+| 7 | [[META]] — Meta Platforms | 4.0% |
+| 8 | [[LLY]] — Eli Lilly | 3.4% |
 | 9 | [[TSLA]] — Tesla | 3.1% |
 | 10 | [[AMD]] — Advanced Micro Devices | 2.4% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 16, 2026 prices.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 17, 2026 prices (the source had not yet posted Nov 18 estimates).*
 
 ## Sector mix
 

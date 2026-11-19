@@ -4,7 +4,7 @@ ticker: NXPI
 company: NXP Semiconductors
 sector: Technology
 held_by: [SOXX]
-updated: 2026-11-18
+updated: 2026-11-19
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Dutch chipmaker focused on automotive and industrial chips.
 
 ## Recent news
 
+- **2026-11-19** — NXP declared a $1.014-per-share interim dividend for Q4 2026 (board approval Nov 18), payable Jan 7, 2027 to holders of record on Dec 9. ([source](https://www.tipranks.com/news/company-announcements/nxp-semiconductors-announces-fourth-quarter-2026-interim-dividend))
+- **2026-11-19** — StoneX started coverage with a Buy rating and a $340 target, per a GuruFocus headline (full note not retrieved); euro-quoted shares were about flat at EUR 234.45 on Lang & Schwarz in the evening CET, and the Philadelphia Semiconductor Index closed down 2.41% with 27 of its 30 members lower, per TradingKey (NXP's U.S. close not found). ([source](https://www.gurufocus.com/news/9209936/stonex-initiates-coverage-on-nxp-semiconductors-nxpi-with-buy-and-340-price-target))
 - **2026-11-18** — Shares were flat at roughly $252.46 in regular trading and slipped about 1.1% after hours, per StockMarketWatch (data may be delayed), as Nvidia closed down about 2.9% after its results. ([source](https://stockmarketwatch.com/indices/sp500/today))
 - **2026-11-17** — Shares slipped about 0.6% to roughly $252.56 in regular trading as the broader market fell, then gained about 1.2% after hours following Nvidia's report, per StockMarketWatch's index quote page (data may be delayed). ([source](https://stockmarketwatch.com/indices/sp500/today))
 - **2026-11-17** — NXP priced its first euro-denominated bond deal: EUR 1B of senior unsecured notes split evenly between 4.625% notes due 2034 and 4.875% notes due 2037, for general purposes that may include capex or repaying or buying back debt; closing is expected around Nov 24. ([source](https://www.globenewswire.com/news-release/2026/11/17/3405189/0/en/nxp-semiconductors-announces-pricing-of-inaugural-eur-denominated-senior-unsecured-notes-offering.html))
@@ -32,17 +34,17 @@ Dutch chipmaker focused on automotive and industrial chips.
 - **2026-11-06** — Microcontroller and analog rival Microchip Technology fell about 13% by midday after analysts cut forecasts on its results and outlook, even as most chip stocks rebounded. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026))
 - **2026-11-06** — Shares opened Friday at $244.43, between the 50-day ($235.65) and 200-day ($246.45) averages; MarketBeat's consensus stayed Moderate Buy (16 Buy, 9 Hold, 1 Sell) with a target near $295.78. ([source](https://www.dailypolitical.com/2026/11/06/nxp-semiconductors-nasdaqnxpi-director-anthony-foxx-sells-400-shares-of-stock.html))
 - **2026-11-06** — A Form 4 signed Friday showed director Anthony Foxx sold 400 shares on Nov 4 at $263.60 (about $105K), leaving him about 2,900 shares. ([source](https://rallies.ai/news/nxp-semiconductors-director-anthony-r-foxx-reports-105440-common-share-disposal-212016212466b053))
-- **2026-11-05** — Frankfurt-traded shares fell about 4.9% intraday to EUR 222.18 as chip stocks sold off; the report cited no company-specific cause and noted a Moderate Buy consensus with an average target near $296. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/nxp-semiconductors-stock-slips-4-9-prozent-arga-stake-adds-context/70465413))
-- **2026-11-04** — NXP announced a virtual Electrification Week for automaker and Tier 1 engineers (Nov 16-20) covering vehicle systems, battery management, power conversion, charging and energy storage; euro-quoted shares were about 4.4% above their Nov 7 level on Nov 10. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/nxp-semiconductors-stock-heads-toward-electrification-week/70487453))
 
 ## Coming up
 
 - **2026-11-16 to 2026-11-20** — virtual Electrification Week for automotive engineers
 - **2026-11-24** — expected closing of the EUR 1B senior notes offering
+- **2026-12-09** — record date for the $1.014 interim dividend
+- **2027-01-07** — dividend payment date
 - **Early February 2027** — Q4 2026 earnings (estimated; not confirmed)
 - **2027-03-03** — investor day in Boston with an updated long-term financial model (per ad-hoc-news; year inferred, confirm with company) ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/nxp-semiconductors-stock-faces-cautious-outlook-after-q3-beat/70485461))
 
 ## Bull case / bear case
 
-- **Bull:** Q3 delivered about 19% revenue growth, record auto revenue and a $5B buyback; Cantor (Overweight, $400) and Truist (Buy, $300) stay positive, MarketBeat's consensus is Moderate Buy (average target about $296), software-defined-vehicle revenue is tracking toward a $2B 2027 goal and 2026 data-center sales are expected to top $500M, with physical-AI robotics and the new Lattice industrial-edge pairing adding optionality.
-- **Bear:** Q4 revenue guidance (about $3.85B midpoint) landed slightly under consensus, Stifel, Morgan Stanley and Truist trimmed targets, a shrinking mobile business was flagged, shares sit below their 200-day average after the Nov 5 chip selloff, and peer Microchip's weak Nov 6 outlook revived questions about industrial and auto demand; coverage called the robotics launch strategic rather than a near-term revenue driver, insiders (Foxx, Hardy) sold small stakes in November, the new EUR 1B bond adds debt, and chip stocks kept sliding on Nov 13, 16 and 17, with NXP flat on Nov 18 and lower after hours.
+- **Bull:** Q3 delivered about 19% revenue growth, record auto revenue and a $5B buyback, and the quarterly dividend was kept at $1.014; StoneX initiated at Buy ($340), Cantor (Overweight, $400) and Truist (Buy, $300) stay positive, MarketBeat's consensus is Moderate Buy (average target about $296), software-defined-vehicle revenue is tracking toward a $2B 2027 goal and 2026 data-center sales are expected to top $500M, with physical-AI robotics and the new Lattice industrial-edge pairing adding optionality.
+- **Bear:** Q4 revenue guidance (about $3.85B midpoint) landed slightly under consensus, Stifel, Morgan Stanley and Truist trimmed targets, a shrinking mobile business was flagged, shares sit below their 200-day average after the Nov 5 chip selloff, and peer Microchip's weak Nov 6 outlook revived questions about industrial and auto demand; coverage called the robotics launch strategic rather than a near-term revenue driver, insiders (Foxx, Hardy) sold small stakes in November, the new EUR 1B bond adds debt, and chip stocks kept sliding on Nov 13, 16 and 17 and reversed lower again on Nov 19 (SOX -2.4%).

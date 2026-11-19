@@ -4,7 +4,7 @@ ticker: PEP
 company: PepsiCo
 sector: Consumer Staples
 held_by: [SCHD]
-updated: 2026-11-18
+updated: 2026-11-19
 tags: [stock]
 ---
 
@@ -18,7 +18,7 @@ Sells snacks and drinks worldwide, from Frito-Lay chips such as Lay's and Dorito
 
 | ETF | Weight |
 |---|---|
-| [[SCHD]] | 3.7% |
+| [[SCHD]] | 4.1% |
 
 ## Recent news
 
@@ -34,4 +34,4 @@ Sells snacks and drinks worldwide, from Frito-Lay chips such as Lay's and Dorito
 ## Bull case / bear case
 
 - **Bull:** Trefis cites a Q3 gross margin of 54.4%, up from a year earlier, 3.1% organic revenue growth with full-year organic guidance held at 3.0%, management's expectation of faster sales growth in Q4 and 2027, and about $8.9B returned to shareholders in fiscal 2026; Mitrade notes a dividend yield of about 4.2%, and Bernstein sees international operations partly offsetting North American weakness.
-- **Bear:** Management cut its 2026 core EPS growth outlook in October (to about 3% at the midpoint per Trefis), Q3 core operating margin slipped to 16.9% from 17.3%, North American beverage volume fell 2%, and an Elliott-backed margin-improvement promise has not yet been delivered (Mitrade); Trefis flags rising commodity costs as hedges roll off and an uncertain North America beverage recovery; Bernstein downgraded to Underperform ($128) on Nov 17 expecting earnings misses and falling North American volumes, and Wolfe (Peer Perform) says Coca-Cola keeps taking share.
+- **Bear:** Management cut its 2026 core EPS growth outlook in October (to about 3% at the midpoint per Trefis), Q3 core operating margin slipped to 16.9% from 17.3%, North American beverage volume fell 2%, and an Elliott-backed margin-improvement promise has not yet been delivered (Mitrade); Trefis flags rising commodity costs as hedges roll off and an uncertain North America beverage recovery; Bernstein downgraded to Underperform ($128) on Nov 17 expecting earnings misses, Frito-Lay North America volume declines in 2027 and a lower valuation multiple as catch-up spending weighs (recapped by Insider Monkey via Yahoo on Nov 19), and Wolfe (Peer Perform) says Coca-Cola keeps taking share.
