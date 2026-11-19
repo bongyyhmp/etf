@@ -37,6 +37,7 @@ Conglomerate owning insurance (GEICO), BNSF railroad, utilities and a large stoc
 - **2026-11-10** — A boerse-global report said shares were down about 0.3% Tuesday and noted that KBW raised its Class A target to $765,000 from $735,000 while keeping Underperform, Morningstar still sees the stock as slightly overvalued (fair value about $510 per B share), and Reuters reported roughly $2B of buybacks in October. ([source](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/berkshire-s-insurance-slump-clouds-a-brighter-case-elsewhere/70487418))
 - **2026-11-09** — Class B shares slipped about 1% to roughly $565.14 in Monday morning trade as investors focused on the Q3 earnings decline more than the buyback jump, per GuruFocus, even as the broader market rallied. ([source](https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-stocks-slip-1-181756501.html))
 - **2026-11-07** — Q3 2026: operating earnings fell 5.8% to about $12.7B (from $13.5B) and net earnings dropped to $22.1B from $30.8B on smaller investment gains; insurance underwriting profit fell 43% to about $1.35B (GEICO pre-tax underwriting $982M vs. $1.77B) and insurance investment income fell 14%, while BNSF after-tax earnings rose to about $1.73B from $1.45B. ([source](https://www.stocktitan.net/articles/berkshire-hathaway-q3-2026-earnings-abel-cash-pile))
+
 ## Coming up
 
 - **Late February 2027** — Q4 2026 earnings (estimated; date not yet announced)
