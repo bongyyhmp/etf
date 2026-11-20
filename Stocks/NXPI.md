@@ -4,7 +4,7 @@ ticker: NXPI
 company: NXP Semiconductors
 sector: Technology
 held_by: [SOXX]
-updated: 2026-11-19
+updated: 2026-11-20
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Dutch chipmaker focused on automotive and industrial chips.
 
 ## Recent news
 
+- **2026-11-20** — Shares fell about 4.3% per StockStory, a far smaller drop than the Philadelphia Semiconductor Index's 10.73% plunge (TradingKey); StockStory cited Anthropic's continued post-IPO slide, Fed Governor Cook's rate-hike warning, Trump's threatened penalties on overseas U.S. data-center builds and new Commerce export-licensing rules, while Nvidia sank about 13%-14% on a Reuters report of an SEC accounting review. ([source](https://stockstory.org/us/stocks/nasdaq/nxpi/news/why-up-down/nxp-semiconductors-universal-display-skyworks-solutions-and-cirrus-logic-shares-are-falling-what-you-need-to-know))
 - **2026-11-19** — NXP declared a $1.014-per-share interim dividend for Q4 2026 (board approval Nov 18), payable Jan 7, 2027 to holders of record on Dec 9. ([source](https://www.tipranks.com/news/company-announcements/nxp-semiconductors-announces-fourth-quarter-2026-interim-dividend))
 - **2026-11-19** — StoneX started coverage with a Buy rating and a $340 target, per a GuruFocus headline (full note not retrieved); euro-quoted shares were about flat at EUR 234.45 on Lang & Schwarz in the evening CET, and the Philadelphia Semiconductor Index closed down 2.41% with 27 of its 30 members lower, per TradingKey (NXP's U.S. close not found). ([source](https://www.gurufocus.com/news/9209936/stonex-initiates-coverage-on-nxp-semiconductors-nxpi-with-buy-and-340-price-target))
 - **2026-11-18** — Shares were flat at roughly $252.46 in regular trading and slipped about 1.1% after hours, per StockMarketWatch (data may be delayed), as Nvidia closed down about 2.9% after its results. ([source](https://stockmarketwatch.com/indices/sp500/today))
@@ -33,11 +34,9 @@ Dutch chipmaker focused on automotive and industrial chips.
 - **2026-11-09** — NXP launched a unified robotics platform for physical AI built on its Neural Axis architecture, with an open-source SDK and drone reference designs available now (PX4, Zephyr, ROS 2); support for service robots and autonomous mobile robots is due in the second half of 2027. No revenue or customer figures were given. ([source](https://www.stocktitan.net/news/NXPI/nxp-unveils-unified-robotics-platform-to-speed-trusted-physical-ai-x2nzvvgk3bzi.html))
 - **2026-11-06** — Microcontroller and analog rival Microchip Technology fell about 13% by midday after analysts cut forecasts on its results and outlook, even as most chip stocks rebounded. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026))
 - **2026-11-06** — Shares opened Friday at $244.43, between the 50-day ($235.65) and 200-day ($246.45) averages; MarketBeat's consensus stayed Moderate Buy (16 Buy, 9 Hold, 1 Sell) with a target near $295.78. ([source](https://www.dailypolitical.com/2026/11/06/nxp-semiconductors-nasdaqnxpi-director-anthony-foxx-sells-400-shares-of-stock.html))
-- **2026-11-06** — A Form 4 signed Friday showed director Anthony Foxx sold 400 shares on Nov 4 at $263.60 (about $105K), leaving him about 2,900 shares. ([source](https://rallies.ai/news/nxp-semiconductors-director-anthony-r-foxx-reports-105440-common-share-disposal-212016212466b053))
 
 ## Coming up
 
-- **2026-11-16 to 2026-11-20** — virtual Electrification Week for automotive engineers
 - **2026-11-24** — expected closing of the EUR 1B senior notes offering
 - **2026-12-09** — record date for the $1.014 interim dividend
 - **2027-01-07** — dividend payment date
@@ -46,5 +45,5 @@ Dutch chipmaker focused on automotive and industrial chips.
 
 ## Bull case / bear case
 
-- **Bull:** Q3 delivered about 19% revenue growth, record auto revenue and a $5B buyback, and the quarterly dividend was kept at $1.014; StoneX initiated at Buy ($340), Cantor (Overweight, $400) and Truist (Buy, $300) stay positive, MarketBeat's consensus is Moderate Buy (average target about $296), software-defined-vehicle revenue is tracking toward a $2B 2027 goal and 2026 data-center sales are expected to top $500M, with physical-AI robotics and the new Lattice industrial-edge pairing adding optionality.
-- **Bear:** Q4 revenue guidance (about $3.85B midpoint) landed slightly under consensus, Stifel, Morgan Stanley and Truist trimmed targets, a shrinking mobile business was flagged, shares sit below their 200-day average after the Nov 5 chip selloff, and peer Microchip's weak Nov 6 outlook revived questions about industrial and auto demand; coverage called the robotics launch strategic rather than a near-term revenue driver, insiders (Foxx, Hardy) sold small stakes in November, the new EUR 1B bond adds debt, and chip stocks kept sliding on Nov 13, 16 and 17 and reversed lower again on Nov 19 (SOX -2.4%).
+- **Bull:** Q3 delivered about 19% revenue growth, record auto revenue and a $5B buyback, and the quarterly dividend stays at $1.014; StoneX initiated at Buy ($340), Cantor (Overweight, $400) and Truist (Buy, $300) remain positive, MarketBeat's consensus is Moderate Buy (average target about $296), software-defined-vehicle revenue is tracking toward a $2B 2027 goal and 2026 data-center sales are expected to top $500M, and its less AI-heavy mix meant a smaller drop (about 4%) than the chip index on Nov 20.
+- **Bear:** Q4 revenue guidance (about $3.85B midpoint) landed slightly under consensus, Stifel, Morgan Stanley and Truist trimmed targets, a shrinking mobile business was flagged, and peer Microchip's weak outlook revived questions about industrial and auto demand; coverage called the robotics launch strategic rather than a near-term revenue driver, insiders sold small stakes in November, the new EUR 1B bond adds debt, and shares kept falling with the chip sector, including about 4.3% on Nov 20 amid AI-spending doubts and new export rules.

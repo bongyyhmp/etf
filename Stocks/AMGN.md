@@ -4,7 +4,7 @@ ticker: AMGN
 company: Amgen
 sector: Healthcare
 held_by: [SCHD]
-updated: 2026-11-19
+updated: 2026-11-20
 tags: [stock]
 ---
 
@@ -37,11 +37,11 @@ Biotech company making drugs for bone health, cancer, inflammation and heart dis
 
 ## Coming up
 
-- **2026-11-20** — Record and ex-dividend date for the $2.52 quarterly dividend (paid Dec 11)
+- **2026-12-11** — $2.52 quarterly dividend payable (went ex-dividend Nov 20)
 - **Q4 2026** — OASIZ-303 dazodalibep study expected to complete
 - **Early February 2027** — Q4 2026 earnings (estimated, not yet confirmed)
 
 ## Bull case / bear case
 
-- **Bull:** Q3 beat estimates and Amgen raised 2026 guidance, with Repatha (up 37%, backed by new AHA cost-effectiveness and kidney-subgroup data), Evenity, Imdelltra and Uplizna growing fast, MariTide Phase 3 studies progressing and full Phase 3 dazodalibep data at ACR on Nov 11 showing both doses met the primary endpoint in a disease with no approved therapy; Piper Sandler ($542, Overweight, raised from $457 per a Nov 19 report), Goldman ($536), TD Cowen ($531), UBS ($530 per headlines), Argus ($515, Buy, raised Nov 12 on the pipeline), Oppenheimer ($480) and RBC ($470) are among the more positive.
-- **Bear:** Dazodalibep's dryness benefit was significant only at one dose, no filing timeline was given and Novartis's ianalumab is a rival (Fierce Biotech); biosimilars nearly halved Prolia and XGEVA sales, and Trefis warns Amgen's next biosimilars may launch late; commentators also flag IRA price pressure, about $57B of debt and a valuation near record highs (Trefis: 26.8x trailing earnings vs. 21.9x for the S&P 500), with MarketBeat's ~$415 average target below the share price (which fell 3.1% on Nov 18 in a broad health-care pullback), Freedom Broker's Nov 6 downgrade to Hold, Barclays (Equal Weight, $430, Nov 16) pointing to weak pelacarsen data in the Lp(a) class, and Morgan Stanley ($410), Bernstein ($400), Guggenheim ($435) and Cantor ($465) holding neutral views.
+- **Bull:** Bulls cite the Q3 beat and raised 2026 guidance, fast growth at Repatha (+37%, with new AHA cost-effectiveness data), Evenity, Imdelltra and Uplizna, progressing MariTide Phase 3 studies and positive Phase 3 dazodalibep data in Sjögren's; Piper Sandler ($542, raised from $457), Goldman ($536), TD Cowen ($531), UBS ($530) and Argus ($515, Buy) are among the more positive.
+- **Bear:** Bears note dazodalibep's dryness benefit was significant at only one dose with Novartis's ianalumab a rival (Fierce Biotech), biosimilars nearly halved Prolia and XGEVA sales and Trefis warns the next biosimilars may launch late; commentators also flag IRA price pressure, about $57B of debt and a near-record valuation (Trefis: ~26.8x trailing earnings), MarketBeat's ~$415 average target below the price, Freedom Broker's downgrade to Hold, and neutral views from Barclays ($430), Morgan Stanley ($410) and Bernstein ($400).

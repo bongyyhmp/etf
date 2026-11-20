@@ -4,7 +4,7 @@ ticker: ABT
 company: Abbott Laboratories
 sector: Healthcare
 held_by: [SCHD]
-updated: 2026-11-19
+updated: 2026-11-20
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Makes medical devices (heart rhythm, structural heart and glucose monitors), lab
 
 ## Recent news
 
+- **2026-11-19** — Leerink Partners upgraded Abbott to Outperform from Market Perform (no target or rationale given in the coverage), Ad-hoc News reported on Nov 20 citing Fintel; shares were little changed in German trading Friday afternoon (€95.46). ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-stock-leerink-upgrades-rating-to-outperform/70540429))
 - **2026-11-19** — Abbott said it has started the VOYAGER study of Encantor, an investigational software-guided, balloon-expandable TAVI (transcatheter aortic valve) system for aortic stenosis; Ad-hoc News stressed the system is not approved and that trial results and later regulatory decisions will shape any commercial path. Shares were around €95.35 on Lang & Schwarz that evening, roughly in line with Wednesday's German levels, on a day the S&P 500 fell about 2%. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-aktie-abbott-startet-voyager-studie-fuer-encantor/70537489), [trial registry](https://ctv.veeva.com/study/validation-of-anatomy-specific-aortic-valve-implantation-guided-by-software-using-encantor), [market](https://investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-219-5040081))
 - **2026-11-18** — No new company announcement was found; shares were indicated about 1% lower before the U.S. open in German trading (€95.30 vs. Tuesday's €96.28 Xetra close), and no U.S. closing move was found on a day health-care stocks lagged and the Dow fell 1.11%. ([source](https://www.ad-hoc-news.de/boerse/news/vorboerse/abbott-laboratories-stock-at-eur-95-30-down-1-02-prozent-premarket/70529956), [market](https://www.finanzen.net/nachricht/aktien/boerse-new-york-dow-jones-verbucht-zum-ende-des-mittwochshandels-abschlaege-16074567))
 - **2026-11-17** — Geneoscopy said its patent and false-advertising litigation with Abbott unit Exact Sciences over the ColoSense RNA stool test has been settled on confidential terms, with all claims and counterclaims dismissed in Delaware federal court; Abbott shares were roughly flat in German trading that evening (€96.35), and no U.S. price move was found on a day health care was among the sectors leading the market lower. ([source](https://mugglehead.com/geneoscopy-exact-sciences-delaware-litigation-settlement/), [Ad-hoc News](https://ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-aktie-exact-sciences-beendet-patentstreit/70528141), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
@@ -33,7 +34,6 @@ Makes medical devices (heart rhythm, structural heart and glucose monitors), lab
 - **2026-11-07** — Simply Wall St reported FDA approval of the Amplatzer Paraclose PVL Occluder and the commercial launch of a next-generation Oncodetect cancer MRD test, while flagging litigation, nutrition legal exposure and debt as risks. ([source](https://finance.yahoo.com/healthcare/articles/does-fda-device-approval-change-201239684.html))
 - **2026-11-06** — Shares fell about 3.2% to close at $109.93 with no specific catalyst identified, though the stock was still up roughly 10% over the prior month, per a JournalArta technical recap. ([source](https://journalarta.com/en/2026/11/09/abbott-laboratories-abt-stock-technicals-falls-3-23-on-friday-golden-cross-formed/))
 - **2026-11-02** — One-year VERITAS data for the investigational Amulet 360 left atrial appendage device showed complete closure in about 96% of patients and over 98% free of ischemic stroke or embolism; the device has a CE Mark but no U.S. approval yet. ([source](https://ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-stock-weighs-amulet-360-heart-device-data/70485787))
-- **2026-11-01** — The TECTONIC study of the investigational SonicForce coronary lithotripsy system met its primary endpoints (0.3% 30-day target lesion failure, 97% procedural success) in 335 patients; it is not yet FDA approved and no filing timeline was given. ([source](https://www.hmpgloballearningnetwork.com/site/cathlab/press-release/abbotts-tectonic-clinical-trial-demonstrates-strong-30-day-outcomes-and))
 
 ## Coming up
 
@@ -42,5 +42,5 @@ Makes medical devices (heart rhythm, structural heart and glucose monitors), lab
 
 ## Bull case / bear case
 
-- **Bull:** Coverage points to 14.5% revenue growth with margin expansion, electrophysiology growing about 15%, the Exact Sciences cancer diagnostics boost (with the Geneoscopy ColoSense dispute now settled), a string of heart-device approvals and trial wins (UltiSynq, Paraclose, SonicForce, Amulet 360) plus the newly started VOYAGER study of its Encantor TAVI system, new consumer diagnostics such as the Panbio COVID-19/flu self-test launched in Canada, JPMorgan's view that the nutrition spin could unlock value, and a forward P/E (about 18.2x) below its five-year median (Zacks, Reuters, Simply Wall St, Ad-hoc News).
-- **Bear:** Critics cite the cut to 2026 sales growth guidance on electrophysiology (LAA) and diabetes care headwinds (RBC said it could weigh on 2027; Zacks rates it Hold), a slight adjusted EPS miss versus Zacks consensus, sharply lower GAAP earnings, Argus's downgrade on reimbursement and competition concerns, and ongoing infant formula litigation and settlements (Reuters, Zacks, Argus).
+- **Bull:** Coverage points to 14.5% revenue growth with margin expansion, electrophysiology up about 15%, the Exact Sciences diagnostics boost (with the ColoSense dispute settled), a run of heart-device approvals and trial wins (UltiSynq, Paraclose, SonicForce, Amulet 360) and the new Encantor TAVI study, JPMorgan's view that the nutrition spin could unlock value, Leerink's Nov 19 upgrade to Outperform, and a forward P/E (~18x) below its five-year median (Zacks).
+- **Bear:** Critics cite the cut to 2026 sales growth guidance on electrophysiology and diabetes care headwinds (RBC said it could weigh on 2027; Zacks rates it Hold), a slight adjusted EPS miss versus Zacks consensus, sharply lower GAAP earnings, Argus's downgrade on reimbursement and competition concerns, and ongoing infant formula litigation (Reuters, Zacks, Argus).

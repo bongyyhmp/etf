@@ -2,20 +2,20 @@
 type: etf
 ticker: VTV
 issuer: Vanguard
-aum: $189B
+aum: $186B
 expense_ratio: 0.04%
-return_ytd: 17.6
-return_1y: 22.0
-data_as_of: 2026-11-18
+return_ytd: 15.7
+return_1y: 20.4
+data_as_of: 2026-11-19
 tags: [etf]
 ---
 
 # VTV — Vanguard Value ETF
 
-> [!info] Snapshot (as of Nov 18, 2026)
+> [!info] Snapshot (as of Nov 19, 2026)
 > **Tracks:** CRSP US Large Cap Value  
-> **Issuer:** Vanguard · **Assets:** $189B · **Expense ratio:** 0.04%  
-> **Return:** +17.6% this year · +22.0% over 1 year (dividends reinvested)  
+> **Issuer:** Vanguard · **Assets:** $186B · **Expense ratio:** 0.04%  
+> **Return:** +15.7% this year · +20.4% over 1 year (dividends reinvested)  
 > **Holdings:** 306 stocks · top 10 ≈ 23% of the fund
 
 ## Top 10 holdings

@@ -6,20 +6,20 @@ Your ETF and stock research vault. Open **Graph view** (left sidebar, or Ctrl/Cm
 
 | ETF | What it holds | Assets | Fee | This year | 1 year |
 |---|---|---|---|---|---|
-| [[SOXX]] | NYSE Semiconductor Index | $48B | 0.33% | +41.6% | +54.1% |
-| [[SCHD]] | Dow Jones U.S. Dividend 100 | $120B | 0.06% | +29.6% | +32.2% |
-| [[SMH]] | MVIS US Listed Semiconductor 25 | $77B | 0.35% | +27.6% | +38.3% |
-| [[VTV]] | CRSP US Large Cap Value | $189B | 0.04% | +17.6% | +22.0% |
-| [[XLK]] | Technology Select Sector Index | $124B | 0.08% | +14.2% | +18.0% |
-| [[VGT]] | MSCI US IMI Information Technology 25/50 | $171B | 0.09% | +14.0% | +17.4% |
-| [[VTI]] | CRSP US Total Market | $644B | 0.03% | +8.1% | +12.1% |
-| [[VOO]] | S&P 500 | $957B | 0.03% | +8.0% | +11.9% |
-| [[IVV]] | S&P 500 | $888B | 0.03% | +8.0% | +11.9% |
-| [[SPY]] | S&P 500 | $781B | 0.0945% | +7.9% | +11.8% |
-| [[QQQ]] | Nasdaq-100 | $490B | 0.18% | +7.7% | +11.1% |
-| [[VUG]] | CRSP US Large Cap Growth | $205B | 0.04% | +0.9% | +4.1% |
+| [[SOXX]] | NYSE Semiconductor Index | $48B | 0.33% | +37.7% | +47.4% |
+| [[SCHD]] | Dow Jones U.S. Dividend 100 | $118B | 0.06% | +27.7% | +31.5% |
+| [[SMH]] | MVIS US Listed Semiconductor 25 | $77B | 0.35% | +24.3% | +32.2% |
+| [[VTV]] | CRSP US Large Cap Value | $186B | 0.04% | +15.7% | +20.4% |
+| [[XLK]] | Technology Select Sector Index | $124B | 0.08% | +12.0% | +15.0% |
+| [[VGT]] | MSCI US IMI Information Technology 25/50 | $171B | 0.09% | +11.8% | +14.4% |
+| [[VTI]] | CRSP US Total Market | $632B | 0.03% | +6.0% | +9.6% |
+| [[VOO]] | S&P 500 | $938B | 0.03% | +5.8% | +9.3% |
+| [[IVV]] | S&P 500 | $888B | 0.03% | +5.8% | +9.3% |
+| [[SPY]] | S&P 500 | $781B | 0.0945% | +5.8% | +9.2% |
+| [[QQQ]] | Nasdaq-100 | $490B | 0.18% | +5.4% | +8.0% |
+| [[VUG]] | CRSP US Large Cap Growth | $200B | 0.04% | -1.4% | +1.1% |
 
-*Returns as of the Nov 18, 2026 close, a day when the S&P 500 fell 0.23% and the Dow 1.11% while the Nasdaq rose 0.42%. SCHD's assets are Schwab's Nov 18 figure. Returns include reinvested dividends. Past returns don't predict future ones.*
+*Returns as of the Nov 19, 2026 close (the latest posted), a day when the S&P 500 fell 2.0%, the Nasdaq 2.3% and the Dow 2.2%; they don't yet reflect Nov 20's further drop (S&P 500 -3.7%, Nasdaq -5.3%). SCHD's assets are Schwab's Nov 19 figure. Returns include reinvested dividends. Past returns don't predict future ones.*
 
 ## Stocks held by the most of your ETFs
 
@@ -36,6 +36,7 @@ Your ETF and stock research vault. Open **Graph view** (left sidebar, or Ctrl/Cm
 
 ## Market scans
 
+- [[2026-11-20 Market Scan]]
 - [[2026-11-19 Market Scan]]
 - [[2026-11-18 Market Scan]]
 - [[2026-11-17 Market Scan]]

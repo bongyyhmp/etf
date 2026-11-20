@@ -4,7 +4,7 @@ ticker: PEP
 company: PepsiCo
 sector: Consumer Staples
 held_by: [SCHD]
-updated: 2026-11-19
+updated: 2026-11-20
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Sells snacks and drinks worldwide, from Frito-Lay chips such as Lay's and Dorito
 
 ## Recent news
 
+- **2026-11-20** — A Yahoo Finance comparison with Coca-Cola noted PepsiCo yields about 3.95% (vs. ~2.07% for Coke) after 54 straight years of increases and trades near 16x forward earnings versus about 31x for Coke, but flagged the cut core EPS outlook and a 12% drop in North America foods core operating profit, against a 14% rise in Latin America foods; no Friday close was found as staples gained about 1% during the broad selloff. ([source](https://finance.yahoo.com/markets/stocks/articles/same-10-000-pepsi-coca-150429598.html), [sectors](https://www.breitbart.com/economy/2026/11/20/stocks-plunge-as-ai-selloff-pushes-sp-500-and-dow-into-correction/))
+- **2026-11-18** — PepsiCo declared a $1.48 quarterly dividend, payable Jan 6, 2027 to holders of record on Dec 4. ([source](https://www.pepsico.com/newsroom/press-releases/2026/pepsico-declares-quarterly-dividend-1126))
 - **2026-11-18** — Wolfe Research initiated coverage at Peer Perform (no target given in coverage), while naming rival Coca-Cola a top beverage pick (Outperform, $110) and noting Coke keeps taking share from PepsiCo. ([source](https://www.tradingview.com/news/seekingalpha:76457b23b094b:0-beverage-breakdown-coca-cola-keurig-dr-pepper-and-celsius-are-top-picks-at-wolfe-research/), [GuruFocus](https://www.gurufocus.com/news/9207146/pep-initiates-coverage-on-by-wolfe-research-rating-peer-perform))
 - **2026-11-17** — Bernstein's Cristian Rios cut the stock to Underperform from Market Perform and trimmed the target to $128 from $131, expecting earnings to fall short of consensus over the next year as Frito-Lay and beverage volumes in North America decline and inflation, heavier marketing and weak pricing power squeeze margins; shares fell about 3.3%, versus a ~1.4% drop for food and beverage peers, per TradingKey. ([source](https://finance.yahoo.com/markets/stocks/articles/pep-stock-slides-bernstein-downgrades-114347375.html), [TradingKey](https://www.tradingkey.com/news/market-movers/262309677-market-movers-pep-20261117))
 - **2026-11-13** — Trefis noted the stock rose 10.0% in the month to Nov 12 while the S&P 500 fell 1.6%, leaving it up 5.1% for 2026, behind SPY (+9.4%) and the consumer-staples ETF XLP (+21.5%); it flagged commodity costs rising as hedges roll off and an expiring Q3 tariff benefit in North America beverages. ([source](https://www.trefis.com/stock/pep/articles/625023/which-dates-could-move-pepsico-stock-most/2026-11-13))
@@ -29,9 +31,11 @@ Sells snacks and drinks worldwide, from Frito-Lay chips such as Lay's and Dorito
 
 ## Coming up
 
+- **2026-12-04** — record date for the $1.48 quarterly dividend
+- **2027-01-06** — dividend payment date
 - **February 2027** — Q4 2026 results and first 2027 outlook (expected per Trefis; date not yet announced)
 
 ## Bull case / bear case
 
-- **Bull:** Trefis cites a Q3 gross margin of 54.4%, up from a year earlier, 3.1% organic revenue growth with full-year organic guidance held at 3.0%, management's expectation of faster sales growth in Q4 and 2027, and about $8.9B returned to shareholders in fiscal 2026; Mitrade notes a dividend yield of about 4.2%, and Bernstein sees international operations partly offsetting North American weakness.
-- **Bear:** Management cut its 2026 core EPS growth outlook in October (to about 3% at the midpoint per Trefis), Q3 core operating margin slipped to 16.9% from 17.3%, North American beverage volume fell 2%, and an Elliott-backed margin-improvement promise has not yet been delivered (Mitrade); Trefis flags rising commodity costs as hedges roll off and an uncertain North America beverage recovery; Bernstein downgraded to Underperform ($128) on Nov 17 expecting earnings misses, Frito-Lay North America volume declines in 2027 and a lower valuation multiple as catch-up spending weighs (recapped by Insider Monkey via Yahoo on Nov 19), and Wolfe (Peer Perform) says Coca-Cola keeps taking share.
+- **Bull:** Trefis cites a Q3 gross margin of 54.4%, up from a year earlier, 3.1% organic revenue growth with full-year organic guidance held at 3.0%, management's expectation of faster sales growth in Q4 and 2027, and about $8.9B returned to shareholders in fiscal 2026; a Yahoo Finance comparison highlights a ~4% yield, 54 straight years of dividend increases (latest quarterly payout $1.48) and a valuation near 16x forward earnings, about half Coca-Cola's, while Bernstein sees international operations partly offsetting North American weakness.
+- **Bear:** Management cut its 2026 core EPS growth outlook to about 3%, Q3 core operating margin slipped to 16.9% from 17.3%, North American beverage volume fell 2% and North America foods core operating profit dropped 12%; Trefis flags rising commodity costs as hedges roll off, Bernstein downgraded to Underperform ($128) on Nov 17 expecting earnings shortfalls and Frito-Lay volume declines, Wolfe (Peer Perform) says Coca-Cola keeps taking share, and an Elliott-backed margin plan has yet to deliver (Mitrade).

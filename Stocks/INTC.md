@@ -4,7 +4,7 @@ ticker: INTC
 company: Intel
 sector: Technology
 held_by: []
-updated: 2026-11-19
+updated: 2026-11-20
 tags: [stock]
 ---
 
@@ -20,6 +20,7 @@ Makes PC and server processors and is building a contract chip-manufacturing (fo
 
 ## Recent news
 
+- **2026-11-20** — Intel fell 4.91% per TradingKey, giving back part of its 18A-driven jump but holding up better than AMD, Nvidia and Micron in the chip selloff; TradingKey pointed to the sector pullback, heavy foundry spending, Nvidia's stake cut, the new class action and the undisclosed 18A customer. ([source](https://www.tradingkey.com/news/market-movers/262315836-market-movers-intc-20261120))
 - **2026-11-19** — Intel closed up 7.35% ($4.02) at $58.69, one of the few chip gainers on a down day for the sector, as investors cheered news of a first outside customer for its 18A process. ([source](https://news.jkn.co.kr/editions/english/post/1108456))
 - **2026-11-18** — CEO Lip-Bu Tan said Intel has signed its first customer for 18A, its most advanced manufacturing process, a step for the foundry business at the center of his turnaround plan; the customer and order size were not disclosed, which the Motley Fool said makes the impact hard to gauge. ([source](https://www.fool.com/investing/2026/11/19/why-intel-stock-is-gaining-today/))
 - **2026-11-18** — Microsoft and Intel expanded their long-term Azure collaboration, including a multiyear supply of Xeon server chips with next-generation Diamond Rapids (on track to ramp in 2027); the stock still slipped, trading near $54.44 (-1%) per 24/7 Wall St., which cites a consensus target near $90.65 and mostly Hold ratings. ([source](https://247wallst.com/investing/2026/11/18/intel-is-down-39-in-a-month-but-still-up-48-in-2026-can-a-deeper-microsoft-azure-deal-help-get-intc-stock-back-to-90/))
@@ -31,7 +32,6 @@ Makes PC and server processors and is building a contract chip-manufacturing (fo
 - **2026-11-12** — Intel fell 3.49% to $60.32 shortly after the open, giving back part of Wednesday's 7.52% gain, as investors questioned what Nvidia's CEO change means for their partnership; Nvidia's 214.78M-share stake bought at $23.28 was worth about $13B (closing figure not found). ([source](https://finance.yahoo.com/markets/stocks/articles/intel-stocks-fall-3-49-194340237.html))
 - **2026-11-12** — Intel slid about 3% in overnight trading after reports noted Megaspeed, the Singapore firm that formerly employed the alleged spy linked to Huang, lists Intel as a partner on its website. ([source](https://finance.yahoo.com/markets/stocks/articles/intc-baba-shares-slide-over-080446999.html))
 - **2026-11-12** — BofA's Vivek Arya cut his Intel target to $80 from $100 (Hold), citing limited visibility into the CPU outlook, while raising AMD's target. ([source](https://finance.biggo.com/news/ffa6d837-4926-4879-8c08-924d4259f7f8))
-- **2026-11-11** — Intel closed up 6.47% ($3.76) at $61.89 as CoreWeave's raised outlook sparked a broad chip rally; JKN also cited about $361M of net ETF buying on Nov 9. ([source](https://news.jkn.co.kr/editions/english/post/1087206))
 
 ## Coming up
 
@@ -40,5 +40,5 @@ Makes PC and server processors and is building a contract chip-manufacturing (fo
 
 ## Bull case / bear case
 
-- **Bull:** KeyBanc (Overweight, $140) and KGI (Outperform, $95) point to tight server-CPU supply and the Oracle cloud deal, now joined by an expanded multiyear Microsoft Azure Xeon agreement covering Diamond Rapids; the CEO says Intel signed its first external 18A foundry customer (unnamed), which lifted the stock 7.35% on Nov 19, Q3 data-center and AI revenue rose 78%, server CPU shipments are rising (~31% per UBS), and William Blair says existing Nvidia contracts should survive Nvidia's CEO change.
-- **Bear:** Jefferies called the Q4 outlook ($15B-$16B revenue, ~37-38% gross margin) a substantial reset; BofA cut its target to $80 (Hold) and 24/7 Wall St. counts 36 Hold ratings vs. 12 Buys (consensus target ~$90.65), the 18A customer and deal size are undisclosed, UBS data show share loss to Arm and AMD, Nvidia trimmed its stake by 25% before Sept. 30, LSEG puts the forward P/E near 31.6, and coverage flags foundry losses, negative free cash flow into 2027, the Fab 28 disruption and a new securities class action over PC and supply disclosures.
+- **Bull:** KeyBanc (Overweight, $140) and KGI (Outperform, $95) point to tight server-CPU supply, the Oracle cloud deal and an expanded multiyear Microsoft Azure Xeon agreement covering Diamond Rapids; the CEO says Intel signed its first outside 18A foundry customer, which lifted the stock 7.35% on Nov. 19, Q3 data-center and AI revenue rose 78%, server CPU shipments are climbing, and William Blair expects existing Nvidia contracts to survive Nvidia's CEO change. Intel also held up better than most chip peers on Nov. 20.
+- **Bear:** Jefferies called the Q4 outlook ($15-16B revenue, ~37-38% gross margin) a substantial reset; BofA cut its target to $80 (Hold), TradingKey puts the average rating at Hold (~$92 target), and the 18A customer and deal size are undisclosed. Coverage cites share loss to Arm and AMD, Nvidia's 25% stake reduction, LSEG's forward P/E near 31.6, foundry losses, negative free cash flow into 2027 and a securities class action over PC and supply disclosures; the stock fell 4.9% on Nov. 20.

@@ -4,18 +4,18 @@ ticker: IVV
 issuer: BlackRock iShares
 aum: $888B
 expense_ratio: 0.03%
-return_ytd: 8.0
-return_1y: 11.9
-data_as_of: 2026-11-18
+return_ytd: 5.8
+return_1y: 9.3
+data_as_of: 2026-11-19
 tags: [etf]
 ---
 
 # IVV — iShares Core S&P 500 ETF
 
-> [!info] Snapshot (as of Nov 18, 2026)
+> [!info] Snapshot (as of Nov 19, 2026)
 > **Tracks:** S&P 500  
 > **Issuer:** BlackRock iShares · **Assets:** $888B · **Expense ratio:** 0.03%  
-> **Return:** +8.0% this year · +11.9% over 1 year (dividends reinvested)  
+> **Return:** +5.8% this year · +9.3% over 1 year (dividends reinvested)  
 
 
 This fund tracks the same index as [[VOO]], so its holdings are the same; the weights below are VOO's.
@@ -24,18 +24,18 @@ This fund tracks the same index as [[VOO]], so its holdings are the same; the we
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[AAPL]] — Apple | 8.2% |
+| 1 | [[AAPL]] — Apple | 8.3% |
 | 2 | [[MSFT]] — Microsoft | 6.0% |
 | 3 | [[NVDA]] — NVIDIA | 5.8% |
 | 4 | [[GOOGL]] — Alphabet (Google) | 4.7% |
 | 5 | [[AMZN]] — Amazon | 4.1% |
 | 6 | [[AVGO]] — Broadcom | 2.7% |
-| 7 | [[META]] — Meta Platforms | 2.2% |
+| 7 | [[META]] — Meta Platforms | 2.1% |
 | 8 | [[TSLA]] — Tesla | 1.7% |
 | 9 | [[LLY]] — Eli Lilly | 1.7% |
 | 10 | [[BRK-B]] — Berkshire Hathaway | 1.7% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 18, 2026 prices.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 19, 2026 prices.*
 
 ## Sector mix
 

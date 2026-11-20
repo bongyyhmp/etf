@@ -4,36 +4,36 @@ ticker: SMH
 issuer: VanEck
 aum: $77B
 expense_ratio: 0.35%
-return_ytd: 27.6
-return_1y: 38.3
-data_as_of: 2026-11-18
+return_ytd: 24.3
+return_1y: 32.2
+data_as_of: 2026-11-19
 tags: [etf]
 ---
 
 # SMH — VanEck Semiconductor ETF
 
-> [!info] Snapshot (as of Nov 18, 2026)
+> [!info] Snapshot (as of Nov 19, 2026)
 > **Tracks:** MVIS US Listed Semiconductor 25  
 > **Issuer:** VanEck · **Assets:** $77B · **Expense ratio:** 0.35%  
-> **Return:** +27.6% this year · +38.3% over 1 year (dividends reinvested)  
+> **Return:** +24.3% this year · +32.2% over 1 year (dividends reinvested)  
 > **Holdings:** 25 stocks · top 10 ≈ 73% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[NVDA]] — NVIDIA | 19.4% |
-| 2 | [[TSM]] — Taiwan Semiconductor (TSMC) | 10.0% |
-| 3 | [[AMD]] — Advanced Micro Devices | 6.9% |
-| 4 | [[AVGO]] — Broadcom | 6.8% |
-| 5 | [[TXN]] — Texas Instruments | 5.9% |
-| 6 | [[ADI]] — Analog Devices | 5.4% |
+| 1 | [[NVDA]] — NVIDIA | 18.8% |
+| 2 | [[TSM]] — Taiwan Semiconductor (TSMC) | 10.1% |
+| 3 | [[AVGO]] — Broadcom | 7.1% |
+| 4 | [[AMD]] — Advanced Micro Devices | 6.9% |
+| 5 | [[TXN]] — Texas Instruments | 5.8% |
+| 6 | [[ADI]] — Analog Devices | 5.5% |
 | 7 | [[ASML]] — ASML Holding | 5.0% |
-| 8 | [[MU]] — Micron Technology | 5.0% |
+| 8 | [[MU]] — Micron Technology | 4.9% |
 | 9 | [[QCOM]] — Qualcomm | 4.7% |
 | 10 | [[AMAT]] — Applied Materials | 3.9% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 17, 2026 prices (the source had not yet posted Nov 18 estimates).*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 19, 2026 prices.*
 
 ## Sector mix
 
@@ -41,6 +41,7 @@ tags: [etf]
 
 ## News log
 
+- **2026-11-20** — Chip stocks sold off sharply amid worries that AI spending and valuations have run ahead of returns: the PHLX Semiconductor Index was down about 8.3% in late-afternoon trading, with holdings Broadcom (-11.5%), AMD (-10.9%) and top holding Nvidia (-7%) among the decliners. ([source](https://www.inquirer.com/business/stock-market-sp-correction-ai-nvidia-anthropic-loss-20261120.html))
 - **2026-11-18** — Top holding Nvidia (about 19% of the fund) gave back its post-earnings gain and closed down about 2.9% near $151, while fellow holdings AMD (+5.3%) and Broadcom (+3.6%) rose as investors rotated toward Nvidia alternatives. ([source](https://www.techi.com/nvidia-stock-falls-day-after-earnings-ten-report-record/))
 - **2026-11-17** — Top holding Nvidia (about 19% of the fund) reported after the close: revenue of $115.8B vs. about $108.8B expected, EPS of $2.68 vs. $2.47, and a Q4 revenue guide of $130B (±3%); Nvidia shares, down 0.4% in the regular session, were up about 1.6% after hours. The fund had traded higher before the open. ([source](https://www.kiplinger.com/news/live/nvidia-earnings-live-updates-and-commentary-november-2026))
 - **2026-11-16** — Closed down 5.1% at $461.90 as its chip holdings sold off again a day before Nvidia's report; its year-to-date total return dropped to about 28%, from about 41% on Nov 11. ([source](https://chartrow.com/quote/smh))

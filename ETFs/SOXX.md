@@ -4,36 +4,36 @@ ticker: SOXX
 issuer: BlackRock iShares
 aum: $48B
 expense_ratio: 0.33%
-return_ytd: 41.6
-return_1y: 54.1
-data_as_of: 2026-11-18
+return_ytd: 37.7
+return_1y: 47.4
+data_as_of: 2026-11-19
 tags: [etf]
 ---
 
 # SOXX — iShares Semiconductor ETF
 
-> [!info] Snapshot (as of Nov 18, 2026)
+> [!info] Snapshot (as of Nov 19, 2026)
 > **Tracks:** NYSE Semiconductor Index (30 US-listed chip companies)  
 > **Issuer:** BlackRock iShares · **Assets:** $48B · **Expense ratio:** 0.33%  
-> **Return:** +41.6% this year · +54.1% over 1 year (dividends reinvested)  
+> **Return:** +37.7% this year · +47.4% over 1 year (dividends reinvested)  
 > **Holdings:** 30 stocks · top 10 ≈ 62% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[AMD]] — Advanced Micro Devices | 10.9% |
-| 2 | [[AVGO]] — Broadcom | 8.4% |
-| 3 | [[MU]] — Micron Technology | 7.7% |
+| 1 | [[AMD]] — Advanced Micro Devices | 10.3% |
+| 2 | [[AVGO]] — Broadcom | 8.5% |
+| 3 | [[MU]] — Micron Technology | 7.8% |
 | 4 | [[NVDA]] — NVIDIA | 7.6% |
 | 5 | [[TXN]] — Texas Instruments | 5.1% |
-| 6 | [[ADI]] — Analog Devices | 4.9% |
+| 6 | [[ADI]] — Analog Devices | 5.0% |
 | 7 | [[TSM]] — Taiwan Semiconductor (TSMC) | 4.8% |
-| 8 | [[NXPI]] — NXP Semiconductors | 4.2% |
-| 9 | [[MPWR]] — Monolithic Power Systems | 4.1% |
+| 8 | [[NXPI]] — NXP Semiconductors | 4.3% |
+| 9 | [[MPWR]] — Monolithic Power Systems | 4.2% |
 | 10 | [[AMAT]] — Applied Materials | 4.1% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 18, 2026 prices. KLA (4.0%) remains just outside the top 10 at #11.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 19, 2026 prices. KLA (4.0%) remains just outside the top 10 at #11.*
 
 ## Sector mix
 
@@ -41,6 +41,7 @@ tags: [etf]
 
 ## News log
 
+- **2026-11-20** — Chip stocks sold off sharply amid worries that AI spending and valuations have run ahead of returns: the PHLX Semiconductor Index was down about 8.3% in late-afternoon trading, with top holdings AMD (-10.9%) and Broadcom (-11.5%) and holding Nvidia (-7%) among the decliners. ([source](https://www.inquirer.com/business/stock-market-sp-correction-ai-nvidia-anthropic-loss-20261120.html))
 - **2026-11-17** — Holding Nvidia (about 8% of the fund) reported after the close: revenue of $115.8B vs. about $108.8B expected, EPS of $2.68 vs. $2.47, and a Q4 revenue guide of $130B (±3%); its shares, down 0.4% in the regular session, were up about 1.6% after hours. ([source](https://www.kiplinger.com/news/live/nvidia-earnings-live-updates-and-commentary-november-2026))
 - **2026-11-16** — Closed down 5.4% at $141.22 as its chip holdings sold off again a day before Nvidia's report; its year-to-date total return dropped to about 40.9%, from about 55% on Nov 11. ([source](https://chartrow.com/quote/soxx))
 - **2026-11-13** — Investors pulled about $3.9B in the week ended Nov 6, per TD Securities data cited by InvestmentNews. ([source](https://www.investmentnews.com/etfs/etf-flows-surge-54bn-as-stocks-sell-off-and-markets-go-247/268997))

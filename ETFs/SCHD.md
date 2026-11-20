@@ -2,21 +2,21 @@
 type: etf
 ticker: SCHD
 issuer: Schwab
-aum: $120B
+aum: $118B
 expense_ratio: 0.06%
-return_ytd: 29.6
-return_1y: 32.2
-data_as_of: 2026-11-18
+return_ytd: 27.7
+return_1y: 31.5
+data_as_of: 2026-11-19
 tags: [etf]
 ---
 
 # SCHD — Schwab U.S. Dividend Equity ETF
 
-> [!info] Snapshot (as of Nov 18, 2026)
+> [!info] Snapshot (as of Nov 19, 2026)
 > **Tracks:** Dow Jones U.S. Dividend 100 (quality dividend payers)  
-> **Issuer:** Schwab · **Assets:** $120B · **Expense ratio:** 0.06%  
-> **Return:** +29.6% this year · +32.2% over 1 year (dividends reinvested)  
-> **Holdings:** 102 holdings · top 10 ≈ 41% of the fund
+> **Issuer:** Schwab · **Assets:** $118B · **Expense ratio:** 0.06%  
+> **Return:** +27.7% this year · +31.5% over 1 year (dividends reinvested)  
+> **Holdings:** 102 holdings · top 10 ≈ 42% of the fund
 
 ## Top 10 holdings
 
@@ -24,16 +24,16 @@ tags: [etf]
 |---|---|---|
 | 1 | [[PG]] — Procter & Gamble | 4.6% |
 | 2 | [[TXN]] — Texas Instruments | 4.6% |
-| 3 | [[KO]] — Coca-Cola | 4.5% |
+| 3 | [[KO]] — Coca-Cola | 4.4% |
 | 4 | [[HD]] — Home Depot | 4.3% |
-| 5 | [[PEP]] — PepsiCo | 4.1% |
-| 6 | [[AMGN]] — Amgen | 4.0% |
-| 7 | [[COP]] — ConocoPhillips | 3.9% |
-| 8 | [[CVX]] — Chevron | 3.9% |
-| 9 | [[ABT]] — Abbott Laboratories | 3.8% |
-| 10 | [[QCOM]] — Qualcomm | 3.8% |
+| 5 | [[AMGN]] — Amgen | 4.0% |
+| 6 | [[PEP]] — PepsiCo | 4.0% |
+| 7 | [[COP]] — ConocoPhillips | 4.0% |
+| 8 | [[CVX]] — Chevron | 4.0% |
+| 9 | [[QCOM]] — Qualcomm | 3.9% |
+| 10 | [[ABT]] — Abbott Laboratories | 3.8% |
 
-*Holdings and weights from Schwab's daily fund holdings as of Nov 18, 2026, replacing estimates rolled forward from the Aug 31 SEC filing. On this list Texas Instruments (4.61%) and Qualcomm (3.78%) are in the top 10, while Merck and UnitedHealth Group are not.*
+*Holdings and weights from Schwab's daily fund holdings as of Nov 19, 2026, replacing estimates rolled forward from the Aug 31 SEC filing. On this list Texas Instruments (4.57%) and Qualcomm (3.89%) are in the top 10, while Merck and UnitedHealth Group are not.*
 
 ## Sector mix
 
