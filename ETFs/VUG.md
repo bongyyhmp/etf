@@ -2,38 +2,38 @@
 type: etf
 ticker: VUG
 issuer: Vanguard
-aum: $200B
+aum: $189B
 expense_ratio: 0.04%
-return_ytd: -1.4
-return_1y: 1.1
-data_as_of: 2026-11-19
+return_ytd: -6.6
+return_1y: -2.3
+data_as_of: 2026-11-20
 tags: [etf]
 ---
 
 # VUG — Vanguard Growth ETF
 
-> [!info] Snapshot (as of Nov 19, 2026)
+> [!info] Snapshot (as of Nov 20, 2026)
 > **Tracks:** CRSP US Large Cap Growth  
-> **Issuer:** Vanguard · **Assets:** $200B · **Expense ratio:** 0.04%  
-> **Return:** -1.4% this year · +1.1% over 1 year (dividends reinvested)  
-> **Holdings:** 146 stocks · top 10 ≈ 67% of the fund
+> **Issuer:** Vanguard · **Assets:** $189B · **Expense ratio:** 0.04%  
+> **Return:** -6.6% this year · -2.3% over 1 year (dividends reinvested)  
+> **Holdings:** 146 stocks · top 10 ≈ 66% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[AAPL]] — Apple | 14.9% |
-| 2 | [[MSFT]] — Microsoft | 10.9% |
-| 3 | [[NVDA]] — NVIDIA | 10.4% |
-| 4 | [[GOOGL]] — Alphabet (Google) | 8.5% |
-| 5 | [[AMZN]] — Amazon | 5.1% |
-| 6 | [[AVGO]] — Broadcom | 4.1% |
-| 7 | [[META]] — Meta Platforms | 4.0% |
-| 8 | [[LLY]] — Eli Lilly | 3.4% |
-| 9 | [[TSLA]] — Tesla | 3.1% |
-| 10 | [[AMD]] — Advanced Micro Devices | 2.4% |
+| 1 | [[AAPL]] — Apple | 15.6% |
+| 2 | [[MSFT]] — Microsoft | 11.2% |
+| 3 | [[NVDA]] — NVIDIA | 9.0% |
+| 4 | [[GOOGL]] — Alphabet (Google) | 8.6% |
+| 5 | [[AMZN]] — Amazon | 5.2% |
+| 6 | [[AVGO]] — Broadcom | 3.9% |
+| 7 | [[META]] — Meta Platforms | 3.9% |
+| 8 | [[LLY]] — Eli Lilly | 3.5% |
+| 9 | [[TSLA]] — Tesla | 3.0% |
+| 10 | [[AMD]] — Advanced Micro Devices | 2.2% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 17, 2026 prices (the source had not yet posted Nov 18 estimates).*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 20, 2026 prices.*
 
 ## Sector mix
 
@@ -47,6 +47,7 @@ tags: [etf]
 ## News log
 
 - *Updates are added here, newest first.*
+- **2026-11-20** — Closed down 5.32% at $75.69, deepening its year-to-date total-return loss to about 6.6%. ([source](https://chartrow.com/quote/vug))
 
 ## Sources
 - [Fund quote: price, assets and returns](https://chartrow.com/quote/vug)

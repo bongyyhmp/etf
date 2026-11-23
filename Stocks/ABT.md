@@ -4,7 +4,7 @@ ticker: ABT
 company: Abbott Laboratories
 sector: Healthcare
 held_by: [SCHD]
-updated: 2026-11-20
+updated: 2026-11-23
 tags: [stock]
 ---
 
@@ -22,6 +22,8 @@ Makes medical devices (heart rhythm, structural heart and glucose monitors), lab
 
 ## Recent news
 
+- **2026-11-23** — No new company announcement was found; shares were indicated about 1.4% lower before the U.S. open in German trading (€93.57 vs. Friday's €94.94 Xetra close), and no U.S. closing move was found on a day defensive sectors lagged a tech-led rally. ([source](https://www.ad-hoc-news.de/boerse/news/vorboerse/abbott-laboratories-stock-slips-to-eur-93-57-down-1-44-prozent-premarket/70545887))
+- **2026-11-21** — A 24/7 Wall St. review put the shares near $103, down roughly 18% in 2026 and below where they stood five years ago, pointing to October's cut to the sales outlook, CGM growth slowing to 8% amid international pricing pressure and the CEO's view that diabetes growth stays low-to-mid single digits for a few quarters; it also noted a forward P/E near 18, a U.S. Libre Duo launch planned for December and management's expectation of a 200bp-plus gross-margin lift after the nutrition spin-off. ([source](https://247wallst.com/investing/2026/11/21/abbott-has-lost-more-than-10-this-year-and-1000-from-five-years-ago-is-worth-less-than-950/))
 - **2026-11-19** — Leerink Partners upgraded Abbott to Outperform from Market Perform (no target or rationale given in the coverage), Ad-hoc News reported on Nov 20 citing Fintel; shares were little changed in German trading Friday afternoon (€95.46). ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-stock-leerink-upgrades-rating-to-outperform/70540429))
 - **2026-11-19** — Abbott said it has started the VOYAGER study of Encantor, an investigational software-guided, balloon-expandable TAVI (transcatheter aortic valve) system for aortic stenosis; Ad-hoc News stressed the system is not approved and that trial results and later regulatory decisions will shape any commercial path. Shares were around €95.35 on Lang & Schwarz that evening, roughly in line with Wednesday's German levels, on a day the S&P 500 fell about 2%. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-aktie-abbott-startet-voyager-studie-fuer-encantor/70537489), [trial registry](https://ctv.veeva.com/study/validation-of-anatomy-specific-aortic-valve-implantation-guided-by-software-using-encantor), [market](https://investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-219-5040081))
 - **2026-11-18** — No new company announcement was found; shares were indicated about 1% lower before the U.S. open in German trading (€95.30 vs. Tuesday's €96.28 Xetra close), and no U.S. closing move was found on a day health-care stocks lagged and the Dow fell 1.11%. ([source](https://www.ad-hoc-news.de/boerse/news/vorboerse/abbott-laboratories-stock-at-eur-95-30-down-1-02-prozent-premarket/70529956), [market](https://www.finanzen.net/nachricht/aktien/boerse-new-york-dow-jones-verbucht-zum-ende-des-mittwochshandels-abschlaege-16074567))
@@ -32,15 +34,14 @@ Makes medical devices (heart rhythm, structural heart and glucose monitors), lab
 - **2026-11-11** — Shares opened Wednesday at $110.58, per a MarketBeat-syndicated note that listed no new rating changes since Argus's Oct 27 downgrade, and were little changed (about +0.1%) in German trading at €98.99 that evening as the UltiSynq approvals stayed in focus. ([source](https://www.dailypolitical.com/2026/11/11/abbott-laboratories-abt-investment-analysts-weekly-ratings-changes.html), [Ad-hoc News](https://ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-aktie-herztechnik-erhaelt-neue-zulassungen/70493647))
 - **2026-11-10** — Abbott said its UltiSynq defibrillation lead, which combines conduction system pacing with defibrillation, received FDA approval and a CE Mark for sale in the U.S. and EU. ([source](https://rallies.ai/news/abbott-wins-fda-approval-for-ultisynq-defibrillation-lead-5526b5648f37e987))
 - **2026-11-07** — Simply Wall St reported FDA approval of the Amplatzer Paraclose PVL Occluder and the commercial launch of a next-generation Oncodetect cancer MRD test, while flagging litigation, nutrition legal exposure and debt as risks. ([source](https://finance.yahoo.com/healthcare/articles/does-fda-device-approval-change-201239684.html))
-- **2026-11-06** — Shares fell about 3.2% to close at $109.93 with no specific catalyst identified, though the stock was still up roughly 10% over the prior month, per a JournalArta technical recap. ([source](https://journalarta.com/en/2026/11/09/abbott-laboratories-abt-stock-technicals-falls-3-23-on-friday-golden-cross-formed/))
-- **2026-11-02** — One-year VERITAS data for the investigational Amulet 360 left atrial appendage device showed complete closure in about 96% of patients and over 98% free of ischemic stroke or embolism; the device has a CE Mark but no U.S. approval yet. ([source](https://ad-hoc-news.de/boerse/news/corporate-news/abbott-laboratories-stock-weighs-amulet-360-heart-device-data/70485787))
 
 ## Coming up
 
+- **December 2026** — U.S. launch of the Libre Duo sensor (per 24/7 Wall St.)
 - **Late January 2027** — Q4 2026 earnings (expected; not yet announced — Abbott reported Q4 2025 on Jan 22, 2026)
 - **2027** — Nutrition business spin-off expected to be completed (per Reuters via KFGO)
 
 ## Bull case / bear case
 
-- **Bull:** Coverage points to 14.5% revenue growth with margin expansion, electrophysiology up about 15%, the Exact Sciences diagnostics boost (with the ColoSense dispute settled), a run of heart-device approvals and trial wins (UltiSynq, Paraclose, SonicForce, Amulet 360) and the new Encantor TAVI study, JPMorgan's view that the nutrition spin could unlock value, Leerink's Nov 19 upgrade to Outperform, and a forward P/E (~18x) below its five-year median (Zacks).
-- **Bear:** Critics cite the cut to 2026 sales growth guidance on electrophysiology and diabetes care headwinds (RBC said it could weigh on 2027; Zacks rates it Hold), a slight adjusted EPS miss versus Zacks consensus, sharply lower GAAP earnings, Argus's downgrade on reimbursement and competition concerns, and ongoing infant formula litigation (Reuters, Zacks, Argus).
+- **Bull:** Coverage points to 14.5% revenue growth with margin expansion, electrophysiology up about 15%, the Exact Sciences diagnostics boost (with the ColoSense dispute settled), a run of heart-device approvals and trial wins (UltiSynq, Paraclose, SonicForce, Amulet 360) and the new Encantor TAVI study, the December Libre Duo launch and an expected post-spin gross-margin lift (24/7 Wall St.), JPMorgan's view that the nutrition spin could unlock value, Leerink's Nov 19 upgrade to Outperform, and a forward P/E (~18x) below its five-year median (Zacks).
+- **Bear:** Critics cite the cut to 2026 sales growth guidance on electrophysiology and diabetes care headwinds (RBC said it could weigh on 2027; Zacks rates it Hold), CGM growth slowing to 8% and shares down about 18% this year (24/7 Wall St.), a slight adjusted EPS miss versus Zacks consensus, sharply lower GAAP earnings, Argus's downgrade on reimbursement and competition concerns, and ongoing infant formula litigation (Reuters, Zacks, Argus).

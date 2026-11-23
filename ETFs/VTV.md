@@ -2,38 +2,38 @@
 type: etf
 ticker: VTV
 issuer: Vanguard
-aum: $186B
+aum: $183B
 expense_ratio: 0.04%
-return_ytd: 15.7
-return_1y: 20.4
-data_as_of: 2026-11-19
+return_ytd: 13.9
+return_1y: 19.5
+data_as_of: 2026-11-20
 tags: [etf]
 ---
 
 # VTV — Vanguard Value ETF
 
-> [!info] Snapshot (as of Nov 19, 2026)
+> [!info] Snapshot (as of Nov 20, 2026)
 > **Tracks:** CRSP US Large Cap Value  
-> **Issuer:** Vanguard · **Assets:** $186B · **Expense ratio:** 0.04%  
-> **Return:** +15.7% this year · +20.4% over 1 year (dividends reinvested)  
+> **Issuer:** Vanguard · **Assets:** $183B · **Expense ratio:** 0.04%  
+> **Return:** +13.9% this year · +19.5% over 1 year (dividends reinvested)  
 > **Holdings:** 306 stocks · top 10 ≈ 23% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[BRK-B]] — Berkshire Hathaway | 4.0% |
+| 1 | [[BRK-B]] — Berkshire Hathaway | 4.1% |
 | 2 | [[JPM]] — JPMorgan Chase | 3.0% |
-| 3 | [[MU]] — Micron Technology | 3.0% |
-| 4 | [[XOM]] — Exxon Mobil | 2.5% |
-| 5 | [[JNJ]] — Johnson & Johnson | 2.4% |
-| 6 | [[WMT]] — Walmart | 2.1% |
+| 3 | [[MU]] — Micron Technology | 2.6% |
+| 4 | [[XOM]] — Exxon Mobil | 2.6% |
+| 5 | [[JNJ]] — Johnson & Johnson | 2.5% |
+| 6 | [[WMT]] — Walmart | 2.2% |
 | 7 | [[ABBV]] — AbbVie | 1.9% |
 | 8 | [[PG]] — Procter & Gamble | 1.5% |
-| 9 | [[CVX]] — Chevron | 1.4% |
-| 10 | [[CSCO]] — Cisco Systems | 1.3% |
+| 9 | [[CVX]] — Chevron | 1.5% |
+| 10 | [[HD]] — Home Depot | 1.3% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 18, 2026 prices. In these estimates Cisco Systems (1.29%) moved into the top 10 and UnitedHealth Group slipped out after its share price fell; Merck (1.26%) is #11.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 20, 2026 prices. In these estimates Home Depot (1.30%) moved into the top 10 and Cisco Systems dropped out; Coca-Cola and Merck (both 1.27%) are #11 and #12.*
 
 ## Sector mix
 

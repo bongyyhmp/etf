@@ -3,8 +3,8 @@ type: stock
 ticker: HD
 company: Home Depot
 sector: Consumer Discretionary
-held_by: [SCHD]
-updated: 2026-11-20
+held_by: [SCHD, VTV]
+updated: 2026-11-23
 tags: [stock]
 ---
 
@@ -19,9 +19,12 @@ Runs the largest U.S. home-improvement store chain, selling tools, building mate
 | ETF | Weight |
 |---|---|
 | [[SCHD]] | 4.3% |
+| [[VTV]] | 1.3% |
 
 ## Recent news
 
+- **2026-11-23** — Richard McPhail took over as CEO from Ted Decker, who stays chairman; Ad-hoc News noted the next quarterly report is scheduled for Feb 23, 2027, as the euro listing traded slightly lower early Monday. ([source](https://www.ad-hoc-news.de/boerse/news/vorboerse/home-depot-stock-slips-0-31-prozent-to-eur-311-78-before-xetra/70545685))
+- **2026-11-23** — Guggenheim kept Buy but lowered its target to $400 from $425, saying higher-than-expected input costs, fuel among them, modestly dent its 2027 view (Investing.com, which referenced shares at $339.04); no U.S. close was found as the Dow rose 3.01%. ([source](https://ca.investing.com/news/stock-market-news/guggenheim-cuts-home-depot-stock-price-target-on-cost-pressures-93CH-4975596), [market](https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476))
 - **2026-11-20** — Shares rose about 3.0% (close not given), bucking a selloff that sent the S&P 500 down 3.7% as most stocks outside tech gained; TradingKey credited lower Treasury yields and steadier mortgage rates that could revive deferred remodeling, plus resilient Pro demand, put the one-month average target near $372.86 and noted JPMorgan, Evercore ISI, Mizuho and RBC trimmed targets after earnings. ([source](https://www.tradingkey.com/news/market-movers/262315623-market-movers-hd-20261120), [market](https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/))
 - **2026-11-19** — Home Depot declared a $2.33 quarterly dividend, payable Dec 17 to holders of record on Dec 3, its 159th straight quarterly cash dividend. ([source](https://www.prnewswire.com/news-releases/the-home-depot-declares-quarterly-dividend-of-2-33--302946007.html))
 - **2026-11-19** — Simply Wall St (via Yahoo Finance) cited a last close of $337.64, about 9% higher over a month but about 2.4% lower year to date, and contrasted a community fair-value estimate of $385 with its own cash-flow model near $316 after the guidance reset and CEO change; no Nov 19 move was confirmed. ([source](https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-undervalued-following-211247836.html))
@@ -32,17 +35,14 @@ Runs the largest U.S. home-improvement store chain, selling tools, building mate
 - **2026-11-16** — Shares were about 0.6% higher in early Lang & Schwarz trading in Germany on the eve of Tuesday's report; Stocks Today said the stock has gained about 18% in 30 days and options imply a post-earnings move of a little over 5%, as the broader market sold off on tech weakness. ([source](https://www.ad-hoc-news.de/boerse/news/vorboerse/home-depot-stock-gains-0-58-prozent-to-eur-317-13-before-earnings/70519691), [Stocks Today](https://stockstoday.com/rotation-not-panic-retailers-test-where-techs-money-went/))
 - **2026-11-14** — A TradingKey preview put Q3 consensus at $3.87 adjusted EPS (up about 3.5%) on $42.72B of revenue (up 3.3%), with customer transactions expected to slip to about 391M while average ticket rises to about $92.24; it flagged support near $344.31 and resistance near $362.18 after a nearly 20% run. ([source](https://www.tradingkey.com/analysis/stocks/us-stocks/262304274-home-depot-stock-344-31-support-20-percent-run-into-q3-earnings-november-14-2026-tradingkey))
 - **2026-11-13** — Stifel analyst W. Andrew Carter downgraded Lowe's to Sell and stayed cautious on Home Depot before its report: while he sees HD's Pro platform as stronger, he flagged a softer second-half 2026 backdrop, margin pressure in fiscal 2027-28, DIY weakness and competition (his checks found the same items about 3% cheaper on average at Amazon, Costco and Walmart), modeled fiscal 2026 EPS of $14.95, a bit under consensus, and noted HD has climbed about 25% since Oct. 7 to the 96th percentile of its five-year relative valuation. ([source](https://finwire.io/news/stock-markets-news/stifel-downgrades-lowes-to-sell-stays-cautious-on-home-depot-ahead-of-earnings))
-- **2026-11-13** — A Zacks preview put Q3 consensus at $3.81 EPS (up about 3.5%) on roughly $42.7B of revenue (up 3.3%), with a positive Earnings ESP but a Zacks Rank #3 (Hold); it quoted the stock at $348.26, about 12% below its 52-week high, at 22.3x forward earnings versus an industry ~20.6x. ([source](https://finance.yahoo.com/markets/stocks/articles/home-depot-pre-q3-earnings-135400927.html))
-- **2026-11-12** — Shares were about 2% higher in Lang & Schwarz trading in Germany ahead of the Nov 17 report; Ad-hoc News again cited Q3 consensus of about $3.83 EPS on $42.79B of revenue and Citi's Buy rating ($400 target). ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/home-depot-stock-trades-at-318-05-euros-before-earnings-update/70499198))
 
 ## Coming up
 
-- **2026-11-23** — Richard McPhail becomes CEO; Ted Decker remains chairman (per company release)
 - **2026-12-03** — record date for the $2.33 quarterly dividend
 - **2026-12-17** — dividend payment date
-- **Late February 2027** — Q4 FY2026 earnings (estimated; date not yet announced)
+- **2027-02-23** — Q4 FY2026 earnings (date cited by Ad-hoc News)
 
 ## Bull case / bear case
 
-- **Bull:** Supporters cite Q3 sales and comps ahead of forecasts, a 3% higher average ticket, online comps up about 13%, Pro outpacing DIY, full-year sales guidance at the top of its prior range and a continuity-minded CEO handoff to CFO Richard McPhail; a 3% gain on Nov 20 that TradingKey linked to easing yields and mortgage rates; a $2.33 dividend (159th straight quarter); and bullish ratings that held through post-report trims, including UBS ($417), TD Cowen and Telsey (~$400-410), Citi ($400), Goldman ($371, Buy) and a ~$373 average target (TradingKey).
-- **Bear:** Skeptics point to a ~2.7% post-report drop and target cuts from Goldman, UBS, Telsey, Mizuho, JPMorgan, Evercore ISI and RBC, a narrowed outlook implying a softer Q4 and adjusted EPS a bit below consensus, shrinking margins (gross 32.8% vs. 33.4%; operating margin outlook ~12.8%), still-falling transactions, a housing market chilled by high mortgage rates, SRS organic growth cut on roofing weakness, a ~22x forward P/E versus Lowe's ~17x, a Simply Wall St cash-flow value near $316, and cautious calls from Stifel (Hold, $322) and Bernstein (Market Perform).
+- **Bull:** Supporters cite Q3 sales and comps ahead of forecasts, a 3% higher average ticket, online comps up about 13%, Pro outpacing DIY, full-year sales guidance at the top of its prior range and a continuity-minded CEO handoff to longtime CFO Richard McPhail (effective Nov 23); a 3% gain on Nov 20 that TradingKey linked to easing yields and mortgage rates; a $2.33 dividend (159th straight quarter); and Buy-type ratings that held through post-report trims, including UBS ($417), TD Cowen and Telsey (~$400-410), Guggenheim and Citi ($400) and Goldman ($371).
+- **Bear:** Skeptics point to a ~2.7% post-report drop and target cuts from Goldman, UBS, Telsey, Mizuho, JPMorgan, Evercore ISI, RBC and Guggenheim (which cites higher input and fuel costs), a narrowed outlook implying a softer Q4 and adjusted EPS a bit below consensus, shrinking margins (gross 32.8% vs. 33.4%; operating margin outlook ~12.8%), still-falling transactions, a housing market chilled by high mortgage rates, SRS organic growth cut on roofing weakness, a ~22x forward P/E versus Lowe's ~17x, and cautious calls from Stifel (Hold, $322) and Bernstein (Market Perform).

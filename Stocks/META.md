@@ -4,7 +4,7 @@ ticker: META
 company: Meta Platforms
 sector: Communication Services
 held_by: [VUG, QQQ, IVV, SPY, VOO, VTI]
-updated: 2026-11-20
+updated: 2026-11-23
 tags: [stock]
 ---
 
@@ -18,15 +18,16 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 
 | ETF | Weight |
 |---|---|
-| [[VUG]] | 4.0% |
+| [[VUG]] | 3.9% |
 | [[QQQ]] | 3.2% |
-| [[IVV]] | 2.2% |
-| [[SPY]] | 2.2% |
-| [[VOO]] | 2.2% |
+| [[IVV]] | 2.1% |
+| [[SPY]] | 2.1% |
+| [[VOO]] | 2.1% |
 | [[VTI]] | 1.9% |
 
 ## Recent news
 
+- **2026-11-23** — Meta closed up about 6.6% at $597.60 (financefeeds, citing CNBC data; Investing.com), snapping a five-session losing streak that included a 12.6% weekly drop (GuruFocus), as tech rebounded on Jensen Huang's return to Nvidia; TradingKey still put the average analyst target near $848. ([source](https://financefeeds.com/stock-market-today-nasdaq-jumps-6-5-percent-as-huang-returns/), [GuruFocus](https://www.tradingview.com/news/gurufocus:ba61dd808094b:0-meta-platforms-stocks-rebound-6-13-after-12-6-weekly-slide-on-class-c-lawsuit/), [TradingKey](https://www.tradingkey.com/news/market-movers/262318417-market-movers-meta-20261123))
 - **2026-11-20** — Meta fell about 5.9% to roughly $560.84 per Investing.com's quotes, a fifth straight loss, as the Nasdaq sank 5.28%; TradingKey (which had it down about 3.1% earlier) linked the drop to higher yields, a rotation out of growth and doubts about the payback on AI spending, calling it de-risking rather than a break in fundamentals, with an average target near $848. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-193-5042683), [TradingKey](https://www.tradingkey.com/news/market-movers/262315741-market-movers-meta-20261120))
 - **2026-11-20** — CFO Susan Li sold 9,196 Class A shares on Nov 17 for about $5.72M (roughly $622 each), according to a Form 4 reported by MT Newswires. ([source](https://www.marketscreener.com/news/meta-platforms-insider-sold-shares-worth-5-720-398-according-to-a-recent-sec-filing-ce785ed2d08df127))
 - **2026-11-19** — Meta fell 3.27% to about $596.22 (TradingKey; Investing.com quote), a fourth straight decline, as the Nasdaq dropped 2.25%; TradingKey pointed to shifting rate expectations, doubts about when AI spending pays off and regulatory pressure, and put the average analyst target near $848. ([source](https://www.tradingkey.com/news/market-movers/262313962-market-movers-meta-20261119))
@@ -38,7 +39,6 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 - **2026-11-16** — Meta fell about 2.4% to roughly $626.41 by the 4 p.m. quote shown by the Motley Fool, about 18% below its Sept. 24 closing high; the outlet tallied about $25B of new bonds sold Nov 3-4 (dollar and debut euro deals), lifting total notes to roughly $109B, with Q3 free cash flow near -$2.1B. ([source](https://fool.com/investing/2026/11/15/is-meta-stock-still-a-buy-after-borrowing-about-usd25-billion-this-month))
 - **2026-11-16** — Investing.com tied the slide to AI-debt worries (Fed Governor Michelle Bowman warned AI-related borrowing could spark a big equity correction), S&P's negative outlook, the post-earnings legal charge, and Meta executives' Canadian Senate testimony against data-retention Bill C-22, amid caution before Nvidia's results. ([source](https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-sliding-today-93CH-5030376))
 - **2026-11-14** — Italy's privacy regulator, the Garante, fined Meta €805M, its largest penalty ever, saying the Facebook Android app's on-by-default gallery-suggestion feature accessed users' photos and videos without specific consent; Meta must change the consent notice and default, and can appeal. ([source](https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy))
-- **2026-11-13** — Meta was one of only two Magnificent Seven stocks trading higher in late morning, up less than 1%, as a chip-led selloff after Nvidia CEO Jensen Huang's exit pushed the Nasdaq down about 1.7% (intraday reading; no close found). ([source](https://www.centraloregondaily.com/news/consumer/wall-st-slides-as-nvidia-overhang-weighs-on-tech/article_4864122f-faa9-53ef-b47f-3f5cc804368d.html))
 
 ## Coming up
 
@@ -53,4 +53,4 @@ Owns Facebook, Instagram, WhatsApp and Threads; earns almost all revenue from ad
 ## Bull case / bear case
 
 - **Bull:** Analysts (JPMorgan focus list at $940, Wells Fargo $995, Truist $1,000, UBS $815, plus KeyBanc, Cantor, Guggenheim, BofA and Goldman; average target near $848 per TradingKey) cite core ad strength (Q3 revenue +26%), above-consensus Q4 guidance of $73B-$76B and early Muse AI traction (Citi sees $27B of Muse revenue by 2030); Investing.com notes a modest ~21x trailing and ~17.6x 2027 P/E, TradingKey frames the pullback as de-risking rather than broken fundamentals, and large bond sales plus Moody's Aa3 rating show strong credit demand.
-- **Bear:** Analysts (Needham; Scotiabank at Hold, $650) cite dilution from a ~$97.5B equity plan, unproven Muse profitability and subsidized hardware costs, about $40B of bonds this month, negative Q3 free cash flow and 2026 capex of $135B-$145B (Wells Fargo sees ~$250B in 2027), with S&P on negative outlook; regulators keep pressing (an €805M Italian privacy fine, Ofcom and EU actions, Canada's Bill C-22), a Delaware suit has frozen the Zuckerberg share plan, the CFO sold about $5.7M of stock, and shares fell about 5.9% on Nov 20, a fifth straight decline.
+- **Bear:** Analysts (Needham; Scotiabank at Hold, $650) cite dilution from a ~$97.5B equity plan, unproven Muse profitability and subsidized hardware costs, about $40B of bonds this month, negative Q3 free cash flow and 2026 capex of $135B-$145B (Wells Fargo sees ~$250B in 2027), with S&P on negative outlook; regulators keep pressing (an €805M Italian privacy fine, Ofcom and EU actions, Canada's Bill C-22), a Delaware suit has frozen the Zuckerberg share plan, the CFO sold about $5.7M of stock, and even after the Nov 23 rebound shares sit roughly 23% below the $777.59 September closing high (Trefis).

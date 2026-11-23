@@ -4,7 +4,7 @@ ticker: TSLA
 company: Tesla
 sector: Consumer Discretionary
 held_by: [QQQ, VUG, IVV, SPY, VOO, VTI]
-updated: 2026-11-20
+updated: 2026-11-23
 tags: [stock]
 ---
 
@@ -18,15 +18,17 @@ Makes electric vehicles and energy storage systems, and is developing self-drivi
 
 | ETF | Weight |
 |---|---|
-| [[QQQ]] | 3.4% |
-| [[VUG]] | 3.1% |
-| [[IVV]] | 1.7% |
-| [[SPY]] | 1.7% |
-| [[VOO]] | 1.7% |
+| [[QQQ]] | 3.3% |
+| [[VUG]] | 3.0% |
+| [[IVV]] | 1.6% |
+| [[SPY]] | 1.6% |
+| [[VOO]] | 1.6% |
 | [[VTI]] | 1.5% |
 
 ## Recent news
 
+- **2026-11-23** — Tesla closed up about 11.5% at $385.46 (financefeeds, citing CNBC data; Investing.com) after rising as much as 13.9%; the Motley Fool tied the jump to SpaceX merger speculation and the FSD v15 rollout, alongside the broad rebound after Nvidia reinstated Jensen Huang, and Dow Jones said it was on pace for the biggest one-day gain since April 2025. ([source](https://financefeeds.com/stock-market-today-nasdaq-jumps-6-5-percent-as-huang-returns/), [Fool](https://www.fool.com/investing/2026/11/23/why-tesla-stock-stepped-on-the-gas-today/), [Dow Jones](https://www.marketscreener.com/news/tesla-shares-gain-on-new-self-driving-software-amid-broader-market-rally-ce7851dadd8ef726))
+- **2026-11-21** — Tesla said FSD v15 has begun rolling out, claiming 25 times better handling of safety-critical situations plus a live view of the car's planned path and better navigation; Musk called it a major release (Dow Jones via MarketScreener). ([source](https://www.marketscreener.com/news/tesla-shares-gain-on-new-self-driving-software-amid-broader-market-rally-ce7851dadd8ef726))
 - **2026-11-20** — Tesla sank about 7.6% to roughly $345.82 per Investing.com's quotes as the Nasdaq fell 5.28%; SpaceX dropped about 7% after selling $32B of bonds at yields above 8% to buy AI chips, and Rivian lost about 8% (Yahoo Finance). ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-193-5042683), [Yahoo](https://finance.yahoo.com/markets/stocks/articles/tesla-sinks-8-spacex-down-204555108.html))
 - **2026-11-20** — HSBC's Michael Tyndall upgraded Tesla to Hold from Reduce and lifted his target to $359 from $157, valuing the stock at $507 a share in a SpaceX takeover (assuming a 33% premium) but only $212 on a stand-alone basis (Yahoo Finance). ([source](https://finance.yahoo.com/markets/stocks/articles/tesla-sinks-8-spacex-down-204555108.html))
 - **2026-11-19** — Tesla was down about 1.65% near $377.38 around 2 p.m. ET (Finnhub data via MarketAlleys; close not found) as the S&P 500 fell 2% in a broad selloff. ([source](https://www.marketalleys.com/post/musk-at-dealbook-summit-calls-jensen-huang-irreplaceable-regrets-midterm-spending-2026-11-19))
@@ -37,8 +39,6 @@ Makes electric vehicles and energy storage systems, and is developing self-drivi
 - **2026-11-18** — Ad-hoc-news reported Tesla roughly doubled its Miami robotaxi service area on Nov 17, while Electrek, citing NHTSA data, counted eight Cybercab crashes (four with no one driving, none above 5 mph); it argued the service map is expanding faster than the disclosed safety evidence. ([source](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/tesla-s-robotaxi-map-is-growing-faster-than-the-evidence-behind-it/70531764))
 - **2026-11-17** — Tesla ended roughly flat, up about 0.1% at $380.11 per Investing.com's closing quotes, while the Dow fell 1.64% and the S&P 500 1.02% ahead of Nvidia's results. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
 - **2026-11-17** — Musk said on X that Cybercab's $299-a-month Autonomy Subscription is too high and should match FSD plus connectivity (about $115) after invite-only orders opened Nov 13 at $29,990; he also said owners may soon add their own cars to the Robotaxi network, with trials possibly from December (Yahoo Finance, which put Monday's close at $379.74, down 2.69%). ([source](https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-tesla-299-132121567.html))
-- **2026-11-16** — Barclays' Dan Levy reiterated Overweight and a $450 target, calling 24/7 camera-only robotaxi operations in all service cities a sign of software progress; the broader consensus is Hold. ([source](https://www.investing.com/news/analyst-ratings/barclays-reiterates-tesla-stock-rating-on-robotaxi-progress-93CH-5031841))
-- **2026-11-16** — Tesla fell about 3.4% as the Nasdaq dropped 2.49%; TradingKey cited rate-sensitive selling of growth stocks, China and Europe price competition and long autonomy timelines, while GuruFocus said investors were weighing Barclays' view that SpaceX buying Tesla in an all-stock deal is the likeliest structure, which would leave Tesla holders a minority. ([source](https://www.tradingkey.com/news/market-movers/262307268-market-movers-tsla-20261116))
 
 ## Coming up
 
@@ -51,5 +51,5 @@ Makes electric vehicles and energy storage systems, and is developing self-drivi
 
 ## Bull case / bear case
 
-- **Bull:** Barclays (Overweight, $450) and ARK Invest cite robotaxi progress and SpaceX-combination optionality; HSBC, upgrading to Hold with a $359 target, values Tesla at $507 a share in a SpaceX takeover, and TD Securities sees ~$100B of index-fund buying if a combined firm keeps the S&P 500 seat; supporters also point to a Q3 delivery beat, public Cybercab rides in Dallas, record Cybercab registrations, $29,990 Cybercab orders, rising Shanghai output and a planned ~€3B Berlin Cybercab plant (Reuters).
-- **Bear:** Reports cite a 56% drop in Q3 operating income, a 3.5% operating margin (Trefis), weaker October China-made sales, a P/E above 400 and a Hold consensus; HSBC puts stand-alone value at just $212, Barclays sees a SpaceX deal leaving Tesla holders a minority, Musk calls a deal uncertain and it faces governance and regulatory hurdles, robotaxi disclosure is sparse with eight NHTSA-logged Cybercab crashes (Electrek), and shares fell about 7.6% on Nov 20 as SpaceX slid on AI-chip debt worries and growth stocks sold off.
+- **Bull:** Barclays (Overweight, $450) and ARK Invest cite robotaxi progress and SpaceX-combination optionality; HSBC, upgrading to Hold with a $359 target, values Tesla at $507 a share in a SpaceX takeover, and TD Securities sees ~$100B of index-fund buying if a combined firm keeps the S&P 500 seat; supporters also point to the FSD v15 rollout, a Q3 delivery beat, public Cybercab rides in Dallas, record Cybercab registrations, rising Shanghai output and a planned ~€3B Berlin Cybercab plant (Reuters), and the stock jumped 11.5% on Nov 23.
+- **Bear:** Reports cite a 56% drop in Q3 operating income, a 3.5% operating margin (Trefis), a P/E above 400 and a Hold consensus; HSBC puts stand-alone value at just $212, Barclays sees a SpaceX deal leaving Tesla holders a minority, Musk calls a deal uncertain, TradingKey flags a 66% October drop in domestic China deliveries from Shanghai and an NHTSA audit of Cybercab's self-certification, robotaxi disclosure is sparse with eight NHTSA-logged Cybercab crashes (Electrek), and the stock swings sharply (down 7.6% on Nov 20, up 11.5% on Nov 23).

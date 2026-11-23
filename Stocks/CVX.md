@@ -4,7 +4,7 @@ ticker: CVX
 company: Chevron
 sector: Energy
 held_by: [SCHD, VTV]
-updated: 2026-11-20
+updated: 2026-11-23
 tags: [stock]
 ---
 
@@ -18,11 +18,13 @@ Integrated oil and gas company with production, refining and chemicals.
 
 | ETF | Weight |
 |---|---|
-| [[SCHD]] | 3.9% |
-| [[VTV]] | 1.4% |
+| [[SCHD]] | 4.0% |
+| [[VTV]] | 1.5% |
 
 ## Recent news
 
+- **2026-11-23** — Shares fell 1.06% ($2.20) to close at $206.17, among the Dow's three worst performers as the index rose 3.01%, with crude sliding; a 24/7 Wall St. review noted the stock is down about 7% over a month, that Q3 free cash flow covered the dividend about 3.5x, and that Chevron plans to lay out its 2027 capital program in December. ([source](https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476), [24/7 Wall St.](https://247wallst.com/investing/2026/11/23/exxon-chevron-and-conocophillips-are-down-heres-what-their-dividends-tell-investors/))
+- **2026-11-23** — Crude fell sharply: January WTI dropped about 3.7% to roughly $80.31 and February Brent about 3.6% to roughly $86.73, per Investing.com, as expectations of a supply surplus (the IEA sees one returning this quarter), a restarted Libyan pipeline and recovering Gulf flows outweighed weekend attacks, including Gulf shipping incidents, a Houthi-claimed strike on a Saudi refinery and an Iranian strike in Bahrain (Mansfield Energy, FinanceFeeds); FinanceFeeds noted the January Brent contract expires Nov 30 and that OPEC+ ministers meet Nov 29 to set 2027 output policy. ([source](https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476), [Mansfield](https://mansfield.energy/2026/11/23/oil-prices-fall-despite-renewed-threats-in-the-strait-of-hormuz/), [FinanceFeeds](https://financefeeds.com/brent-crude-oil-price-92-32-monday-houthi-refinery-claim-opec-plus-29-november-bull-96-bear-89/))
 - **2026-11-20** — Greece's energy minister said Chevron and HELLENiQ ENERGY will start seismic surveys in their southern Ionian Sea exploration areas within days, with TGS running the work through about the end of January; no drilling decision has been made. Crude edged up as the stock market slid (January WTI +1.58% to $83.74, Brent +0.74% to $92.66, per Investing.com). ([source](https://www.euronews.com/2026/11/20/chevron-to-begin-offshore-oil-and-gas-exploration-in-greece), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-193-5042683))
 - **2026-11-19** — Chevron rose about 0.3% to $206.50, the only Dow gainer listed by Investing.com as the index fell 2.19% to a six-month low. A Trefis analysis noted Chevron beat the S&P 500 in 19 of 26 oil-spike months since 2006 but usually lagged in the following one to three months, and that from Oct 30 to Nov 18 it fell 11.9% versus 3.4% for the S&P 500 (SPY). ([source](https://investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-219-5040081), [Trefis](https://www.trefis.com/stock/cvx/articles/626645/your-chevron-hedge-works-only-while-oil-spikes/2026-11-19))
 - **2026-11-19** — Crude won back part of Wednesday's slide: near the stock-market close January WTI was up about 1.1% at $83.22 and January Brent up about 0.9% at $92.80, per Investing.com, after Iran's navy said mines disabled three tankers east of the Strait of Hormuz and Houthi missiles were fired toward Riyadh; Reuters noted that surplus expectations and the large U.S. crude build still weighed, and Forbes, citing Reuters, said Hormuz crude flows are back near pre-war levels. The Dow fell 2.19% to a six-month low. ([source](https://investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-219-5040081), [Reuters via Yahoo Finance](https://finance.yahoo.com/news/oil-prices-steady-supply-surplus-024608326.html), [Forbes](https://www.forbes.com/sites/jonmarkman/2026/11/19/us-oil-falls-32-as-iran-says-mines-disabled-three-tankers-near-hormuz/))
@@ -33,12 +35,12 @@ Integrated oil and gas company with production, refining and chemicals.
 - **2026-11-16** — Chevron fell about 1% as energy stocks dropped with crude on expectations that Hormuz shipments keep recovering (January Brent about -4% to $91.96, WTI about -3.9% to $83.92, per Investing.com). ([source](https://rallies.ai/news/us-energy-stocks-fall-as-crude-prices-slide-on-hormuz-flow-recovery-expectations-12beee1a76aac56a), [Investing.com](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-141-5030993))
 - **2026-11-16** — The Motley Fool noted Berkshire Hathaway left its Chevron position unchanged in Q3, still about $18.6B (a 4.3% stake and its sixth-largest holding), after cutting it by 35% in Q1 and adding about 7% in Q2. ([source](https://www.fool.com/investing/2026/11/16/greg-abels-berkshire-hathaway-still-holds-about-x/))
 - **2026-11-13** — Chevron rose about 1.6% ($3.54) to close at $219.89, the Dow's second-best performer on the day, per Investing.com; Barclays nudged its target up to $248 from $244 the same day. ([source](https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-5026559), [Barclays target](https://rallies.ai/news/chevron-target-price-raised-to-248-from-244-367aec909b12848c))
-- **2026-11-13** — Crude was roughly flat on Friday (Investrade had December WTI settling about 0.2% lower near $88.56 and Brent near $95.84) as Reuters said both benchmarks were on course for a second weekly drop of about 2.5%, with Trump signaling he will keep the Iran blockade rather than seek a deal, reported tanker explosions in Hormuz and Houthi strikes on Saudi facilities, and a U.S. crude build; energy (XLE, about +5.4%) still led the S&P sectors for the week. ([source](https://investrade.com/market-review-november-13-2026/), [Reuters via Investing.com](https://www.investing.com/news/commodities-news/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade-5024008))
-- **2026-11-12** — Bernstein cut its Chevron target to $233 from $248 and kept Market Perform, part of a sector note that sees U.S.-Iran de-escalation as more likely and warns oil equities may struggle to gain; MarketBeat's consensus is "Moderate Buy" with an average target near $223. ([source](https://www.dailypolitical.com/2026/11/12/sanford-c-bernstein-issues-pessimistic-forecast-for-chevron-nysecvx-stock-price.html))
+
 ## Coming up
 
-- **2026-11-29** — Next monthly meeting of the seven OPEC+ producers (per OPEC+ statement)
+- **2026-11-29** — OPEC+ meeting; FinanceFeeds says ministers will set 2027 output policy, informed by a capacity review
 - **Late November 2026** — Seismic surveys with HELLENiQ ENERGY off southern Greece due to start (expected to run to about end-January 2027)
+- **December 2026** — 2027 capital program to be detailed (per 24/7 Wall St.)
 - **2026-12-10** — $1.78 quarterly dividend paid (shares went ex-dividend Nov 18)
 - **By end of 2026** — Targeted signing of the West Qurna-2 contract with Iraq; Gulf of Mexico output target of 300,000 boe/d
 - **TBD** — Possible Beacon Offshore Energy majority-stake deal (~$5B valuation; reported by FT, not confirmed by Chevron)
@@ -47,4 +49,4 @@ Integrated oil and gas company with production, refining and chemicals.
 ## Bull case / bear case
 
 - **Bull:** Bulls cite a seventh straight quarterly beat, $16B of Q3 operating cash flow, falling net debt and record refinery throughput (Valor); Morgan Stanley sees a higher FCF outlook, 24/7 Wall St. cites a ~$242 consensus target, Trefis notes a lower valuation than Exxon with a higher operating margin, and commentators point to Gulf of Mexico growth (the FT-reported ~$5B Beacon deal), new exploration in Namibia and Greece, Venezuela, Iraq and an integrated model that cushions lower output (Motley Fool); Barclays raised its target to $248 and Berkshire held its stake in Q3.
-- **Bear:** Commentators flag dependence on volatile, conflict-driven crude (Brent swung between about $90 and $96 in mid-November as Hormuz flows recovered, and shares fell about 4.7% on Nov 18); Bernstein ($233, Market Perform) sees Iran de-escalation as more likely and Trefis finds Chevron has tended to lag after oil spikes, while others cite lower Q3 output (Rigzone), 2027 EPS consensus below 2026, buybacks cut to $2.5B, easing refining margins, unease over spending on Beacon instead of buybacks (TradingKey), DZ Bank's downgrade to Hold and political 'windfall' pressure.
+- **Bear:** Commentators flag dependence on volatile, conflict-driven crude (February Brent fell to roughly $87 on Nov 23 on surplus expectations, and shares fell about 4.7% on Nov 18 and 1.1% on Nov 23); Bernstein ($233, Market Perform) sees Iran de-escalation as more likely and Trefis finds Chevron has tended to lag after oil spikes, while others cite lower Q3 output (Rigzone), 2027 EPS consensus below 2026, buybacks cut to $2.5B, easing refining margins (24/7 Wall St., TradingKey), unease over spending on Beacon instead of buybacks, DZ Bank's downgrade to Hold and political 'windfall' pressure.

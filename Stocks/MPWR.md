@@ -4,7 +4,7 @@ ticker: MPWR
 company: Monolithic Power Systems
 sector: Technology
 held_by: [SOXX]
-updated: 2026-11-20
+updated: 2026-11-23
 tags: [stock]
 ---
 
@@ -18,10 +18,11 @@ Designs power-management chips and modules that regulate electricity in AI serve
 
 | ETF | Weight |
 |---|---|
-| [[SOXX]] | 4.1% |
+| [[SOXX]] | 4.2% |
 
 ## Recent news
 
+- **2026-11-23** — Shares jumped about 16.8%, one of the S&P 500's biggest gainers in MT Newswires' closing rankings, as chip stocks rebounded after Nvidia's board reinstated Jensen Huang as CEO and the Nasdaq rose 6.5%; no company-specific catalyst was cited. ([source](https://www.marketscreener.com/news/us-equity-indexes-soar-as-jensen-huang-s-return-to-nvidia-as-ceo-boosts-ai-trade-ce7851dadc80f62d), [market](https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476))
 - **2026-11-20** — Shares fell about 11.7%, down $152.21 to end near $1,144.65 per an AI-generated Seeking Alpha recap, with no company-specific news, as the Philadelphia Semiconductor Index plunged 10.73% (TradingKey) and peers including [[AMAT]], [[KLAC]] and [[MRVL]] dropped more than 10%; StockStory tied the AI-chip retreat to Anthropic's post-IPO slide, rate-hike talk, Trump's threatened penalties on overseas U.S. data-center builds and new Commerce export-licensing rules, while Nvidia sank on a reported SEC accounting review. ([source](https://seekingalpha.com/news/4675343-monolithic-power-systems-retreats-12-weighed-down-by-tech-selloff), [StockStory](https://stockstory.org/us/stocks/nasdaq/alab/news/why-up-down/astera-labs-aehr-test-systems-kla-corporation-lam-research-and-monolithic-power-systems-shares-plummet-what-you-need-to-know))
 - **2026-11-19** — JKN reported shares up 3.63% at $1,358.54 with no company catalyst, calling it a technical rebound, in an article published around 10:30 a.m. ET that likely predates the afternoon reversal; the Philadelphia Semiconductor Index closed down 2.41% with 27 of its 30 members lower, per TradingKey, and a confirmed MPWR close was not found. ([source](https://news.jkn.co.kr/editions/english/post/1108480))
 - **2026-11-18** — Shares eased about 0.6% to roughly $1,309.91 in regular trading and rose about 0.2% after hours, per StockMarketWatch (data may be delayed), as Nvidia, whose AI servers drive much of the data-center power demand, closed down about 2.9% after its results. ([source](https://stockmarketwatch.com/indices/sp500/today))
@@ -35,4 +36,4 @@ Designs power-management chips and modules that regulate electricity in AI serve
 ## Bull case / bear case
 
 - **Bull:** Trefis cites 63% revenue growth to its first $1B-plus quarter, a slightly rising gross margin guided up again for Q4, strong enterprise data-center demand expected to carry into 2027, first orders for 48-volt automotive power products, more than $450M of quarterly buybacks, and capacity for more than $6B of annual revenue, rising to $8B by the second half of 2027.
-- **Bear:** Trefis notes a valuation near 20x trailing sales versus about 3x for the S&P 500 and sharp swings, and the stock's heavy tie to AI data-center spending showed on Nov 20 when it fell about 12% (to roughly $1,145) as the chip index plunged 10.7% on AI-spending doubts, a reported SEC review of Nvidia and new export rules; that followed a 5.5% drop on Nov 16, ETF outflows and attention on AI suppliers' China exposure (JKN), leaving it well below its $1,689.89 June closing high.
+- **Bear:** Trefis notes a valuation near 20x trailing sales versus about 3x for the S&P 500, and the stock's tie to AI data-center sentiment shows in sharp swings: it fell about 12% on Nov 20 as the chip index plunged 10.7% on AI-spending doubts, a reported SEC review of Nvidia and new export rules, then jumped about 17% on Nov 23 on Nvidia's CEO news rather than company news; JKN has flagged ETF outflows, insider sales and China exposure, and the stock remains well below its $1,689.89 June closing high.

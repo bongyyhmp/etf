@@ -4,7 +4,7 @@ ticker: BRK-B
 company: Berkshire Hathaway
 sector: Financials
 held_by: [VTV, IVV, SPY, VOO, VTI]
-updated: 2026-11-20
+updated: 2026-11-23
 tags: [stock]
 ---
 
@@ -18,14 +18,16 @@ Conglomerate owning insurance (GEICO), BNSF railroad, utilities and a large stoc
 
 | ETF | Weight |
 |---|---|
-| [[VTV]] | 4.0% |
-| [[IVV]] | 1.7% |
-| [[SPY]] | 1.7% |
-| [[VOO]] | 1.7% |
-| [[VTI]] | 1.5% |
+| [[VTV]] | 4.1% |
+| [[IVV]] | 1.8% |
+| [[SPY]] | 1.8% |
+| [[VOO]] | 1.8% |
+| [[VTI]] | 1.6% |
 
 ## Recent news
 
+- **2026-11-23** — Class B shares were up about 0.4% near $572.19 in early afternoon, per a Motley Fool quote panel (no close found), lagging a 4.74% S&P 500 rally led by tech; the Fool column read Greg Abel's Q3 trimming of bank stocks and narrowing of the portfolio to about 30 holdings as a cautious signal on the economy. ([source](https://www.fool.com/investing/2026/11/23/warren-buffett-s-successor-greg-abel-just-sent-a-massive-warning-to-the-market/), [market](https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476))
+- **2026-11-19** — An 8-K showed Berkshire issued ¥182.3B of yen-denominated senior notes in five series due 2029-2056, with coupons from 2.624% to 4.571%, underwritten by Mizuho and Merrill Lynch. ([source](https://www.sec.gov/Archives/edgar/data/0001067983/000119312526468549/d197844d8k.htm))
 - **2026-11-20** — Argus analysts Kevin Heal and Shutaro Yasuda cut Class B shares to Hold from Buy on valuation, saying buybacks and the "anti-AI" trade had lifted the stock past their $550 target, while still calling it a long-term core financials holding; the shares were up 13.8% this year as of Thursday's close and the LSEG median target is $529. 24/7 Wall St. quoted Class B near $571 during Friday's session, slightly lower; no close was found as the Dow fell 1.93% and the S&P 500 3.7%. ([source](https://rallies.ai/news/argus-downgrades-berkshire-hathaway-to-hold-on-valuation-a49a2e960949ef5e), [24/7 Wall St.](https://247wallst.com/investing/2026/11/20/berkshire-hathaway-is-up-14-in-2026-while-the-nasdaq-100-has-gone-nowhere-is-it-time-to-dump-tech-stocks-and-buy-berkshire/), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-193-5042683))
 - **2026-11-20** — The Kingswell newsletter noted that after Q3 results CFO Chuck Chang bought two Class A shares (about $1.78M) and general counsel Michael O'Sullivan bought 421 Class B shares (about $250,000), and that Bending Spoons, Berkshire's newly disclosed holding, agreed on Nov 19 to buy Mailchimp from Intuit for $3.68B; the 13F also showed a ninth straight quarter of Bank of America sales. ([source](https://www.kingswell.io/p/the-berkshire-beat-november-20-2026))
 - **2026-11-18** — A 24/7 Wall St. piece said Greg Abel is leaning into a long-term housing recovery while warning it won't be quick, pointing to the nearly doubled Lennar stake (about 26.0M Class A shares, roughly $2.2B) alongside the Taylor Morrison buyout (about $6.8B of equity, closed in July); the page's quote panel showed Class B near $574.28, down about 2.1% (time not stated), on a day the Dow fell 1.11%. ([source](https://247wallst.com/investing/2026/11/18/warren-buffetts-successor-greg-abel-is-doubling-down-on-his-2-billion-bet-that-the-american-dream-is-not-dead/), [market](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html))
@@ -36,8 +38,6 @@ Conglomerate owning insurance (GEICO), BNSF railroad, utilities and a large stoc
 - **2026-11-12** — Class B shares traded around $591 Thursday afternoon, close to the 52-week high of $596.92, leaving the stock at roughly 1.6x book value after Q3 buybacks were often done below 1.5x book, per the Motley Fool. ([source](https://www.fool.com/investing/2026/11/12/berkshire-hathaway-stock-trades-at-record-levels-ceo-greg-abel-clearly-sees-more-room-to-run/))
 - **2026-11-12** — 24/7 Wall St. tallied about $14.4B of reported 2026 buybacks (about $4.8B in the first half plus $9.6B in Q3), with Reuters reporting roughly $2B more in October, and said Berkshire has been a net buyer of about $11.2B of stocks this year versus net sales of $10.6B in 2025. ([source](https://247wallst.com/investing/2026/11/12/berkshires-greg-abel-spent-14-4-billion-on-buffetts-favorite-stock/))
 - **2026-11-11** — A Motley Fool breakdown of the Q3 buyback said Berkshire repurchased 4,536 Class A and about 12.38M Class B shares for roughly $9.6B, ending a 21-month pause during which the stock traded at a 60-80% premium to book; it noted buybacks have tended to resume when the premium falls below about 50%, and cumulative repurchases since mid-2018 total about $92B. ([source](https://www.fool.com/investing/2026/11/11/warren-buffett-successor-greg-abel-just-bought-9-billion-oracle-of-omaha-favorite-stock-not-alphabet/))
-- **2026-11-10** — A boerse-global report said shares were down about 0.3% Tuesday and noted that KBW raised its Class A target to $765,000 from $735,000 while keeping Underperform, Morningstar still sees the stock as slightly overvalued (fair value about $510 per B share), and Reuters reported roughly $2B of buybacks in October. ([source](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/berkshire-s-insurance-slump-clouds-a-brighter-case-elsewhere/70487418))
-- **2026-11-09** — Class B shares slipped about 1% to roughly $565.14 in Monday morning trade as investors focused on the Q3 earnings decline more than the buyback jump, per GuruFocus, even as the broader market rallied. ([source](https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-stocks-slip-1-181756501.html))
 
 ## Coming up
 
@@ -46,4 +46,4 @@ Conglomerate owning insurance (GEICO), BNSF railroad, utilities and a large stoc
 ## Bull case / bear case
 
 - **Bull:** Commentators cite roughly $14.4B of buybacks this year including Q3's $9.6B and about $2B more in October (24/7 Wall St., Reuters), insider purchases by the CFO and general counsel after Q3 (Kingswell), a 2026 gain of about 14% that has outpaced the tech-heavy Nasdaq as AI stocks sell off (24/7 Wall St.), BNSF earnings up about 19%, a cash pile near $377B, Greg Abel's new deployments (Bending Spoons, a doubled Lennar stake, more Delta) and UBS's Street-high $628 target; even Argus, in downgrading, calls it a long-term core holding.
-- **Bear:** Skeptics note Argus cut the stock to Hold on Nov 20 after it passed the firm's $550 target, while the LSEG median target ($529), KBW (Underperform) and Morningstar (~$510 fair value) all sit below the price; Q3 operating earnings fell 5.8% with insurance underwriting down 43% on weaker GEICO results and investment income down 14%, Abel expects softer insurance pricing, the stock trades near 1.6x book (above where Q3 buybacks were done), about 30% of the portfolio sits in Apple and Alphabet, and Abel sees no quick housing rebound.
+- **Bear:** Skeptics note Argus cut the stock to Hold on Nov 20 after it passed the firm's $550 target, while the LSEG median target ($529), KBW (Underperform) and Morningstar (~$510 fair value) all sit below the price; Q3 operating earnings fell 5.8% with insurance underwriting down 43% on weaker GEICO results and investment income down 14%, Abel expects softer insurance pricing, the stock trades near 1.6x book, about 30% of the portfolio sits in Apple and Alphabet, its defensive appeal faded as shares lagged the Nov 23 tech rebound, and a Fool column reads Abel's bank sales as caution on the economy.

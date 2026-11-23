@@ -4,7 +4,7 @@ ticker: LLY
 company: Eli Lilly
 sector: Healthcare
 held_by: [VUG, IVV, SPY, VOO, VTI]
-updated: 2026-11-20
+updated: 2026-11-23
 tags: [stock]
 ---
 
@@ -18,14 +18,16 @@ Drugmaker best known for diabetes and obesity drugs (Mounjaro, Zepbound) plus Al
 
 | ETF | Weight |
 |---|---|
-| [[VUG]] | 3.4% |
-| [[IVV]] | 1.7% |
-| [[SPY]] | 1.7% |
-| [[VOO]] | 1.7% |
-| [[VTI]] | 1.6% |
+| [[VUG]] | 3.5% |
+| [[IVV]] | 1.8% |
+| [[SPY]] | 1.8% |
+| [[VOO]] | 1.8% |
+| [[VTI]] | 1.7% |
 
 ## Recent news
 
+- **2026-11-23** — Shares rose 1.30% to close at $1,364.60, per Investing.com, a modest gain on a day the S&P 500 jumped 4.74% as money rotated back into chip and AI stocks; no company-specific catalyst was cited, and the stock had also traded about 2.4% above Friday's Xetra close in German trading that afternoon (Ad-hoc News). ([source](https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476), [Ad-hoc News](https://www.ad-hoc-news.de/boerse/news/corporate-news/eli-lilly-stock-trades-2-41-prozent-above-friday-s-xetra-close/70547171))
+- **2026-11-23** — Lilly previewed its San Antonio Breast Cancer Symposium (Dec 8-11) program, including Dec 11 oral presentations of final overall-survival results from the Phase 3 EMBER-3 trial of Inluriyo (imlunestrant) in ESR1-mutated advanced breast cancer and a monarchE biomarker analysis supporting Verzenio in high-risk early disease, plus updated Phase 1/2 data for investigational PI3Kα inhibitor tersolisib. ([source](https://prnewswire.com/news-releases/lilly-highlights-strength-of-breast-cancer-portfolio-with-new-data-across-validated-drivers-of-hormone-receptor-positive-disease-at-the-2026-san-antonio-breast-cancer-symposium-302948353.html))
 - **2026-11-20** — Shares were roughly flat near $1,351 late in Friday's session (about +0.02% at 3:24 p.m. ET, per StockAnalysis) after three straight declines, holding steady while the S&P 500 fell 3.69% and the Nasdaq 5.28% in an AI-led selloff. ([source](https://stockanalysis.com/stocks/lly/history/), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-193-5042683))
 - **2026-11-19** — Shares fell for a third day, down about 2.2% at roughly $1,351.86 in the afternoon (opened at $1,366.72, low about $1,341.47), around 9% below the Nov 17 52-week high, per finanzen.ch, which named no specific cause, as the S&P 500 fell about 2%. A Blockchain.News technical note the same day called the move a pullback toward support and cited RBC reiterating Outperform ($1,600) on Nov 17 ahead of the Dec 7 Innovation Day and Barclays raising its target to $1,550 from $1,400 (Overweight) on Nov 16. ([source](https://www.finanzen.ch/nachrichten/aktien/eli_lilly-aktie-kursbewegung-19-11-2026-1035062867), [Blockchain.News](https://blockchain.news/news/20261119-price-prediction-lly-lilly-pulls-back-toward-support-as), [market](https://investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-219-5040081))
 - **2026-11-18** — Health Canada approved Mounjaro (tirzepatide) to lower the risk of cardiovascular death, heart attack and stroke in adults with type 2 diabetes and established heart disease, based on an outcomes trial of more than 13,000 patients, Ad-hoc News reported on Nov 20. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/eli-lilly-and-co-stock-health-canada-clears-mounjaro-use/70540371))
@@ -36,18 +38,17 @@ Drugmaker best known for diabetes and obesity drugs (Mounjaro, Zepbound) plus Al
 - **2026-11-14** — At ObesityWeek 2026 (Nov 14-17, Washington), Lilly presented Phase 2 data for investigational EloraTZP (eloralintide plus tirzepatide) showing average weight loss of 23.3% at 48 weeks and A1C down 2.9% in adults with obesity and type 2 diabetes, Phase 3 retatrutide results in sleep apnea (events per hour down about 48-61% at 80 weeks) and knee osteoarthritis, and SURMOUNT-ADOLESCENTS data in which Zepbound cut BMI 21.4% at 72 weeks. ([source](https://www.prnewswire.com/news-releases/lilly-to-present-new-data-across-zepbound-foundayo-eloratzp-and-retatrutide-at-obesityweek-2026-moving-obesity-care-beyond-the-scale-302938569.html), [Investing.com](https://www.investing.com/news/company-news/lilly-presents-obesity-drug-trial-results-at-obesityweek-2026-93CH-5027426))
 - **2026-11-13** — A MarketBeat-syndicated Defense World headline reported that China Merchants Securities cut Lilly to Hold (details not confirmed); shares were indicated about 0.9% lower before the U.S. open in German trading (€1,298.20 vs. €1,310 Xetra close), with no new company announcement found. ([source](https://www.defenseworld.net/2026/11/13/eli-lilly-and-company-nyselly-stock-dropped-to-hold-by-china-merchants-securities.html), [premarket](https://www.ad-hoc-news.de/boerse/news/vorboerse/eli-lilly-and-company-stock-at-eur-1-298-20-down-0-90-prozent/70502931))
 - **2026-11-12** — China's NMPA approved oral orforglipron (Foundayo) for weight management in adults with obesity, or overweight plus at least one weight-related condition; a type 2 diabetes approval there is still pending. Shares opened near $1,454, hit about $1,460 intraday (up roughly 1%) and gave back most of the gain to about $1,439 (+0.1%) by mid-afternoon as the broader market and health-care sector fell. ([source](https://goldesel.de/aktien/news/eli-lilly-aktie-china-lasst-abnehmpille-foundayo-zu-aktie-steigt), [midday](https://www.fool.com/investing/2026/11/12/more-good-news-for-eli-lilly-sends-the-stock-even-higher/), [afternoon](https://www.finanzen.ch/nachrichten/aktien/eli_lilly-aktie-kursbewegung-12-11-2026-1035062867))
-- **2026-11-12** — Lilly broke ground on a $3.5B plant in Fogelsville, Pennsylvania (Lehigh Valley) to make injectable medicines and devices, including investigational retatrutide; it expects about 850 permanent jobs and operations by 2031. ([source](https://investor.lilly.com/news-releases/news-release-details/lilly-breaks-ground-pennsylvanias-lehigh-valley-35-billion-site))
-- **2026-11-11** — At ACR Convergence, Lilly's Phase 3b TOGETHER-PsA study (271 adults with psoriatic arthritis and overweight or obesity) showed 43.7% reaching ACR50 at one year on Taltz plus Zepbound vs. 15.7% on Taltz alone, along with weight and metabolic gains; the week-52 analysis was exploratory. Shares were around €1,286 in German trading that evening. ([source](https://ad-hoc-news.de/boerse/news/corporate-news/eli-lilly-and-co-aktie-taltz-und-zepbound-zeigen-wirkung-nach-52-wochen/70493929))
 
 ## Coming up
 
 - **Q4 2026** — Merida Biosciences acquisition (up to about $2.9B) expected to close
 - **By end of 2026** — planned FDA submission of Foundayo for obstructive sleep apnea
 - **2026-12-07** — Innovation Day / investor update on the pipeline and long-term targets (per TIKR and Trefis)
+- **2026-12-08 to 2026-12-11** — San Antonio Breast Cancer Symposium; EMBER-3 final overall survival (Inluriyo) and monarchE biomarker (Verzenio) oral presentations on Dec 11
 - **2026-12-10** — dividend payable
 - **January or February 2027** — Q4 2026 earnings and first 2027 revenue guidance (date not yet announced)
 
 ## Bull case / bear case
 
-- **Bull:** Bulls cite the Q3 beat (Mounjaro +65%) and a raised $91-92B 2026 sales outlook, higher targets from Jefferies ($1,700), JPMorgan ($1,650), RBC ($1,600), BofA ($1,557) and Barclays ($1,550), Foundayo's China approval and sleep apnea data, ObesityWeek data for EloraTZP and retatrutide, a new Canadian cardiovascular label for Mounjaro, added manufacturing capacity, and cancer-pipeline deals for Calytrix and Stipple Bio.
+- **Bull:** Bulls cite the Q3 beat (Mounjaro +65%) and a raised $91-92B 2026 sales outlook, higher targets from Jefferies ($1,700), JPMorgan ($1,650), RBC ($1,600), BofA ($1,557) and Barclays ($1,550), Foundayo's China approval and sleep apnea data, ObesityWeek data for EloraTZP and retatrutide, a new Canadian cardiovascular label for Mounjaro, added manufacturing capacity, cancer-pipeline deals for Calytrix and Stipple Bio, and final EMBER-3 survival data for Inluriyo due at SABCS in December.
 - **Bear:** Bears note realized prices fell 15% (29% outside the U.S.) with Trefis expecting U.S. net-price pressure through 2027, a class-wide GLP-1 eye-risk label warning (BMO sees limited impact), competition from Novo's Wegovy pill, a premium valuation near MarketBeat's ~$1,404 consensus target after a roughly 9% pullback from the Nov 17 high, a reported China Merchants cut to Hold, early-stage deal assets without human data, and a possible bidding contest with AstraZeneca for Rhythm.

@@ -4,7 +4,7 @@ ticker: JNJ
 company: Johnson & Johnson
 sector: Healthcare
 held_by: [VTV]
-updated: 2026-11-20
+updated: 2026-11-23
 tags: [stock]
 ---
 
@@ -18,10 +18,11 @@ Makes prescription drugs and medical devices.
 
 | ETF | Weight |
 |---|---|
-| [[VTV]] | 2.4% |
+| [[VTV]] | 2.5% |
 
 ## Recent news
 
+- **2026-11-23** — Shares edged down 0.16% to about $270.05 near the close, per finanzen.ch, while the Dow rallied 3.01% as investors rotated back into tech after Friday's flight to defensives; the stock goes ex-dividend on Nov 24 for the $1.34 quarterly payout (Futu). No new company announcement was found. ([source](https://www.finanzen.ch/nachrichten/aktien/zuversicht-in-new-york-dow-jones-stuermt-schlussendlich-vor-1036793740), [Futu](https://news.futunn.com/en/post/1005291326/johnson-johnson-to-go-ex-dividend-on-november-24th-2026))
 - **2026-11-20** — Shares rose 1.25% to close at $270.47 as health care (+0.4% for the sector SPDR ETF) held up while the S&P 500 fell 3.69%; JPMorgan raised its price target to $300 from $285, per MarketScreener and GuruFocus headlines. ([source](https://www.marketscreener.com/news/sector-update-healthcare-stocks-rise-late-afternoon-ce785ed3dd80f420), [JPMorgan](https://www.gurufocus.com/news/9213040/jnj-maintained-by-jp-morgan-price-target-raised-to-300), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-193-5042683))
 - **2026-11-20** — J&J reported late-breaking Phase 4 STAR results at the Emirates Society for Rheumatology meeting: in 411 biologic-naive adults with psoriatic arthritis affecting the spine, Tremfya beat placebo on the primary BASDAI symptom score at week 24 (-3.3 and -2.9 for the two dosing schedules vs. -2.1) and more than doubled the placebo improvement in MRI-measured sacroiliac inflammation; the disability score was not significant for the every-eight-week dose. ([source](https://www.stocktitan.net/news/JNJ/johnson-johnson-data-in-psoriatic-arthritis-ps-a-shows-tremfya-59kvn5s3ucma.html))
 - **2026-11-19** — J&J said Memorial Hermann-Texas Medical Center in Houston became the first hospital to install its OTTAVA robotic surgical system, the first U.S. site under an early-access commercial program after the table-integrated soft-tissue robot won FDA De Novo authorization in July for general-surgery procedures such as gastric bypass and hernia repair; the company plans a gradual U.S. launch with select customers. Shares were down about 2.7% at 11:05 a.m. ET, with health-care names weighing on the Dow per CNBC (via StockTitan), as the index went on to close 2.19% lower; no close was found. ([source](https://finance.yahoo.com/healthcare/articles/johnson-johnson-announces-first-commercial-135100180.html), [stock](https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-219-5040081))
@@ -33,7 +34,7 @@ Makes prescription drugs and medical devices.
 - **2026-11-11** — A Motley Fool review noted management sees a route to double-digit sales growth by 2030 and puts peak-sales potential above $5B each for Icotyde, Inlexzo, Lazcluze and Imaavy, while flagging Stelara's 56% drop, a possible Darzalex U.S. exclusivity loss by decade end and the proposed $5.5B talc settlement; shares were about $280. ([source](https://www.fool.com/investing/2026/11/11/johnson-johnson-sees-a-path-to-double-digit-growth/))
 - **2026-11-11** — Trefis put the stock at about $280.78, up 37.9% year to date versus 23.1% for the XLV health-care ETF, and at 42x trailing earnings against a 20.7x average over the past 12 quarter-ends; its own three-year scenario, which assumes faster revenue growth and a lower multiple, reaches about $392. ([source](https://www.trefis.com/stock/jnj/articles/624330/how-much-upside-is-left-in-johnson-johnson-stock/2026-11-11))
 - **2026-11-10** — J&J said Caplyta (lumateperone) met the primary endpoint of a second pivotal Phase 3 trial (Study 452) in bipolar I mania, cutting YMRS scores 3.7 points more than placebo at week 3 with benefit seen from day 3; it plans an FDA submission for this use, which is not yet approved. ([source](https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-caplyta-lumateperone-shows-significant-and-rapid-improvement-in-bipolar-mania-in-second-pivotal-phase-3-study))
-- **2026-11-10** — Trefis noted the Nov 9 close was a 52-week high, with shares up 38.5% year to date, while trailing net income fell about 36% on roughly $7B of Q3 talc and deal charges, lifting the P/E to about 42 from 18 a year ago. ([source](https://www.trefis.com/stock/jnj/articles/624058/what-usually-comes-after-a-new-high-in-johnson-johnson-stock/2026-11-10))
+
 ## Coming up
 
 - **2026-11-24** — Ex-dividend date for the $1.34 quarterly dividend (per MarketBeat)

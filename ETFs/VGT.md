@@ -4,36 +4,36 @@ ticker: VGT
 issuer: Vanguard
 aum: $171B
 expense_ratio: 0.09%
-return_ytd: 11.8
-return_1y: 14.4
-data_as_of: 2026-11-19
+return_ytd: 4.0
+return_1y: 9.6
+data_as_of: 2026-11-20
 tags: [etf]
 ---
 
 # VGT — Vanguard Information Technology ETF
 
-> [!info] Snapshot (as of Nov 19, 2026)
+> [!info] Snapshot (as of Nov 20, 2026)
 > **Tracks:** MSCI US IMI Information Technology 25/50  
 > **Issuer:** Vanguard · **Assets:** $171B · **Expense ratio:** 0.09%  
-> **Return:** +11.8% this year · +14.4% over 1 year (dividends reinvested)  
+> **Return:** +4.0% this year · +9.6% over 1 year (dividends reinvested)  
 > **Holdings:** 317 stocks · top 10 ≈ 63% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[AAPL]] — Apple | 20.0% |
-| 2 | [[NVDA]] — NVIDIA | 13.5% |
-| 3 | [[MSFT]] — Microsoft | 12.8% |
-| 4 | [[AVGO]] — Broadcom | 4.4% |
-| 5 | [[AMD]] — Advanced Micro Devices | 3.5% |
-| 6 | [[MU]] — Micron Technology | 3.5% |
+| 1 | [[AAPL]] — Apple | 21.1% |
+| 2 | [[MSFT]] — Microsoft | 13.3% |
+| 3 | [[NVDA]] — NVIDIA | 12.5% |
+| 4 | [[AVGO]] — Broadcom | 4.1% |
+| 5 | [[AMD]] — Advanced Micro Devices | 3.3% |
+| 6 | [[MU]] — Micron Technology | 3.2% |
 | 7 | [[CSCO]] — Cisco Systems | 1.7% |
 | 8 | [[PLTR]] — Palantir Technologies | 1.5% |
 | 9 | [[PANW]] — Palo Alto Networks | 1.4% |
-| 10 | [[AMAT]] — Applied Materials | 1.2% |
+| 10 | [[TXN]] — Texas Instruments | 1.2% |
 
-*Holdings from the fund's Aug 31, 2026 SEC filing; weights estimated at Nov 19, 2026 prices. In these estimates Palo Alto Networks (1.35%) is in the top 10 and Texas Instruments (1.20%) is #11.*
+*Holdings from the fund's Aug 31, 2026 SEC filing; weights estimated at Nov 20, 2026 prices. In these estimates Texas Instruments (1.19%) moved into the top 10 and Applied Materials (1.17%) slipped to #11.*
 
 ## Sector mix
 
@@ -42,6 +42,7 @@ tags: [etf]
 ## News log
 
 - *Updates are added here, newest first.*
+- **2026-11-20** — Closed down 7.0% at $97.64 in the tech selloff, leaving a year-to-date total return of about 4.0%, down from 11.8% a day earlier. ([source](https://chartrow.com/quote/vgt))
 
 ## Sources
 - [Fund quote: price, assets and returns](https://chartrow.com/quote/vgt)

@@ -4,18 +4,18 @@ ticker: SOXX
 issuer: BlackRock iShares
 aum: $48B
 expense_ratio: 0.33%
-return_ytd: 37.7
-return_1y: 47.4
-data_as_of: 2026-11-19
+return_ytd: 23.1
+return_1y: 38.5
+data_as_of: 2026-11-20
 tags: [etf]
 ---
 
 # SOXX — iShares Semiconductor ETF
 
-> [!info] Snapshot (as of Nov 19, 2026)
+> [!info] Snapshot (as of Nov 20, 2026)
 > **Tracks:** NYSE Semiconductor Index (30 US-listed chip companies)  
 > **Issuer:** BlackRock iShares · **Assets:** $48B · **Expense ratio:** 0.33%  
-> **Return:** +37.7% this year · +47.4% over 1 year (dividends reinvested)  
+> **Return:** +23.1% this year · +38.5% over 1 year (dividends reinvested)  
 > **Holdings:** 30 stocks · top 10 ≈ 62% of the fund
 
 ## Top 10 holdings
@@ -41,6 +41,7 @@ tags: [etf]
 
 ## News log
 
+- **2026-11-20** — Closed out a week down roughly 17-18%, per Yahoo Finance, which put Friday's drop at close to 8%; ChartRow's year-to-date figures imply a steeper one-day fall of about 10-11%. Holdings Nvidia (about -14%) and Broadcom (about -12%) were among the hardest hit. ([source](https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-ends-worst-week-013025833.html), [stocks](https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-stocks-plunge-as-ai-trade-unwinds/))
 - **2026-11-20** — Chip stocks sold off sharply amid worries that AI spending and valuations have run ahead of returns: the PHLX Semiconductor Index was down about 8.3% in late-afternoon trading, with top holdings AMD (-10.9%) and Broadcom (-11.5%) and holding Nvidia (-7%) among the decliners. ([source](https://www.inquirer.com/business/stock-market-sp-correction-ai-nvidia-anthropic-loss-20261120.html))
 - **2026-11-17** — Holding Nvidia (about 8% of the fund) reported after the close: revenue of $115.8B vs. about $108.8B expected, EPS of $2.68 vs. $2.47, and a Q4 revenue guide of $130B (±3%); its shares, down 0.4% in the regular session, were up about 1.6% after hours. ([source](https://www.kiplinger.com/news/live/nvidia-earnings-live-updates-and-commentary-november-2026))
 - **2026-11-16** — Closed down 5.4% at $141.22 as its chip holdings sold off again a day before Nvidia's report; its year-to-date total return dropped to about 40.9%, from about 55% on Nov 11. ([source](https://chartrow.com/quote/soxx))
