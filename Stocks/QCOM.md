@@ -4,7 +4,7 @@ ticker: QCOM
 company: Qualcomm
 sector: Technology
 held_by: [SMH, SCHD]
-updated: 2026-11-23
+updated: 2026-11-24
 tags: [stock]
 ---
 
@@ -23,6 +23,7 @@ Designs chips and modems for smartphones, cars and PCs, and licenses wireless pa
 
 ## Recent news
 
+- **2026-11-24** — A confirmed Qualcomm close was not found; an FX Leaders headline grouped it with AMD, Micron and Intel as chipmakers slid while Trump weighs wider trade tariffs, and the VanEck Semiconductor ETF ([[SMH]]) closed down about 7% (Sell the News), with Reuters putting the Philadelphia Semiconductor Index down about 9.2% intraday as Monday's Nvidia-driven rally unwound. ([source](https://www.fxleaders.com/news/2026/11/24/md-micron-intel-qualcomm-slide-as-trump-weighs-wider-trade-tariffs/), [market](https://sellthenews.org/catalyx/market/2026-11-24), [Reuters](https://www.marketscreener.com/news/wall-street-set-for-lower-open-as-nvidia-fueled-ai-rally-fades-ce7851dbdb8fff26))
 - **2026-11-23** — Qualcomm rose about 10.3%, up $15.44 to $165.38, per a Seeking Alpha AI-generated closing recap, with no company-specific news as chip stocks rallied on Jensen Huang's return to Nvidia; GuruFocus said the move was about six times the stock's typical daily swing. ([source](https://seekingalpha.com/news/4675856-qualcomm-climbs-10-pulled-higher-by-broad-tech-rally), [GuruFocus](https://finance.yahoo.com/markets/stocks/articles/qualcomm-jumps-9-8-chip-170407596.html))
 - **2026-11-20** — Qualcomm traded near $159 per Tradingpedia, below its 7-, 20- and 50-day moving averages after a 24-hour range of about $159-171, as chip stocks sold off; the site described it as a low-volume pullback (closing figure not found). ([source](https://www.tradingpedia.com/2026/11/20/qualcomm-slides-toward-159-as-bearish-signals-build/))
 - **2026-11-19** — Qualcomm was among the few chip gainers as the sector reversed lower: TradingKey logged a 3.81% rise, crediting renewed focus on its auto, IoT and PC diversification plans, and JKN reported $169.52 (+6.08%) in an article published around 10:30 a.m. ET, so that figure may predate the afternoon selloff; the Philadelphia Semiconductor Index closed down 2.41% with 27 of its 30 members lower, per TradingKey. ([source](https://www.tradingkey.com/news/market-movers/262313573-market-movers-qcom-20261119))
@@ -34,7 +35,6 @@ Designs chips and modems for smartphones, cars and PCs, and licenses wireless pa
 - **2026-11-14** — A Motley Fool contributor argued the stock is inexpensive at roughly 18x forward earnings and under 10x management's fiscal 2029 EPS goal of more than $18, citing data-center revenue forecast above $650M in fiscal Q1 and a $7B annual run rate exiting fiscal 2027; he flagged the 26% handset decline and Apple's shift to in-house modems as the main risks. ([source](https://www.fool.com/investing/2026/11/14/qualcomm-is-cheap-enough-to-hold-through-2030/))
 - **2026-11-13** — Qualcomm closed down 3.55% ($6.29) at $170.85 per JKN, with no company-specific catalyst, as the chip and mobile-processor group repositioned; JKN noted Daiwa had raised its target to $200 from $180 and a consensus target near $185. ([source](https://news.jkn.co.kr/editions/english/post/1091954))
 - **2026-11-12** — Qualcomm rose 3.20% per TradingKey, bucking the slide in many chip names; TradingKey pointed to workforce cuts lowering costs and auto and edge-AI growth offsetting weak handsets, with no specific catalyst (closing price not found). ([source](https://www.tradingkey.com/news/market-movers/262302990-market-movers-qcom-20261112))
-- **2026-11-11** — Qualcomm rose about 3% during the session as chip stocks rallied broadly after CoreWeave's results, per a ChainCatcher/RootData tally (closing figure not found). ([source](https://www.kucoin.com/news/flash/chip-stocks-surge-in-us-market-marvell-tech-rises-8-1))
 
 ## Coming up
 
@@ -45,4 +45,4 @@ Designs chips and modems for smartphones, cars and PCs, and licenses wireless pa
 ## Bull case / bear case
 
 - **Bull:** Supporters (StoneX, TD Cowen, Rosenblatt Buy at $205, Daiwa at $200) cite fast non-handset growth: auto revenue rose 89% to a record $2B quarter, non-handset sales are expected to grow 60%+ in fiscal 2027, and management sees data center exiting fiscal 2027 at a $7B run rate. They also point to licensing renewals through fiscal 2030, the Starlink Mobile 5G win and savings from job cuts, and a Motley Fool contributor calls the ~18x forward multiple low against a fiscal 2029 EPS goal above $18.
-- **Bear:** Cautious analysts (Barclays and BofA Sell, Bernstein Hold at $155, Freedom Capital Hold at $185; UBS, JPMorgan, Goldman Sachs and Piper Sandler Neutral) point to a 26% handset revenue drop, the Apple modem wind-down, memory-cost inflation and lower QCT margin guidance of 20-22%. Trefis notes data-center revenue rests on two customers, MarketBeat's consensus is Hold, Baird cut its target after removing a ByteDance ASIC deal over export controls, coverage flags added debt from the $4B notes sale, and the Nov 23 rebound to about $165 came with no company-specific news.
+- **Bear:** Cautious analysts (Barclays and BofA Sell, Bernstein Hold at $155, Freedom Capital Hold at $185; UBS, JPMorgan, Goldman Sachs and Piper Sandler Neutral) point to a 26% handset revenue drop, the Apple modem wind-down, memory-cost inflation and lower QCT margin guidance of 20-22%. Trefis notes data-center revenue rests on two customers, MarketBeat's consensus is Hold, Baird cut its target after removing a ByteDance ASIC deal over export controls, coverage flags added debt from the $4B notes sale, and the Nov 23 rebound to about $165 came with no company-specific news before chip stocks reversed sharply on Nov 24 amid tariff worries.

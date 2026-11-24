@@ -4,7 +4,7 @@ ticker: AMZN
 company: Amazon
 sector: Consumer Discretionary
 held_by: [VUG, QQQ, IVV, SPY, VOO, VTI]
-updated: 2026-11-23
+updated: 2026-11-24
 tags: [stock]
 ---
 
@@ -27,6 +27,7 @@ Runs the largest US online store and AWS, the biggest cloud computing business.
 
 ## Recent news
 
+- **2026-11-24** — Amazon fell about 1.2% to $252.29 per Investing.com's closing table as the Nasdaq dropped 1.48%, while Anthropic, in which it owns about 14.7% (Motley Fool, citing the prospectus), closed at $81.91, down 6.5% and below its $83 IPO price; no Decart deal announcement was found. ([source](https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-086-5049102), [Fool](https://www.fool.com/investing/2026/11/24/which-magnificent-seven-stocks-win-from-anthropics-ipo/))
 - **2026-11-23** — Amazon closed up about 3.5% at $255.39 (financefeeds, citing CNBC data; Investing.com), lagging the Nasdaq's 6.5% gain, while Anthropic, in which it holds about 14.6%, slipped about 1.4% to $87.64. ([source](https://financefeeds.com/stock-market-today-nasdaq-jumps-6-5-percent-as-huang-returns/), [Investing.com](https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476))
 - **2026-11-21** — The Financial Times reported Saturday that Amazon's talks to buy Decart, a startup building real-time generative video and world models, had reached an advanced stage at a valuation of about $7.5B, with a deal possible as soon as this week though talks could still collapse (via GuruFocus). ([source](https://www.tradingview.com/news/gurufocus:38f879a86094b:0-amazon-stocks-rise-4-45-as-reported-7-5-billion-decart-deal-nears/), [background](https://www.techrepublic.com/article/news-amazon-decart-ai-acquisition-talks/))
 - **2026-11-20** — Amazon dropped about 4.1% to roughly $246.82 per Investing.com's quotes (TradingKey had it down 3.03% earlier) as the Nasdaq fell 5.28%, while Anthropic, in which Amazon holds about 14.6%, slid about 8.5% to near $88.91; TradingKey cited higher yields, AI capex near $220B and holiday-margin worries. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-193-5042683), [TradingKey](https://www.tradingkey.com/news/market-movers/262315882-market-movers-amzn-20261120))
@@ -38,7 +39,6 @@ Runs the largest US online store and AWS, the biggest cloud computing business.
 - **2026-11-17** — Amazon finished roughly flat, up about 0.05% at $257.89 per Investing.com's closing quotes, after Monday's 3% drop, while the S&P 500 fell 1.02% ahead of Nvidia's results. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
 - **2026-11-17** — UBS's Karl Keirstead started coverage at Buy with a $340 target, calling AWS's model- and chip-agnostic approach a defensive AI play, though he trimmed AWS growth estimates to 41% for Q4 2026 and 43% for 2027 (from 48%) and cut his 2027 AWS margin forecast to 40% from 45%. ([source](https://www.investing.com/news/analyst-ratings/ubs-initiates-amazon-stock-coverage-with-buy-rating-on-ai-outlook-93CH-5032606))
 - **2026-11-16** — Amazon fell about 3.2% (24/7 Wall St.'s quote: about $257.75) as the Nasdaq dropped 2.49% on chip and AI worries; TradingKey also cited rising Treasury yields, AWS capex and free-cash-flow concerns and holiday-spending caution, with an average analyst target near $323. ([source](https://www.tradingkey.com/news/market-movers/262307587-market-movers-amzn-20261116))
-- **2026-11-16** — A Seeking Alpha summary of Corvex Management's latest 13F said the fund increased its Amazon holdings while exiting Microsoft. ([source](https://seekingalpha.com/news/4673271-corvex-exits-microsoft-raises-holdings-in-amazoncom-cuts-stake-in-walt-disney))
 
 ## Coming up
 
@@ -51,4 +51,4 @@ Runs the largest US online store and AWS, the biggest cloud computing business.
 ## Bull case / bear case
 
 - **Bull:** Bulls (UBS Buy $340, JPMorgan naming it a top AI pick, Phillip Securities $330; TradingKey cites a ~$323 average target and a $405 high) point to AWS growth accelerating to 39%, a $578B AWS backlog, Anthropic's $110B minimum AWS commitment and a roughly 14.6% Anthropic stake still worth many times the $18B invested, plus guidance for 40%+ AWS growth in 2027-2028 and in-house Trainium chips; UBS calls AWS's model-agnostic approach a defensive AI play, and the FT reports Amazon is close to buying AI video startup Decart.
-- **Bear:** Critics cite the Q3 EPS and advertising misses, a $42.4B trailing free-cash-flow outflow with capex near $220B, the FTC and state ad-pricing suit, UBS trimming AWS growth and margin estimates, and target cuts at Citizens, Baird and BofA; Anthropic has slipped to near its $83 IPO price, the Nov 15 Vulcan failure that destroyed 40 Leo satellites raises risk to the 2029 deployment deadline (24/7 Wall St.), a fight over NYC's delivery-worker bill adds cost and regulatory risk, and shares lagged the Nov 23 tech rebound.
+- **Bear:** Critics cite the Q3 EPS and advertising misses, a $42.4B trailing free-cash-flow outflow with capex near $220B, the FTC and state ad-pricing suit, UBS trimming AWS growth and margin estimates, and target cuts at Citizens, Baird and BofA; Anthropic closed below its $83 IPO price on Nov 24, the Nov 15 Vulcan failure that destroyed 40 Leo satellites raises risk to the 2029 deployment deadline (24/7 Wall St.), a fight over NYC's delivery-worker bill adds cost and regulatory risk, and shares lagged the Nov 23 tech rebound.

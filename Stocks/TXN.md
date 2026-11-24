@@ -4,7 +4,7 @@ ticker: TXN
 company: Texas Instruments
 sector: Technology
 held_by: [SMH, SOXX, SCHD, VGT]
-updated: 2026-11-23
+updated: 2026-11-24
 tags: [stock]
 ---
 
@@ -25,6 +25,7 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 
 ## Recent news
 
+- **2026-11-24** — Texas Instruments closed down 7.58% at $269.11 per JKN (TradingKey put the drop at 9.04%), with JKN tying it partly to Analog Devices' disappointing outlook weighing on analog peers; Investing.com saw a pullback after Monday's ~12% jump and said no new company-specific negative news had emerged. ([source](https://news.jkn.co.kr/editions/english/post/1120085)) ([source](https://www.investing.com/news/stock-market-news/why-is-texas-instruments-stock-sliding-today-93CH-5048583))
 - **2026-11-23** — Texas Instruments closed up 11.80% ($31.12) at $294.87 per JKN, helped by an analyst upgrade and the broad chip rebound after Nvidia reinstated Jensen Huang. ([source](https://news.jkn.co.kr/editions/english/post/1117391))
 - **2026-11-23** — Cantor Fitzgerald's Matthew Prisco upgraded TI to Overweight from Neutral and lifted his target to $385 from $340, describing the analog cycle as an extended mid-cycle in which TI's supply capacity and broad catalog gain value; he sees 2028 EPS potentially above $15 vs. a $13.88 consensus but warned faster capacity expansion could weigh on free cash flow and gross margin. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/texas-instruments-stock-cantor-fitzgerald-turns-overweight/70547134))
 - **2026-11-20** — Shares fell 7.57%, per TradingKey, as the Philadelphia Semiconductor Index plunged 10.73% with all 30 members lower and the Nasdaq lost 5.28% after Reuters reported an SEC review of Nvidia's accounting; Investing.com, which put the midday low at $267.79, pointed mainly to the Commerce Department's new export-licensing rule for advanced AI chips, a break below the 50-day average and Aberdeen's stake cut. ([source](https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey), [Investing.com](https://www.investing.com/news/stock-market-news/why-is-texas-instruments-stock-sliding-today-93CH-5042376))
@@ -36,7 +37,6 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 - **2026-11-16** — Investing.com tied Monday's ~3.2% morning slide (session low $289.59) mainly to a new Commerce Department interim rule restricting remote access to advanced AI chips and requiring licenses for some reexports, plus de-risking before Nvidia's results, a weak Empire State manufacturing reading (7.8 vs. 16.7 expected) and Aberdeen's ~70% cut to its stake in Q3. ([source](https://www.investing.com/news/stock-market-news/why-is-texas-instruments-stock-sliding-today-93CH-5030476))
 - **2026-11-16** — TI said CEO Haviv Ilan will speak at the UBS Global Technology and AI Conference in Scottsdale on Dec 1 at 10:15 a.m. Mountain time. ([source](https://finviz.com/news/423406/ti-ceo-haviv-ilan-to-speak-at-ubs-investor-conference))
 - **2026-11-16** — Shares fell 3.21%, slightly worse than a 3.07% drop in tech-equipment stocks; TradingKey cited weak chip sentiment, customer destocking and slow factory-automation and auto demand, depreciation from the 300mm fab build, Asian price competition in standard analog parts and a valuation near 40x trailing earnings, with a past-month average target near $326 (range $188-$400). Closing price not found. ([source](https://www.tradingkey.com/news/market-movers/262307368-market-movers-txn-20261116))
-- **2026-11-13** — Shares fell 3.45% ($10.79) to close at $301.69 as chip stocks retreated; JKN said investors viewed the stock as fully valued after its recent embedded-AI product news and cited lingering inventory adjustments at industrial customers and macro uncertainty. ([source](https://news.jkn.co.kr/editions/english/post/1091956))
 
 ## Coming up
 
@@ -46,5 +46,5 @@ Makes analog and embedded chips used in cars, factories and electronics; known f
 
 ## Bull case / bear case
 
-- **Bull:** Cantor Fitzgerald upgraded to Overweight ($385) on Nov. 23, citing an extended analog mid-cycle, TI's supply capacity and 2028 EPS potentially above $15, and JPMorgan (Overweight) lifted its target to $365; supporters also cite AI data-center and industrial demand, an operating margin that rebounded to 47.6% in fiscal Q3 (per Trefis), the planned Silicon Labs deal and new agentic-AI software tools, and the stock rose 11.8% on Nov. 23.
-- **Bear:** Critics point to a valuation near 38x-40x trailing earnings (up from about 24x in 2021 while EPS is slightly lower, per Trefis), heavy fab capex weighing on free cash flow (a risk Cantor also flags), added acquisition debt, flat sequential Q4 guidance, slow auto and industrial demand, Asian price competition and institutional selling; Goldman Sachs rates it Sell ($250), and the stock has swung sharply, with a 7.6% drop on Nov. 20 after declines of about 11% on Nov. 5.
+- **Bull:** Cantor Fitzgerald upgraded to Overweight ($385) on Nov. 23, citing an extended analog mid-cycle, TI's supply capacity and 2028 EPS potentially above $15, and JPMorgan (Overweight) lifted its target to $365; supporters also cite AI data-center and industrial demand, an operating margin that rebounded to 47.6% in fiscal Q3 (per Trefis), the planned Silicon Labs deal and new agentic-AI software tools.
+- **Bear:** Critics point to a valuation near 38x-40x trailing earnings (up from about 24x in 2021 while EPS is slightly lower, per Trefis), heavy fab capex weighing on free cash flow (a risk Cantor also flags), added acquisition debt, flat sequential Q4 guidance, slow auto and industrial demand, Asian price competition and Goldman's Sell ($250); [[ADI]]'s cautious Nov. 24 outlook hit analog sentiment, and the stock has swung sharply (+11.8% on Nov. 23, -7.6% on Nov. 24).

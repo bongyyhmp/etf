@@ -4,7 +4,7 @@ ticker: AMAT
 company: Applied Materials
 sector: Technology
 held_by: [SMH, SOXX]
-updated: 2026-11-23
+updated: 2026-11-24
 tags: [stock]
 ---
 
@@ -23,6 +23,7 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 
 ## Recent news
 
+- **2026-11-24** — Applied Materials closed down 5.32% at $328.41 per JKN (StockStory put the drop at 6.4%), giving back part of Monday's 13% gain as chip-equipment stocks cooled; JKN found no company-specific catalyst. ([source](https://news.jkn.co.kr/editions/english/post/1120099)) ([source](https://stockstory.org/us/stocks/nasdaq/amat/news/why-up-down/applied-materials-amd-intel-kla-corporation-and-lam-research-shares-plummet-what-you-need-to-know))
 - **2026-11-23** — Applied Materials closed up 13.01% ($39.37) at $342.00 per JKN, recovering most of Friday's drop as chip stocks rebounded after Nvidia reinstated Jensen Huang; JKN cited interest in tools for high-bandwidth memory and advanced memory production and found no company-specific announcement. ([source](https://news.jkn.co.kr/editions/english/post/1117378))
 - **2026-11-20** — Shares sank about 11%, trading near $301.66 in the final minutes (down roughly $37, per an AI-generated Seeking Alpha recap; TradingKey put the drop at 10.75%), as the Philadelphia Semiconductor Index plunged 10.73% with all 30 members lower and the Nasdaq lost 5.28%; Nvidia fell about 13%-14% after Reuters reported SEC enforcement staff are reviewing possible accounting issues there, and Anthropic's post-IPO slide, new Commerce export-licensing rules and rate-hike talk added pressure. ([source](https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey), [Seeking Alpha](https://seekingalpha.com/news/4675327-applied-materials-sinks-11-percent-amid-broad-chip-stock-pullback))
 - **2026-11-19** — Shares jumped about 4.2% before the open as chip stocks rallied on Anthropic's record IPO, and Bernstein named Applied its top U.S. pick among four Outperform-rated equipment stocks while lifting its wafer-fab equipment forecasts to $217B for 2027 and $279B for 2028; the stock went ex-dividend for its $0.53 quarterly payout. ([source](https://finwire.io/news/stock-markets-news/why-is-applied-materials-stock-rallying-today-4))
@@ -34,7 +35,6 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 - **2026-11-16** — TradingKey tied the drop to management's view that China will fall below 25% of sales (from peaks near 30%) on export controls and local competitors, clean-room and supply limits on tool installs, and worries that budgets may shift toward lithography; it put the past-month average target near $625 (range $308-$900). ([source](https://www.tradingkey.com/news/market-movers/262307269-market-movers-amat-20261116))
 - **2026-11-13** — Shares fell 4.25% ($16.19) to close at $364.76 the day after the beat-and-raise, as chip and Nasdaq stocks retreated and brokers trimmed targets; JKN also cited valuation worries and caution about the capex cycle, and the stock is below its 200-day average. ([source](https://news.jkn.co.kr/editions/english/post/1091946))
 - **2026-11-13** — At least 10 firms cut price targets while most kept Buy-type ratings; Jefferies went to $580 from $770 (Buy). Coverage said the fiscal Q1 guide's $11.1B midpoint, for a 14-week quarter held back by supply limits, fell short of the $11.41B analyst figure TIKR cited (other outlets had consensus near $10.85-10.89B), while Morningstar lifted its fair value to $570 from $520 and called AI worries overblown. ([source](https://www.tikr.com/blog/applied-materials-sinks-6-after-record-quarter-as-10-analysts-cut-targets-morningstar-calls-ai-worries-overblown))
-- **2026-11-13** — Summit Insights (Kinngai Chan) cut the stock to Hold from Buy, arguing that limited clean-room space will cap tool installs and that 2027 budgets may tilt toward ASML lithography rather than Applied's etch and deposition gear; it did not cite weaker demand. ([source](https://www.tikr.com/blog/applied-materials-is-47-off-its-high-summit-insights-downgraded-it-and-its-not-about-demand))
 
 ## Coming up
 
@@ -42,5 +42,5 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 
 ## Bull case / bear case
 
-- **Bull:** Fiscal Q4 beat on revenue ($10.41B, +53%) and EPS ($4.16), the fiscal Q1 guide ($11.10B, $4.35) topped published consensus, management expects wafer-fab equipment spending to grow more than 30% in 2027, and record free cash flow funds $2B of quarterly buybacks; Bernstein named it its top U.S. equipment pick and raised its 2027-28 equipment-spending forecasts, Morningstar lifted fair value to $570, most brokers kept Buy-type ratings (consensus near $562 per 24/7 Wall St.), and shares jumped 13% on Nov. 23 on HBM-tool interest and the chip rebound.
-- **Bear:** The stock remains well below its high after swinging from an ~11% drop on Nov. 20 to a 13% gain on Nov. 23, showing sensitivity to AI-spending sentiment, export rules and Nvidia headlines; at least 10 firms cut targets after earnings, Summit Insights downgraded to Hold on clean-room limits and a possible budget shift toward ASML lithography, management sees China falling below 25% of sales, supply constraints held back the guide, and Trefis flagged a ~9x price-to-sales multiple.
+- **Bull:** Fiscal Q4 beat on revenue ($10.41B, +53%) and EPS ($4.16), the fiscal Q1 guide ($11.10B, $4.35) topped published consensus, management expects wafer-fab equipment spending to grow more than 30% in 2027, and record free cash flow funds $2B of quarterly buybacks; Bernstein named it its top U.S. equipment pick, Morningstar lifted fair value to $570, and most brokers kept Buy-type ratings (consensus near $562 per 24/7 Wall St.).
+- **Bear:** The stock remains well below its high and swings with AI-spending sentiment (about -11% on Nov. 20, +13% on Nov. 23, -5% to -6% on Nov. 24); at least 10 firms cut targets after earnings, Summit Insights downgraded to Hold on clean-room limits and a possible budget shift toward ASML lithography, management sees China falling below 25% of sales, supply constraints held back the guide, and Trefis flagged a ~9x price-to-sales multiple.

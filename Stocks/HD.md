@@ -4,7 +4,7 @@ ticker: HD
 company: Home Depot
 sector: Consumer Discretionary
 held_by: [SCHD, VTV]
-updated: 2026-11-23
+updated: 2026-11-24
 tags: [stock]
 ---
 
@@ -23,6 +23,7 @@ Runs the largest U.S. home-improvement store chain, selling tools, building mate
 
 ## Recent news
 
+- **2026-11-23** — Home Depot said new CEO Richard McPhail will present at the Morgan Stanley Global Consumer & Retail Conference on Dec 1 at 8:45 a.m. ET, with a live webcast on its investor site. ([source](https://www.prnewswire.com/news-releases/the-home-depot-to-present-at-the-morgan-stanley-global-consumer--retail-conference-302947261.html))
 - **2026-11-23** — Richard McPhail took over as CEO from Ted Decker, who stays chairman; Ad-hoc News noted the next quarterly report is scheduled for Feb 23, 2027, as the euro listing traded slightly lower early Monday. ([source](https://www.ad-hoc-news.de/boerse/news/vorboerse/home-depot-stock-slips-0-31-prozent-to-eur-311-78-before-xetra/70545685))
 - **2026-11-23** — Guggenheim kept Buy but lowered its target to $400 from $425, saying higher-than-expected input costs, fuel among them, modestly dent its 2027 view (Investing.com, which referenced shares at $339.04); no U.S. close was found as the Dow rose 3.01%. ([source](https://ca.investing.com/news/stock-market-news/guggenheim-cuts-home-depot-stock-price-target-on-cost-pressures-93CH-4975596), [market](https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476))
 - **2026-11-20** — Shares rose about 3.0% (close not given), bucking a selloff that sent the S&P 500 down 3.7% as most stocks outside tech gained; TradingKey credited lower Treasury yields and steadier mortgage rates that could revive deferred remodeling, plus resilient Pro demand, put the one-month average target near $372.86 and noted JPMorgan, Evercore ISI, Mizuho and RBC trimmed targets after earnings. ([source](https://www.tradingkey.com/news/market-movers/262315623-market-movers-hd-20261120), [market](https://vinnews.com/2026/11/20/sp-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/))
@@ -34,10 +35,10 @@ Runs the largest U.S. home-improvement store chain, selling tools, building mate
 - **2026-11-17** — CFO Richard McPhail will become CEO on Nov 23, succeeding Ted Decker, who has returned from medical leave and stays chairman; Ann-Marie Campbell is incoming president and COO. Shares fell about 2.7% as investors focused on the profit outlook (implied adjusted EPS near $14.98 vs. ~$15.05 expected, per Coinpaper) and a chilled housing market, on a day the Dow lost 1.64%. On the call McPhail said early-November trends fit guidance and Pro outpaced DIY, while SRS's organic outlook was cut to low single digits on roofing weakness; Telsey (Outperform, $410), TD Cowen (Buy, $410) and Truist (Buy) reiterated. ([source](https://www.wsmv.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/), [Coinpaper](https://coinpaper.com/38966/home-depot-stock-drops-3-despite-43-4-b-revenue-beat-as-profit-outlook-disappoints), [call](https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-said-q3-171420676.html), [Telsey](https://www.investing.com/news/analyst-ratings/telsey-reiterates-home-depot-stock-rating-on-q3-beat-ceo-change-93CH-5033195), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
 - **2026-11-16** — Shares were about 0.6% higher in early Lang & Schwarz trading in Germany on the eve of Tuesday's report; Stocks Today said the stock has gained about 18% in 30 days and options imply a post-earnings move of a little over 5%, as the broader market sold off on tech weakness. ([source](https://www.ad-hoc-news.de/boerse/news/vorboerse/home-depot-stock-gains-0-58-prozent-to-eur-317-13-before-earnings/70519691), [Stocks Today](https://stockstoday.com/rotation-not-panic-retailers-test-where-techs-money-went/))
 - **2026-11-14** — A TradingKey preview put Q3 consensus at $3.87 adjusted EPS (up about 3.5%) on $42.72B of revenue (up 3.3%), with customer transactions expected to slip to about 391M while average ticket rises to about $92.24; it flagged support near $344.31 and resistance near $362.18 after a nearly 20% run. ([source](https://www.tradingkey.com/analysis/stocks/us-stocks/262304274-home-depot-stock-344-31-support-20-percent-run-into-q3-earnings-november-14-2026-tradingkey))
-- **2026-11-13** — Stifel analyst W. Andrew Carter downgraded Lowe's to Sell and stayed cautious on Home Depot before its report: while he sees HD's Pro platform as stronger, he flagged a softer second-half 2026 backdrop, margin pressure in fiscal 2027-28, DIY weakness and competition (his checks found the same items about 3% cheaper on average at Amazon, Costco and Walmart), modeled fiscal 2026 EPS of $14.95, a bit under consensus, and noted HD has climbed about 25% since Oct. 7 to the 96th percentile of its five-year relative valuation. ([source](https://finwire.io/news/stock-markets-news/stifel-downgrades-lowes-to-sell-stays-cautious-on-home-depot-ahead-of-earnings))
 
 ## Coming up
 
+- **2026-12-01** — CEO Richard McPhail presents at the Morgan Stanley Global Consumer & Retail Conference, 8:45 a.m. ET (webcast)
 - **2026-12-03** — record date for the $2.33 quarterly dividend
 - **2026-12-17** — dividend payment date
 - **2027-02-23** — Q4 FY2026 earnings (date cited by Ad-hoc News)

@@ -4,7 +4,7 @@ ticker: MRVL
 company: Marvell Technology
 sector: Technology
 held_by: []
-updated: 2026-11-23
+updated: 2026-11-24
 tags: [stock]
 ---
 
@@ -20,6 +20,7 @@ Designs data-infrastructure chips: custom AI chips, networking and storage contr
 
 ## Recent news
 
+- **2026-11-24** — Marvell slid as chip stocks retreated from Monday's rally on Huang's return to Nvidia: StockStory had it down 10.6% at $130.29 in the morning, and Wisevoter reported it more than 6% lower, citing renewed congressional scrutiny of Nvidia's leadership and profit-taking (closing figure not found); StockStory noted the stock sits about 59% below its $316.43 June high. ([source](https://stockstory.org/us/stocks/nasdaq/mrvl/news/why-up-down/why-marvell-technology-stock-is-nosediving), [Wisevoter](https://wisevoter.com/world/us/2026/11/24/marvell-nvidia-shares-fall-congressional-scrutiny))
 - **2026-11-23** — Marvell closed up about 18.4% at $144.74 per Investing.com's closing table (Seeking Alpha had it up about 19% by late morning) as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO; Trefis said it had fallen 11.7% on Friday with no company news, that data centers were 79% of fiscal Q2 revenue, and that the stock lost about 45% over the past month. ([source](https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476), [Trefis](https://www.trefis.com/stock/mrvl/articles/627782/what-triggered-the-drop-in-marvell-stock/2026-11-23))
 - **2026-11-20** — Marvell was down about 9.2% at 2:09 p.m. ET per StockAnalysis, falling with AMD, Micron and Broadcom as the chip index slid about 8% in the AI selloff (closing figure not confirmed). ([source](https://stockanalysis.com/news/broadcom-falls-google-tpu-cut-mediatek/))
 - **2026-11-19** — Marvell gained 4-5% before the open with other chipmakers on Anthropic's record IPO, per Investing.com, then ended down about 4.0% per TradingKey as the AI-hardware trade reversed; TradingKey cited rate worries, margin concerns from lower-margin custom chips and the continuing Lumentum deal overhang. ([source](https://www.investing.com/news/stock-market-news/global-chip-stocks-rally-as-anthropics-record-ipo-boosts-confidence-in-ai-trade-5038371)) ([source](https://www.tradingkey.com/news/market-movers/262313884-market-movers-mrvl-20261119))
@@ -31,7 +32,6 @@ Designs data-infrastructure chips: custom AI chips, networking and storage contr
 - **2026-11-16** — Marvell closed down 7.41% ($11.61) at $145.15 per JKN amid profit-taking in networking and optical-interconnect names, with no confirmed company-specific negative; JKN noted Arete raised its target to $323 from $300 and Marvell announced a collaboration with Penguin Solutions. ([source](https://news.jkn.co.kr/editions/english/post/1099781))
 - **2026-11-16** — GuruFocus tied the drop partly to a Wall Street Journal report, via The Next Web, that interim Nvidia CEO Colette Kress is expected to rein in Nvidia's financing of the AI industry (Nvidia invested $2B in Marvell in March), and said the stock is about 42% below the roughly $252 per-share level implied when the Lumentum deal was struck. ([source](https://www.tradingview.com/news/gurufocus:7177b6226094b:0-marvell-stocks-slide-6-88-as-nvidia-financing-pullback-report-hits-ai-connectivity-bet/))
 - **2026-11-13** — Marvell closed down 5.33% ($8.76) at $155.69 per JKN, with no newly confirmed negative catalyst; JKN pointed to profit-taking after the rally alongside Lumentum and attention on the deal spread, which had reportedly widened to about 19.7%. ([source](https://news.jkn.co.kr/editions/english/post/1091943))
-- **2026-11-12** — Marvell fell with other Nvidia-backed partners after Jensen Huang's resignation, down about 3.4% early and about 2.5% later in the session (closing figure not found); William Blair's Sebastien Naji said existing contracts should survive a CEO change but the next round of deals is at risk. Nvidia's Marvell stake was worth $2B when made, and Bloomberg had reported Huang backed the Lumentum deal. ([source](https://blockonomi.com/what-jensen-huangs-exit-means-for-nvidias-stakes-in-intel-and-marvell/))
 
 ## Coming up
 
@@ -41,4 +41,4 @@ Designs data-infrastructure chips: custom AI chips, networking and storage contr
 ## Bull case / bear case
 
 - **Bull:** Analysts (Piper Sandler, Jefferies, Arete at $323; MarketBeat consensus Moderate Buy) and Morningstar cite AI custom-chip and optical demand and a strong fit with Lumentum's lasers; management promises first-year EPS accretion, more than $1B in cost synergies and a $70-90B fiscal 2031 revenue goal, the CFO plans buybacks to offset dilution, Huang's Nov 23 return as Nvidia CEO addressed the leadership change William Blair had flagged for partner deals, and the Dec. 1 fiscal Q3 report lets management update a forecast of roughly 75% data-center growth (Trefis).
-- **Bear:** BofA and TD Cowen downgraded and several firms cut targets over dilution from the all-stock Lumentum deal, which analysts cited by Bloomberg give roughly even odds of closing; 24/7 Wall St. lists dilution, regulatory and integration risk, a WSJ report says Nvidia may pull back on AI financing, TradingKey flags margin dilution from custom ASICs, and Trefis notes about 11.6x sales and a roughly 45% one-month drop, with the 18% Nov 23 rebound driven by Nvidia's CEO news rather than company news.
+- **Bear:** BofA and TD Cowen downgraded and several firms cut targets over dilution from the all-stock Lumentum deal, which analysts cited by Bloomberg give roughly even odds of closing; 24/7 Wall St. lists dilution, regulatory and integration risk, a WSJ report says Nvidia may pull back on AI financing, TradingKey flags margin dilution from custom ASICs, and Trefis notes about 11.6x sales and a roughly 45% one-month drop, with the 18% Nov 23 rebound driven by Nvidia's CEO news rather than company news and partly reversed on Nov 24 (StockStory).

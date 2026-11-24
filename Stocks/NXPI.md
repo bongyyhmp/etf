@@ -4,7 +4,7 @@ ticker: NXPI
 company: NXP Semiconductors
 sector: Technology
 held_by: [SOXX]
-updated: 2026-11-23
+updated: 2026-11-24
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Dutch chipmaker focused on automotive and industrial chips.
 
 ## Recent news
 
+- **2026-11-24** — GuruFocus ran a headline tying a decline in NXP shares to the chip-sector selloff (figure not retrieved), as analog peers slumped: [[ADI]] fell 17.4% to $312.95 (Investing.com) despite record Q4 results, with Q1 revenue guidance above consensus but EPS guidance slightly below (KuCoin summary), and [[TXN]] fell about 9.0%, which TradingKey linked to prolonged industrial and automotive demand weakness. ([source](https://www.gurufocus.com/news/9218288/why-is-nxp-nxpi-stock-down-today-chip-sector-selloff-drags-shares), [ADI](https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-086-5049102), [ADI results](https://www.kucoin.com/news/flash/analog-devices-stock-drops-17-despite-strong-q4-earnings-and-revenue-growth), [TXN](https://www.tradingkey.com/news/market-movers/262320446-market-movers-txn-20261124))
 - **2026-11-23** — A confirmed NXP close was not found, but chip stocks surged after Nvidia's board reinstated Jensen Huang as CEO: the Philadelphia Semiconductor Index was up about 13.4% at midday (Korea Times), and analog peer Analog Devices was up about 11.6% early in the session per a Seeking Alpha list of rallying names. ([source](https://www.koreatimes.co.kr/world/20261124/wall-st-roars-back-as-jensen-huang-returns-to-nvidia-as-ceo), [peers](https://www.tradingview.com/news/seekingalpha:4afe873bb094b:0-nasdaq-surges-7-on-huang-s-return-to-nvidia-and-these-20-names-are-rallying-alongside/))
 - **2026-11-20** — Shares fell about 4.3% per StockStory, a far smaller drop than the Philadelphia Semiconductor Index's 10.73% plunge (TradingKey); StockStory cited Anthropic's continued post-IPO slide, Fed Governor Cook's rate-hike warning, Trump's threatened penalties on overseas U.S. data-center builds and new Commerce export-licensing rules, while Nvidia sank about 13%-14% on a Reuters report of an SEC accounting review. ([source](https://stockstory.org/us/stocks/nasdaq/nxpi/news/why-up-down/nxp-semiconductors-universal-display-skyworks-solutions-and-cirrus-logic-shares-are-falling-what-you-need-to-know))
 - **2026-11-19** — NXP declared a $1.014-per-share interim dividend for Q4 2026 (board approval Nov 18), payable Jan 7, 2027 to holders of record on Dec 9. ([source](https://www.tipranks.com/news/company-announcements/nxp-semiconductors-announces-fourth-quarter-2026-interim-dividend))
@@ -33,11 +34,10 @@ Dutch chipmaker focused on automotive and industrial chips.
 - **2026-11-11** — EVP Andrew Hardy sold 1,643 shares at an average of about $266.49 (~$438K) under a pre-arranged 10b5-1 plan, leaving him about 4,064 shares; MarketBeat's consensus stays Moderate Buy with a ~$296 average target (reported Nov 13). ([source](https://www.thecerbatgem.com/2026/11/13/nxp-semiconductors-nasdaqnxpi-evp-sells-1643-shares-of-stock.html))
 - **2026-11-10** — NXP and Lattice Semiconductor (not in the vault) introduced a joint PCIe companion solution pairing NXP's i.MX 95 processor with Lattice FPGAs for industrial automation, robotics and edge systems, available now for design-in; ad-hoc-news said it carries no near-term financial impact, and euro-quoted shares were about 2% higher during Wednesday's session. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/nxp-semiconductors-stock-adds-industrial-edge-path-with-lattice/70493684))
 - **2026-11-09** — NXP launched a unified robotics platform for physical AI built on its Neural Axis architecture, with an open-source SDK and drone reference designs available now (PX4, Zephyr, ROS 2); support for service robots and autonomous mobile robots is due in the second half of 2027. No revenue or customer figures were given. ([source](https://www.stocktitan.net/news/NXPI/nxp-unveils-unified-robotics-platform-to-speed-trusted-physical-ai-x2nzvvgk3bzi.html))
-- **2026-11-06** — Microcontroller and analog rival Microchip Technology fell about 13% by midday after analysts cut forecasts on its results and outlook, even as most chip stocks rebounded. ([source](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026))
 
 ## Coming up
 
-- **2026-11-24** — expected closing of the EUR 1B senior notes offering
+- **2026-11-24** — expected closing of the EUR 1B senior notes offering (completion not yet confirmed in sources)
 - **2026-12-09** — record date for the $1.014 interim dividend
 - **2027-01-07** — dividend payment date
 - **Early February 2027** — Q4 2026 earnings (estimated; not confirmed)
@@ -46,4 +46,4 @@ Dutch chipmaker focused on automotive and industrial chips.
 ## Bull case / bear case
 
 - **Bull:** Q3 delivered about 19% revenue growth, record auto revenue and a $5B buyback, and the quarterly dividend stays at $1.014; StoneX initiated at Buy ($340), Cantor (Overweight, $400) and Truist (Buy, $300) remain positive, MarketBeat's consensus is Moderate Buy (average target about $296), software-defined-vehicle revenue is tracking toward a $2B 2027 goal and 2026 data-center sales are expected to top $500M, and its less AI-heavy mix meant a smaller drop (about 4%) than the chip index on Nov 20.
-- **Bear:** Q4 revenue guidance (about $3.85B midpoint) landed slightly under consensus, Stifel, Morgan Stanley and Truist trimmed targets, a shrinking mobile business was flagged, and peer Microchip's weak outlook revived questions about industrial and auto demand; coverage called the robotics launch strategic rather than a near-term revenue driver, insiders sold small stakes in November, the new EUR 1B bond adds debt, and shares have moved with chip-sector sentiment, including about 4.3% lower on Nov 20 amid AI-spending doubts and new export rules before the sector's Nov 23 rebound.
+- **Bear:** Q4 revenue guidance (about $3.85B midpoint) landed slightly under consensus, Stifel, Morgan Stanley and Truist trimmed targets, a shrinking mobile business was flagged, and peer Microchip's weak outlook revived questions about industrial and auto demand; coverage called the robotics launch strategic rather than a near-term revenue driver, insiders sold small stakes in November, the new EUR 1B bond adds debt, and shares have moved with chip-sector sentiment, including about 4.3% lower on Nov 20 amid AI-spending doubts and new export rules before the sector's Nov 23 rebound, and analog peers ADI (-17%) and TXN (-9%) slumped on Nov 24, with TradingKey citing a prolonged industrial and auto demand trough.

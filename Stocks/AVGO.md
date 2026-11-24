@@ -4,7 +4,7 @@ ticker: AVGO
 company: Broadcom
 sector: Technology
 held_by: [SOXX, SMH, XLK, VGT, VUG, IVV, SPY, VOO, VTI]
-updated: 2026-11-23
+updated: 2026-11-24
 tags: [stock]
 ---
 
@@ -30,6 +30,7 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 
 ## Recent news
 
+- **2026-11-24** — Broadcom finished down 3.98% in Stock Titan's closing tally as AI chip stocks retreated; GuruFocus, which quoted it at $301.08 midmorning, said Ming-Chi Kuo's unconfirmed report of a possible ~20% cut in Google's 2027 TPU 8i orders still clouds the outlook, while putting its GF Value near $458. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026)) ([source](https://www.tradingview.com/news/gurufocus:c5ba9cb4f094b:0-broadcom-stocks-fall-3-98-as-google-tpu-order-report-clouds-ai-outlook/))
 - **2026-11-23** — Broadcom closed up 3.00%, per the Seoul Economic Daily's tally, a far smaller bounce than the ~14% gain in the Philadelphia chip index after Jensen Huang returned to Nvidia; it had opened at $320.86 and touched $324.46 before fading, per FinanceFeeds. ([source](https://en.sedaily.com/world/2026/11/24/nvidia-soars-315-percent-on-jensen-huangs-return-sk-hynix)) ([source](https://financefeeds.com/broadcom-avgo-stock-rebounds-2-as-nvidia-rally-eases-google-tpu-selloff/))
 - **2026-11-23** — GuruFocus tied the muted rebound to Ming-Chi Kuo's Friday report that Google may trim 2027 TPU 8i orders by about 20% in favor of MediaTek's TPU 8t, while equipment names such as Applied Materials and Lam Research rose about 15%; Google and Broadcom have not commented. ([source](https://www.tradingview.com/news/gurufocus:c56f6bac2094b:0-broadcom-stocks-rise-2-76-but-lag-chip-rally-after-google-tpu-cut-report/))
 - **2026-11-20** — Broadcom closed down just over 12% ($42) at $304.65 as the AI-chip selloff deepened and a report on Google's TPU plans added pressure. ([source](https://www.tokenpost.com/news/business/62338))
@@ -41,7 +42,6 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 - **2026-11-17** — Broadcom rose 2.46% to $341.60 per Investing.com's closing quotes, gaining while the S&P 500 fell about 1% and the Dow 1.6%. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
 - **2026-11-17** — Benzinga tied the gain to investors favoring alternatives to Nvidia amid its leadership uncertainty, quoting a Manulife strategist on openings for other chipmakers; it put consensus at Buy with an average target near $508 and Dec 9 estimates at about $34.89B revenue and $3.81 EPS. ([source](https://www.tradingview.com/news/benzinga:eec55a403094b:0-broadcom-stock-is-up-tuesday-ai-chip-diversification-dec-9-earnings-analyst-targets/))
 - **2026-11-17** — BigGo Finance said reports that Anthropic's IPO could price above its $70-78 range helped lift Broadcom, Marvell and Arm in early trading. ([source](https://finance.biggo.com/news/e0c1bf46-a63f-48e9-81f9-b54a392cd4d5))
-- **2026-11-16** — Broadcom closed down 4.84% ($16.78) at $330.23 per JKN, a second straight drop, as reports of tighter U.S. chip-export rules hit the sector; JKN noted little company-specific news. ([source](https://news.jkn.co.kr/editions/english/post/1099801))
 
 ## Coming up
 
@@ -49,5 +49,5 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 
 ## Bull case / bear case
 
-- **Bull:** Goldman Sachs (Buy, target trimmed to $460 on Nov. 18) names Broadcom a top pick, GuruFocus sees it well below its GF Value and Benzinga cites a Buy consensus near $508; supporters point to surging AI semiconductor revenue (fiscal Q4 guide ~$21.7B) and its Anthropic stake, Hock Tan said in September the Google relationship had never been stronger, and Kuo says Google's TPU plans are not final.
-- **Bear:** Kuo's report that Google may cut 2027 TPU 8i shipments by about 20% in favor of MediaTek kept Broadcom to a ~3% gain on Nov. 23 while chip peers jumped far more, sharpening worries about customer concentration; Rothschild & Co Redburn (Neutral, $398) and William Blair flag valuation, Huang's return to Nvidia may blunt the custom-chip share-gain argument, and reports cite Anthropic-related lending exposure, gross margin guided to about 73%, VMware friction and export rules ahead of Dec. 9 results.
+- **Bull:** Goldman Sachs (Buy, $460) names Broadcom a top pick, Benzinga cites a Buy consensus near $508 and GuruFocus sees its GF Value (~$458) well above the share price; supporters point to AI semiconductor revenue up 221% to $16.7B in fiscal Q3 with a ~$21.7B fiscal Q4 guide, its Anthropic stake, and Kuo's own caveat that Google's TPU plans are not final.
+- **Bear:** Kuo's report that Google may cut 2027 TPU 8i shipments by about 20% in favor of MediaTek has kept Broadcom lagging (up ~3% on Nov. 23, down ~4% on Nov. 24), sharpening customer-concentration worries; Rothschild & Co Redburn (Neutral, $398) and William Blair flag valuation (GuruFocus estimates ~10x forward sales), and coverage cites Anthropic-related lending exposure, a ~73% gross-margin guide, VMware friction and export rules ahead of Dec. 9 results.
