@@ -4,18 +4,18 @@ ticker: SMH
 issuer: VanEck
 aum: $75B
 expense_ratio: 0.35%
-return_ytd: 27.8
-return_1y: 41.5
-data_as_of: 2026-11-23
+return_ytd: 18.5
+return_1y: 26.2
+data_as_of: 2026-11-24
 tags: [etf]
 ---
 
 # SMH — VanEck Semiconductor ETF
 
-> [!info] Snapshot (as of Nov 23, 2026)
+> [!info] Snapshot (as of Nov 24, 2026)
 > **Tracks:** MVIS US Listed Semiconductor 25  
 > **Issuer:** VanEck · **Assets:** $75B · **Expense ratio:** 0.35%  
-> **Return:** +27.8% this year · +41.5% over 1 year (dividends reinvested)  
+> **Return:** +18.5% this year · +26.2% over 1 year (dividends reinvested)  
 > **Holdings:** 25 stocks · top 10 ≈ 69% of the fund
 
 ## Top 10 holdings
@@ -41,6 +41,7 @@ tags: [etf]
 
 ## News log
 
+- **2026-11-25** — Gave back much of Monday's rally (sparked by Nvidia reinstating Jensen Huang as CEO) on Nov 24: ChartRow's Nov 24 close puts the fund's year-to-date total return at 18.5%, down from 27.8% a day earlier, implying a one-day drop of roughly 7%. Holdings Analog Devices (-17.4%), Micron (-11.0%), AMD (-8.9%), Nvidia (-5.9%) and Broadcom (-4.0%) all fell. On Nov 25 Nvidia slid another 3.9% and Micron 4.5%, while AMD (-1.8%) and Broadcom (about flat) held up better as the market recovered most of a sharp morning drop. IG estimates the fund took in about $4.6B from Oct 7 to Nov 23. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026), [Nov 25](https://www.stocktitan.net/articles/stock-market-today-live-november-25-2026), [returns](https://chartrow.com/lists/biggest-etfs), [flows](https://www.ig.com/en-ch/news-and-trade-ideas/tech-sell-off-investor-sentiment-vix-etf-flows-261125))
 - **2026-11-20** — Closed out a week down roughly 17-18%, per Yahoo Finance, which put Friday's drop at close to 8%; ChartRow's closing data show a 10.6% fall to $400.06. Top holding Nvidia closed down about 14% at $125.53 and Broadcom about 12%. ([source](https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-ends-worst-week-013025833.html), [close](https://chartrow.com/quote/smh), [stocks](https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-stocks-plunge-as-ai-trade-unwinds/))
 - **2026-11-20** — Chip stocks sold off sharply amid worries that AI spending and valuations have run ahead of returns: the PHLX Semiconductor Index was down about 8.3% in late-afternoon trading, with holdings Broadcom (-11.5%), AMD (-10.9%) and top holding Nvidia (-7%) among the decliners. ([source](https://www.inquirer.com/business/stock-market-sp-correction-ai-nvidia-anthropic-loss-20261120.html))
 - **2026-11-18** — Top holding Nvidia (about 19% of the fund) gave back its post-earnings gain and closed down about 2.9% near $151, while fellow holdings AMD (+5.3%) and Broadcom (+3.6%) rose as investors rotated toward Nvidia alternatives. ([source](https://www.techi.com/nvidia-stock-falls-day-after-earnings-ten-report-record/))

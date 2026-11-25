@@ -4,18 +4,18 @@ ticker: SPY
 issuer: State Street SPDR
 aum: $781B
 expense_ratio: 0.0945%
-return_ytd: 6.7
-return_1y: 10.8
-data_as_of: 2026-11-23
+return_ytd: 6.2
+return_1y: 8.6
+data_as_of: 2026-11-24
 tags: [etf]
 ---
 
 # SPY — SPDR S&P 500 ETF Trust
 
-> [!info] Snapshot (as of Nov 23, 2026)
+> [!info] Snapshot (as of Nov 24, 2026)
 > **Tracks:** S&P 500 (the oldest US ETF, launched 1993)  
 > **Issuer:** State Street SPDR · **Assets:** $781B · **Expense ratio:** 0.0945%  
-> **Return:** +6.7% this year · +10.8% over 1 year (dividends reinvested)  
+> **Return:** +6.2% this year · +8.6% over 1 year (dividends reinvested)  
 
 
 This fund tracks the same index as [[VOO]], so its holdings are the same; the weights below are VOO's.
@@ -50,7 +50,7 @@ This fund tracks the same index as [[VOO]], so its holdings are the same; the we
 
 ## News log
 
-- *Updates are added here, newest first.*
+- **2026-11-25** — Saw an estimated outflow of about $2.4B in the week ended Nov 23, per IG's estimates from changes in shares outstanding. ([source](https://www.ig.com/en-ch/news-and-trade-ideas/tech-sell-off-investor-sentiment-vix-etf-flows-261125))
 - **2026-11-20** — Fell about 3.7% as the S&P 500 slid into correction territory in the AI-stock selloff, cutting the fund's year-to-date total return to about 1.9% from 5.8% a day earlier. ([source](https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-ends-worst-week-013025833.html))
 - **2026-11-13** — Had the largest single-fund outflow of the week ended Nov 6, about $7.0B, while rival S&P 500 funds VOO (+$17.6B) and IVV (+$7.0B) took in money, per TD Securities data cited by InvestmentNews. ([source](https://www.investmentnews.com/etfs/etf-flows-surge-54bn-as-stocks-sell-off-and-markets-go-247/268997))
 

@@ -4,18 +4,18 @@ ticker: SOXX
 issuer: BlackRock iShares
 aum: $48B
 expense_ratio: 0.33%
-return_ytd: 39.9
-return_1y: 55.8
-data_as_of: 2026-11-23
+return_ytd: 28.4
+return_1y: 36.9
+data_as_of: 2026-11-24
 tags: [etf]
 ---
 
 # SOXX — iShares Semiconductor ETF
 
-> [!info] Snapshot (as of Nov 23, 2026)
+> [!info] Snapshot (as of Nov 24, 2026)
 > **Tracks:** NYSE Semiconductor Index (30 US-listed chip companies)  
 > **Issuer:** BlackRock iShares · **Assets:** $48B · **Expense ratio:** 0.33%  
-> **Return:** +39.9% this year · +55.8% over 1 year (dividends reinvested)  
+> **Return:** +28.4% this year · +36.9% over 1 year (dividends reinvested)  
 > **Holdings:** 30 stocks · top 10 ≈ 62% of the fund
 
 ## Top 10 holdings
@@ -41,6 +41,7 @@ tags: [etf]
 
 ## News log
 
+- **2026-11-25** — Gave back much of Monday's rally (sparked by Nvidia reinstating Jensen Huang as CEO) on Nov 24: ChartRow's Nov 24 close puts the fund's year-to-date total return at 28.4%, down from 39.9% a day earlier, implying a one-day drop of roughly 8%. Holdings Analog Devices (-17.4%), Micron (-11.0%), AMD (-8.9%), Intel (-8.2%), Nvidia (-5.9%) and Broadcom (-4.0%) all fell. On Nov 25 Nvidia slid another 3.9% and Micron 4.5%, while top holding AMD (-1.8%) and Broadcom (about flat) held up better as the market recovered most of a sharp morning drop. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026), [Nov 25](https://www.stocktitan.net/articles/stock-market-today-live-november-25-2026), [returns](https://chartrow.com/lists/biggest-etfs))
 - **2026-11-20** — Closed out a week down roughly 17-18%, per Yahoo Finance, which put Friday's drop at close to 8%; ChartRow's year-to-date figures imply a steeper one-day fall of about 10-11%. Holdings Nvidia (about -14%) and Broadcom (about -12%) were among the hardest hit. ([source](https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-ends-worst-week-013025833.html), [stocks](https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-stocks-plunge-as-ai-trade-unwinds/))
 - **2026-11-20** — Chip stocks sold off sharply amid worries that AI spending and valuations have run ahead of returns: the PHLX Semiconductor Index was down about 8.3% in late-afternoon trading, with top holdings AMD (-10.9%) and Broadcom (-11.5%) and holding Nvidia (-7%) among the decliners. ([source](https://www.inquirer.com/business/stock-market-sp-correction-ai-nvidia-anthropic-loss-20261120.html))
 - **2026-11-17** — Holding Nvidia (about 8% of the fund) reported after the close: revenue of $115.8B vs. about $108.8B expected, EPS of $2.68 vs. $2.47, and a Q4 revenue guide of $130B (±3%); its shares, down 0.4% in the regular session, were up about 1.6% after hours. ([source](https://www.kiplinger.com/news/live/nvidia-earnings-live-updates-and-commentary-november-2026))

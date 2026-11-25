@@ -4,7 +4,7 @@ ticker: MRVL
 company: Marvell Technology
 sector: Technology
 held_by: []
-updated: 2026-11-24
+updated: 2026-11-25
 tags: [stock]
 ---
 
@@ -20,6 +20,7 @@ Designs data-infrastructure chips: custom AI chips, networking and storage contr
 
 ## Recent news
 
+- **2026-11-25** — Marvell closed down 0.5% at $130.93 after falling as much as 10.5% intraday, as chip stocks recovered most of an early selloff tied to hot PCE inflation and reported tariff plans; the stock was still up about 7% from its Nov. 20 close, per Techi. ([source](https://www.techi.com/chip-stocks-recover-early-slide-nasdaq-close-november-25/))
 - **2026-11-24** — Marvell slid as chip stocks retreated from Monday's rally on Huang's return to Nvidia: StockStory had it down 10.6% at $130.29 in the morning, and Wisevoter reported it more than 6% lower, citing renewed congressional scrutiny of Nvidia's leadership and profit-taking (closing figure not found); StockStory noted the stock sits about 59% below its $316.43 June high. ([source](https://stockstory.org/us/stocks/nasdaq/mrvl/news/why-up-down/why-marvell-technology-stock-is-nosediving), [Wisevoter](https://wisevoter.com/world/us/2026/11/24/marvell-nvidia-shares-fall-congressional-scrutiny))
 - **2026-11-23** — Marvell closed up about 18.4% at $144.74 per Investing.com's closing table (Seeking Alpha had it up about 19% by late morning) as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO; Trefis said it had fallen 11.7% on Friday with no company news, that data centers were 79% of fiscal Q2 revenue, and that the stock lost about 45% over the past month. ([source](https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476), [Trefis](https://www.trefis.com/stock/mrvl/articles/627782/what-triggered-the-drop-in-marvell-stock/2026-11-23))
 - **2026-11-20** — Marvell was down about 9.2% at 2:09 p.m. ET per StockAnalysis, falling with AMD, Micron and Broadcom as the chip index slid about 8% in the AI selloff (closing figure not confirmed). ([source](https://stockanalysis.com/news/broadcom-falls-google-tpu-cut-mediatek/))
@@ -31,7 +32,6 @@ Designs data-infrastructure chips: custom AI chips, networking and storage contr
 - **2026-11-17** — BigGo Finance said Marvell was up about 2% early, alongside Arm and Broadcom, on reports that Anthropic's IPO may price above its target range. ([source](https://finance.biggo.com/news/e0c1bf46-a63f-48e9-81f9-b54a392cd4d5))
 - **2026-11-16** — Marvell closed down 7.41% ($11.61) at $145.15 per JKN amid profit-taking in networking and optical-interconnect names, with no confirmed company-specific negative; JKN noted Arete raised its target to $323 from $300 and Marvell announced a collaboration with Penguin Solutions. ([source](https://news.jkn.co.kr/editions/english/post/1099781))
 - **2026-11-16** — GuruFocus tied the drop partly to a Wall Street Journal report, via The Next Web, that interim Nvidia CEO Colette Kress is expected to rein in Nvidia's financing of the AI industry (Nvidia invested $2B in Marvell in March), and said the stock is about 42% below the roughly $252 per-share level implied when the Lumentum deal was struck. ([source](https://www.tradingview.com/news/gurufocus:7177b6226094b:0-marvell-stocks-slide-6-88-as-nvidia-financing-pullback-report-hits-ai-connectivity-bet/))
-- **2026-11-13** — Marvell closed down 5.33% ($8.76) at $155.69 per JKN, with no newly confirmed negative catalyst; JKN pointed to profit-taking after the rally alongside Lumentum and attention on the deal spread, which had reportedly widened to about 19.7%. ([source](https://news.jkn.co.kr/editions/english/post/1091943))
 
 ## Coming up
 

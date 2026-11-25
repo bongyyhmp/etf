@@ -4,18 +4,18 @@ ticker: XLK
 issuer: State Street SPDR
 aum: $124B
 expense_ratio: 0.08%
-return_ytd: 13.2
-return_1y: 19.5
-data_as_of: 2026-11-23
+return_ytd: 9.5
+return_1y: 12.9
+data_as_of: 2026-11-24
 tags: [etf]
 ---
 
 # XLK — Technology Select Sector SPDR Fund
 
-> [!info] Snapshot (as of Nov 23, 2026)
+> [!info] Snapshot (as of Nov 24, 2026)
 > **Tracks:** Technology Select Sector Index (S&P 500 tech stocks)  
 > **Issuer:** State Street SPDR · **Assets:** $124B · **Expense ratio:** 0.08%  
-> **Return:** +13.2% this year · +19.5% over 1 year (dividends reinvested)  
+> **Return:** +9.5% this year · +12.9% over 1 year (dividends reinvested)  
 > **Holdings:** 74 stocks · top 10 ≈ 67% of the fund
 
 ## Top 10 holdings

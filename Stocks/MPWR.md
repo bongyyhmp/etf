@@ -4,7 +4,7 @@ ticker: MPWR
 company: Monolithic Power Systems
 sector: Technology
 held_by: [SOXX]
-updated: 2026-11-24
+updated: 2026-11-25
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Designs power-management chips and modules that regulate electricity in AI serve
 
 ## Recent news
 
+- **2026-11-25** — JKN reported shares down 3.21% ($38.24) at $1,151.87 with no company-specific catalyst, citing sector rotation and profit-taking plus competition in 800-volt AI power systems; its figure may predate the late-session chip recovery (the SOX ended down only about 0.7%). ([source](https://news.jkn.co.kr/editions/english/post/1123145))
 - **2026-11-24** — Shares fell about 10.8%, among the S&P 500's steepest decliners in MarketScreener's ranking (Quantcha had them near $1,204.83 versus a $1,333.88 prior close), with no company-specific news, as chip stocks gave back much of Monday's rally: Reuters had the Philadelphia Semiconductor Index down about 9.2% intraday, and analog peer [[ADI]] sank 17.4% after its results (Investing.com). ([source](https://www.marketscreener.com/news/wall-street-set-for-lower-open-as-nvidia-fueled-ai-rally-fades-ce7851dbdb8fff26), [Quantcha](https://ideas.quantcha.com/2026/11/24/big-loser-alert-trading-todays-9-7-move-in-monolithic-power-systems-mpwr), [peers](https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-086-5049102))
 - **2026-11-23** — Shares jumped about 16.8%, one of the S&P 500's biggest gainers in MT Newswires' closing rankings, as chip stocks rebounded after Nvidia's board reinstated Jensen Huang as CEO and the Nasdaq rose 6.5%; no company-specific catalyst was cited. ([source](https://www.marketscreener.com/news/us-equity-indexes-soar-as-jensen-huang-s-return-to-nvidia-as-ceo-boosts-ai-trade-ce7851dadc80f62d), [market](https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476))
 - **2026-11-20** — Shares fell about 11.7%, down $152.21 to end near $1,144.65 per an AI-generated Seeking Alpha recap, with no company-specific news, as the Philadelphia Semiconductor Index plunged 10.73% (TradingKey) and peers including [[AMAT]], [[KLAC]] and [[MRVL]] dropped more than 10%; StockStory tied the AI-chip retreat to Anthropic's post-IPO slide, rate-hike talk, Trump's threatened penalties on overseas U.S. data-center builds and new Commerce export-licensing rules, while Nvidia sank on a reported SEC accounting review. ([source](https://seekingalpha.com/news/4675343-monolithic-power-systems-retreats-12-weighed-down-by-tech-selloff), [StockStory](https://stockstory.org/us/stocks/nasdaq/alab/news/why-up-down/astera-labs-aehr-test-systems-kla-corporation-lam-research-and-monolithic-power-systems-shares-plummet-what-you-need-to-know))
@@ -37,4 +38,4 @@ Designs power-management chips and modules that regulate electricity in AI serve
 ## Bull case / bear case
 
 - **Bull:** Trefis cites 63% revenue growth to its first $1B-plus quarter, a slightly rising gross margin guided up again for Q4, strong enterprise data-center demand expected to carry into 2027, first orders for 48-volt automotive power products, more than $450M of quarterly buybacks, and capacity for more than $6B of annual revenue, rising to $8B by the second half of 2027.
-- **Bear:** Trefis notes a valuation near 20x trailing sales versus about 3x for the S&P 500, and the stock's tie to AI data-center sentiment shows in sharp swings: it fell about 12% on Nov 20 as the chip index plunged 10.7% on AI-spending doubts, a reported SEC review of Nvidia and new export rules, then jumped about 17% on Nov 23 on Nvidia's CEO news rather than company news and fell about 11% on Nov 24 as that rally faded; JKN has flagged ETF outflows, insider sales and China exposure, and the stock remains well below its $1,689.89 June closing high.
+- **Bear:** Trefis notes a valuation near 20x trailing sales versus about 3x for the S&P 500, and the stock's tie to AI data-center sentiment shows in sharp swings: about -12% on Nov 20, +17% on Nov 23 on Nvidia's CEO news rather than company news, -11% on Nov 24 and about -3% on Nov 25 per JKN, which also flags competition in 800-volt AI power, ETF outflows, insider sales and China exposure; the stock remains well below its $1,689.89 June closing high.

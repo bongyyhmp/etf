@@ -4,7 +4,7 @@ ticker: CSCO
 company: Cisco Systems
 sector: Technology
 held_by: [XLK, VGT]
-updated: 2026-11-24
+updated: 2026-11-25
 tags: [stock]
 ---
 
@@ -45,4 +45,4 @@ Sells networking equipment, security and collaboration software to businesses.
 ## Bull case / bear case
 
 - **Bull:** Coverage cites the Nov 12 beat-and-raise (revenue $18.5B, +24%; EPS $1.40) and a hyperscaler AI revenue goal lifted to $9B that Trefis says would double AI's share of sales, HSBC's upgrade to Buy ($133) on a ~16x 2027 multiple below the sector median, BofA's Buy ($150), a consensus near $130 with no Sells (24/7 Wall St.), new Renaissance and Bridgewater stakes, and a 30.7% one-year gain vs. 12% for the S&P 500 (Trefis).
-- **Bear:** Citi, Wells Fargo, Barclays, Piper Sandler and Rosenblatt cut targets after the report, citing product-order growth slowing to 21% from 35% and Splunk weakness; gross margin fell 2.5 points on lower-margin hyperscaler hardware, Trefis flags lumpy AI orders, a ~5.7x sales multiple and a group-driven rally that may not hold, shares gave back about 2.9% on Nov 24 as AI hardware sold off, and CEO Chuck Robbins sold about $27.3M of stock under a 10b5-1 plan (24/7 Wall St.).
+- **Bear:** Citi, Wells Fargo, Barclays, Piper Sandler and Rosenblatt cut targets after the report, citing product-order growth slowing to 21% from 35% and Splunk weakness; gross margin fell 2.5 points on lower-margin hyperscaler hardware, Trefis flags lumpy AI orders, a ~5.7x sales multiple and a group-driven rally that may not hold, shares gave back about 2.9% on Nov 24 as AI hardware sold off, the AI and chip selloff resumed on Nov 25 amid hot inflation data and new tariff proposals (market coverage), and CEO Chuck Robbins sold about $27.3M of stock under a 10b5-1 plan (24/7 Wall St.).

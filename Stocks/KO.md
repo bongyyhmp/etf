@@ -4,7 +4,7 @@ ticker: KO
 company: Coca-Cola
 sector: Consumer Staples
 held_by: [SCHD]
-updated: 2026-11-24
+updated: 2026-11-25
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Sells soft drinks, water, sports drinks and coffee brands worldwide.
 
 ## Recent news
 
+- **2026-11-25** — Coca-Cola was up 0.73% at $98.33 just before 10 a.m. ET while the S&P 500 was down more than 2.4%, as investors rotated from AI stocks into defensive names, per Finexus, which also cited a $0.53 dividend going ex on Dec 1 (payable Dec 15); that followed a roughly 1.95% gain on Nov 24 (HDFC Sky). No Nov 25 close was found; the Dow finished up 0.33%. ([source](https://api.finexus.net/api/news/earnings/129342/html), [Nov 24](https://hdfcsky.com/news/dow-jones-gains-424-points-as-nvidia-reversal-weighs-on-sp-500-and-nasdaq-november-25-2026), [market](https://thecompanychronicle.com/story/stocks-close-dow-erases-1100-point-loss-nasdaq-sp500-slip-november-25-2026))
 - **2026-11-24** — Coca-Cola was up 0.99% at $96.83 in early trading (9:45 a.m. ET, per a Motley Fool quote panel; no close found) as consumer staples outperformed, with the sector ETF up about 1.8% (Investrade), while chip stocks slumped; the Fool's comparison with PepsiCo put Coke near 29x earnings with a ~2.2% yield and 2026 comparable EPS guidance of at least 11% growth (about $3.33). ([source](https://www.fool.com/investing/2026/11/24/coca-cola-at-usd95-or-pepsico-at-usd140-which-dividend-king-could-turn-usd1-000-into-more-money-by-2036/), [sector](https://investrade.com/market-review-november-24-2026/), [market](https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-086-5049102))
 - **2026-11-23** — After the close, Coca-Cola named Bristol Myers Squibb CFO David Elkins, 58, as its next CFO effective April 2, 2027; President and CFO John Murphy, 64, plans to retire in 2027 and stays president through the transition, with both reporting to CEO Henrique Braun (company release via StockTitan; AJC). ([source](https://www.stocktitan.net/news/KO/the-coca-cola-company-names-david-elkins-as-incoming-chief-financial-cskr6nufhyru.html), [AJC](https://www.ajc.com/business/2026/11/coca-cola-president-retiring-new-cfo-named/))
 - **2026-11-23** — Coca-Cola fell 1.14% to $95.88, the Dow's worst performer, as the index jumped 3.01% on Nvidia's CEO reversal and money rotated back into tech, with consumer staples lagging. ([source](https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476), [sector](https://247wallst.com/cards/us-stocks-are-higher-technology-leads-while-consumer-staples-lags-spy-market-explainer-01m84grqck6pvz2pqncrv8g2yr))
@@ -33,16 +34,17 @@ Sells soft drinks, water, sports drinks and coffee brands worldwide.
 - **2026-11-18** — A Form 4 showed EVP Manuel Arroyo exercised 57,581 options (strike about $44.48) on Nov 17 and sold the shares at a weighted average near $99.40 (about $5.7M), leaving him 99,514 shares; the filing did not flag a 10b5-1 plan. ([source](https://www.sec.gov/Archives/edgar/data/0000021344/000002134426000177/form4.xml))
 - **2026-11-17** — TD Cowen raised its price target to $112 from $104, above the ~$99.43 FactSet mean target, per Ad-hoc News citing MT Newswires (no rationale given; MarketBeat also flagged the move); shares were quoted near €89.98 in German trading, and no U.S. close was found as the Dow fell 1.64%. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/coca-cola-stock-td-cowen-raises-price-target-to-usd-112/70526429), [MarketBeat](https://www.marketbeat.com/instant-alerts/analyst-coca-cola-nyse-ko-stock-gets-price-target-bump-from-td-cowen-2026-11-17/), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
 - **2026-11-16** — Shares pushed above $100 for the first time, reaching a record of about $100.56 in early trading, as investors sought safety while the Nasdaq fell 2.5% and the Dow 1.4%; TipRanks noted the stock is up about 42% in 2026 and now sits slightly above the ~$99.40 average analyst target (Strong Buy consensus, 13 Buy and 3 Hold). ([source](https://www.tipranks.com/news/coca-cola-stock-ko-rises-above-100-as-investors-seek-safety-in-a-volatile-market), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-141-5030993))
-- **2026-11-16** — Berkshire Hathaway's Q3 13F showed its Coca-Cola stake unchanged during the quarter, still among its five largest holdings, per 24/7 Wall St. ([source](https://247wallst.com/investing/2026/11/16/warren-buffetts-berkshire-just-revealed-a-new-stock-and-sold-more-bank-of-america-heres-what-a-68-year-old-with-400-shares-owns/))
 
 ## Coming up
 
 - **2026-11-27** — expected completion of the Coca-Cola Beverages Africa sale to Coca-Cola HBC (Tanzania excluded pending approval, per Finimize)
+- **2026-12-01** — ex-dividend date for the $0.53 quarterly dividend (per Finexus)
 - **2026-12-02** — CFO John Murphy presents at the Morgan Stanley Global Consumer & Retail Conference, 11 a.m. ET (webcast)
+- **2026-12-15** — dividend payment date (per Finexus)
 - **2027-04-02** — David Elkins becomes CFO; John Murphy remains president until his 2027 retirement (date to be set)
 - **Mid-February 2027** — Q4 2026 earnings (estimated; date not yet announced)
 
 ## Bull case / bear case
 
-- **Bull:** Coverage cites a seventh straight EPS beat, 5% unit-case volume growth, guidance for at least 11% comparable EPS growth and $13B+ of free cash flow in 2026, 64 years of dividend increases, post-results target raises (TD Cowen to $112, JPMorgan, UBS, Wells Fargo, Citi), Wolfe Research's new Outperform ($110) citing share gains from PepsiCo, an unchanged Berkshire stake, a 2026 gain of more than 30%, a planned CFO handoff to Bristol Myers Squibb's David Elkins (company release), its defensive bid as staples led on Nov 24, and progress on the asset-light Africa bottler sale.
+- **Bull:** Coverage cites a seventh straight EPS beat, 5% unit-case volume growth, guidance for at least 11% comparable EPS growth and $13B+ of free cash flow in 2026, 64 years of dividend increases, post-results target raises (TD Cowen to $112, JPMorgan, UBS, Wells Fargo, Citi), Wolfe Research's new Outperform ($110) citing share gains from PepsiCo, an unchanged Berkshire stake, a 2026 gain of more than 30%, a planned CFO handoff to Bristol Myers Squibb's David Elkins (company release), its defensive bid as staples led on Nov 24-25 (up about 2% Nov 24 and higher early Nov 25 while tech sold off), and progress on the asset-light Africa bottler sale.
 - **Bear:** Commentators flag a valuation Barron's calls the highest in 25 years (about 28-32x earnings vs. a ~25x recent average, per Trefis), Trefis' view that further upside needs growth well above guidance, an ~8-point 2027 revenue headwind from divestitures including the African bottler sale, a Motley Fool projection favoring PepsiCo's lower multiple over 10 years, leadership turnover with the president/CFO retiring in 2027, flat North America volume, an unresolved IRS tax case, a price near or above several average targets and Bernstein's $95 (Neutral), a yield near 2.2% and recent executive share sales.
