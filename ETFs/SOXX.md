@@ -4,36 +4,36 @@ ticker: SOXX
 issuer: BlackRock iShares
 aum: $48B
 expense_ratio: 0.33%
-return_ytd: 28.4
-return_1y: 36.9
-data_as_of: 2026-11-24
+return_ytd: 27.7
+return_1y: 35.8
+data_as_of: 2026-11-25
 tags: [etf]
 ---
 
 # SOXX — iShares Semiconductor ETF
 
-> [!info] Snapshot (as of Nov 24, 2026)
+> [!info] Snapshot (as of Nov 25, 2026)
 > **Tracks:** NYSE Semiconductor Index (30 US-listed chip companies)  
 > **Issuer:** BlackRock iShares · **Assets:** $48B · **Expense ratio:** 0.33%  
-> **Return:** +28.4% this year · +36.9% over 1 year (dividends reinvested)  
-> **Holdings:** 30 stocks · top 10 ≈ 62% of the fund
+> **Return:** +27.7% this year · +35.8% over 1 year (dividends reinvested)  
+> **Holdings:** 30 stocks · top 10 ≈ 61% of the fund
 
 ## Top 10 holdings
 
 | # | Stock | Weight |
 |---|---|---|
-| 1 | [[AMD]] — Advanced Micro Devices | 10.3% |
-| 2 | [[AVGO]] — Broadcom | 8.5% |
-| 3 | [[MU]] — Micron Technology | 7.8% |
-| 4 | [[NVDA]] — NVIDIA | 7.6% |
-| 5 | [[TXN]] — Texas Instruments | 5.1% |
-| 6 | [[ADI]] — Analog Devices | 5.0% |
-| 7 | [[TSM]] — Taiwan Semiconductor (TSMC) | 4.8% |
-| 8 | [[NXPI]] — NXP Semiconductors | 4.3% |
+| 1 | [[AMD]] — Advanced Micro Devices | 9.3% |
+| 2 | [[NVDA]] — NVIDIA | 8.4% |
+| 3 | [[AVGO]] — Broadcom | 8.0% |
+| 4 | [[MU]] — Micron Technology | 7.3% |
+| 5 | [[TXN]] — Texas Instruments | 5.2% |
+| 6 | [[TSM]] — Taiwan Semiconductor (TSMC) | 5.1% |
+| 7 | [[ADI]] — Analog Devices | 4.7% |
+| 8 | [[NXPI]] — NXP Semiconductors | 4.5% |
 | 9 | [[MPWR]] — Monolithic Power Systems | 4.2% |
-| 10 | [[AMAT]] — Applied Materials | 4.1% |
+| 10 | [[KLAC]] — KLA | 4.1% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 19, 2026 prices. KLA (4.0%) remains just outside the top 10 at #11.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 25, 2026 prices. In these estimates KLA (4.11%) moved into the top 10 and [[AMAT]] — Applied Materials (4.02%) slipped to #11.*
 
 ## Sector mix
 

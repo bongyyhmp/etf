@@ -4,7 +4,7 @@ ticker: AVGO
 company: Broadcom
 sector: Technology
 held_by: [SOXX, SMH, XLK, VGT, VUG, IVV, SPY, VOO, VTI]
-updated: 2026-11-25
+updated: 2026-11-26
 tags: [stock]
 ---
 
@@ -18,15 +18,15 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 
 | ETF | Weight |
 |---|---|
-| [[SOXX]] | 8.5% |
-| [[SMH]] | 6.9% |
-| [[XLK]] | 5.5% |
-| [[VGT]] | 4.1% |
-| [[VUG]] | 3.9% |
-| [[IVV]] | 2.4% |
-| [[SPY]] | 2.4% |
-| [[VOO]] | 2.4% |
-| [[VTI]] | 2.2% |
+| [[SOXX]] | 8.0% |
+| [[SMH]] | 6.4% |
+| [[XLK]] | 5.2% |
+| [[VGT]] | 3.9% |
+| [[VUG]] | 3.7% |
+| [[IVV]] | 2.3% |
+| [[SPY]] | 2.3% |
+| [[VOO]] | 2.3% |
+| [[VTI]] | 2.1% |
 
 ## Recent news
 

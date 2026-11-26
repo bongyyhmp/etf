@@ -4,7 +4,7 @@ ticker: QCOM
 company: Qualcomm
 sector: Technology
 held_by: [SMH, SCHD]
-updated: 2026-11-25
+updated: 2026-11-26
 tags: [stock]
 ---
 
@@ -18,7 +18,7 @@ Designs chips and modems for smartphones, cars and PCs, and licenses wireless pa
 
 | ETF | Weight |
 |---|---|
-| [[SMH]] | 4.6% |
+| [[SMH]] | 4.9% |
 | [[SCHD]] | 3.9% |
 
 ## Recent news

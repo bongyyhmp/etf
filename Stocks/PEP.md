@@ -4,7 +4,7 @@ ticker: PEP
 company: PepsiCo
 sector: Consumer Staples
 held_by: [SCHD]
-updated: 2026-11-25
+updated: 2026-11-26
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Sells snacks and drinks worldwide, from Frito-Lay chips such as Lay's and Dorito
 
 ## Recent news
 
+- **2026-11-26** — Reuters reported that India's food regulator FSSAI, in a Nov 25 letter, told state officials to step up inspections and risk-based sampling of packaged and mineral water after one Bisleri sample was judged unsafe over chemicals linked to cancer risk (Bisleri says its water is safe); the tighter checks will also cover PepsiCo, Coca-Cola, Tata Consumer and Reliance in a market worth about $3.5B. The companies did not comment. ([source](https://bworldonline.com/world/2026/11/26/797025/india-orders-tougher-surveillance-of-packaged-water-scrutiny-set-to-cover-pepsico-and-coca-cola), [ET/Reuters](https://fvbb.com/ns/govt-orders-tougher-surveillance-of-packaged/332763))
 - **2026-11-25** — BNP Paribas raised its target to $160 from $157 (rating not given), per Ad-hoc News citing MT Newswires; the euro listing was about 0.5% higher in the afternoon. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/pepsico-stock-bnp-paribas-lifts-price-target-to-160-us-dollars/70553530))
 - **2026-11-25** — A Seeking Alpha analysis kept a Hold, putting fair value near $136.39 on 5% free-cash-flow growth: multiples sit near decade lows and the ~4.2% yield is appealing, but GLP-1 drugs, private label, sugar taxes and weak soft drinks cap upside, with about $8B of yearly dividends against roughly $40B of net debt. ([source](https://seekingalpha.com/article/4971795-pepsico-valuation-improved-growth-story-hasnt))
 - **2026-11-24** — PepsiCo closed at $142.68, up 1.76% and about 6.9% over a month, per JournalArta's pre-market screen for Nov 25, as consumer staples outperformed while chip stocks slid. ([source](https://journalarta.com/en/2026/11/25/us-stocks-to-watch-today-vz-southern-company-pep-and-more-november-25-2026/))
@@ -33,8 +34,6 @@ Sells snacks and drinks worldwide, from Frito-Lay chips such as Lay's and Dorito
 - **2026-11-18** — Wolfe Research initiated coverage at Peer Perform (no target given in coverage), while naming rival Coca-Cola a top beverage pick (Outperform, $110) and noting Coke keeps taking share from PepsiCo. ([source](https://www.tradingview.com/news/seekingalpha:76457b23b094b:0-beverage-breakdown-coca-cola-keurig-dr-pepper-and-celsius-are-top-picks-at-wolfe-research/), [GuruFocus](https://www.gurufocus.com/news/9207146/pep-initiates-coverage-on-by-wolfe-research-rating-peer-perform))
 - **2026-11-17** — Bernstein's Cristian Rios cut the stock to Underperform from Market Perform and trimmed the target to $128 from $131, expecting earnings to fall short of consensus over the next year as Frito-Lay and beverage volumes in North America decline and inflation, heavier marketing and weak pricing power squeeze margins; shares fell about 3.3%, versus a ~1.4% drop for food and beverage peers, per TradingKey. ([source](https://finance.yahoo.com/markets/stocks/articles/pep-stock-slides-bernstein-downgrades-114347375.html), [TradingKey](https://www.tradingkey.com/news/market-movers/262309677-market-movers-pep-20261117))
 - **2026-11-13** — Trefis noted the stock rose 10.0% in the month to Nov 12 while the S&P 500 fell 1.6%, leaving it up 5.1% for 2026, behind SPY (+9.4%) and the consumer-staples ETF XLP (+21.5%); it flagged commodity costs rising as hedges roll off and an expiring Q3 tariff benefit in North America beverages. ([source](https://www.trefis.com/stock/pep/articles/625023/which-dates-could-move-pepsico-stock-most/2026-11-13))
-- **2026-11-09** — PepsiCo told staff it plans to cut about 1,000 jobs across North America (under 1% of its roughly 125,000 US employees) to simplify its structure; shares closed at $141.88, up about 12.6% over the past month and nearly back to flat for the year after being down almost 12% in early October. ([source](https://www.mitrade.com/insights/news/live-news/article-3-2243616-20261110))
-
 ## Coming up
 
 - **2026-12-04** — record date for the $1.48 quarterly dividend

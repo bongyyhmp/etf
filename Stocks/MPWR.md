@@ -4,7 +4,7 @@ ticker: MPWR
 company: Monolithic Power Systems
 sector: Technology
 held_by: [SOXX]
-updated: 2026-11-25
+updated: 2026-11-26
 tags: [stock]
 ---
 

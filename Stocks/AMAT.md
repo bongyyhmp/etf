@@ -3,8 +3,8 @@ type: stock
 ticker: AMAT
 company: Applied Materials
 sector: Technology
-held_by: [SMH, SOXX]
-updated: 2026-11-25
+held_by: [SMH]
+updated: 2026-11-26
 tags: [stock]
 ---
 
@@ -18,8 +18,7 @@ Builds the machines chipmakers use to deposit, etch, inspect and measure the lay
 
 | ETF | Weight |
 |---|---|
-| [[SMH]] | 4.2% |
-| [[SOXX]] | 4.1% |
+| [[SMH]] | 4.1% |
 
 ## Recent news
 

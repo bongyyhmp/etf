@@ -4,7 +4,7 @@ ticker: MU
 company: Micron Technology
 sector: Technology
 held_by: [SOXX, QQQ, XLK, VGT, VTV]
-updated: 2026-11-25
+updated: 2026-11-26
 tags: [stock]
 ---
 
@@ -18,14 +18,16 @@ Makes memory chips (DRAM, NAND), including high-bandwidth memory used in AI serv
 
 | ETF | Weight |
 |---|---|
-| [[SOXX]] | 7.8% |
-| [[QQQ]] | 3.5% |
+| [[SOXX]] | 7.3% |
+| [[QQQ]] | 3.6% |
 | [[XLK]] | 3.5% |
-| [[VGT]] | 3.2% |
-| [[VTV]] | 2.6% |
+| [[VGT]] | 3.1% |
+| [[VTV]] | 2.5% |
 
 ## Recent news
 
+- **2026-11-26** — With U.S. markets shut for Thanksgiving, Asian memory names steadied after Wednesday's rout: SK hynix rose 2.2% and Samsung Electronics 0.4% in Seoul (the Kospi had fallen 6.2% the day before), Kioxia jumped 12.6% in Tokyo, and Taiwan memory makers Winbond and Nanya hit their daily limit-up. ([source](https://www.bnnbloomberg.ca/markets/2026/11/26/global-stocks-rise-and-tech-shares-rebound-as-us-closes-for-thanksgiving/)) ([source](https://news.cts.com.tw/cna/money/202611/202611263105508.html))
+- **2026-11-25** — UBS's Timothy Arcuri cut his Micron target to $1,100 from $1,625 while keeping a Buy rating, per FinanceFeeds; JKN noted reports citing Hewlett Packard Enterprise that memory could stay tight through 2028. ([source](https://financefeeds.com/micron-mu-stock-601-thanksgiving-after-ubs-target-cut-to-1100-bull-672-bear-548/)) ([source](https://news.jkn.co.kr/editions/english/post/1125905))
 - **2026-11-25** — Micron closed down 4.5% at $601.25, a second straight decline, after falling as much as 13% intraday; ABC News also put the drop near 4%, and Seoul memory makers had fallen overnight. ([source](https://www.techi.com/chip-stocks-recover-early-slide-nasdaq-close-november-25/)) ([source](https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070))
 - **2026-11-25** — The Motley Fool tied the morning slide (about -9.8% near $566) to TrendForce's view that Chinese cloud providers have cut 2027 memory orders and NAND is heading into oversupply, while noting TrendForce still expects DRAM to stay undersupplied in 2027; TradingKey said Goldman Sachs reportedly trimmed 2028 DRAM and NAND price forecasts by about 20%. ([source](https://www.fool.com/investing/2026/11/25/why-micron-stock-just-dropped-again/)) ([source](https://www.tradingkey.com/news/market-movers/262322276-market-movers-mu-20261125))
 - **2026-11-24** — Micron closed down 11.01% at $629.79, erasing more than two-thirds of Monday's 19% jump; SK Hynix also fell more than 10%. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026)) ([source](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html))
@@ -36,15 +38,13 @@ Makes memory chips (DRAM, NAND), including high-bandwidth memory used in AI serv
 - **2026-11-19** — Micron jumped about 6.6% to roughly $752 in the first minutes of trading, helped by management's supply comments and Anthropic's prospectus confirming its ~$1.0B placement purchase, but gave back the gains and was down about 2.2% in the afternoon as AI-hardware stocks sold off (closing figure not found). ([source](https://www.tradingview.com/news/gurufocus:9fe462bb7094b:0-micron-stocks-jump-6-63-as-75-of-2027-capacity-sells-out/)) ([source](https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-micron-sink-anthropic-211206180.html))
 - **2026-11-18** — At the TomorrowX Summit in Austin, CEO Sanjay Mehrotra said memory supply in 2027 and 2028 will be even tighter than this year, with 26 strategic, mostly multiyear take-or-pay agreements carrying $32B of upfront and financial commitments; he said Micron will keep working with Nvidia on HBM through its leadership change and plans strong shareholder returns once CHIPS Act limits lapse Dec 9. RBC kept Buy at $1,500. ([source](https://247wallst.com/investing/2026/11/19/microns-ceo-says-2027-and-2028-will-be-even-tighter-than-this-year/?tpid=1708533&tv=link&tc=in_content))
 - **2026-11-18** — Micron slipped about 1.0% the day after Nvidia's report, lagging AMD and Broadcom as Nvidia-dependent names such as CoreWeave and Dell also fell; the Motley Fool's page showed it near $698 (-2%) in mid-afternoon. ([source](https://www.techi.com/nvidia-stock-falls-day-after-earnings-ten-report-record/))
-- **2026-11-18** — A Motley Fool contributor put Micron at roughly 4.4x expected next-year earnings and about 38% under its June 25 high, citing BofA's forecast that global DRAM sales could reach $917B in 2027, while flagging that its top 10 customers supplied over half of fiscal 2026 revenue. ([source](https://www.fool.com/investing/2026/11/18/is-micron-undervalued/))
-- **2026-11-18** — Anthropic priced its IPO at $83 a share, above the $70-78 range, with Nasdaq trading as ANT expected Thursday, per a Reuters source; Micron is a $1.0B buyer in the concurrent private placement. ([source](https://www.marketscreener.com/news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-ce785edddc80f624))
 
 ## Coming up
 
 - **2026-12-09** — CHIPS Act restrictions on buybacks expire, after which Micron plans strong shareholder returns (per Barron's and CEO Sanjay Mehrotra)
-- **2026-12-16** — fiscal Q1 2027 earnings (date per TIKR; company guided revenue of about $61.5B)
+- **2026-12-17** — fiscal Q1 2027 earnings (date announced by Micron on Nov 19, per Pluang and FinanceFeeds; an earlier TIKR listing said Dec 16; company guided revenue of about $61.5B)
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (RBC Buy at $1,500, KeyBanc Overweight at $1,750, Bernstein Buy at $1,300, plus Morgan Stanley and Wedbush) cite AI-driven memory demand, FQ1 guidance of about $61.5B revenue with ~86% gross margin and roughly 75% of 2027 output committed; the CEO expects even tighter supply in 2027-28 backed by $32B of take-or-pay deals, the Motley Fool notes a P/E of just over 8x, and buybacks may pick up after CHIPS Act limits lapse Dec. 9.
-- **Bear:** BNP Paribas downgraded to Neutral ($775 from $1,700) on Nov. 24, warning hyperscaler orders may exceed needs and supply could reach parity by mid-2027; TrendForce sees Chinese cloud firms cutting 2027 memory orders and NAND oversupply, Goldman reportedly cut 2028 DRAM/NAND price forecasts ~20% (per TradingKey), and coverage also cites peak-cycle margins, reliance on Nvidia for HBM, a DRAM price-fixing class action, export rules and extreme volatility, with the stock down 4.5% on Nov. 25 after an 11% drop on Nov. 24.
+- **Bull:** Analysts (RBC Buy at $1,500, KeyBanc Overweight at $1,750, Bernstein Buy at $1,300, UBS Buy at a reduced $1,100, plus Morgan Stanley and Wedbush) cite AI-driven memory demand, FQ1 guidance of about $61.5B revenue with ~86% gross margin and roughly 75% of 2027 output committed; the CEO expects even tighter supply in 2027-28 backed by $32B of take-or-pay deals, the Motley Fool notes a P/E of just over 8x, and buybacks may pick up after CHIPS Act limits lapse Dec. 9.
+- **Bear:** BNP Paribas downgraded to Neutral ($775 from $1,700) on Nov. 24, warning hyperscaler orders may exceed needs and supply could reach parity by mid-2027, and UBS cut its target to $1,100 from $1,625 on Nov. 25; TrendForce sees Chinese cloud firms cutting 2027 memory orders and NAND oversupply, Goldman reportedly cut 2028 DRAM/NAND price forecasts ~20% (per TradingKey), and coverage also cites peak-cycle margins, reliance on Nvidia for HBM, a DRAM price-fixing class action, export rules and extreme volatility, with the stock down 4.5% on Nov. 25 after an 11% drop on Nov. 24.

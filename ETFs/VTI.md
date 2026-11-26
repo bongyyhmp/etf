@@ -2,20 +2,20 @@
 type: etf
 ticker: VTI
 issuer: Vanguard
-aum: $634B
+aum: $633B
 expense_ratio: 0.03%
-return_ytd: 6.4
-return_1y: 8.9
-data_as_of: 2026-11-24
+return_ytd: 6.2
+return_1y: 7.5
+data_as_of: 2026-11-25
 tags: [etf]
 ---
 
 # VTI — Vanguard Total Stock Market ETF
 
-> [!info] Snapshot (as of Nov 24, 2026)
+> [!info] Snapshot (as of Nov 25, 2026)
 > **Tracks:** CRSP US Total Market (nearly every US-listed stock)  
-> **Issuer:** Vanguard · **Assets:** $634B · **Expense ratio:** 0.03%  
-> **Return:** +6.4% this year · +8.9% over 1 year (dividends reinvested)  
+> **Issuer:** Vanguard · **Assets:** $633B · **Expense ratio:** 0.03%  
+> **Return:** +6.2% this year · +7.5% over 1 year (dividends reinvested)  
 > **Holdings:** 3,477 stocks · top 10 ≈ 34% of the fund
 
 ## Top 10 holdings
@@ -23,17 +23,17 @@ tags: [etf]
 | # | Stock | Weight |
 |---|---|---|
 | 1 | [[AAPL]] — Apple | 7.5% |
-| 2 | [[MSFT]] — Microsoft | 5.4% |
-| 3 | [[NVDA]] — NVIDIA | 4.3% |
-| 4 | [[GOOGL]] — Alphabet (Google) | 4.2% |
-| 5 | [[AMZN]] — Amazon | 3.6% |
-| 6 | [[AVGO]] — Broadcom | 2.2% |
+| 2 | [[MSFT]] — Microsoft | 5.3% |
+| 3 | [[NVDA]] — NVIDIA | 5.0% |
+| 4 | [[GOOGL]] — Alphabet (Google) | 4.1% |
+| 5 | [[AMZN]] — Amazon | 3.4% |
+| 6 | [[AVGO]] — Broadcom | 2.1% |
 | 7 | [[META]] — Meta Platforms | 1.9% |
 | 8 | [[LLY]] — Eli Lilly | 1.7% |
 | 9 | [[BRK-B]] — Berkshire Hathaway | 1.6% |
-| 10 | [[TSLA]] — Tesla | 1.5% |
+| 10 | [[TSLA]] — Tesla | 1.6% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 20, 2026 prices.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 25, 2026 prices.*
 
 ## Sector mix
 

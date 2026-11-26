@@ -6,20 +6,20 @@ Your ETF and stock research vault. Open **Graph view** (left sidebar, or Ctrl/Cm
 
 | ETF | What it holds | Assets | Fee | This year | 1 year |
 |---|---|---|---|---|---|
-| [[SCHD]] | Dow Jones U.S. Dividend 100 | $112B | 0.06% | +30.3% | +34.0% |
-| [[SOXX]] | NYSE Semiconductor Index | $48B | 0.33% | +28.4% | +36.9% |
-| [[SMH]] | MVIS US Listed Semiconductor 25 | $75B | 0.35% | +18.5% | +26.2% |
-| [[VTV]] | CRSP US Large Cap Value | $188B | 0.04% | +17.0% | +21.2% |
-| [[VGT]] | MSCI US IMI Information Technology 25/50 | $171B | 0.09% | +10.0% | +12.7% |
-| [[XLK]] | Technology Select Sector Index | $124B | 0.08% | +9.5% | +12.9% |
-| [[VTI]] | CRSP US Total Market | $634B | 0.03% | +6.4% | +8.9% |
-| [[IVV]] | S&P 500 | $888B | 0.03% | +6.3% | +8.7% |
-| [[VOO]] | S&P 500 | $942B | 0.03% | +6.3% | +8.7% |
-| [[SPY]] | S&P 500 | $781B | 0.0945% | +6.2% | +8.6% |
-| [[QQQ]] | Nasdaq-100 | $490B | 0.18% | +4.2% | +5.9% |
-| [[VUG]] | CRSP US Large Cap Growth | $200B | 0.04% | -1.6% | +0.9% |
+| [[SCHD]] | Dow Jones U.S. Dividend 100 | $112B | 0.06% | +31.8% | +33.7% |
+| [[SOXX]] | NYSE Semiconductor Index | $48B | 0.33% | +27.7% | +35.8% |
+| [[VTV]] | CRSP US Large Cap Value | $189B | 0.04% | +17.5% | +20.0% |
+| [[SMH]] | MVIS US Listed Semiconductor 25 | $75B | 0.35% | +17.3% | +24.6% |
+| [[VGT]] | MSCI US IMI Information Technology 25/50 | $171B | 0.09% | +9.2% | +11.5% |
+| [[XLK]] | Technology Select Sector Index | $124B | 0.08% | +8.6% | +11.7% |
+| [[VTI]] | CRSP US Total Market | $633B | 0.03% | +6.2% | +7.5% |
+| [[IVV]] | S&P 500 | $888B | 0.03% | +6.0% | +7.4% |
+| [[VOO]] | S&P 500 | $939B | 0.03% | +6.0% | +7.4% |
+| [[SPY]] | S&P 500 | $781B | 0.0945% | +5.9% | +7.3% |
+| [[QQQ]] | Nasdaq-100 | $490B | 0.18% | +3.5% | +4.6% |
+| [[VUG]] | CRSP US Large Cap Growth | $198B | 0.04% | -2.4% | -1.7% |
 
-*Returns as of the Nov 24, 2026 close (the latest posted), which includes Tuesday's chip pullback ([[SMH]] and [[SOXX]] fell roughly 7-8%) but not Nov 25's session, when stocks recovered most of a steep morning drop (S&P 500 -0.25%, Nasdaq -0.62%). Assets come from fund data that can lag by weeks. Returns include reinvested dividends. Past returns don't predict future ones.*
+*Returns as of the Nov 25, 2026 close, the latest session: U.S. markets were closed Nov 26 for Thanksgiving and close early on Nov 27. Assets come from fund data that can lag by weeks. Returns include reinvested dividends. Past returns don't predict future ones.*
 
 ## Stocks held by the most of your ETFs
 
@@ -36,6 +36,7 @@ Your ETF and stock research vault. Open **Graph view** (left sidebar, or Ctrl/Cm
 
 ## Market scans
 
+- [[2026-11-26 Market Scan]]
 - [[2026-11-25 Market Scan]]
 - [[2026-11-24 Market Scan]]
 - [[2026-11-23 Market Scan]]

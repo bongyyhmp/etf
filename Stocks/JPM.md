@@ -4,7 +4,7 @@ ticker: JPM
 company: JPMorgan Chase
 sector: Financials
 held_by: [VTV]
-updated: 2026-11-25
+updated: 2026-11-26
 tags: [stock]
 ---
 
@@ -18,7 +18,7 @@ The largest US bank: consumer banking, credit cards, investment banking and asse
 
 | ETF | Weight |
 |---|---|
-| [[VTV]] | 3.0% |
+| [[VTV]] | 2.9% |
 
 ## Recent news
 

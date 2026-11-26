@@ -9,3 +9,4 @@ tags: [sector]
 
 - [[BRK-B]] — Berkshire Hathaway
 - [[JPM]] — JPMorgan Chase
+- [[V]] — Visa

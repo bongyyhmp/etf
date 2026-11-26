@@ -4,7 +4,7 @@ ticker: JNJ
 company: Johnson & Johnson
 sector: Healthcare
 held_by: [VTV]
-updated: 2026-11-25
+updated: 2026-11-26
 tags: [stock]
 ---
 
@@ -18,7 +18,7 @@ Makes prescription drugs and medical devices.
 
 | ETF | Weight |
 |---|---|
-| [[VTV]] | 2.5% |
+| [[VTV]] | 2.4% |
 
 ## Recent news
 

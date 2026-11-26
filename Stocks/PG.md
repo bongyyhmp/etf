@@ -4,7 +4,7 @@ ticker: PG
 company: Procter & Gamble
 sector: Consumer Staples
 held_by: [SCHD, VTV]
-updated: 2026-11-25
+updated: 2026-11-26
 tags: [stock]
 ---
 
@@ -23,6 +23,7 @@ Makes household brands such as Tide, Pampers, Gillette and Crest.
 
 ## Recent news
 
+- **2026-11-25** — P&G announced that CFO Andre Schulten will do a webcast fireside chat at the Morgan Stanley Global Consumer & Retail Conference on Wednesday, Dec 2, at 8:45 a.m. ET (Business Wire via StockTitan). ([source](https://www.stocktitan.net/news/PG/p-g-to-webcast-fireside-chat-from-the-morgan-stanley-global-consumer-1desorjrqvnb.html))
 - **2026-11-25** — BNP Paribas raised its target to $197 from $189 (rating and rationale not given), per Ad-hoc News. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/procter-und-gamble-stock-bnp-paribas-raises-target-to-usd-197/70554303))
 - **2026-11-25** — Shares hit a 52-week high of $173.60 in the morning, per Investing.com, up about 17% over a year, as investors moved into defensive staples during an early AI-led selloff; the piece noted targets of $188 at Wells Fargo but $167 at Piper Sandler (Neutral) and $166 at TD Cowen (Hold), both below the price. No close was found. ([source](https://www.investing.com/news/company-news/procter--gamble-stock-hits-52week-high-at-1736-usd-93CH-5051145), [market](https://thecompanychronicle.com/story/stocks-close-dow-erases-1100-point-loss-nasdaq-sp500-slip-november-25-2026))
 - **2026-11-24** — Shares were quoted at €157.02 in Lang & Schwarz trading late in the European session (Ad-hoc News); no U.S. close was found, though consumer staples were among the day's leaders with the sector ETF up about 1.8% (Investrade). Simply Wall St, citing a last close of $169.60 and about 25x earnings, said its cash-flow model on ~$15.8B of trailing free cash flow suggests the stock could be about 19% undervalued. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/procter-und-gamble-stock-company-lifts-fy2027-sales-view-after-thorne-deal/70550245), [Simply Wall St](https://simplywall.st/stocks/us/household/nyse-pg/procter-gamble/news/procter-gamble-pg-stock-could-be-19-undervalued-as-automatio), [sector](https://investrade.com/market-review-november-24-2026/))
@@ -34,10 +35,9 @@ Makes household brands such as Tide, Pampers, Gillette and Crest.
 - **2026-11-18** — On the eve of Thursday's Investor Day (2:00 p.m. ET, per RTTNews), shares eased about 0.7% to €155.78 in early Lang & Schwarz trading, with investors looking for long-term priorities on growth, brands and value creation; Wells Fargo kept Overweight and raised its target to $188 from $180, now valuing the stock at 25x calendar-2028 earnings and expecting commodity costs to ease modestly into 2028-29 (per Investing.com via Ad-hoc News). No U.S. close was found on a day the Dow fell 1.11%. ([source](https://www.ad-hoc-news.de/boerse/news/vorboerse/procter-und-gamble-aktie-155-78-euro-0-73-prozent-tiefer-vor-investor-day/70529797), [Wells Fargo](https://www.ad-hoc-news.de/boerse/news/corporate-news/procter-und-gamble-stock-slips-1-11-prozent-below-xetra-close/70537163), [market](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html))
 - **2026-11-17** — Raymond James raised its price target to $185 from $180 (a Nov 16 note, per Marketscreener via Ad-hoc News), above the ~$174.57 FactSet mean target; shares were quoted at €157.62 in Lang & Schwarz trading Tuesday, two days before the Nov 19 Investor Day in Cincinnati. No U.S. close was found as the Dow fell 1.64%. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/procter-und-gamble-stock-raymond-james-lifts-target-to-usd-185/70527689), [market](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
 - **2026-11-16** — P&G was the Dow's best performer, rising about 1.9% ($3.22) to close at $173.02, a new 52-week high, on a day the Dow fell 1.4% and the Nasdaq 2.5%, per Investing.com, three days before its Nov 19 Investor Day. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-141-5030993))
-- **2026-11-13** — Shares touched a 52-week high of $170.57 in morning trading, up about 1%, per Investing.com, ahead of the Nov 19 Investor Day; 24/7 Wall St. put the consensus target near $174 and counted 14 Buy or Strong Buy ratings against 11 Holds. ([source](https://ca.investing.com/news/stock-market-news/procter--gamble-stock-hits-52week-high-at-17057-usd-93CH-4957407), [24/7 Wall St.](https://247wallst.com/investing/2026/11/13/procter-gamble-has-raised-its-dividend-for-70-straight-years-wheres-the-price-target-now/))
-
 ## Coming up
 
+- **2026-12-02** — CFO Andre Schulten fireside chat at the Morgan Stanley Global Consumer & Retail Conference, 8:45 a.m. ET (webcast; confirmed by company)
 - **January 2027** — fiscal Q2 2027 earnings (expected, per Trefis; date not yet announced)
 
 ## Bull case / bear case

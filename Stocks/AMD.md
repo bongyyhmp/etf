@@ -3,8 +3,8 @@ type: stock
 ticker: AMD
 company: Advanced Micro Devices
 sector: Technology
-held_by: [SOXX, SMH, XLK, QQQ, VGT, VUG]
-updated: 2026-11-25
+held_by: [SOXX, SMH, XLK, QQQ, VGT]
+updated: 2026-11-26
 tags: [stock]
 ---
 
@@ -18,12 +18,11 @@ Designs CPUs and GPUs for PCs, servers and AI data centers; Nvidia's main AI chi
 
 | ETF | Weight |
 |---|---|
-| [[SOXX]] | 10.3% |
-| [[SMH]] | 5.9% |
-| [[XLK]] | 4.9% |
-| [[QQQ]] | 3.6% |
-| [[VGT]] | 3.3% |
-| [[VUG]] | 2.2% |
+| [[SOXX]] | 9.3% |
+| [[SMH]] | 5.3% |
+| [[XLK]] | 4.5% |
+| [[QQQ]] | 3.4% |
+| [[VGT]] | 3.0% |
 
 ## Recent news
 

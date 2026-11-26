@@ -4,7 +4,7 @@ ticker: ASML
 company: ASML Holding
 sector: Technology
 held_by: [SMH]
-updated: 2026-11-25
+updated: 2026-11-26
 tags: [stock]
 ---
 
@@ -18,10 +18,11 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 
 | ETF | Weight |
 |---|---|
-| [[SMH]] | 4.8% |
+| [[SMH]] | 4.6% |
 
 ## Recent news
 
+- **2026-11-26** — ASML rose 3.2% in Amsterdam to EUR 1,168.20 (AEX +1.9%, ASM International +3.2%, BE Semiconductor +3.0%) after USTR's proposed 15% Section 301 tariff on EU goods listed all chipmaking-equipment codes (heading 8486) as excluded; comments are due Jan. 5 with hearings from Jan. 25. The U.S. shares, last at $1,303.08 Wednesday, did not trade for Thanksgiving. ([source](https://www.techi.com/asml-amsterdam-us-tariff-plan-exempts-chipmaking-machines/))
 - **2026-11-25** — ASML fell 5.79% in Amsterdam to EUR 1,131.60 as the AEX closed 1.30% lower with chip stocks again the main drag; ad-hoc-news cited no company-specific news, while a GuruFocus headline linked a ~6% drop in the U.S. shares to Dutch lawmakers' fight against the proposed U.S. MATCH Act chip-curb bill. ([source](https://www.ad-hoc-news.de/boerse/news/marktberichte/aex-closes-1-30-prozent-lower-as-chip-stocks-retreat/70554585)) ([source](https://www.gurufocus.com/news/9220388/asml-stocks-drop-61-as-dutch-lawmakers-fight-us-chip-curb-bill))
 - **2026-11-24** — ASML fell 4.7% to EUR 1,213.60, per Reuters as cited by ad-hoc-news, giving back part of Monday's rebound as the AEX slipped 1.07% to 1,077.41 with chip names the main drag (BE Semiconductor -8.79%, ASM International -7.97%); TradingKey put the U.S. shares' drop at 3.09%. ([source](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/asml-s-buyback-puts-real-cash-behind-the-hype-while-chip-stocks-catch-their-breath/70550334)) ([source](https://www.ad-hoc-news.de/boerse/news/marktberichte/aex-closes-1-07-prozent-lower-as-chip-stocks-retreat/70550596)) ([source](https://www.tradingkey.com/news/market-movers/262320312-market-movers-asml-20261124))
 - **2026-11-24** — Ad-hoc-news, citing Politico, reported that the Netherlands rejected the approach behind the proposed U.S. MATCH Act, which would extend U.S. chip-export controls beyond U.S. borders and could affect ASML's China equipment sales and servicing. ([source](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/asml-s-buyback-puts-real-cash-behind-the-hype-while-chip-stocks-catch-their-breath/70550334))
@@ -33,13 +34,13 @@ Dutch company that makes the lithography machines needed to manufacture advanced
 - **2026-11-18** — AlphaValue/Baader Europe upgraded ASML to Add from Reduce; no target was given in the free summary. ([source](https://www.marketscreener.com/news/alphavalue-baader-europe-upgrades-asml-to-add-rating-ce785edddb8ff22d))
 - **2026-11-17** — ASML's U.S. shares closed at $1,383.11 and traded up to about $1,428.88 after hours following Nvidia's results. ([source](https://blockchain.news/news/20261118-price-prediction-asml-asml-lifts-guidance-again-as-the))
 - **2026-11-17** — ASML fell 5.34% in Amsterdam to a last trade of EUR 1,236.80 from EUR 1,306.60, per an automated market report that gave no reason for the drop. ([source](https://www.globalbankingandfinance.com/asml-holding-asml-as-falls-2026-11-17/))
-- **2026-11-17** — ASML's U.S. shares were down 2.72% at $1,368.53 by mid-morning; GuruFocus called the effect of Commerce's new chip and compute-access rule second-order for ASML since it targets chips rather than lithography tools, and rated the stock fairly valued versus a GF Value near $1,416. ([source](https://www.tradingview.com/news/gurufocus:5b580d7ad094b:0-asml-stocks-fall-2-72-as-new-us-rule-tightens-the-chip-supply-chain-it-serves/))
 
 ## Coming up
 
+- **2027-01-05** — Comment deadline on USTR's proposed Section 301 tariffs (15% on EU goods, chipmaking tools listed as excluded); hearings start **2027-01-25**
 - **2027-01-27** — Q4 and full-year 2026 results (per company investor calendar)
 
 ## Bull case / bear case
 
-- **Bull:** Analysts (Bernstein Outperform at EUR 2,500; BofA with a Street-high $2,818 target; JPMorgan, Citi and UBS positive; AlphaValue/Baader upgraded to Add; TradingKey's past-month average near $2,204) cite AI-driven EUV demand; ASML says 2027-28 supply won't fully cover demand, customer down payments rose to EUR 9.3B in Q3, 2026 sales guidance was raised to EUR 44-45B, and it bought about EUR 557M of stock in the Nov. 16-20 selloff week.
-- **Bear:** The stock remains volatile and tied to AI-spending sentiment (-9.3% on Nov. 20, +8.9% on Nov. 23, -4.7% on Nov. 24 and -5.8% on Nov. 25 in Amsterdam); GuruFocus rates it about fairly valued, 24/7 Wall St. says its ~24x forward P/E sits above equipment peers, and coverage flags reliance on chipmaker capex, tighter U.S. export rules, the proposed MATCH Act (which Dutch officials and lawmakers have pushed back on) and limits on DUV sales to China (about 20% of revenue).
+- **Bull:** Analysts (Bernstein Outperform at EUR 2,500; BofA with a Street-high $2,818 target; JPMorgan, Citi and UBS positive; AlphaValue/Baader upgraded to Add; TradingKey's past-month average near $2,204) cite AI-driven EUV demand; ASML says 2027-28 supply won't fully cover demand, customer down payments rose to EUR 9.3B in Q3, 2026 sales guidance was raised to EUR 44-45B, it bought about EUR 557M of stock in the Nov. 16-20 selloff week, and USTR's proposed EU tariff excludes chipmaking equipment.
+- **Bear:** The stock remains volatile and tied to AI-spending sentiment (-9.3% on Nov. 20, +8.9% on Nov. 23, -4.7% on Nov. 24, -5.8% on Nov. 25 and +3.2% on Nov. 26 in Amsterdam); GuruFocus rates it about fairly valued, 24/7 Wall St. says its ~24x forward P/E sits above equipment peers, and coverage flags reliance on chipmaker capex, tighter U.S. export rules, the proposed MATCH Act (which Dutch officials and lawmakers have pushed back on) and limits on DUV sales to China (about 20% of revenue).

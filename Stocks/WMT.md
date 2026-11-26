@@ -4,7 +4,7 @@ ticker: WMT
 company: Walmart
 sector: Consumer Staples
 held_by: [QQQ, VTV]
-updated: 2026-11-25
+updated: 2026-11-26
 tags: [stock]
 ---
 
@@ -18,7 +18,7 @@ The world's largest retailer by revenue, with stores, Sam's Club and a growing e
 
 | ETF | Weight |
 |---|---|
-| [[QQQ]] | 3.3% |
+| [[QQQ]] | 3.2% |
 | [[VTV]] | 2.2% |
 
 ## Recent news

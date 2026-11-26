@@ -4,18 +4,18 @@ ticker: SPY
 issuer: State Street SPDR
 aum: $781B
 expense_ratio: 0.0945%
-return_ytd: 6.2
-return_1y: 8.6
-data_as_of: 2026-11-24
+return_ytd: 5.9
+return_1y: 7.3
+data_as_of: 2026-11-25
 tags: [etf]
 ---
 
 # SPY — SPDR S&P 500 ETF Trust
 
-> [!info] Snapshot (as of Nov 24, 2026)
+> [!info] Snapshot (as of Nov 25, 2026)
 > **Tracks:** S&P 500 (the oldest US ETF, launched 1993)  
 > **Issuer:** State Street SPDR · **Assets:** $781B · **Expense ratio:** 0.0945%  
-> **Return:** +6.2% this year · +8.6% over 1 year (dividends reinvested)  
+> **Return:** +5.9% this year · +7.3% over 1 year (dividends reinvested)  
 
 
 This fund tracks the same index as [[VOO]], so its holdings are the same; the weights below are VOO's.
@@ -25,17 +25,17 @@ This fund tracks the same index as [[VOO]], so its holdings are the same; the we
 | # | Stock | Weight |
 |---|---|---|
 | 1 | [[AAPL]] — Apple | 8.5% |
-| 2 | [[MSFT]] — Microsoft | 6.1% |
-| 3 | [[NVDA]] — NVIDIA | 5.1% |
+| 2 | [[MSFT]] — Microsoft | 5.9% |
+| 3 | [[NVDA]] — NVIDIA | 5.9% |
 | 4 | [[GOOGL]] — Alphabet (Google) | 4.7% |
-| 5 | [[AMZN]] — Amazon | 4.0% |
-| 6 | [[AVGO]] — Broadcom | 2.4% |
-| 7 | [[META]] — Meta Platforms | 2.1% |
+| 5 | [[AMZN]] — Amazon | 3.9% |
+| 6 | [[AVGO]] — Broadcom | 2.3% |
+| 7 | [[META]] — Meta Platforms | 2.2% |
 | 8 | [[LLY]] — Eli Lilly | 1.8% |
-| 9 | [[BRK-B]] — Berkshire Hathaway | 1.8% |
-| 10 | [[TSLA]] — Tesla | 1.6% |
+| 9 | [[TSLA]] — Tesla | 1.7% |
+| 10 | [[BRK-B]] — Berkshire Hathaway | 1.7% |
 
-*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 20, 2026 prices.*
+*Holdings from the fund's Jun 30, 2026 SEC filing; weights estimated at Nov 25, 2026 prices.*
 
 ## Sector mix
 

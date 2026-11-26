@@ -4,7 +4,7 @@ ticker: ADI
 company: Analog Devices
 sector: Technology
 held_by: [SMH, SOXX]
-updated: 2026-11-25
+updated: 2026-11-26
 tags: [stock]
 ---
 
@@ -18,11 +18,12 @@ Makes analog, mixed-signal and power chips for industrial, auto and communicatio
 
 | ETF | Weight |
 |---|---|
-| [[SMH]] | 5.4% |
-| [[SOXX]] | 5.0% |
+| [[SMH]] | 4.9% |
+| [[SOXX]] | 4.7% |
 
 ## Recent news
 
+- **2026-11-26** — With U.S. markets shut for Thanksgiving, euro-quoted shares traded at EUR 306.23 on Lang & Schwarz in the afternoon CET. More post-earnings target cuts surfaced: Citigroup to $400 from $460 (Buy maintained, per a GuruFocus headline), and Needham's Quinn Bolton detailed his cut to $400 from $450 (Buy), blaming sector-wide multiple compression rather than a weaker outlook and still seeing room for above-seasonal fiscal 2027 growth from capacity additions, industrial mix and data-center optical and power demand. ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/analog-devices-stock-needham-cuts-target-to-usd-400-keeps-buy/70558765)) ([source](https://rallies.ai/news/analog-devices-citigroup-cuts-target-price-to-400-from-460-4dd57386944c2066)) ([source](https://www.gurufocus.com/news/9220614/adi-maintains-buy-rating-by-citigroup-price-target-lowered-to-400))
 - **2026-11-25** — Analog Devices bounced back while the market sold off early: it was up 1.6% at $318.04 around 10 a.m. ET (Finexus) and TradingKey logged a 4.40% gain, while quote widgets on Investing.com and 24/7 Wall St. later showed about $333.11 (+6.4%, time not stamped); the Philadelphia Semiconductor Index ended down only 0.7% after an 8% early slide (Techi). 24/7 Wall St. called Tuesday's 17.4% fall to $312.95 the stock's worst day since May 1998. ([source](https://api.finexus.net/api/news/earnings/129349/html)) ([source](https://247wallst.com/investing/2026/11/25/analog-devices-stock-just-had-its-worst-day-since-1998/)) ([source](https://www.techi.com/chip-stocks-recover-early-slide-nasdaq-close-november-25/))
 - **2026-11-25** — Analysts cut targets after the report while mostly keeping positive ratings: TD Cowen to $375 from $475 (Buy), citing an in-line revenue guide, an operating-margin shortfall and higher fiscal 2027 capital intensity amid crowded positioning; Wells Fargo to $420 from $500; KeyBanc to $450 from $525 (Overweight); Morgan Stanley to $403 (Overweight); Needham to $400 (Buy); Bernstein to $410; Truist to $323 (Hold). 24/7 Wall St. put the average target near $472 with no Sell ratings. ([source](https://www.investing.com/news/analyst-ratings/analog-devices-stock-price-target-cut-to-375-by-td-cowen-on-margin-miss-93CH-5051041)) ([source](https://247wallst.com/investing/2026/11/25/analog-devices-stock-just-had-its-worst-day-since-1998/))
 - **2026-11-24** — Analog Devices closed down 17.3% at $313.16, the session's biggest loser in 24/7 Wall St.'s tally despite a record quarter; Investing.com called it a sell-the-news reaction after Monday's 10% gain and pre-report target hikes, compounded by chip-sector risk-off (it cited a 0.68 60-day correlation with Nvidia). ([source](https://247wallst.com/cards/every-one-of-the-day-s-five-biggest-losers-fell-double-digit-adi-session-movers-01m87pd82yqkjdw025st1r7gg8)) ([source](https://www.investing.com/news/stock-market-news/why-is-analog-devices-stock-tumbling-today-93CH-5047890))
@@ -34,7 +35,6 @@ Makes analog, mixed-signal and power chips for industrial, auto and communicatio
 - **2026-11-19** — Raymond James kept its Outperform rating and $430 target and raised its estimates ahead of the Nov 24 report, expecting a beat and raised guidance based on customer checks, healthy end markets and exposure beyond data centers; euro-quoted shares were EUR 356.35 on Lang & Schwarz mid-afternoon CET. A U.S. closing figure was not found (the Philadelphia Semiconductor Index closed down 2.41% with 27 of its 30 members lower, per TradingKey). ([source](https://www.ad-hoc-news.de/boerse/news/corporate-news/analog-devices-stock-raymond-james-keeps-outperform-rating/70536748))
 - **2026-11-18** — Shares slipped about 0.5% to roughly $381.85 in regular trading and were flat after hours ahead of the Nov 24 report, per StockMarketWatch (data may be delayed). ([source](https://stockmarketwatch.com/indices/sp500/today))
 - **2026-11-18** — A Trefis comparison with [[TXN]] credited Analog Devices' five-year lead (about 123% total return vs. 80%) to EPS growth of roughly 85% since 2021 and a 4-point wider operating margin, while noting its P/E has risen to about 45x from 36x; both firms posted similar three-year sales growth near 5.5%. ([source](https://www.trefis.com/stock/txn/articles/626258/where-did-texas-instruments-fall-behind-analog-devices/2026-11-18))
-- **2026-11-17** — Shares were roughly flat at about $383.43 in regular trading (StockMarketWatch shows +0.1%, though that does not reconcile with JKN's $385.60 Nov 16 close), then rose about 2.0% after hours following Nvidia's results; StockMarketWatch says its data may be delayed. ([source](https://stockmarketwatch.com/indices/sp500/today))
 
 ## Coming up
 
@@ -45,5 +45,5 @@ Makes analog, mixed-signal and power chips for industrial, auto and communicatio
 
 ## Bull case / bear case
 
-- **Bull:** Fiscal Q4 brought record revenue ($4.37B, +42%) and adjusted EPS ($4.06, +80%), with data-center revenue more than doubling for a second quarter and fiscal 2026 free cash flow of $5.5B; even after post-report cuts, most analysts stay positive (Cantor $575, KeyBanc $450, Wells Fargo $420, Bernstein $410, Morgan Stanley $403, Needham $400, TD Cowen $375; average near $472 per 24/7 Wall St.), TD Cowen sees AI-related revenue above $3.3B with non-AI sales still below trend, and value buyers lifted the stock on Nov. 25 after its worst day since 1998.
+- **Bull:** Fiscal Q4 brought record revenue ($4.37B, +42%) and adjusted EPS ($4.06, +80%), with data-center revenue more than doubling for a second quarter and fiscal 2026 free cash flow of $5.5B; even after post-report cuts, most analysts stay positive (Cantor $575, KeyBanc $450, Wells Fargo $420, Bernstein $410, Morgan Stanley $403, Citigroup and Needham $400, TD Cowen $375; average near $472 per 24/7 Wall St.), TD Cowen sees AI-related revenue above $3.3B with non-AI sales still below trend, and value buyers lifted the stock on Nov. 25 after its worst day since 1998.
 - **Bear:** The fiscal Q1 guide ($4.4B, $3.82 adjusted EPS) is roughly flat sequentially, gross margin is guided down to about 74% and fiscal 2027 capex is set to rise to $1.6B-$1.9B; TD Cowen flagged an operating-margin shortfall and crowded positioning, Truist (Hold, $323) and others trimmed targets on multiple compression, and coverage had flagged a rich 42x-48x earnings multiple and high correlation with Nvidia, which showed in the 17.4% one-day drop on Nov. 24.

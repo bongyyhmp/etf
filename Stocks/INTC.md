@@ -4,7 +4,7 @@ ticker: INTC
 company: Intel
 sector: Technology
 held_by: [XLK]
-updated: 2026-11-25
+updated: 2026-11-26
 tags: [stock]
 ---
 

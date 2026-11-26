@@ -3,8 +3,8 @@ type: stock
 ticker: KLAC
 company: KLA
 sector: Technology
-held_by: [SMH]
-updated: 2026-11-25
+held_by: [SMH, SOXX]
+updated: 2026-11-26
 tags: [stock]
 ---
 
@@ -19,6 +19,7 @@ Sells inspection and measurement equipment that chipmakers use to find defects a
 | ETF | Weight |
 |---|---|
 | [[SMH]] | 4.5% |
+| [[SOXX]] | 4.1% |
 
 ## Recent news
 
