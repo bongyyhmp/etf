@@ -4,7 +4,7 @@ ticker: MPWR
 company: Monolithic Power Systems
 sector: Technology
 held_by: [SOXX]
-updated: 2026-11-26
+updated: 2026-11-27
 tags: [stock]
 ---
 
@@ -22,6 +22,7 @@ Designs power-management chips and modules that regulate electricity in AI serve
 
 ## Recent news
 
+- **2026-11-27** — Shares rose 6.56% to $1,273.00 shortly after the 1 p.m. ET early close, per Finexus, as AI-infrastructure chips rebounded; Finexus said Truist lifted its target to $1,906 (rating not stated) and put consensus 2027 revenue near $6.4B, and a MarketBeat filing alert showed Toronto Dominion Bank bought 36,030 shares (a 13F-based disclosure). ([source](https://api.finexus.net/api/news/earnings/130152/html)) ([source](https://www.marketbeat.com/instant-alerts/filing-36030-monolithic-power-systems-inc-mpwr-shares-bought-by-toronto-dominion-bank-2026-11-27/))
 - **2026-11-25** — JKN reported shares down 3.21% ($38.24) at $1,151.87 with no company-specific catalyst, citing sector rotation and profit-taking plus competition in 800-volt AI power systems; its figure may predate the late-session chip recovery (the SOX ended down only about 0.7%). ([source](https://news.jkn.co.kr/editions/english/post/1123145))
 - **2026-11-24** — Shares fell about 10.8%, among the S&P 500's steepest decliners in MarketScreener's ranking (Quantcha had them near $1,204.83 versus a $1,333.88 prior close), with no company-specific news, as chip stocks gave back much of Monday's rally: Reuters had the Philadelphia Semiconductor Index down about 9.2% intraday, and analog peer [[ADI]] sank 17.4% after its results (Investing.com). ([source](https://www.marketscreener.com/news/wall-street-set-for-lower-open-as-nvidia-fueled-ai-rally-fades-ce7851dbdb8fff26), [Quantcha](https://ideas.quantcha.com/2026/11/24/big-loser-alert-trading-todays-9-7-move-in-monolithic-power-systems-mpwr), [peers](https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-086-5049102))
 - **2026-11-23** — Shares jumped about 16.8%, one of the S&P 500's biggest gainers in MT Newswires' closing rankings, as chip stocks rebounded after Nvidia's board reinstated Jensen Huang as CEO and the Nasdaq rose 6.5%; no company-specific catalyst was cited. ([source](https://www.marketscreener.com/news/us-equity-indexes-soar-as-jensen-huang-s-return-to-nvidia-as-ceo-boosts-ai-trade-ce7851dadc80f62d), [market](https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476))
@@ -37,5 +38,5 @@ Designs power-management chips and modules that regulate electricity in AI serve
 
 ## Bull case / bear case
 
-- **Bull:** Trefis cites 63% revenue growth to its first $1B-plus quarter, a slightly rising gross margin guided up again for Q4, strong enterprise data-center demand expected to carry into 2027, first orders for 48-volt automotive power products, more than $450M of quarterly buybacks, and capacity for more than $6B of annual revenue, rising to $8B by the second half of 2027.
-- **Bear:** Trefis notes a valuation near 20x trailing sales versus about 3x for the S&P 500, and the stock's tie to AI data-center sentiment shows in sharp swings: about -12% on Nov 20, +17% on Nov 23 on Nvidia's CEO news rather than company news, -11% on Nov 24 and about -3% on Nov 25 per JKN, which also flags competition in 800-volt AI power, ETF outflows, insider sales and China exposure; the stock remains well below its $1,689.89 June closing high.
+- **Bull:** Trefis cites 63% revenue growth to its first $1B-plus quarter, a slightly rising gross margin guided up again for Q4, strong enterprise data-center demand expected to carry into 2027, first orders for 48-volt automotive power products, more than $450M of quarterly buybacks, and capacity for more than $6B of annual revenue, rising to $8B by the second half of 2027; Finexus reported a Truist target of $1,906 and consensus 2027 revenue near $6.4B.
+- **Bear:** Trefis notes a valuation near 20x trailing sales versus about 3x for the S&P 500, and the stock's tie to AI data-center sentiment shows in sharp swings: about -12% on Nov 20, +17% on Nov 23 on Nvidia's CEO news rather than company news, -11% on Nov 24, about -3% on Nov 25 per JKN and +6.6% on Nov 27 (Finexus); which also flags competition in 800-volt AI power, ETF outflows, insider sales and China exposure; the stock remains well below its $1,689.89 June closing high.

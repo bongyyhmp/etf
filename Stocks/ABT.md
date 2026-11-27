@@ -4,7 +4,7 @@ ticker: ABT
 company: Abbott Laboratories
 sector: Healthcare
 held_by: [SCHD]
-updated: 2026-11-26
+updated: 2026-11-27
 tags: [stock]
 ---
 

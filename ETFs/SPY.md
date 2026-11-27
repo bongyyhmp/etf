@@ -50,6 +50,7 @@ This fund tracks the same index as [[VOO]], so its holdings are the same; the we
 
 ## News log
 
+- **2026-11-27** — Gained about 1.6% to roughly $728 in the shortened Black Friday session as the S&P 500 rose 1.60% to 7,297.49, rounding off a week up about 5.6%. ([source](https://theglassdesk.substack.com/p/weekly-market-review-nov-27-2026), [index](https://finance.biggo.com/news/94218d89-8592-4b2f-a61c-1e75d032506d))
 - **2026-11-25** — Saw an estimated outflow of about $2.4B in the week ended Nov 23, per IG's estimates from changes in shares outstanding. ([source](https://www.ig.com/en-ch/news-and-trade-ideas/tech-sell-off-investor-sentiment-vix-etf-flows-261125))
 - **2026-11-20** — Fell about 3.7% as the S&P 500 slid into correction territory in the AI-stock selloff, cutting the fund's year-to-date total return to about 1.9% from 5.8% a day earlier. ([source](https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-ends-worst-week-013025833.html))
 - **2026-11-13** — Had the largest single-fund outflow of the week ended Nov 6, about $7.0B, while rival S&P 500 funds VOO (+$17.6B) and IVV (+$7.0B) took in money, per TD Securities data cited by InvestmentNews. ([source](https://www.investmentnews.com/etfs/etf-flows-surge-54bn-as-stocks-sell-off-and-markets-go-247/268997))

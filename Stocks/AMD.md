@@ -4,7 +4,7 @@ ticker: AMD
 company: Advanced Micro Devices
 sector: Technology
 held_by: [SOXX, SMH, XLK, QQQ, VGT]
-updated: 2026-11-26
+updated: 2026-11-27
 tags: [stock]
 ---
 
@@ -26,6 +26,7 @@ Designs CPUs and GPUs for PCs, servers and AI data centers; Nvidia's main AI chi
 
 ## Recent news
 
+- **2026-11-27** — AMD rose 4.7% per Anadolu (TokenPost had it up 3.1% at $418.68 around midday) as chip stocks rebounded in the shortened session, with no company-specific catalyst reported; TokenPost noted the stock is still about 30% below its Nov. 12 high of $594. ([source](https://www.aa.com.tr/en/economy/us-tech-stocks-rebound-as-chipmakers-recover-from-sharp-selloff/4140642)) ([source](https://www.tokenpost.com/news/investing/63814))
 - **2026-11-25** — AMD closed down 1.8% at $406.03, recovering most of an intraday drop of about 10.4% as chip stocks pared a steep early selloff tied to hot PCE inflation and reported U.S. tariff plans; no AMD-specific news was reported (JKN's mid-session tally had it down 6.4% near $387). ([source](https://www.techi.com/chip-stocks-recover-early-slide-nasdaq-close-november-25/)) ([source](https://news.jkn.co.kr/editions/english/post/1123081))
 - **2026-11-24** — AMD closed down 8.86% (about $411.42 per StockStory), among the steepest decliners as chip stocks unwound Monday's rally. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026)) ([source](https://stockstory.org/us/stocks/nasdaq/amat/news/why-up-down/applied-materials-amd-intel-kla-corporation-and-lam-research-shares-plummet-what-you-need-to-know))
 - **2026-11-24** — After Monday's close AMD registered about 337M shares for resale (roughly 20.5% of the company), including up to 160M each under warrants held by OpenAI and Meta that vest with GPU purchases and share-price hurdles up to $600; AMD sells nothing and gets no proceeds, and the piece called it dilution known since the October 2025 OpenAI deal. TradingKey also flagged shareholder law-firm investigations following the Hunterbrook report and a past-month average target near $632. ([source](https://finance.yahoo.com/markets/stocks/articles/amd-sinks-10-nvidia-down-151957217.html)) ([source](https://www.tradingkey.com/news/market-movers/262320314-market-movers-amd-20261124))
@@ -37,7 +38,6 @@ Designs CPUs and GPUs for PCs, servers and AI data centers; Nvidia's main AI chi
 - **2026-11-19** — AMD rejected the report, telling Bloomberg it misrepresents the business and that the company follows U.S. export-control rules; Hunterbrook acknowledged its records don't directly establish an export violation, and its parent fund's short position is a conflict of interest. ([source](https://finance.yahoo.com/markets/stocks/articles/first-nvidia-now-amd-short-201502635.html))
 - **2026-11-19** — TradingKey said Hunterbrook also questioned AMD's customer financing (lease guarantees, backstops for unsold cloud capacity and equity stakes), arguing these commitments are larger relative to revenue than Nvidia's while AMD holds less cash; Anthropic, in which AMD is a placement buyer, closed its first day at $97.17 vs. its $83 IPO price. ([source](https://www.tradingkey.com/analysis/stocks/us-stocks/262313953-us-stock-nasdaq-falls-anthropic-ipo-debut-amd-short-report-tradingkey))
 - **2026-11-18** — AMD rose 5.3% to $530.14, among the biggest gainers in AI hardware as suppliers of Nvidia alternatives and networking gear outperformed after Nvidia's report, while Nvidia itself fell 2.9%. ([source](https://www.techi.com/nvidia-stock-falls-day-after-earnings-ten-report-record/))
-- **2026-11-18** — Futurum analyst Rolf Bulk said AMD and Broadcom could catch up materially while Nvidia adjusts to Jensen Huang's departure, as cloud providers look for cheaper alternatives to its GPUs. ([source](https://www.tradingview.com/news/benzinga:d8d1b376d094b:0-why-is-broadcom-stock-gaining-wednesday/))
 
 ## Coming up
 

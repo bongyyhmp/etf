@@ -19,7 +19,7 @@ Your ETF and stock research vault. Open **Graph view** (left sidebar, or Ctrl/Cm
 | [[QQQ]] | Nasdaq-100 | $490B | 0.18% | +3.5% | +4.6% |
 | [[VUG]] | CRSP US Large Cap Growth | $198B | 0.04% | -2.4% | -1.7% |
 
-*Returns as of the Nov 25, 2026 close, the latest session: U.S. markets were closed Nov 26 for Thanksgiving and close early on Nov 27. Assets come from fund data that can lag by weeks. Returns include reinvested dividends. Past returns don't predict future ones.*
+*Returns as of the Nov 25, 2026 close, the latest the fund data sources show; Friday Nov 27's half-day rally (S&P 500 +1.6%, Nasdaq +2.3%, chip index +4.7%) is not yet reflected. Assets come from fund data that can lag by weeks. Returns include reinvested dividends. Past returns don't predict future ones.*
 
 ## Stocks held by the most of your ETFs
 
@@ -36,6 +36,7 @@ Your ETF and stock research vault. Open **Graph view** (left sidebar, or Ctrl/Cm
 
 ## Market scans
 
+- [[2026-11-27 Market Scan]]
 - [[2026-11-26 Market Scan]]
 - [[2026-11-25 Market Scan]]
 - [[2026-11-24 Market Scan]]

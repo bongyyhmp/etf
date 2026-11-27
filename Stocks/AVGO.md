@@ -4,7 +4,7 @@ ticker: AVGO
 company: Broadcom
 sector: Technology
 held_by: [SOXX, SMH, XLK, VGT, VUG, IVV, SPY, VOO, VTI]
-updated: 2026-11-26
+updated: 2026-11-27
 tags: [stock]
 ---
 
@@ -30,6 +30,7 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 
 ## Recent news
 
+- **2026-11-27** — Broadcom rose about 3% in the shortened session (Anadolu put the gain at 3.1%; it was at $309.44, up 2.85%, mid-morning) as chip stocks rebounded and the Philadelphia chip index gained 4.69%; no company-specific news was reported. ([source](https://www.aa.com.tr/en/economy/us-tech-stocks-rebound-as-chipmakers-recover-from-sharp-selloff/4140642)) ([source](https://www.tradingkey.com/analysis/stocks/us-stocks/262325775-nasdaq-leads-black-friday-rally-dow-posts-best-week-since-2022-tradingkey))
 - **2026-11-25** — Broadcom closed nearly flat (-0.1%) at $300.86 after sliding as much as 7.7% intraday, as chip stocks recovered most of an early selloff on hot PCE inflation and reported tariff plans; JKN's mid-session tally had it down 4.6% near $287 and found no company-specific catalyst. ([source](https://www.techi.com/chip-stocks-recover-early-slide-nasdaq-close-november-25/)) ([source](https://news.jkn.co.kr/editions/english/post/1123112))
 - **2026-11-24** — Broadcom finished down 3.98% in Stock Titan's closing tally as AI chip stocks retreated; GuruFocus, which quoted it at $301.08 midmorning, said Ming-Chi Kuo's unconfirmed report of a possible ~20% cut in Google's 2027 TPU 8i orders still clouds the outlook, while putting its GF Value near $458. ([source](https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026)) ([source](https://www.tradingview.com/news/gurufocus:c5ba9cb4f094b:0-broadcom-stocks-fall-3-98-as-google-tpu-order-report-clouds-ai-outlook/))
 - **2026-11-23** — Broadcom closed up 3.00%, per the Seoul Economic Daily's tally, a far smaller bounce than the ~14% gain in the Philadelphia chip index after Jensen Huang returned to Nvidia; it had opened at $320.86 and touched $324.46 before fading, per FinanceFeeds. ([source](https://en.sedaily.com/world/2026/11/24/nvidia-soars-315-percent-on-jensen-huangs-return-sk-hynix)) ([source](https://financefeeds.com/broadcom-avgo-stock-rebounds-2-as-nvidia-rally-eases-google-tpu-selloff/))
@@ -41,7 +42,6 @@ Makes networking and custom AI chips for data centers, plus enterprise software 
 - **2026-11-18** — Futurum analyst Rolf Bulk said Broadcom, as a custom AI-chip supplier, and AMD could catch up materially during Nvidia's leadership transition; interim Nvidia CEO Colette Kress rejected the view that hyperscaler chips are eroding Nvidia's position. ([source](https://www.tradingview.com/news/benzinga:d8d1b376d094b:0-why-is-broadcom-stock-gaining-wednesday/))
 - **2026-11-18** — Anthropic priced its IPO at $83 a share, above the $70-78 range, with Nasdaq trading as ANT expected Thursday, per a Reuters source; Broadcom has a $1B allotment in the concurrent private placement. ([source](https://www.marketscreener.com/news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-ce785edddc80f624))
 - **2026-11-17** — Broadcom rose 2.46% to $341.60 per Investing.com's closing quotes, gaining while the S&P 500 fell about 1% and the Dow 1.6%. ([source](https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-5034091))
-- **2026-11-17** — Benzinga tied the gain to investors favoring alternatives to Nvidia amid its leadership uncertainty, quoting a Manulife strategist on openings for other chipmakers; it put consensus at Buy with an average target near $508 and Dec 9 estimates at about $34.89B revenue and $3.81 EPS. ([source](https://www.tradingview.com/news/benzinga:eec55a403094b:0-broadcom-stock-is-up-tuesday-ai-chip-diversification-dec-9-earnings-analyst-targets/))
 
 ## Coming up
 
